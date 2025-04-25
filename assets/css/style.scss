@@ -4,7 +4,7 @@
   max-width: 1200px;
 }
 
-/* Target the outer section container */
+/* Target the outer section container and force override */
 section#main_content.inner {
-  max-width: 1200px;
+  max-width: 1200px !important;
 }
