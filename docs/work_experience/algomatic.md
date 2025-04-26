@@ -1,8 +1,8 @@
 ---
-title: Algomatic Inc.
-parent: Experience
-nav_order: 6
 layout: default
+title: Algomatic
+parent: Work Experience
+nav_order: 6
 ---
 
 # Algomatic Inc.

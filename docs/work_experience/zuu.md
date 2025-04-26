@@ -1,8 +1,8 @@
 ---
-title: ZUU Co., Ltd.
-parent: Experience
-nav_order: 8
 layout: default
+title: ZUU
+parent: Work Experience
+nav_order: 8
 ---
 
 # ZUU Co., Ltd.

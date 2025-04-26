@@ -1,9 +1,8 @@
 ---
-title: enechain Corporation
-parent: Work Experience
-grand_parent: Work Experience
-nav_order: 4
 layout: default
+title: Enechain
+parent: Work Experience
+nav_order: 4
 ---
 
 # enechain Corporation

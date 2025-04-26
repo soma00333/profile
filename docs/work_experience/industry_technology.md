@@ -2,7 +2,6 @@
 layout: default
 title: Industry Technology
 parent: Work Experience
-grand_parent: Work Experience
 nav_order: 5
 ---
 
