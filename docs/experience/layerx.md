@@ -7,11 +7,6 @@ layout: default
 
 # LayerX Inc.
 
-- Title: Site Reliability Engineer
-- Start: April 1, 2024
-- End: September 30, 2024
-- Type: Freelance
-
 ## Company
 
 | Key         | Value                                                                     |
@@ -36,7 +31,17 @@ layout: default
 
 ## Projects
 
-- LX1. Developed an event-driven notification system within a closed network, which enabled secure and scalable workflow notifications while ensuring compliance with high-security standards 
+| Key       | Value                                                                              |
+| --------- | ---------------------------------------------------------------------------------- |
+| Key       | LX1                                                                                |
+| Summary   | Developed an event-driven notification system within a closed network              |
+| Problem   | Workflow Visibility Issue: Users couldn't see their workflow status                 |
+| Mission   | Develop a notification system that informs users about workflow execution status   |
+| Action    | Developed the notification system using an event-driven architecture               |
+| Challenge | High-Security Requirement: Deployment within a closed network with strict traffic |
+| Overcome  | Explicit Network Design (inbound/outbound rules), Strict Firewall Setting          |
+| Result    | Enabled secure and scalable notifications ensuring compliance with high-security |
+| Skill     | Network Management                                                                 |
 
 ## Technology
 

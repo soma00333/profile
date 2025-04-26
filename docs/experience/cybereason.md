@@ -7,11 +7,6 @@ layout: default
 
 # Cybereason Inc.
 
-- Title: Site Reliability Engineer / Software Engineer
-- Start: October 1, 2024
-- End: 
-- Type: Permanent
-
 ## Company
 
 | Key         | Value                                                                                                             |
@@ -47,8 +42,29 @@ layout: default
 
 ## Projects
 
-- CR1. Designed and developed custom metrics and improved observability across 3k servers, which enhanced troubleshooting efficiency and reduced MTTR by 50% for enterprise customers
-- CR2. Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads, which successfully resolved critical availability issues, enhancing system reliability for the enterprise customer with 100k employees 
+| Key       | Value                                                                                     |
+| --------- | ----------------------------------------------------------------------------------------- |
+| Key       | CR1                                                                                       |
+| Summary   | Designed and developed custom metrics and improved observability across 3k servers          |
+| Problem   | Complex Troubleshooting, High MTTR due to insufficient insights                           |
+| Mission   | Improve observability, streamline debugging, and reduce MTTR                              |
+| Action    | Developed custom metrics (API Latency/Error, ES Throughput, MongoDB Query Perf), Improved Dashboards |
+| Challenge | Designing meaningful custom metrics                                                       |
+| Overcome  | Fostered cross-functional communication                                                     |
+| Result    | Enhanced troubleshooting efficiency and reduced MTTR by 50% for enterprise customers    |
+| Skill     | Observability / Monitoring                                                                |
+
+| Key       | Value                                                                                     |
+| --------- | ----------------------------------------------------------------------------------------- |
+| Key       | CR2                                                                                       |
+| Summary   | Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads  |
+| Problem   | UI server crash for large enterprise customer, Root cause unknown, Insufficient monitoring |
+| Mission   | Identify performance bottleneck and ensure system stability                               |
+| Action    | Root Cause Analysis (dumps), Found legacy API blocking threads, Migrated to efficient v2 API |
+| Challenge | Fetching dumps before automated restart                                                   |
+| Overcome  | Added automated pipeline to collect dumps before restart                                    |
+| Result    | Resolved critical availability issues, enhancing system reliability for large customer      |
+| Skill     | Incident Response / Troubleshooting                                                       |
 
 ## Technology
 

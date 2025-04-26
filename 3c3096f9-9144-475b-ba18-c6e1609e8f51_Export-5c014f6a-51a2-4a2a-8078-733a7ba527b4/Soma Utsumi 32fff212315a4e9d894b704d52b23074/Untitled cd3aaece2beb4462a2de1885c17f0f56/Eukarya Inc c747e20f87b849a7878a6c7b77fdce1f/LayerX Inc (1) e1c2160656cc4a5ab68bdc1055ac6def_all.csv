@@ -1,0 +1,12 @@
+﻿Key,Value
+Summary,EU1. Developed a processor that compiles user scripts into WebAssembly files and executes them efficiently on a WASM runtime
+Problem,"- Custom Functionality: Users wanted to use their scripts (Python, Go, Rust, etc.) to create custom functions in the workflow engine
+- Extensibility: There was a need to extend the engine for custom script execution"
+Mission,- Extend the workflow engine to support user-defined scripts via WebAssembly execution
+Action,"- Develop the extension: 
+  - Compiler: Compile custom scripts into .wasm
+  - Runtime: Execute scripts on a WebAssembly runtime"
+Challenge,"- Execution Control: If the execution environment was too flexible, unintended executions could occur, posing security risks"
+Overcome,- Used the WebAssembly specification to pass variables within an appropriate scope
+Result,"- Enhanced system extensibility, allowing users to customize workflows efficiently "
+Skill,Feature Development

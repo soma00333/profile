@@ -1,0 +1,15 @@
+﻿Key,Tags,Value
+Summary,,IT3. Tuned indexes and optimized queries to improve database performance
+Problem,,"- Frequent Slow Queries: A core feature suffered from repeated slow queries, impacting user experience.
+- High CPU & Memory Utilization: Slow queries led to CPU and memory spikes, especially during peak hours (09:00 AM)"
+Mission,,"- Diagnose performance bottlenecks
+- Optimize query execution"
+Action,,"- Index Optimization: Implemented appropriate indexes to improve query performance
+- Query Refactoring: 
+  - Eliminated unnecessary joins
+  - Optimized queries to utilize indexes efficiently"
+Challenge,,- Root Cause Analysis: Identifying the exact source of slow queries was challenging due to complex query execution patterns
+Overcome,,"- Query Tracing: Monitored and analyzed tracing to detect anomalies
+- EXPLAIN Analysis: Used EXPLAIN statements to identify queries performing full table scans without indexes"
+Result,,"- Reduced slow query occurrences by 70%, stabilizing peak-hour performance"
+Skill,,Performance Optimization

@@ -1,0 +1,14 @@
+﻿Key,Tags,Value
+Summary,,IT4. Migrated from a modular monolith to a microservices architecture to improve scalability
+Problem,,"- Monolithic Architecture: The system was initially built as a modular monolit
+- Increased Database Load: Traffic to core features grew, leading to increased write load on the database"
+Mission,,- Create independent microservices from the primary service to address the increasing load
+Action,,"- Migrated to microservices step-by-step
+  - Created three microservices:
+    - Work Diary
+    - Attendance Management
+    - Main"
+Challenge,,- Downtime Minimization: We needed to achieve the migration while minimizing downtime
+Overcome,,"- BFF-Based Traffic Management: Added a BFF layer in front of the microservices and gradually switched traffic to each service, enabling a seamless migration"
+Result,,"- Distributed traffic to core features across microservices, reducing the write load on the database"
+Skill,,Migration

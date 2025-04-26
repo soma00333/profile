@@ -1,0 +1,14 @@
+﻿Key,Tags,Value
+Summary,,CR1. Designed and developed custom metrics and improved observability across 3k servers
+Problem,,"- Complex Troubleshooting: The API server had multiple interconnected components, making troubleshooting difficult
+- High MTTR: Existing monitoring lacked sufficient insights, leading to long MTTR"
+Mission,,"- Improve observability, streamline debugging, and reduce MTTR"
+Action,,"- Develop custom metrics:
+  - API: Latency and Error Rate
+  - Elasticsearch: Throughput
+  - MongoDB: Query Performance
+- Dashboard: Improved real-time dashboards to provide actionable insights for engineers"
+Challenge,,- Design: Designing meaningful custom metrics that provide actionable insights
+Overcome,,"- Communication: Fostered cross-functional communication between SRE, DevOps, and Product teams"
+Result,,- Enhanced troubleshooting efficiency and reduced MTTR by 50% for enterprise customers
+Skill,,- Observability / Monitoring

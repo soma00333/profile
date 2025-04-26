@@ -1,0 +1,15 @@
+﻿Key,Value
+Summary,"EU2. Developed a real-time logging system for a workflow engine, leveraging storage and cache efficiently"
+Problem,"- Real-Time Monitoring Need: Users needed to monitor the execution status of the workflow engine in real time
+- Lack of Logging Mechanism: The system lacked an effective mechanism for logging and retrieving workflow status"
+Mission,- Develop a real-time logging system that allows users to check workflow execution status from the UI
+Action,"- Develop the feature
+  - Workflow Engine: Added a publisher to publish logs to Pub/Sub
+  - Subscriber: Created a subscriber to subscribe logs from Pub/Sub and write to a datastore
+  - API: Added a resolver to read logs from the datastore"
+Challenge,- High-Performance Requirement: Users needed to monitor the logs output by the workflow engine in real time
+Overcome,"- Utilized optimized datastore
+  - Cache: Redis for fast log retrieval
+  - Permanent Storage: GCS for long-term log storage"
+Result,"- Provided real-time visibility of worker execution status, enhancing monitoring efficiency"
+Skill,Performance Optimization

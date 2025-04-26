@@ -1,0 +1,14 @@
+﻿Value,Tag
+Go,Backend
+gRPC,Backend
+MySQL,Backend
+PostgreSQL,Backend
+Redis,Backend
+AWS,Infrastructure
+Google Cloud,Infrastructure
+Terraform,Infrastructure
+Datadog,Monitoring
+Prometheus,Monitoring
+Next.js,Frontend
+React,Frontend
+TypeScript,Frontend

@@ -7,11 +7,6 @@ layout: default
 
 # Gunosy Inc.
 
-- Title: Data Engineer
-- Start: April 1, 2018
-- End: June 30, 2019
-- Type: Permanent
-
 ## Company
 
 | Key         | Value                                              |
@@ -36,7 +31,17 @@ layout: default
 
 ## Projects
 
-- GU1. Analyzed data from millions of users and designed A/B testing strategies to improve user retention, which improved new user experience, increasing 7-day user retention by 10% 
+| Key       | Value                                                                    |
+| --------- | ------------------------------------------------------------------------ |
+| Key       | GU1                                                                      |
+| Summary   | Analyzed data from millions of users and designed A/B testing strategies |
+| Problem   | Declining user retention rates                                           |
+| Mission   | Plan and implement strategies to improve user retention rates            |
+| Action    | Focused on new user initial experience, Implemented A/B testing based on ad engagement |
+| Challenge | Sample Size: Needed sufficient new users for A/B testing               |
+| Overcome  | Utilized Digital Marketing for targeted ad distribution                  |
+| Result    | Improved new user experience, increasing 7-day user retention by 10%   |
+| Skill     | Data Engineering                                                         |
 
 ## Technology
 

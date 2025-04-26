@@ -1,0 +1,10 @@
+﻿Key,Tags,Value
+Summary,,LX1. Developed an event-driven notification system within a closed network
+Problem,,- Workflow Visibility Issue: Users couldn’t see their workflow status after triggering it
+Mission,,- Develop a notification system that informs users about workflow execution status
+Action,,- Develop the notification system: Utilized an event-driven architecture
+Challenge,,- High-Security Requirement: The system had to be deployed within a closed network with strict traffic control
+Overcome,,"- Network Design: Explicitly defined all inbound/outbound traffic rules
+- Strict Firewall Setting: Configured a secure firewall policy to control access"
+Result,,- Enabled secure and scalable workflow notifications while ensuring compliance with high-security standards
+Skill,,Network Management

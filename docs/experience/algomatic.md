@@ -7,11 +7,6 @@ layout: default
 
 # Algomatic Inc.
 
-- Title: Software Engineer (Platform)
-- Start: August 1, 2023
-- End: April 30, 2024
-- Type: Freelance
-
 ## Company
 
 | Key         | Value                                                                  |
@@ -36,7 +31,17 @@ layout: default
 
 ## Projects
 
-- AL1. Developed a serverless training pipeline for fine-tuning LLMs, which enabled fine-tuning of LLMs efficiently, optimizing compute resource utilization 
+| Key       | Value                                                                                 |
+| --------- | ------------------------------------------------------------------------------------- |
+| Key       | AL1                                                                                   |
+| Summary   | Developed a serverless training pipeline for fine-tuning LLMs                         |
+| Problem   | Need for a Training Pipeline: A training pipeline was required for fine-tuning LLMs efficiently |
+| Mission   | Develop an efficient training pipeline                                                |
+| Action    | Developed a Training Pipeline: Download from S3, Push to Hugging Face, Track with WandB |
+| Challenge | Cost Management: Managing the costs associated with fine-tuning LLMs                  |
+| Overcome  | Serverless Optimization: Utilized a serverless architecture to reduce costs             |
+| Result    | Enabled fine-tuning of LLMs efficiently, optimizing compute resource utilization    |
+| Skill     | AI/LLM                                                                                |
 
 ## Technology
 

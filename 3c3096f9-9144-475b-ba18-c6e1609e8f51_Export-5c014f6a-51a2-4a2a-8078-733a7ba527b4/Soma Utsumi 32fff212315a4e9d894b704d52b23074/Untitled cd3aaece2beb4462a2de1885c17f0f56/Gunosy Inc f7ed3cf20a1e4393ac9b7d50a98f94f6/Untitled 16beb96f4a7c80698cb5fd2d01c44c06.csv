@@ -1,0 +1,12 @@
+﻿Key,Value
+Summary,GU1. Analyzed data from millions of users and designed A/B testing strategies to improve user retention
+Problem,- Declining User Retention: User retention rates were declining
+Mission,- Plan and implement strategies to improve user retention rates
+Action,"- Communication & Design
+  - Focused on the initial experience of new users
+- A/B Testing Implementation
+  - Changed the initial content for new users based on the ads they engaged with"
+Challenge,"- Sample Size: Targeted new users, requiring a sufficient sample size for A/B testing"
+Overcome,- Utilized Digital Marketing: Conducted targeted ad distribution to ensure a sufficient number of users for A/B testing
+Result,"- Improved new user experience, increasing 7-day user retention by 10%"
+Skill,Data Engineering

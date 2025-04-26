@@ -1,0 +1,3 @@
+# Redshift
+
+Tag: Data Platform

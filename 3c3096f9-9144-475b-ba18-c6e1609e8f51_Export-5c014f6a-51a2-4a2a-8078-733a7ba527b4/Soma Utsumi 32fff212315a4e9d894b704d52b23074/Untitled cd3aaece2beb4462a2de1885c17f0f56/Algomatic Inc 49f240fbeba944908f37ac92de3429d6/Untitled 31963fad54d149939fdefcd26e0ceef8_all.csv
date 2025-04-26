@@ -1,0 +1,12 @@
+﻿Value,Tag
+Django,Backend
+FastAPI,Backend
+GraphQL,Backend
+MongoDB,Backend
+PostgreSQL,Backend
+Python,Backend
+AWS,Infrastructure
+GCP,Infrastructure
+Terraform,Infrastructure
+TypeScript,Frontend
+Vue,Frontend

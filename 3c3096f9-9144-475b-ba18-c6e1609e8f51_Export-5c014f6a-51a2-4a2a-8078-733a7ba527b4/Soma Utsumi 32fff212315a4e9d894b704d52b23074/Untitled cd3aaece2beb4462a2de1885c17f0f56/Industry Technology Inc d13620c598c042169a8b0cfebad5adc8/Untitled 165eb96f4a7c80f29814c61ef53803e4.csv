@@ -1,0 +1,14 @@
+﻿Key,Value
+Summary,IT5. Migrated from MySQL 5.7 to MySQL 8.0 to ensure reliability and maintainability
+Problem,- End of Support Notice: MySQL 5.7 was approaching its end of support
+Mission,- Seamlessly upgrade to MySQL 8.0 while ensuring system stability and performance
+Action,"- Developed a runbook: Documented a step-by-step migration plan.
+- Implemented Blue-Green deployment: Ensured a smooth transition with minimal downtime and a rollback strategy."
+Challenge,"- Incident during migration: Unexpected issues surfaced, impacting user experience"
+Overcome,"- Investigation & Root Cause Analysis:
+  - Users encountered an error dialog on service pages
+  - Root cause: JSON unmarshal error due to a change in column type from UNSIGNED to DOUBLE
+- Temporary Fix: Deployed a hotfix to handle JSON parsing errors
+- Permanent Fix: Reverted JSON column type back to UNSIGNED, resolving compatibility issues"
+Result,- Increased query performance by 20%
+Skill,Incident Response / Migration

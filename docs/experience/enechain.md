@@ -7,11 +7,6 @@ layout: default
 
 # enechain Corporation
 
-- Title: Site Reliability Engineer / Software Engineer (Platform)
-- Start: November 1, 2023
-- End: October 31, 2024
-- Type: Freelance
-
 ## Company
 
 | Key         | Value                                                                                                                                                     |
@@ -47,8 +42,29 @@ layout: default
 
 ## Projects
 
-- EN1. Developed a generator tool for manifests and Terraform configurations for new microservices, which streamlined the deployment process, achieving a 90% reduction in the initial deployment time for new microservices
-- EN2. Developed a system for local development by deploying Telepresence to the Kubernetes cluster, which accelerated local development, achieving a 15% improvement in microservice development speed 
+| Key       | Value                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------- |
+| Key       | EN1                                                                                               |
+| Summary   | Developed a generator tool for manifests and Terraform configurations for new microservices     |
+| Problem   | Manual Configuration was time-consuming and error-prone                                         |
+| Mission   | Automate the generation of manifests and Terraform configurations to enhance development efficiency |
+| Action    | Developed a command-line tool using Go and a template system                                      |
+| Challenge | Version Management: Incorrect templates generated with outdated CLI versions                    |
+| Overcome  | CI Integration: Managed main logic within CI to ensure it's always up to date                     |
+| Result    | Streamlined deployment, achieving a 90% reduction in initial deployment time for new microservices |
+| Skill     | Tool Development                                                                                  |
+
+| Key       | Value                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------- |
+| Key       | EN2                                                                                               |
+| Summary   | Developed a system for local development by deploying Telepresence to the Kubernetes cluster    |
+| Problem   | Dependency on other microservices, Complex local environment setup                                |
+| Mission   | Enable efficient local development without depending on other microservices                       |
+| Action    | Deployed Telepresence, Developed a Local Development System using Devcontainer                  |
+| Challenge | High-Security Requirement: Official Helm charts didn't support modifying security configurations  |
+| Overcome  | Customizing Helm Charts (Kustomize), Manual Security Enhancements (PSA, NetworkPolicy, SecurityContext) |
+| Result    | Accelerated local development, achieving a 15% improvement in microservice development speed      |
+| Skill     | Kubernetes / Security                                                                             |
 
 ## Technology
 

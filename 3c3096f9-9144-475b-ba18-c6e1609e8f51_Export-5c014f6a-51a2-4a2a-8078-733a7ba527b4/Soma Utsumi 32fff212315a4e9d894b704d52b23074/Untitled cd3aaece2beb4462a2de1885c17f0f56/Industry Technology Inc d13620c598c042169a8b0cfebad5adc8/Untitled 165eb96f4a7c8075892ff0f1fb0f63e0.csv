@@ -1,0 +1,14 @@
+﻿Key,Value
+Summary,"IT2. Developed a group chat service and notification system enabling the exchange of photos, videos, and texts"
+Problem,"- User Requirement: Users wanted a group chat service and notification system for exchanging photos, videos, and texts
+- Lack of Existing Features: But the system did not have these capabilities"
+Mission,- Develop a group chat service and notification system
+Action,"- Develop the group chat feature
+  - Implemented S3 + Signed URL for media sharing
+  - Integrated CDN for optimized content delivery
+- Develop a notification system
+  - Built an event-driven architecture for efficient notifications"
+Challenge,- Tight Schedule: There was not enough time to build a WebSocket server
+Overcome,- Polling-Based Approach: Extended the existing API using polling instead of WebSocket
+Result,- Improved user engagement and productivity by 25% with a seamless chat and notification experience
+Skill,Feature Development

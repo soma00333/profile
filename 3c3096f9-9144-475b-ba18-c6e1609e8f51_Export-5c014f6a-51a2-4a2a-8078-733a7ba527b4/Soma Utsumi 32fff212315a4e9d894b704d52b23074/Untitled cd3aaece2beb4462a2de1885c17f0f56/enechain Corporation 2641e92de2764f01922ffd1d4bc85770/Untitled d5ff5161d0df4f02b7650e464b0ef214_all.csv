@@ -1,0 +1,19 @@
+﻿Value,Tag
+Argo Workflows,Backend
+Go,Backend
+GraphQL,Backend
+gRPC,Backend
+Node.js,Backend
+PostgreSQL,Backend
+Redis,Backend
+TypeScript,"Backend, Frontend"
+ArgoCD,Infrastructure
+AWS,Infrastructure
+Google Cloud,Infrastructure
+Kubernetes,Infrastructure
+Terraform,Infrastructure
+BigQuery,Data Platform
+Kubeflow,Data Platform
+Datadog,Monitoring
+Prometheus,Monitoring
+React,Frontend
