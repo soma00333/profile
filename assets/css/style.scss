@@ -1,18 +1,6 @@
 @import "{{ site.theme }}";
 
-/* Target the outer section container and force override */
-section#main_content.inner {
-  max-width: 1200px !important;
+body {
+  max-width: 90%;
+  margin: 0 auto;
 }
-
-/* Target the inner content container as well and force override */
-.main-content.inner {
-  max-width: 1200px !important;
-}
-
-/* .wrapper rule might be redundant now, commenting out */
-/*
-.wrapper {
-  max-width: 1200px;
-}
-*/
