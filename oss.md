@@ -1,6 +1,7 @@
 ---
 title: OSS Contributions
 nav_order: 5
+layout: default
 ---
 
 # OSS Contributions

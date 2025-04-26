@@ -1,6 +1,7 @@
 ---
 title: Activity
 nav_order: 13
+layout: default
 ---
 
 # Activity

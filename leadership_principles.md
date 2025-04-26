@@ -1,6 +1,7 @@
 ---
 title: Leadership Principles
 nav_order: 12
+layout: default
 ---
 
 # Leadership Principles

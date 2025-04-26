@@ -1,6 +1,7 @@
 ---
 title: Certification
 nav_order: 9
+layout: default
 ---
 
 # Certification

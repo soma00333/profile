@@ -2,6 +2,7 @@
 title: Industry Technology Inc.
 parent: Experience
 nav_order: 5
+layout: default
 ---
 
 # Industry Technology Inc.

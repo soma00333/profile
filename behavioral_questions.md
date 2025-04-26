@@ -1,6 +1,7 @@
 ---
 title: Behavioral Questions
 nav_order: 11
+layout: default
 ---
 
 # Behavioral Question

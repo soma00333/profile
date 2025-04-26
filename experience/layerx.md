@@ -2,6 +2,7 @@
 title: LayerX Inc.
 parent: Experience
 nav_order: 3
+layout: default
 ---
 
 # LayerX Inc.

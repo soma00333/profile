@@ -2,6 +2,7 @@
 title: Eukarya Inc.
 parent: Experience
 nav_order: 2
+layout: default
 ---
 
 # Eukarya Inc.

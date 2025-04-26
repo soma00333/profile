@@ -2,6 +2,7 @@
 title: Cybereason Inc.
 parent: Experience
 nav_order: 1
+layout: default
 ---
 
 # Cybereason Inc.

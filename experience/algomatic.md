@@ -2,6 +2,7 @@
 title: Algomatic Inc.
 parent: Experience
 nav_order: 6
+layout: default
 ---
 
 # Algomatic Inc.

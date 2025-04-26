@@ -1,6 +1,7 @@
 ---
 title: Course
 nav_order: 10
+layout: default
 ---
 
 # Course

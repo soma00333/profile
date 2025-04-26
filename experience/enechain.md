@@ -2,6 +2,7 @@
 title: enechain Corporation
 parent: Experience
 nav_order: 4
+layout: default
 ---
 
 # enechain Corporation

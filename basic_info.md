@@ -1,6 +1,7 @@
 ---
 title: Basic Info
 nav_order: 6
+layout: default
 ---
 
 # Basic Info

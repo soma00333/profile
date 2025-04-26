@@ -2,6 +2,7 @@
 title: Gunosy Inc.
 parent: Experience
 nav_order: 7
+layout: default
 ---
 
 # Gunosy Inc.

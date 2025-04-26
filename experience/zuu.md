@@ -2,6 +2,7 @@
 title: ZUU Co., Ltd.
 parent: Experience
 nav_order: 8
+layout: default
 ---
 
 # ZUU Co., Ltd.
