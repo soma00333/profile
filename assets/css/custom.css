@@ -7,3 +7,18 @@
     max-width: 1200px;
   }
 }
+
+@media (min-width: 66.5rem) {
+  .main {
+    max-width: none;
+  }
+
+  .main-content-wrap {
+    max-width: 1200px;
+  }
+
+  .side-bar {
+    width: calc((100% - 66.5rem) / 5 + 16.5rem);
+    min-width: 16.5rem;
+  }
+}
