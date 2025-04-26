@@ -121,5 +121,3 @@ nav_order: 3
 | Terraform                      | Infrastructure |
 | Next.js                        | Frontend       |
 | React                          | Frontend       |
-
-</rewritten_file> 

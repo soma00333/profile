@@ -210,5 +210,3 @@ nav_order: 4
 | Datadog         | Monitoring        |
 | Prometheus      | Monitoring        |
 | React           | Frontend          |
-
-</rewritten_file> 

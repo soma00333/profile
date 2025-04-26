@@ -9,16 +9,75 @@ layout: default
 
 ## Work
 
-| Company                 | Title                                                  | Start           | End                 | Type      |
-| ----------------------- | ------------------------------------------------------ | --------------- | ------------------- | --------- |
-| Cybereason Inc.         | Site Reliability Engineer / Software Engineer          | October 1, 2024 |                     | Permanent |
-| Eukarya Inc.            | Software Engineer (Backend)                          | October 1, 2024 |                     | Freelance |
-| LayerX Inc.             | Site Reliability Engineer                              | April 1, 2024   | September 30, 2024  | Freelance |
-| enechain Corporation    | Site Reliability Engineer / Software Engineer (Platform) | November 1, 2023| October 31, 2024    | Freelance |
-| Industry Technology Inc.| CTO / Software Engineer (Backend)                      | April 1, 2019   | September 30, 2024  | Permanent |
-| Algomatic Inc.          | Software Engineer (Platform)                         | August 1, 2023  | April 30, 2024      | Freelance |
-| Gunosy Inc.             | Data Engineer                                          | April 1, 2018   | June 30, 2019       | Permanent |
-| ZUU Co., Ltd.           | Software Engineer (Backend)                          | January 1, 2018 | March 31, 2018      | Intern    |
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>Title</th>
+      <th>Start</th>
+      <th>End</th>
+      <th>Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cybereason Inc.</td>
+      <td><ul><li>Site Reliability Engineer</li><li>Software Engineer</li></ul></td>
+      <td>October 1, 2024</td>
+      <td></td>
+      <td>Permanent</td>
+    </tr>
+    <tr>
+      <td>Eukarya Inc.</td>
+      <td><ul><li>Software Engineer (Backend)</li></ul></td>
+      <td>October 1, 2024</td>
+      <td></td>
+      <td>Freelance</td>
+    </tr>
+    <tr>
+      <td>LayerX Inc.</td>
+      <td><ul><li>Site Reliability Engineer</li></ul></td>
+      <td>April 1, 2024</td>
+      <td>September 30, 2024</td>
+      <td>Freelance</td>
+    </tr>
+    <tr>
+      <td>enechain Corporation</td>
+      <td><ul><li>Site Reliability Engineer</li><li>Software Engineer (Platform)</li></ul></td>
+      <td>November 1, 2023</td>
+      <td>October 31, 2024</td>
+      <td>Freelance</td>
+    </tr>
+    <tr>
+      <td>Industry Technology Inc.</td>
+      <td><ul><li>CTO</li><li>Software Engineer (Backend)</li></ul></td>
+      <td>April 1, 2019</td>
+      <td>September 30, 2024</td>
+      <td>Permanent</td>
+    </tr>
+    <tr>
+      <td>Algomatic Inc.</td>
+      <td><ul><li>Software Engineer (Platform)</li></ul></td>
+      <td>August 1, 2023</td>
+      <td>April 30, 2024</td>
+      <td>Freelance</td>
+    </tr>
+    <tr>
+      <td>Gunosy Inc.</td>
+      <td><ul><li>Data Engineer</li></ul></td>
+      <td>April 1, 2018</td>
+      <td>June 30, 2019</td>
+      <td>Permanent</td>
+    </tr>
+    <tr>
+      <td>ZUU Co., Ltd.</td>
+      <td><ul><li>Software Engineer (Backend)</li></ul></td>
+      <td>January 1, 2018</td>
+      <td>March 31, 2018</td>
+      <td>Intern</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Project
 
