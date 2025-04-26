@@ -4,3 +4,12 @@ body {
   max-width: 90%;
   margin: 0 auto;
 }
+
+.inner {
+  max-width: 90%;
+  /* body と同じか、任意の幅に調整 */
+  width: auto;
+  /* 固定幅を解除 */
+  margin: 0 auto;
+  /* 中央揃えを維持 */
+}
