@@ -1,10 +1,20 @@
 @media (min-width: 50rem) {
   .main {
     max-width: none;
-    margin-left: 25rem;
+  }
+
+  .side-bar+.main {
+    margin-left: 21.75rem;
   }
 
   .main-content-wrap {
-    max-width: 1200px;
+    max-width: 1100px;
+  }
+}
+
+@media (min-width: 66.5rem) {
+  .side-bar+.main {
+    margin-left: Max(22.75rem,
+        calc((100% - 66.5rem) / 2 + 22.75rem));
   }
 }
