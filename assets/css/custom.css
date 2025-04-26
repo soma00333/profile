@@ -1,0 +1,5 @@
+@media (min-width: 50rem) {
+  .main-content-wrap {
+    max-width: 1000px;
+  }
+}
