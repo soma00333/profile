@@ -1,7 +1,14 @@
-* TOC
-{:toc}
+---
+title: Leadership Principles
+nav_order: 12
+---
 
 # Leadership Principles
+
+[Leadership Principles](leadership_principles.md)
+
+* TOC
+{:toc}
 
 ## 1. Customer Obsession
 

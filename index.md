@@ -1,9 +1,25 @@
 ---
 layout: default
+title: Home
+nav_order: 1
 ---
 
-* TOC
-{:toc}
+# Soma Utsumi - Profile
+
+Welcome to my profile page. Please use the navigation on the left to explore different sections.
+
+*   [About](about.md)
+*   [Experience](experience/index.md)
+*   [Skill](skill.md)
+*   [OSS Contributions](oss.md)
+*   [Basic Info](basic_info.md)
+*   [Contact](contact.md)
+*   [Language](language.md)
+*   [Certification](certification.md)
+*   [Course](course.md)
+*   [Behavioral Questions](behavioral_questions.md)
+*   [Leadership Principles](leadership_principles.md)
+*   [Activity](activity.md)
 
 # Soma Utsumi
 

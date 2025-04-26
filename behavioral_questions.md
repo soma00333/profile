@@ -1,3 +1,12 @@
+---
+title: Behavioral Questions
+nav_order: 11
+---
+
+# Behavioral Question
+
+[Behavioral Questions](behavioral_questions.md)
+
 * TOC
 {:toc}
 
