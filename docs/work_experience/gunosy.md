@@ -67,11 +67,11 @@ nav_order: 7
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>GU1</li></ul></td>
+      <td>GU1</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Analyzed data from millions of users and designed A/B testing strategies</li></ul></td>
+      <td>Analyzed data from millions of users and designed A/B testing strategies</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -79,7 +79,7 @@ nav_order: 7
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Plan and implement strategies to improve user retention rates</li></ul></td>
+      <td>Plan and implement strategies to improve user retention rates</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -87,15 +87,15 @@ nav_order: 7
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>Sample Size: Needed sufficient new users for A/B testing</li></ul></td>
+      <td>Sample Size: Needed sufficient new users for A/B testing</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>Utilized Digital Marketing for targeted ad distribution</li></ul></td>
+      <td>Utilized Digital Marketing for targeted ad distribution</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Improved new user experience, increasing 7-day user retention by 10%</li></ul></td>
+      <td>Improved new user experience, increasing 7-day user retention by 10%</td>
     </tr>
     <tr>
       <td>Skill</td>

@@ -67,11 +67,11 @@ nav_order: 2
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>EU1</li></ul></td>
+      <td>EU1</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Developed a processor that compiles user scripts into WebAssembly files and executes them on a WASM runtime</li></ul></td>
+      <td>Developed a processor that compiles user scripts into WebAssembly files and executes them on a WASM runtime</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -79,7 +79,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Extend the engine to support user scripts via WebAssembly execution</li></ul></td>
+      <td>Extend the engine to support user scripts via WebAssembly execution</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -87,15 +87,15 @@ nav_order: 2
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>Execution Control: Potential security risks with overly flexible execution environment</li></ul></td>
+      <td>Execution Control: Potential security risks with overly flexible execution environment</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>Used WebAssembly specification to pass variables within an appropriate scope</li></ul></td>
+      <td>Used WebAssembly specification to pass variables within an appropriate scope</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Enhanced system extensibility, allowing users to customize workflows efficiently</li></ul></td>
+      <td>Enhanced system extensibility, allowing users to customize workflows efficiently</td>
     </tr>
     <tr>
       <td>Skill</td>
@@ -114,11 +114,11 @@ nav_order: 2
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>EU2</li></ul></td>
+      <td>EU2</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Developed a real-time logging system for a workflow engine, leveraging storage and cache efficiently</li></ul></td>
+      <td>Developed a real-time logging system for a workflow engine, leveraging storage and cache efficiently</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -126,7 +126,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Develop a real-time logging system for UI monitoring</li></ul></td>
+      <td>Develop a real-time logging system for UI monitoring</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -134,15 +134,15 @@ nav_order: 2
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>High-Performance Requirement for real-time monitoring</li></ul></td>
+      <td>High-Performance Requirement for real-time monitoring</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>Utilized optimized datastore (Redis cache, GCS permanent storage)</li></ul></td>
+      <td>Utilized optimized datastore (Redis cache, GCS permanent storage)</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Provided real-time visibility of worker execution status, enhancing monitoring efficiency</li></ul></td>
+      <td>Provided real-time visibility of worker execution status, enhancing monitoring efficiency</td>
     </tr>
     <tr>
       <td>Skill</td>

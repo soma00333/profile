@@ -67,11 +67,11 @@ nav_order: 5
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>IT1</li></ul></td>
+      <td>IT1</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Designed SLI/SLO and developed custom metrics and tracing to enhance system reliability</li></ul></td>
+      <td>Designed SLI/SLO and developed custom metrics and tracing to enhance system reliability</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -79,7 +79,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Improve system reliability to meet expected operational level</li></ul></td>
+      <td>Improve system reliability to meet expected operational level</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -87,15 +87,15 @@ nav_order: 5
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>SLO Tuning: Adjusting threshold properly to avoid stopping releases</li></ul></td>
+      <td>SLO Tuning: Adjusting threshold properly to avoid stopping releases</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>Load Testing & Optimization: Checked SLI during spikes, set appropriate objectives</li></ul></td>
+      <td>Load Testing & Optimization: Checked SLI during spikes, set appropriate objectives</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Strengthened customer trust, securing a major enterprise contract</li></ul></td>
+      <td>Strengthened customer trust, securing a major enterprise contract</td>
     </tr>
     <tr>
       <td>Skill</td>
@@ -114,11 +114,11 @@ nav_order: 5
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>IT2</li></ul></td>
+      <td>IT2</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Developed a group chat service and notification system enabling exchange of photos, videos, texts</li></ul></td>
+      <td>Developed a group chat service and notification system enabling exchange of photos, videos, texts</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -126,7 +126,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Develop group chat service and notification system</li></ul></td>
+      <td>Develop group chat service and notification system</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -134,15 +134,15 @@ nav_order: 5
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>Tight Schedule prevented WebSocket server development</li></ul></td>
+      <td>Tight Schedule prevented WebSocket server development</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>Polling-Based Approach: Extended existing API using polling</li></ul></td>
+      <td>Polling-Based Approach: Extended existing API using polling</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Improved user engagement and productivity by 25%</li></ul></td>
+      <td>Improved user engagement and productivity by 25%</td>
     </tr>
     <tr>
       <td>Skill</td>
@@ -161,11 +161,11 @@ nav_order: 5
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>IT3</li></ul></td>
+      <td>IT3</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Tuned indexes and optimized queries to improve database performance</li></ul></td>
+      <td>Tuned indexes and optimized queries to improve database performance</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -173,7 +173,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Diagnose performance bottlenecks, Optimize query execution</li></ul></td>
+      <td>Diagnose performance bottlenecks, Optimize query execution</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -181,15 +181,15 @@ nav_order: 5
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>Root Cause Analysis: Identifying source of slow queries due to complex execution patterns</li></ul></td>
+      <td>Root Cause Analysis: Identifying source of slow queries due to complex execution patterns</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>Query Tracing for anomaly detection, EXPLAIN Analysis for identifying full table scans</li></ul></td>
+      <td>Query Tracing for anomaly detection, EXPLAIN Analysis for identifying full table scans</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Reduced slow query occurrences by 70%, stabilizing peak-hour performance</li></ul></td>
+      <td>Reduced slow query occurrences by 70%, stabilizing peak-hour performance</td>
     </tr>
     <tr>
       <td>Skill</td>
@@ -208,11 +208,11 @@ nav_order: 5
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>IT4</li></ul></td>
+      <td>IT4</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Migrated from a modular monolith to a microservices architecture to improve scalability</li></ul></td>
+      <td>Migrated from a modular monolith to a microservices architecture to improve scalability</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -220,7 +220,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Create independent microservices to handle increasing load</li></ul></td>
+      <td>Create independent microservices to handle increasing load</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -228,15 +228,15 @@ nav_order: 5
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>Downtime Minimization during migration</li></ul></td>
+      <td>Downtime Minimization during migration</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>BFF-Based Traffic Management: Gradually switched traffic using BFF layer</li></ul></td>
+      <td>BFF-Based Traffic Management: Gradually switched traffic using BFF layer</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Distributed traffic, reducing database write load</li></ul></td>
+      <td>Distributed traffic, reducing database write load</td>
     </tr>
     <tr>
       <td>Skill</td>
@@ -255,11 +255,11 @@ nav_order: 5
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>IT5</li></ul></td>
+      <td>IT5</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Migrated from MySQL 5.7 to MySQL 8.0 to ensure reliability and maintainability</li></ul></td>
+      <td>Migrated from MySQL 5.7 to MySQL 8.0 to ensure reliability and maintainability</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -267,7 +267,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Seamlessly upgrade to MySQL 8.0 ensuring stability and performance</li></ul></td>
+      <td>Seamlessly upgrade to MySQL 8.0 ensuring stability and performance</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -275,15 +275,15 @@ nav_order: 5
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>Incident during migration impacting user experience</li></ul></td>
+      <td>Incident during migration impacting user experience</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>Investigation (JSON unmarshal error due to column type change), Hotfix, Permanent Fix (revert type)</li></ul></td>
+      <td>Investigation (JSON unmarshal error due to column type change), Hotfix, Permanent Fix (revert type)</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Increased query performance by 20%</li></ul></td>
+      <td>Increased query performance by 20%</td>
     </tr>
     <tr>
       <td>Skill</td>

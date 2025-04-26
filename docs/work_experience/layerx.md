@@ -67,11 +67,11 @@ nav_order: 3
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>LX1</li></ul></td>
+      <td>LX1</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Developed an event-driven notification system within a closed network</li></ul></td>
+      <td>Developed an event-driven notification system within a closed network</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -79,7 +79,7 @@ nav_order: 3
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Develop a notification system that informs users about workflow execution status</li></ul></td>
+      <td>Develop a notification system that informs users about workflow execution status</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -87,15 +87,15 @@ nav_order: 3
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>High-Security Requirement: Deployment within a closed network with strict traffic</li></ul></td>
+      <td>High-Security Requirement: Deployment within a closed network with strict traffic</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>Explicit Network Design (inbound/outbound rules), Strict Firewall Setting</li></ul></td>
+      <td>Explicit Network Design (inbound/outbound rules), Strict Firewall Setting</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Enabled secure and scalable notifications ensuring compliance with high-security</li></ul></td>
+      <td>Enabled secure and scalable notifications ensuring compliance with high-security</td>
     </tr>
     <tr>
       <td>Skill</td>

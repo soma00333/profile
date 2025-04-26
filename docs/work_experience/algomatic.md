@@ -57,17 +57,52 @@ nav_order: 6
 
 ## Projects
 
-| Key       | Value                                                                                 |
-| --------- | ------------------------------------------------------------------------------------- |
-| Key       | AL1                                                                                   |
-| Summary   | Developed a serverless training pipeline for fine-tuning LLMs                         |
-| Problem   | Need for a Training Pipeline: A training pipeline was required for fine-tuning LLMs efficiently |
-| Mission   | Develop an efficient training pipeline                                                |
-| Action    | Developed a Training Pipeline: Download from S3, Push to Hugging Face, Track with WandB |
-| Challenge | Cost Management: Managing the costs associated with fine-tuning LLMs                  |
-| Overcome  | Serverless Optimization: Utilized a serverless architecture to reduce costs             |
-| Result    | Enabled fine-tuning of LLMs efficiently, optimizing compute resource utilization    |
-| Skill     | AI/LLM                                                                                |
+<table>
+  <thead>
+    <tr>
+      <th>Key</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Key</td>
+      <td>AL1</td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>Developed a serverless training pipeline for fine-tuning LLMs</td>
+    </tr>
+    <tr>
+      <td>Problem</td>
+      <td><ul><li>Need for a Training Pipeline: A training pipeline was required for fine-tuning LLMs efficiently</li></ul></td>
+    </tr>
+    <tr>
+      <td>Mission</td>
+      <td>Develop an efficient training pipeline</td>
+    </tr>
+    <tr>
+      <td>Action</td>
+      <td><ul><li>Developed a Training Pipeline: Download from S3, Push to Hugging Face, Track with WandB</li></ul></td>
+    </tr>
+    <tr>
+      <td>Challenge</td>
+      <td>Cost Management: Managing the costs associated with fine-tuning LLMs</td>
+    </tr>
+    <tr>
+      <td>Overcome</td>
+      <td>Serverless Optimization: Utilized a serverless architecture to reduce costs</td>
+    </tr>
+    <tr>
+      <td>Result</td>
+      <td>Enabled fine-tuning of LLMs efficiently, optimizing compute resource utilization</td>
+    </tr>
+    <tr>
+      <td>Skill</td>
+      <td><ul><li>AI/LLM</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Technology
 

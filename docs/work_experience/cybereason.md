@@ -104,11 +104,11 @@ nav_order: 1
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>CR1</li></ul></td>
+      <td>CR1</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Designed and developed custom metrics and improved observability across 3k servers</li></ul></td>
+      <td>Designed and developed custom metrics and improved observability across 3k servers</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -116,7 +116,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Improve observability, streamline debugging, and reduce MTTR</li></ul></td>
+      <td>Improve observability, streamline debugging, and reduce MTTR</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -124,15 +124,15 @@ nav_order: 1
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>Designing meaningful custom metrics</li></ul></td>
+      <td>Designing meaningful custom metrics</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>Fostered cross-functional communication</li></ul></td>
+      <td>Fostered cross-functional communication</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Enhanced troubleshooting efficiency and reduced MTTR by 50% for enterprise customers</li></ul></td>
+      <td>Enhanced troubleshooting efficiency and reduced MTTR by 50% for enterprise customers</td>
     </tr>
     <tr>
       <td>Skill</td>
@@ -151,11 +151,11 @@ nav_order: 1
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>CR2</li></ul></td>
+      <td>CR2</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads</li></ul></td>
+      <td>Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -163,7 +163,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Identify performance bottleneck and ensure system stability</li></ul></td>
+      <td>Identify performance bottleneck and ensure system stability</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -171,15 +171,15 @@ nav_order: 1
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>Fetching dumps before automated restart</li></ul></td>
+      <td>Fetching dumps before automated restart</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>Added automated pipeline to collect dumps before restart</li></ul></td>
+      <td>Added automated pipeline to collect dumps before restart</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Resolved critical availability issues, enhancing system reliability for large customer</li></ul></td>
+      <td>Resolved critical availability issues, enhancing system reliability for large customer</td>
     </tr>
     <tr>
       <td>Skill</td>

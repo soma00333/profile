@@ -104,11 +104,11 @@ nav_order: 4
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>EN1</li></ul></td>
+      <td>EN1</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Developed a generator tool for manifests and Terraform configurations for new microservices</li></ul></td>
+      <td>Developed a generator tool for manifests and Terraform configurations for new microservices</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -116,7 +116,7 @@ nav_order: 4
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Automate the generation of manifests and Terraform configurations to enhance development efficiency</li></ul></td>
+      <td>Automate the generation of manifests and Terraform configurations to enhance development efficiency</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -124,15 +124,15 @@ nav_order: 4
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>Version Management: Incorrect templates generated with outdated CLI versions</li></ul></td>
+      <td>Version Management: Incorrect templates generated with outdated CLI versions</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>CI Integration: Managed main logic within CI to ensure it's always up to date</li></ul></td>
+      <td>CI Integration: Managed main logic within CI to ensure it's always up to date</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Streamlined deployment, achieving a 90% reduction in initial deployment time for new microservices</li></ul></td>
+      <td>Streamlined deployment, achieving a 90% reduction in initial deployment time for new microservices</td>
     </tr>
     <tr>
       <td>Skill</td>
@@ -151,11 +151,11 @@ nav_order: 4
   <tbody>
     <tr>
       <td>Key</td>
-      <td><ul><li>EN2</li></ul></td>
+      <td>EN2</td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td><ul><li>Developed a system for local development by deploying Telepresence to the Kubernetes cluster</li></ul></td>
+      <td>Developed a system for local development by deploying Telepresence to the Kubernetes cluster</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -163,7 +163,7 @@ nav_order: 4
     </tr>
     <tr>
       <td>Mission</td>
-      <td><ul><li>Enable efficient local development without depending on other microservices</li></ul></td>
+      <td>Enable efficient local development without depending on other microservices</td>
     </tr>
     <tr>
       <td>Action</td>
@@ -171,15 +171,15 @@ nav_order: 4
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>High-Security Requirement: Official Helm charts didn't support modifying security configurations</li></ul></td>
+      <td>High-Security Requirement: Official Helm charts didn't support modifying security configurations</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>Customizing Helm Charts (Kustomize), Manual Security Enhancements (PSA, NetworkPolicy, SecurityContext)</li></ul></td>
+      <td>Customizing Helm Charts (Kustomize), Manual Security Enhancements (PSA, NetworkPolicy, SecurityContext)</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td><ul><li>Accelerated local development, achieving a 15% improvement in microservice development speed</li></ul></td>
+      <td>Accelerated local development, achieving a 15% improvement in microservice development speed</td>
     </tr>
     <tr>
       <td>Skill</td>
