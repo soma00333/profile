@@ -4,8 +4,6 @@ title: Home
 nav_order: 1
 ---
 
-# Soma Utsumi
-
 # About
 
 ### Summary

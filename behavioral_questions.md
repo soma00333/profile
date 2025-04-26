@@ -11,299 +11,40 @@ layout: default
 * TOC
 {:toc}
 
-# Behavioral Questions
-
-## Vision
-
-- Core: I believe reliability is a product's core feature
-- Mission: My mission is to contribute to developing distributed systems from the perspective of reliability
-
-## Career Goal
-
-- OSS: My career goal is to relocate to the US, get deeply involved in the OSS community, and contribute to the birth of new technologies
-- Lead: I want to lead a team as a senior position and take more responsibility
-
-## Introduction
-
-- Role: I'm a Software engineer with 7+ years of experience in site reliability and backend development
-- Experience: I have designed and developed distributed systems and enterprise applications, ensuring high performance and scalability
-- Skill: My professional skills are development with Go and management of Kubernetes Cluster
-- Main: I'm working as a software engineer at Cybereason, a cybersecurity company in the US operating in 40 countries
-- Responsibility: We develop new features and refactor legacy microservices for a core system operating across 12k+ servers and processing 80M+ events/sec
-- Side Projects: I work on open-source projects, such as Kubernetes, Etcd, Raft, and ETL tool
-- University: I'm enrolled part-time in the Master of Science in Computer Science program at the University of Colorado Boulder, studying online from Japan
-
-## Past Job
-
-- University: I got a Bachelor of Engineering at the University of Tokyo
-  - I received patients' data, created Python models, and wrote a paper to improve medical decisions
-- 1st Job: I joined Gunosy, Japan's most prominent news app company with 40M users
-  - I worked as a data engineer for 1.5 years to analyze large-scale user data and improved ad logic
-- 2nd Job: I co-founded Industry Technology, which provides enterprise applications to Japan's largest real estate companies
-  - As a CTO, I led the development team and wrote 100k lines of backend codes personally in 5.5 years
-- Side Job: I worked as a software engineer for several AI startups
-
-## Why searching a new position
-
-- Current Environment: I'm satisfied with my current work environment, so I'm not actively looking for a new position
-- Passion: I have a strong desire to grow by being involved in large-scale products and taking on more responsibility, like a senior position
-- Near Future: I'm planning to relocate to the US, so I'm looking for positions related to the US to get visa support in the future
-
-## Why applied
-
-- Vision: The role aligns with my vision and career goal
-- Experience: The requirements align with my experience
-  - I learned backend development and leadership at Industry Technology
-  - I learned site reliability engineering and teamwork at Cybereason
-
-## Why SRE → SWE
-
-- Organization: We recently went through a significant organizational change, which included team reassignments
-- Mission: Previously, my focus was mainly on incident response as an SRE, but now I'm primarily working on feature development and refactoring as a software engineer
-
-## Why CU Boulder
-
-- Desire: I developed a desire to relearn computer science from the ground up, in particular AI fields
-- CU Boulder: CU Boulder is flexible and has many modern AI courses
-
-## Why Cybereason
-
-- High-reliability Requirement: The system handles 80M events per second and operates with 12k servers
-
-## Why left CTO
-
-- Reason: We sold our business
-- Next: I started to pursue a career as an individual contributor rather than as a business leader
-
-## Why SRE
-
-- Experience: I have successful experience in Industry Technology
-  - I introduced SRE practices
-  - I got a contract from an enterprise customer
-- Learned: I realized the importance of deepening SRE practices as a software engineer
-
-## Why Backend
-
-- Vision: The mission aligns with my vision and career goal
-- Ideal Role: Backend Engineer who can utilize SRE practices
-
-## Why Freelance
-
-- Vision: The project aligns with my vision and career goal
-- Projects: I was involved with projects such as OSS, AI/LLM, and High-reliability requirement
-
-## Why US
-
-- Vision: The mission aligns with my vision and career goal
-- OSS: There are huge OSS communities
-- Scale: There is a considerable traffic and high-reliability requirement
-
-## Career Path
-
-- Preference: I prefer IC career path
-- Ideal Position: Senior Backend Engineer who can utilize SRE practices
-- Soft Skills: I understand the importance of soft skills as a leader
-    - I enjoyed teamwork at Cybereason
-    - I enjoyed leadership at Industry Technology
-
-## Visa
-
-- PEO/EOR: PEO/EOR is acceptable
-- Expense: I am proactive about relocation and can cover visa-related expenses myself
-
-## Interesting
-
-- Enjoy: I enjoy developing observability (custom metrics, distributed tracing)
-- Project: CR1. Designed and developed custom metrics and improved observability across 3k servers at Cybereason
-
-## Strength / Positive Feedback
-
-- Strength: I can develop distributed systems and enterprise applications from the perspective of reliability
-- Project: IT1. Designed SLI/SLO and developed custom metrics and tracing to enhance system reliability at Industry Technology
-
-## Weakness / Negative Feedback
-
-- Weakness: I tend to prioritize quality over speed
-- Summary: (New) I focused too much on details during code reviews, which caused delays in merging at Industry Technology
-- Situation: My detailed reviews took longer than necessary, slowing down the review process
-- Action:
-  - Enhanced CI
-  - Introduced AI-powered review tools
-- Result: Improved PR merge speed while maintaining quality
-- Learned: I learned the importance of balancing quality and agility
-
-## Failure
-
-- Summary: (New) Introducing an E2E test automation tool led to organizational silos between frontend engineers and QA at Industry Technology
-- Situation
-  - I introduced an E2E test automation tool for the frontend
-  - This unintentionally created silos between frontend engineers and QA
-- Action
-  - Discontinued the tool
-  - Reassigned E2E testing responsibilities to frontend engineers
-- Result: The organizational silos were eliminated, leading to improved product quality
-- Learned:
- - Effective decision-making varies depending on team size and composition
- - Since then, I have prioritized considering the impact on the team when making technical decisions
-
-## Leadership / Business Impact
-
-- Summary: IT1. Designed SLI/SLO and developed custom metrics and tracing to enhance system reliability at Industry Technology
-- Problem:
-  - Business Opportunity: Got a chance to introduce the system to Japan's largest real estate company
-  - Operational Gaps: Realized that the existing operation does not meet the required level
-- Mission: Improve system reliability to satisfy expected operational level
-- Action:
-  - Decided to sacrifice agility temporarily
-  - Led introducing SRE practices
-- Result: We got a contract with the enterprise customer
-
-## Ownership
-
-- Summary: EN1. Developed a generator tool for manifests and Terraform configurations for new microservices at enechain
-- Problem:
-  - Manual Configuration: Developers had to create manifests and Terraform configurations for each new microservice manually
-  - Inefficiency & Errors: The process was time-consuming and error-prone
-- Mission: Automate the generation of manifests and Terraform configurations to enhance development efficiency
-- Action: Developed a generator tool for manifests and Terraform configuration
-- Result: It reduced the first deployment time for all teams
-
-## Teamwork
-
-- Summary: CR2. Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads at Cybereason
-- Problem:
-  - Crash: A UI server crashed occasionally for an enterprise customer with 100k employees
-  - Communication Difficulty: This incident ticket involved many teams, such as SRE, DevOps, Product, and TAM
-- Mission: Identify the performance bottleneck and ensure system stability
-- Action:
-  - I gave instructions to other teams as an incident commander
-  - I identified the root cause by analyzing thread dumps and heap dumps
-- Result: We solved the availability issue
-
-## Technically Challenging
-
-- Summary: EU2. Developed a real-time logging system for the workflow engine, leveraging storage and cache efficiently at Eukarya
-- Problem:
-  - Real-Time Monitoring Need: Users needed to monitor the execution status of the workflow engine in real time
-  - Lack of Logging Mechanism: The system lacked an effective mechanism for logging and retrieving workflow status
-- Mission: Develop a real-time logging system that allows users to check workflow execution status from the UI
-- Action: Developed the feature utilizing Pub/Sub, Subscriber, and Publisher
-- Challenge: High-Performance Requirement: Users needed to monitor the logs output by the workflow engine in real time
-- Overcome:
-  - Utilized optimized data storage:
-    - Cache: Redis for fast log retrieval
-    - Permanent Storage: GCS for long-term log storage
-- Result: Enabled users to monitor worker status in real-time
-
-## Conflict
-
-- Summary: (New) Successfully migrated 5k servers from Google Cloud to Oracle Cloud at Cybereason
-- Situation: A proposal was made to migrate a large number of Google Cloud servers to Oracle Cloud from the management layer
-- Disagree: Initially, I opposed the migration from a maintainability perspective and attempted to persuade stakeholders using numerical data
-- Decision: However, the final decision was made based on cost considerations
-- Commit: After the decision, I fully committed to the migration project, successfully migrating 5k servers
-- Result: This resulted in a significant reduction in infrastructure costs
-
-## Low Performer
-
-- Summary: (New) Mentored and trained a backend engineer at Industry Technology
-- Situation:
-  - There was a backend engineer with poor performance who initially specialized in frontend development
-  - He aspired to transition to backend engineering as part of his long-term career goals
-- Action:
-  - Supported his growth while ensuring that our feature development schedule remained unaffected
-  - Conducted 1-on-1 sessions and created structured documentation to facilitate learning
-- Result:
-  - He eventually became a lead backend engineer at another company
-  - Additionally, my team established well-structured documentation, which improved the onboarding process for junior engineers
-
-## Refactor/Rearchitecture
-
-- Summary: IT4. Migrated from a modular monolith to a microservices architecture to improve scalability at Industry Technology
-- Problem:
-  - Monolithic Architecture: The system was initially built as a modular monolith
-  - Increased Database Load: Traffic to core features grew, leading to increased write load on the database
-- Mission: Create independent microservices from the primary service to address the increasing load
-- Action: I migrated to microservices architecture with minimized downtime
-- Result: It simplified the architecture and improved the database performance
-
-## Innovative Idea
-
-- Summary: GU1. Analyzed data from millions of users and designed A/B testing strategies to improve user retention at Gunosy
-- Problem: User retention rates were declining
-- Mission: Plan and implement strategies to improve user retention rates
-- Action:
-  - Communication & Design: Focused on the initial experience of new users
-  - A/B Testing Implementation: Changed the initial content for new users based on the ads they engaged with
-- Result: It increased user retention rate beyond the standard A/B testing
-
-## Quick Learn
-
-- Summary: EU1. Developed a processor that compiles user scripts into WebAssembly files and executes them efficiently on a WASM runtime at Eukarya
-- Problem:
-  - Custom Functionality: Users wanted to use their scripts (Python, Go, Rust, etc.) to create custom functions in the workflow engine
-  - Extensibility: There was a need to extend the engine for custom script execution
-- Mission: Extend the workflow engine to support user-defined scripts via WebAssembly execution
-- Action:
-  - Researched and developed the feature
-  - Created documentation
-- Result:
-  - Provided users with useful features
-  - Built a knowledge base about WASM for the team
-
-## Legacy
-
-- Summary: IT5. Migrated from MySQL 5.7 to MySQL 8.0 to ensure reliability and maintainability at Industry Technology
-- Situation:
-  - We needed to migrate from MySQL 5.7 to MySQL 8.0
-  - An incident occurred during the migration process
-- Action: Resolved the incident and completed the migration
-- Result: Led the project to success and established a knowledge base for the team
-
-## Difficult Decision
-
-- Summary: EN2. Developed a system for local development by deploying Telepresence to the Kubernetes cluster at enechain
-- Problem:
-  - Dependency on Other Microservices: Local development was dependent on other microservices
-  - Complex Setup: Setting up a local environment was time-consuming
-- Mission: Enable efficient local development without depending on other microservices
-- Action:
-  - Deploy Telepresence: Enabled interaction with other microservices in the cluster from the local environment
-- Challenge:
-  - High-Security Requirement:
-    - We had robust security standards for our Kubernetes clusters
-    - But official Helm charts didn't support modifying security configurations
-- Overcome
-  - Manual Security Enhancements: Added security patches manually
-- Result: Minimized security risks and improved the development speed
-
-## Tight Schedule
-
-- Summary: IT2. Developed a group chat service and notification system enabling the exchange of photos, videos, and texts at Industry Technology
-- Situation:
-  - Needed to develop a group chat system
-  - Schedule was tight
-- Action:
-  - Adopted polling (Inefficient but Simple) instead of WebSocet (Efficient but Complicated) to simplify
-  - Developed a group chat system
-- Result: Developed the expected system in time
-
-## My Question
-
-- Agility vs Reliability: The trade-off between agility and reliability is challenging. How does your team make decisions regarding this?
-- Diversity: I am Asian. Does your team have diversity and cultural understanding?
-- Career Path: If I continue to achieve outstanding results, what career path options would be available? e.g., Visa support and relocation
-- Expectation: What are the expectations for the ideal candidate for this position?
-- Legacy: What bottlenecks does the legacy part of the system have?
-- Business Impact: How important is the project that this team is working on for the company?
-- LLM: I have been involved in projects related to LLMs and am proactive about leveraging them. How does your team utilize LLMs?
-- Interview Process: Please tell me about the remaining interview process and what I should prepare for.
-- Learning: Are many people learning and trying out new technologies?
-- Number: Can you provide some numbers to help understand the scale of the system I am responsible for?
-- Decision: Could you tell me about a significant decision you have made recently?
-- Background: Could you tell me the number of team members and their backgrounds?
-- Project: Could you tell me about the project you're currently working on?
-- Company Value:
-  - Ownership: Would it be possible for me to work on improvement tasks for other teams?
-  - Think Big: Are there opportunities to make bold decisions?
-  - Earn Trust: How are decisions made within the team when conflicts arise? 
+## Answers
+
+| Key                         | Value                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Vision**                  | - Core: I believe reliability is a product's core feature<br>- Mission: My mission is to contribute to developing distributed systems from the perspective of reliability                                                                                                                                                                                                                                                    |
+| **Career Goal**             | - OSS: My career goal is to relocate to the US, get deeply involved in the OSS community, and contribute to the birth of new technologies<br>- Lead: I want to lead a team as a senior position and take more responsibility                                                                                                                                                                                                      |
+| **Introduction**            | - Role: I'm a Software engineer with 7+ years of experience in site reliability and backend development<br>- Experience: I have designed and developed distributed systems and enterprise applications, ensuring high performance and scalability<br>- Skill: My professional skills are development with Go and management of Kubernetes Cluster<br>- Main: I'm working as a software engineer at Cybereason, a cybersecurity company in the US operating in 40 countries<br>- Responsibility: We develop new features and refactor legacy microservices for a core system operating across 12k+ servers and processing 80M+ events/sec<br>- Side Projects: I work on open-source projects, such as Kubernetes, Etcd, Raft, and ETL tool<br>- University: I'm enrolled part-time in the Master of Science in Computer Science program at the University of Colorado Boulder, studying online from Japan |
+| **Past Job**                | - University: I got a Bachelor of Engineering at the University of Tokyo<br>  - I received patients' data, created Python models, and wrote a paper to improve medical decisions<br>- 1st Job: I joined Gunosy, Japan's most prominent news app company with 40M users<br>  - I worked as a data engineer for 1.5 years to analyze large-scale user data and improved ad logic<br>- 2nd Job: I co-founded Industry Technology, which provides enterprise applications to Japan's largest real estate companies<br>  - As a CTO, I led the development team and wrote 100k lines of backend codes personally in 5.5 years<br>- Side Job: I worked as a software engineer for several AI startups                                                                                                                            |
+| **Why searching a new position** | - Current Environment: I'm satisfied with my current work environment, so I'm not actively looking for a new position<br>- Passion: I have a strong desire to grow by being involved in large-scale products and taking on more responsibility, like a senior position<br>- Near Future: I'm planning to relocate to the US, so I'm looking for positions related to the US to get visa support in the future                               |
+| **Why applied**             | - Vision: The role aligns with my vision and career goal<br>- Experience: The requirements align with my experience<br>  - I learned backend development and leadership at Industry Technology<br>  - I learned site reliability engineering and teamwork at Cybereason                                                                                                                                                 |
+| **Why SRE → SWE**           | - Organization: We recently went through a significant organizational change, which included team reassignments<br>- Mission: Previously, my focus was mainly on incident response as an SRE, but now I'm primarily working on feature development and refactoring as a software engineer                                                                                                                               |
+| **Why CU Boulder**          | - Desire: I developed a desire to relearn computer science from the ground up, in particular AI fields<br>- CU Boulder: CU Boulder is flexible and has many modern AI courses                                                                                                                                                                                                                                           |
+| **Why Cybereason**          | - High-reliability Requirement: The system handles 80M events per second and operates with 12k servers                                                                                                                                                                                                                                                                                                                     |
+| **Why left CTO**            | - Reason: We sold our business<br>- Next: I started to pursue a career as an individual contributor rather than as a business leader                                                                                                                                                                                                                                                                                       |
+| **Why SRE**                 | - Experience: I have successful experience in Industry Technology<br>  - I introduced SRE practices<br>  - I got a contract from an enterprise customer<br>- Learned: I realized the importance of deepening SRE practices as a software engineer                                                                                                                                                                                |
+| **Why Backend**             | - Vision: The mission aligns with my vision and career goal<br>- Ideal Role: Backend Engineer who can utilize SRE practices                                                                                                                                                                                                                                                                                                |
+| **Why Freelance**           | - Vision: The project aligns with my vision and career goal<br>- Projects: I was involved with projects such as OSS, AI/LLM, and High-reliability requirement                                                                                                                                                                                                                                                                 |
+| **Why US**                  | - Vision: The mission aligns with my vision and career goal<br>- OSS: There are huge OSS communities<br>- Scale: There is a considerable traffic and high-reliability requirement                                                                                                                                                                                                                                            |
+| **Career Path**             | - Preference: I prefer IC career path<br>- Ideal Position: Senior Backend Engineer who can utilize SRE practices<br>- Soft Skills: I understand the importance of soft skills as a leader<br>    - I enjoyed teamwork at Cybereason<br>    - I enjoyed leadership at Industry Technology                                                                                                                                        |
+| **Visa**                    | - PEO/EOR: PEO/EOR is acceptable<br>- Expense: I am proactive about relocation and can cover visa-related expenses myself                                                                                                                                                                                                                                                                                                     |
+| **Interesting**             | - Enjoy: I enjoy developing observability (custom metrics, distributed tracing)<br>- Project: CR1. Designed and developed custom metrics and improved observability across 3k servers at Cybereason                                                                                                                                                                                                                            |
+| **Strength / Positive Feedback** | - Strength: I can develop distributed systems and enterprise applications from the perspective of reliability<br>- Project: IT1. Designed SLI/SLO and developed custom metrics and tracing to enhance system reliability at Industry Technology                                                                                                                                                                            |
+| **Weakness / Negative Feedback** | - Weakness: I tend to prioritize quality over speed<br>- Summary: (New) I focused too much on details during code reviews, which caused delays in merging at Industry Technology<br>- Situation: My detailed reviews took longer than necessary, slowing down the review process<br>- Action:<br>  - Enhanced CI<br>  - Introduced AI-powered review tools<br>- Result: Improved PR merge speed while maintaining quality<br>- Learned: I learned the importance of balancing quality and agility |
+| **Failure**                 | - Summary: (New) Introducing an E2E test automation tool led to organizational silos between frontend engineers and QA at Industry Technology<br>- Situation<br>  - I introduced an E2E test automation tool for the frontend<br>  - This unintentionally created silos between frontend engineers and QA<br>- Action<br>  - Discontinued the tool<br>  - Reassigned E2E testing responsibilities to frontend engineers<br>- Result: The organizational silos were eliminated, leading to improved product quality<br>- Learned:<br> - Effective decision-making varies depending on team size and composition<br> - Since then, I have prioritized considering the impact on the team when making technical decisions |
+| **Leadership / Business Impact** | - Summary: IT1. Designed SLI/SLO and developed custom metrics and tracing to enhance system reliability at Industry Technology<br>- Problem:<br>  - Business Opportunity: Got a chance to introduce the system to Japan's largest real estate company<br>  - Operational Gaps: Realized that the existing operation does not meet the required level<br>- Mission: Improve system reliability to satisfy expected operational level<br>- Action:<br>  - Decided to sacrifice agility temporarily<br>  - Led introducing SRE practices<br>- Result: We got a contract with the enterprise customer |
+| **Ownership**               | - Summary: EN1. Developed a generator tool for manifests and Terraform configurations for new microservices at enechain<br>- Problem:<br>  - Manual Configuration: Developers had to create manifests and Terraform configurations for each new microservice manually<br>  - Inefficiency & Errors: The process was time-consuming and error-prone<br>- Mission: Automate the generation of manifests and Terraform configurations to enhance development efficiency<br>- Action: Developed a generator tool for manifests and Terraform configuration<br>- Result: It reduced the first deployment time for all teams |
+| **Teamwork**                | - Summary: CR2. Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads at Cybereason<br>- Problem:<br>  - Crash: A UI server crashed occasionally for an enterprise customer with 100k employees<br>  - Communication Difficulty: This incident ticket involved many teams, such as SRE, DevOps, Product, and TAM<br>- Mission: Identify the performance bottleneck and ensure system stability<br>- Action:<br>  - I gave instructions to other teams as an incident commander<br>  - I identified the root cause by analyzing thread dumps and heap dumps<br>- Result: We solved the availability issue |
+| **Technically Challenging** | - Summary: EU2. Developed a real-time logging system for the workflow engine, leveraging storage and cache efficiently at Eukarya<br>- Problem:<br>  - Real-Time Monitoring Need: Users needed to monitor the execution status of the workflow engine in real time<br>  - Lack of Logging Mechanism: The system lacked an effective mechanism for logging and retrieving workflow status<br>- Mission: Develop a real-time logging system that allows users to check workflow execution status from the UI<br>- Action: Developed the feature utilizing Pub/Sub, Subscriber, and Publisher<br>- Challenge: High-Performance Requirement: Users needed to monitor the logs output by the workflow engine in real time<br>- Overcome:<br>  - Utilized optimized data storage:<br>    - Cache: Redis for fast log retrieval<br>    - Permanent Storage: GCS for long-term log storage<br>- Result: Enabled users to monitor worker status in real-time |
+| **Conflict**                | - Summary: (New) Successfully migrated 5k servers from Google Cloud to Oracle Cloud at Cybereason<br>- Situation: A proposal was made to migrate a large number of Google Cloud servers to Oracle Cloud from the management layer<br>- Disagree: Initially, I opposed the migration from a maintainability perspective and attempted to persuade stakeholders using numerical data<br>- Decision: However, the final decision was made based on cost considerations<br>- Commit: After the decision, I fully committed to the migration project, successfully migrating 5k servers<br>- Result: This resulted in a significant reduction in infrastructure costs |
+| **Low Performer**           | - Summary: (New) Mentored and trained a backend engineer at Industry Technology<br>- Situation:<br>  - There was a backend engineer with poor performance who initially specialized in frontend development<br>  - He aspired to transition to backend engineering as part of his long-term career goals<br>- Action:<br>  - Supported his growth while ensuring that our feature development schedule remained unaffected<br>  - Conducted 1-on-1 sessions and created structured documentation to facilitate learning<br>- Result:<br>  - He eventually became a lead backend engineer at another company<br>  - Additionally, my team established well-structured documentation, which improved the onboarding process for junior engineers |
+| **Refactor/Rearchitecture** | - Summary: IT4. Migrated from a modular monolith to a microservices architecture to improve scalability at Industry Technology<br>- Problem:<br>  - Monolithic Architecture: The system was initially built as a modular monolith<br>  - Increased Database Load: Traffic to core features grew, leading to increased write load on the database<br>- Mission: Create independent microservices from the primary service to address the increasing load<br>- Action: I migrated to microservices architecture with minimized downtime<br>- Result: It simplified the architecture and improved the database performance |
+| **Innovative Idea**         | - Summary: GU1. Analyzed data from millions of users and designed A/B testing strategies to improve user retention at Gunosy<br>- Problem: User retention rates were declining<br>- Mission: Plan and implement strategies to improve user retention rates<br>- Action:<br>  - Communication & Design: Focused on the initial experience of new users<br>  - A/B Testing Implementation: Changed the initial content for new users based on the ads they engaged with<br>- Result: It increased user retention rate beyond the standard A/B testing |
+| **Quick Learn**             | - Summary: EU1. Developed a processor that compiles user scripts into WebAssembly files and executes them efficiently on a WASM runtime at Eukarya<br>- Problem:<br>  - Custom Functionality: Users wanted to use their scripts (Python, Go, Rust, etc.) to create custom functions in the workflow engine<br>  - Extensibility: There was a need to extend the engine for custom script execution<br>- Mission: Extend the workflow engine to support user-defined scripts via WebAssembly execution<br>- Action:<br>  - Researched and developed the feature<br>  - Created documentation<br>- Result:<br>  - Provided users with useful features<br>  - Built a knowledge base about WASM for the team |
+| **Legacy**                  | - Summary: IT5. Migrated from MySQL 5.7 to MySQL 8.0 to ensure reliability and maintainability at Industry Technology<br>- Situation:<br>  - We needed to migrate from MySQL 5.7 to MySQL 8.0<br>  - An incident occurred during the migration process<br>- Action: Resolved the incident and completed the migration<br>- Result: Led the project to success and established a knowledge base for the team                                  |
+| **Difficult Decision**      | - Summary: EN2. Developed a system for local development by deploying Telepresence to the Kubernetes cluster at enechain<br>- Problem:<br>  - Dependency on Other Microservices: Local development was dependent on other microservices<br>  - Complex Setup: Setting up a local environment was time-consuming<br>- Mission: Enable efficient local development without depending on other microservices<br>- Action:<br>  - Deploy Telepresence: Enabled interaction with other microservices in the cluster from the local environment<br>- Challenge:<br>  - High-Security Requirement:<br>    - We had robust security standards for our Kubernetes clusters<br>    - But official Helm charts didn't support modifying security configurations<br>- Overcome<br>  - Manual Security Enhancements: Added security patches manually<br>- Result: Minimized security risks and improved the development speed |
+| **Tight Schedule**          | - Summary: IT2. Developed a group chat service and notification system enabling the exchange of photos, videos, and texts at Industry Technology<br>- Situation:<br>  - Needed to develop a group chat system<br>  - Schedule was tight<br>- Action:<br>  - Adopted polling (Inefficient but Simple) instead of WebSocet (Efficient but Complicated) to simplify<br>  - Developed a group chat system<br>- Result: Developed the expected system in time |
+| **My Question**             | - Agility vs Reliability: The trade-off between agility and reliability is challenging. How does your team make decisions regarding this?<br>- Diversity: I am Asian. Does your team have diversity and cultural understanding?<br>- Career Path: If I continue to achieve outstanding results, what career path options would be available? e.g., Visa support and relocation<br>- Expectation: What are the expectations for the ideal candidate for this position?<br>- Legacy: What bottlenecks does the legacy part of the system have?<br>- Business Impact: How important is the project that this team is working on for the company?<br>- LLM: I have been involved in projects related to LLMs and am proactive about leveraging them. How does your team utilize LLMs?<br>- Interview Process: Please tell me about the remaining interview process and what I should prepare for.<br>- Learning: Are many people learning and trying out new technologies?<br>- Number: Can you provide some numbers to help understand the scale of the system I am responsible for?<br>- Decision: Could you tell me about a significant decision you have made recently?<br>- Background: Could you tell me the number of team members and their backgrounds?<br>- Project: Could you tell me about the project you're currently working on?<br>- Company Value:<br>  - Ownership: Would it be possible for me to work on improvement tasks for other teams?<br>  - Think Big: Are there opportunities to make bold decisions?<br>  - Earn Trust: How are decisions made within the team when conflicts arise?  | 
