@@ -20,51 +20,173 @@ nav_order: 1
 
 ## Team (Software Engineer)
 
-| Key       | Value                                                                                                                             |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Title     | Software Engineer                                                                                                               |
-| Mission   | Develop new features and refactor legacy microservices for a distributed system operating across 12k+ servers and processing 80M+ events/sec |
-| Task      | <ul><li>Feature Development</li><li>Refactoring legacy microservices</li></ul>                                                     |
-| Term      | March 1, 2025 - current                                                                                                         |
-| Team Size | 9                                                                                                                               |
-| Type      | Permanent                                                                                                                       |
+<table>
+  <thead>
+    <tr>
+      <th>Key</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Title</td>
+      <td>Software Engineer</td>
+    </tr>
+    <tr>
+      <td>Mission</td>
+      <td>Develop new features and refactor legacy microservices for a distributed system operating across 12k+ servers and processing 80M+ events/sec</td>
+    </tr>
+    <tr>
+      <td>Task</td>
+      <td><ul><li>Feature Development</li><li>Refactoring legacy microservices</li></ul></td>
+    </tr>
+    <tr>
+      <td>Term</td>
+      <td>March 1, 2025 - current</td>
+    </tr>
+    <tr>
+      <td>Team Size</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Type</td>
+      <td>Permanent</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Team (Site Reliability Engineer)
 
-| Key       | Value                                                                                                                                                           |
-| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Title     | Site Reliability Engineer                                                                                                                                       |
-| Mission   | As a cross-functional global team, develop custom metrics and distributed tracing to enhance the reliability of a distributed system operating across 12k+ servers and processing 80M+ events/sec |
-| Task      | <ul><li>Ovservability Development: Develop custom metrics and distributed tracing to improve observability</li><li>Incident Response: Troubleshoot cross-microservices issues to identify the root cause</li></ul> |
-| Term      | October 1, 2024 - March 31, 2025                                                                                                                               |
-| Team Size | 5                                                                                                                                                               |
-| Type      | Permanent                                                                                                                                                       |
+<table>
+  <thead>
+    <tr>
+      <th>Key</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Title</td>
+      <td>Site Reliability Engineer</td>
+    </tr>
+    <tr>
+      <td>Mission</td>
+      <td>As a cross-functional global team, develop custom metrics and distributed tracing to enhance the reliability of a distributed system operating across 12k+ servers and processing 80M+ events/sec</td>
+    </tr>
+    <tr>
+      <td>Task</td>
+      <td><ul><li>Ovservability Development: Develop custom metrics and distributed tracing to improve observability</li><li>Incident Response: Troubleshoot cross-microservices issues to identify the root cause</li></ul></td>
+    </tr>
+    <tr>
+      <td>Term</td>
+      <td>October 1, 2024 - March 31, 2025</td>
+    </tr>
+    <tr>
+      <td>Team Size</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Type</td>
+      <td>Permanent</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Projects
 
-| Key       | Value                                                                                     |
-| --------- | ----------------------------------------------------------------------------------------- |
-| Key       | CR1                                                                                       |
-| Summary   | Designed and developed custom metrics and improved observability across 3k servers          |
-| Problem   | Complex Troubleshooting, High MTTR due to insufficient insights                           |
-| Mission   | Improve observability, streamline debugging, and reduce MTTR                              |
-| Action    | Developed custom metrics (API Latency/Error, ES Throughput, MongoDB Query Perf), Improved Dashboards |
-| Challenge | Designing meaningful custom metrics                                                       |
-| Overcome  | Fostered cross-functional communication                                                     |
-| Result    | Enhanced troubleshooting efficiency and reduced MTTR by 50% for enterprise customers    |
-| Skill     | Observability / Monitoring                                                                |
+<table>
+  <thead>
+    <tr>
+      <th>Key</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Key</td>
+      <td><ul><li>CR1</li></ul></td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td><ul><li>Designed and developed custom metrics and improved observability across 3k servers</li></ul></td>
+    </tr>
+    <tr>
+      <td>Problem</td>
+      <td><ul><li>Complex Troubleshooting, High MTTR due to insufficient insights</li></ul></td>
+    </tr>
+    <tr>
+      <td>Mission</td>
+      <td><ul><li>Improve observability, streamline debugging, and reduce MTTR</li></ul></td>
+    </tr>
+    <tr>
+      <td>Action</td>
+      <td><ul><li>Developed custom metrics (API Latency/Error, ES Throughput, MongoDB Query Perf), Improved Dashboards</li></ul></td>
+    </tr>
+    <tr>
+      <td>Challenge</td>
+      <td><ul><li>Designing meaningful custom metrics</li></ul></td>
+    </tr>
+    <tr>
+      <td>Overcome</td>
+      <td><ul><li>Fostered cross-functional communication</li></ul></td>
+    </tr>
+    <tr>
+      <td>Result</td>
+      <td><ul><li>Enhanced troubleshooting efficiency and reduced MTTR by 50% for enterprise customers</li></ul></td>
+    </tr>
+    <tr>
+      <td>Skill</td>
+      <td><ul><li>Observability / Monitoring</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
-| Key       | Value                                                                                     |
-| --------- | ----------------------------------------------------------------------------------------- |
-| Key       | CR2                                                                                       |
-| Summary   | Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads  |
-| Problem   | UI server crash for large enterprise customer, Root cause unknown, Insufficient monitoring |
-| Mission   | Identify performance bottleneck and ensure system stability                               |
-| Action    | Root Cause Analysis (dumps), Found legacy API blocking threads, Migrated to efficient v2 API |
-| Challenge | Fetching dumps before automated restart                                                   |
-| Overcome  | Added automated pipeline to collect dumps before restart                                    |
-| Result    | Resolved critical availability issues, enhancing system reliability for large customer      |
-| Skill     | Incident Response / Troubleshooting                                                       |
+<table>
+  <thead>
+    <tr>
+      <th>Key</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Key</td>
+      <td><ul><li>CR2</li></ul></td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td><ul><li>Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads</li></ul></td>
+    </tr>
+    <tr>
+      <td>Problem</td>
+      <td><ul><li>UI server crash for large enterprise customer, Root cause unknown, Insufficient monitoring</li></ul></td>
+    </tr>
+    <tr>
+      <td>Mission</td>
+      <td><ul><li>Identify performance bottleneck and ensure system stability</li></ul></td>
+    </tr>
+    <tr>
+      <td>Action</td>
+      <td><ul><li>Root Cause Analysis (dumps), Found legacy API blocking threads, Migrated to efficient v2 API</li></ul></td>
+    </tr>
+    <tr>
+      <td>Challenge</td>
+      <td><ul><li>Fetching dumps before automated restart</li></ul></td>
+    </tr>
+    <tr>
+      <td>Overcome</td>
+      <td><ul><li>Added automated pipeline to collect dumps before restart</li></ul></td>
+    </tr>
+    <tr>
+      <td>Result</td>
+      <td><ul><li>Resolved critical availability issues, enhancing system reliability for large customer</li></ul></td>
+    </tr>
+    <tr>
+      <td>Skill</td>
+      <td><ul><li>Incident Response / Troubleshooting</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Technology
 

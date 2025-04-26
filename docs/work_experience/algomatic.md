@@ -20,14 +20,40 @@ nav_order: 6
 
 ## Team
 
-| Key       | Value                                                                                         |
-| --------- | --------------------------------------------------------------------------------------------- |
-| Title     | Software Engineer (Platform)                                                                  |
-| Mission   | Design training and inference pipelines for LLMs and develop enterprise applications incorporating them |
-| Task      | <ul><li>Design training and inference pipelines</li><li>Develop enterprise applications incorporating LLMs</li></ul> |
-| Term      | August 1, 2023 - April 30, 2024                                                              |
-| Team Size | 8                                                                                             |
-| Type      | Freelance                                                                                     |
+<table>
+  <thead>
+    <tr>
+      <th>Key</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Title</td>
+      <td>Software Engineer (Platform)</td>
+    </tr>
+    <tr>
+      <td>Mission</td>
+      <td>Design training and inference pipelines for LLMs and develop enterprise applications incorporating them</td>
+    </tr>
+    <tr>
+      <td>Task</td>
+      <td><ul><li>Design training and inference pipelines</li><li>Develop enterprise applications incorporating LLMs</li></ul></td>
+    </tr>
+    <tr>
+      <td>Term</td>
+      <td>August 1, 2023 - April 30, 2024</td>
+    </tr>
+    <tr>
+      <td>Team Size</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Type</td>
+      <td>Freelance</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Projects
 
