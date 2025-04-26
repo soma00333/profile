@@ -1,4 +1,8 @@
 @media (min-width: 50rem) {
+  .main {
+    max-width: none;
+  }
+
   .main-content-wrap {
     max-width: 1000px;
   }
