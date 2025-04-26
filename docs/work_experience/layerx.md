@@ -1,8 +1,9 @@
 ---
-title: LayerX Inc.
-parent: Experience
-nav_order: 3
 layout: default
+title: LayerX
+parent: Work Experience
+grand_parent: Work Experience
+nav_order: 3
 ---
 
 # LayerX Inc.

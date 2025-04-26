@@ -1,8 +1,9 @@
 ---
-title: Industry Technology Inc.
-parent: Experience
-nav_order: 5
 layout: default
+title: Industry Technology
+parent: Work Experience
+grand_parent: Work Experience
+nav_order: 5
 ---
 
 # Industry Technology Inc.

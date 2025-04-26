@@ -1,6 +1,7 @@
 ---
 title: enechain Corporation
-parent: Experience
+parent: Work Experience
+grand_parent: Work Experience
 nav_order: 4
 layout: default
 ---

@@ -1,6 +1,6 @@
 ---
 title: Education
-nav_order: 14
+nav_order: 4
 layout: default
 ---
 

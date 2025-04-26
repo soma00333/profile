@@ -1,8 +1,9 @@
 ---
-title: Cybereason Inc.
-parent: Experience
-nav_order: 1
 layout: default
+title: Cybereason
+parent: Work Experience
+grand_parent: Work Experience
+nav_order: 1
 ---
 
 # Cybereason Inc.

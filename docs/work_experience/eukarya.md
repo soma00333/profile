@@ -1,8 +1,9 @@
 ---
-title: Eukarya Inc.
-parent: Experience
-nav_order: 2
 layout: default
+title: Eukarya
+parent: Work Experience
+grand_parent: Work Experience
+nav_order: 2
 ---
 
 # Eukarya Inc.
