@@ -6,13 +6,6 @@ layout: default
 
 # Leadership Principles
 
-[Leadership Principles](leadership_principles.md)
-
-* TOC
-{:toc}
-
-## Principles
-
 <table>
   <thead>
     <tr>

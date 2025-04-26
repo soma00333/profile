@@ -6,13 +6,6 @@ layout: default
 
 # Behavioral Question
 
-[Behavioral Questions](behavioral_questions.md)
-
-* TOC
-{:toc}
-
-## Answers
-
 <table>
   <thead>
     <tr>
