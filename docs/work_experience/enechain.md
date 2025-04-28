@@ -108,11 +108,11 @@ nav_order: 4
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Developed a generator tool for manifests and Terraform configurations for new microservices</td>
+      <td>EN1. Developed a generator tool for manifests and Terraform configurations for new microservices</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>Manual Configuration was time-consuming and error-prone</li></ul></td>
+      <td><ul><li>**Manual Configuration**: Developers had to create manifests and Terraform configurations for each new microservice manually</li><li>**Inefficiency & Errors**: The process was time-consuming and error-prone</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -120,23 +120,23 @@ nav_order: 4
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Developed a command-line tool using Go and a template system</li></ul></td>
+      <td><ul><li>Develop a generator tool</li><li>**Command-Line Tool**: Implemented a command line tool using Go</li><li>**Template System**: Created a template to generate standardized configurations</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>Version Management: Incorrect templates generated with outdated CLI versions</td>
+      <td>**Version Management**: If developers used an outdated CLI version, incorrect templates would be generated</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>CI Integration: Managed main logic within CI to ensure it's always up to date</td>
+      <td>**CI Integration**: Configured the CLI client to only trigger the CI, while managing the main logic within the CI to ensure it is always up to date</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td>Streamlined deployment, achieving a 90% reduction in initial deployment time for new microservices</td>
+      <td>Streamlined the deployment process, achieving a 90% reduction in the initial deployment time for new microservices</td>
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>Tool Development</li></ul></td>
+      <td>Tool Development</td>
     </tr>
   </tbody>
 </table>
@@ -155,11 +155,11 @@ nav_order: 4
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Developed a system for local development by deploying Telepresence to the Kubernetes cluster</td>
+      <td>EN2. Developed a system for local development by deploying Telepresence to the Kubernetes cluster</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>Dependency on other microservices, Complex local environment setup</li></ul></td>
+      <td><ul><li>**Dependency on Other Microservices**: Local development was dependent on other microservices</li><li>**Complex Setup**: Setting up a local environment was time-consuming</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -167,15 +167,15 @@ nav_order: 4
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Deployed Telepresence, Developed a Local Development System using Devcontainer</li></ul></td>
+      <td><ul><li>**Deploy Telepresence**: Enabled interaction with other microservices in the cluster from the local environment</li><li>**Develop a Local Development System**: Utilized Devcontainer for streamlined development</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>High-Security Requirement: Official Helm charts didn't support modifying security configurations</td>
+      <td><ul><li>**High-Security Requirement**: The system had to be deployed within a closed network with strict traffic control</li><li>We had robust security standards for our Kubernetes clusters</li><li>But official Helm charts didn't support modifying security configurations</li></ul></td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>Customizing Helm Charts (Kustomize), Manual Security Enhancements (PSA, NetworkPolicy, SecurityContext)</td>
+      <td><ul><li>**Customizing Helm Charts**: Converted Helm charts to Kustomize</li><li>**Manual Security Enhancements**: Added security patches manually</li><li>**Pod Security Admission**</li><li>**NetworkPolicy**</li><li>**Security Context**</li></ul></td>
     </tr>
     <tr>
       <td>Result</td>
@@ -183,7 +183,7 @@ nav_order: 4
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>Kubernetes / Security</li></ul></td>
+      <td>Kubernetes / Security</td>
     </tr>
   </tbody>
 </table>

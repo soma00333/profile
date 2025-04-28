@@ -71,11 +71,11 @@ nav_order: 3
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Developed an event-driven notification system within a closed network</td>
+      <td>LX1. Developed an event-driven notification system within a closed network</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>Workflow Visibility Issue: Users couldn't see their workflow status</li></ul></td>
+      <td>**Workflow Visibility Issue**: Users couldn't see their workflow status after triggering it</td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -83,23 +83,23 @@ nav_order: 3
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Developed the notification system using an event-driven architecture</li></ul></td>
+      <td>Develop the notification system: Utilized an event-driven architecture</td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>High-Security Requirement: Deployment within a closed network with strict traffic</td>
+      <td>**High-Security Requirement**: The system had to be deployed within a closed network with strict traffic control</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>Explicit Network Design (inbound/outbound rules), Strict Firewall Setting</td>
+      <td><ul><li>**Network Design**: Explicitly defined all inbound/outbound traffic rules</li><li>**Strict Firewall Setting**: Configured a secure firewall policy to control access</li></ul></td>
     </tr>
     <tr>
       <td>Result</td>
-      <td>Enabled secure and scalable notifications ensuring compliance with high-security</td>
+      <td>Enabled secure and scalable workflow notifications while ensuring compliance with high-security standards</td>
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>Network Management</li></ul></td>
+      <td>Network Management</td>
     </tr>
   </tbody>
 </table>

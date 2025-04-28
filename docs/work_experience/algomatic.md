@@ -71,11 +71,11 @@ nav_order: 6
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Developed a serverless training pipeline for fine-tuning LLMs</td>
+      <td>AL1. Developed a serverless training pipeline for fine-tuning LLMs</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>Need for a Training Pipeline: A training pipeline was required for fine-tuning LLMs efficiently</li></ul></td>
+      <td>**Need for a Training Pipeline**: A training pipeline was required for fine-tuning LLMs efficiently</td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -83,15 +83,21 @@ nav_order: 6
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Developed a Training Pipeline: Download from S3, Push to Hugging Face, Track with WandB</li></ul></td>
+      <td><ul><li>**Developed a Training Pipeline**:
+          <ul>
+            <li>Download from S3 for efficient data retrieval</li>
+            <li>Push to Hugging Face for model storage and sharing</li>
+            <li>Parameter tracking with WandB</li>
+          </ul>
+        </li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>Cost Management: Managing the costs associated with fine-tuning LLMs</td>
+      <td>**Cost Management**: Managing the costs associated with fine-tuning LLMs was a key challenge</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>Serverless Optimization: Utilized a serverless architecture to reduce costs</td>
+      <td>**Serverless Optimization**: Utilized a serverless architecture to reduce costs</td>
     </tr>
     <tr>
       <td>Result</td>
@@ -99,7 +105,7 @@ nav_order: 6
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>AI/LLM</li></ul></td>
+      <td>AI/LLM</td>
     </tr>
   </tbody>
 </table>

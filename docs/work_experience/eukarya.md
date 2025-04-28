@@ -38,7 +38,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li>Feature Development</li></ul></td>
+      <td><ul><li>Develop features</li></ul></td>
     </tr>
     <tr>
       <td>Term</td>
@@ -71,27 +71,32 @@ nav_order: 2
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Developed a processor that compiles user scripts into WebAssembly files and executes them on a WASM runtime</td>
+      <td>EU1. Developed a processor that compiles user scripts into WebAssembly files and executes them efficiently on a WASM runtime</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>Users needed custom script execution (Python, Go, Rust) in the workflow engine</li></ul></td>
+      <td><ul><li>**Custom Functionality**: Users wanted to use their scripts (Python, Go, Rust, etc.) to create custom functions in the workflow engine</li><li>**Extensibility**: There was a need to extend the engine for custom script execution</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Extend the engine to support user scripts via WebAssembly execution</td>
+      <td>Extend the workflow engine to support user-defined scripts via WebAssembly execution</td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Developed extension: Compiler (scripts to .wasm), Runtime (execute .wasm)</li></ul></td>
+      <td><ul><li>**Develop the extension**:
+          <ul>
+            <li>**Compiler**: Compile custom scripts into .wasm</li>
+            <li>**Runtime**: Execute scripts on a WebAssembly runtime</li>
+          </ul>
+        </li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>Execution Control: Potential security risks with overly flexible execution environment</td>
+      <td>**Execution Control**: If the execution environment was too flexible, unintended executions could occur, posing security risks</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>Used WebAssembly specification to pass variables within an appropriate scope</td>
+      <td>Used the WebAssembly specification to pass variables within an appropriate scope</td>
     </tr>
     <tr>
       <td>Result</td>
@@ -99,7 +104,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>Feature Development</li></ul></td>
+      <td>Feature Development</td>
     </tr>
   </tbody>
 </table>
@@ -118,27 +123,27 @@ nav_order: 2
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Developed a real-time logging system for a workflow engine, leveraging storage and cache efficiently</td>
+      <td>EU2. Developed a real-time logging system for a workflow engine, leveraging storage and cache efficiently</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>Real-Time Monitoring Need, Lack of effective logging mechanism</li></ul></td>
+      <td><ul><li>**Real-Time Monitoring Need**: Users needed to monitor the execution status of the workflow engine in real time</li><li>**Lack of Logging Mechanism**: The system lacked an effective mechanism for logging and retrieving workflow status</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Develop a real-time logging system for UI monitoring</td>
+      <td>Develop a real-time logging system that allows users to check workflow execution status from the UI</td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Developed feature: Publisher (Engine->Pub/Sub), Subscriber (Pub/Sub->Datastore), API (Read logs)</li></ul></td>
+      <td><ul><li>**Develop the feature**</li><li>**Workflow Engine**: Added a publisher to publish logs to Pub/Sub</li><li>**Subscriber**: Created a subscriber to subscribe logs from Pub/Sub and write to a datastore</li><li>**API**: Added a resolver to read logs from the datastore</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>High-Performance Requirement for real-time monitoring</td>
+      <td>**High-Performance Requirement**: Users needed to monitor the logs output by the workflow engine in real time</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>Utilized optimized datastore (Redis cache, GCS permanent storage)</td>
+      <td><ul><li>Utilized optimized datastore</li><li>**Cache**: Redis for fast log retrieval</li><li>**Permanent Storage**: GCS for long-term log storage</li></ul></td>
     </tr>
     <tr>
       <td>Result</td>
@@ -146,7 +151,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>Performance Optimization</li></ul></td>
+      <td>Performance Optimization</td>
     </tr>
   </tbody>
 </table>

@@ -71,27 +71,32 @@ nav_order: 5
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Designed SLI/SLO and developed custom metrics and tracing to enhance system reliability</td>
+      <td>IT1. Designed SLI/SLO and developed custom metrics and tracing to enhance system reliability</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>Business Opportunity required higher operational level, Existing operation had gaps</li></ul></td>
+      <td><ul><li>**Business Opportunity**: Got a chance to introduce the system to Japan's largest real estate company</li><li>**Operational Gaps**: Realized that the existing operation does not meet the required level</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Improve system reliability to meet expected operational level</td>
+      <td>Improve system reliability to satisfy expected operational level</td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Designed SLI/SLO using CUJ, Implemented custom metrics and tracing</li></ul></td>
+      <td><ul><li>**SLI/SLO Design**: Designed SLI/SLO using CUJ</li><li>**Observability Development**
+          <ul>
+            <li>Implemented custom metrics</li>
+            <li>Implemented tracing</li>
+          </ul>
+        </li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>SLO Tuning: Adjusting threshold properly to avoid stopping releases</td>
+      <td>**SLO Tuning**: Since violating the SLO requires stopping releases, I had to adjust the objective threshold properly</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>Load Testing & Optimization: Checked SLI during spikes, set appropriate objectives</td>
+      <td>**Load Testing & Optimization**: By conducting load tests, I checked the SLI during traffic spikes and set appropriate objectives</td>
     </tr>
     <tr>
       <td>Result</td>
@@ -99,7 +104,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>SLI/SLO / Observability / Monitoring / Load Test</li></ul></td>
+      <td>SLI/SLO / Observability / Monitoring / Load Test</td>
     </tr>
   </tbody>
 </table>
@@ -118,35 +123,44 @@ nav_order: 5
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Developed a group chat service and notification system enabling exchange of photos, videos, texts</td>
+      <td>IT2. Developed a group chat service and notification system enabling the exchange of photos, videos, and texts</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>User Requirement for chat/notification, Lack of existing features</li></ul></td>
+      <td><ul><li>**User Requirement**: Users wanted a group chat service and notification system for exchanging photos, videos, and texts</li><li>**Lack of Existing Features**: But the system did not have these capabilities</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Develop group chat service and notification system</td>
+      <td>Develop a group chat service and notification system</td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Developed chat (S3+Signed URL, CDN), notification (event-driven architecture)</li></ul></td>
+      <td><ul><li>Develop the group chat feature
+          <ul>
+            <li>Implemented S3 + Signed URL for media sharing</li>
+            <li>Integrated CDN for optimized content delivery</li>
+          </ul>
+        </li><li>Develop a notification system
+          <ul>
+            <li>Built an event-driven architecture for efficient notifications</li>
+          </ul>
+        </li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>Tight Schedule prevented WebSocket server development</td>
+      <td>**Tight Schedule**: There was not enough time to build a WebSocket server</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>Polling-Based Approach: Extended existing API using polling</td>
+      <td>**Polling-Based Approach**: Extended the existing API using polling instead of WebSocket</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td>Improved user engagement and productivity by 25%</td>
+      <td>Improved user engagement and productivity by 25% with a seamless chat and notification experience</td>
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>Feature Development</li></ul></td>
+      <td>Feature Development</td>
     </tr>
   </tbody>
 </table>
@@ -165,27 +179,32 @@ nav_order: 5
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Tuned indexes and optimized queries to improve database performance</td>
+      <td>IT3. Tuned indexes and optimized queries to improve database performance</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>Frequent Slow Queries impacting UX, High CPU/Memory utilization during peak hours</li></ul></td>
+      <td><ul><li>**Frequent Slow Queries**: A core feature suffered from repeated slow queries, impacting user experience.</li><li>**High CPU & Memory Utilization**: Slow queries led to CPU and memory spikes, especially during peak hours (09:00 AM)</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Diagnose performance bottlenecks, Optimize query execution</td>
+      <td><ul><li>Diagnose performance bottlenecks</li><li>Optimize query execution</li></ul></td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Index Optimization, Query Refactoring (eliminated unnecessary joins, optimized index usage)</li></ul></td>
+      <td><ul><li>**Index Optimization**: Implemented appropriate indexes to improve query performance</li><li>**Query Refactoring**:
+          <ul>
+            <li>Eliminated unnecessary joins</li>
+            <li>Optimized queries to utilize indexes efficiently</li>
+          </ul>
+        </li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>Root Cause Analysis: Identifying source of slow queries due to complex execution patterns</td>
+      <td>**Root Cause Analysis**: Identifying the exact source of slow queries was challenging due to complex query execution patterns</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>Query Tracing for anomaly detection, EXPLAIN Analysis for identifying full table scans</td>
+      <td><ul><li>**Query Tracing**: Monitored and analyzed tracing to detect anomalies</li><li>**EXPLAIN Analysis**: Used EXPLAIN statements to identify queries performing full table scans without indexes</li></ul></td>
     </tr>
     <tr>
       <td>Result</td>
@@ -193,7 +212,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>Performance Optimization</li></ul></td>
+      <td>Performance Optimization</td>
     </tr>
   </tbody>
 </table>
@@ -212,35 +231,41 @@ nav_order: 5
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Migrated from a modular monolith to a microservices architecture to improve scalability</td>
+      <td>IT4. Migrated from a modular monolith to a microservices architecture to improve scalability</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>Monolithic Architecture, Increased DB write load due to traffic growth to core features</li></ul></td>
+      <td><ul><li>**Monolithic Architecture**: The system was initially built as a modular monolith</li><li>**Increased Database Load**: Traffic to core features grew, leading to increased write load on the database</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Create independent microservices to handle increasing load</td>
+      <td>Create independent microservices from the primary service to address the increasing load</td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Migrated step-by-step: Created three microservices (Work Diary, Attendance, Main)</li></ul></td>
+      <td><ul><li>Migrated to microservices step-by-step</li><li>Created three microservices:
+          <ul>
+            <li>Work Diary</li>
+            <li>Attendance Management</li>
+            <li>Main</li>
+          </ul>
+        </li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>Downtime Minimization during migration</td>
+      <td>**Downtime Minimization**: We needed to achieve the migration while minimizing downtime</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>BFF-Based Traffic Management: Gradually switched traffic using BFF layer</td>
+      <td>**BFF-Based Traffic Management**: Added a BFF layer in front of the microservices and gradually switched traffic to each service, enabling a seamless migration</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td>Distributed traffic, reducing database write load</td>
+      <td>Distributed traffic to core features across microservices, reducing the write load on the database</td>
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>Migration</li></ul></td>
+      <td>Migration</td>
     </tr>
   </tbody>
 </table>
@@ -259,27 +284,34 @@ nav_order: 5
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Migrated from MySQL 5.7 to MySQL 8.0 to ensure reliability and maintainability</td>
+      <td>IT5. Migrated from MySQL 5.7 to MySQL 8.0 to ensure reliability and maintainability</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>MySQL 5.7 approaching end of support</li></ul></td>
+      <td>**End of Support Notice**: MySQL 5.7 was approaching its end of support</td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Seamlessly upgrade to MySQL 8.0 ensuring stability and performance</td>
+      <td>Seamlessly upgrade to MySQL 8.0 while ensuring system stability and performance</td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Developed runbook, Implemented Blue-Green deployment</li></ul></td>
+      <td><ul><li>Developed a runbook: Documented a step-by-step migration plan.</li><li>Implemented Blue-Green deployment: Ensured a smooth transition with minimal downtime and a rollback strategy.</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>Incident during migration impacting user experience</td>
+      <td>**Incident during migration**: Unexpected issues surfaced, impacting user experience</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>Investigation (JSON unmarshal error due to column type change), Hotfix, Permanent Fix (revert type)</td>
+      <td><ul><li>**Investigation & Root Cause Analysis**:
+          <ul>
+            <li>Users encountered an error dialog on service pages</li>
+            <li>**Root cause**: JSON unmarshal error due to a change in column type from UNSIGNED to DOUBLE</li>
+            <li>**Temporary Fix**: Deployed a hotfix to handle JSON parsing errors</li>
+            <li>**Permanent Fix**: Reverted JSON column type back to UNSIGNED, resolving compatibility issues</li>
+          </ul>
+        </li></ul></td>
     </tr>
     <tr>
       <td>Result</td>
@@ -287,7 +319,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>Incident Response / Migration</li></ul></td>
+      <td>Incident Response / Migration</td>
     </tr>
   </tbody>
 </table>

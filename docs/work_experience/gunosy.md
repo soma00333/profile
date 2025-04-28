@@ -71,11 +71,11 @@ nav_order: 7
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Analyzed data from millions of users and designed A/B testing strategies</td>
+      <td>GU1. Analyzed data from millions of users and designed A/B testing strategies to improve user retention</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>Declining user retention rates</li></ul></td>
+      <td>**Declining User Retention**: User retention rates were declining</td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -83,15 +83,23 @@ nav_order: 7
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Focused on new user initial experience, Implemented A/B testing based on ad engagement</li></ul></td>
+      <td><ul><li>**Communication & Design**
+          <ul>
+            <li>Focused on the initial experience of new users</li>
+          </ul>
+        </li><li>**A/B Testing Implementation**
+          <ul>
+            <li>Changed the initial content for new users based on the ads they engaged with</li>
+          </ul>
+        </li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>Sample Size: Needed sufficient new users for A/B testing</td>
+      <td>**Sample Size**: Targeted new users, requiring a sufficient sample size for A/B testing</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>Utilized Digital Marketing for targeted ad distribution</td>
+      <td>**Utilized Digital Marketing**: Conducted targeted ad distribution to ensure a sufficient number of users for A/B testing</td>
     </tr>
     <tr>
       <td>Result</td>
@@ -99,7 +107,7 @@ nav_order: 7
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>Data Engineering</li></ul></td>
+      <td>Data Engineering</td>
     </tr>
   </tbody>
 </table>
