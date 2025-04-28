@@ -67,31 +67,31 @@ nav_order: 6
   <tbody>
     <tr>
       <td>Summary</td>
-      <td><strong>AL1</strong>. Developed features and conducted reviews for an LLM development platform</td>
+      <td><strong>AL1</strong>. Developed a serverless training pipeline for fine-tuning LLMs</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><strong>Inefficient Workflow</strong>: Traditional LLM development workflows were inefficient, requiring manual data handling and model tuning</td>
+      <td>- <strong>Need for a Training Pipeline</strong>: A training pipeline was required for fine-tuning LLMs efficiently</td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Develop features for an LLM development platform to streamline workflows</td>
+      <td>- Develop an efficient training pipeline</td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li><strong>Feature Development</strong>: Developed user-friendly features, focusing on data handling and model tuning</li><li><strong>Review</strong>: Reviewed pull requests for Golang code and SQL queries</li></ul></td>
+      <td><ul><li>Developed a Training Pipeline:</li><li>Download from S3 for efficient data retrieval</li><li>Push to Hugging Face for model storage and sharing</li><li>Parameter tracking with WandB</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><strong>Integrating New Technologies</strong>: Integrating rapidly evolving LLM technologies into a stable platform</td>
+      <td><strong>Cost Management</strong>: Managing the costs associated with fine-tuning LLMs was a key challenge</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><strong>Modular Design</strong>: Implemented a modular design to easily incorporate new technologies</td>
+      <td><strong>Serverless Optimization</strong>: Utilized a serverless architecture to reduce costs</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td>Enabled fine-tuning of LLMs efficiently, optimizing compute resource utilization</td>
+      <td>- Enabled fine-tuning of LLMs efficiently, optimizing compute resource utilization</td>
     </tr>
     <tr>
       <td>Skill</td>

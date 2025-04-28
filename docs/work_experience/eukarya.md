@@ -79,16 +79,16 @@ nav_order: 2
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>**Develop the extension**:
+      <td><ul><li><strong>Develop the extension</strong>:
           <ul>
-            <li>**Compiler**: Compile custom scripts into .wasm</li>
-            <li>**Runtime**: Execute scripts on a WebAssembly runtime</li>
+            <li><strong>Compiler</strong>: Compile custom scripts into .wasm</li>
+            <li><strong>Runtime</strong>: Execute scripts on a WebAssembly runtime</li>
           </ul>
         </li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>**Execution Control**: If the execution environment was too flexible, unintended executions could occur, posing security risks</td>
+      <td><strong>Execution Control</strong>: If the execution environment was too flexible, unintended executions could occur, posing security risks</td>
     </tr>
     <tr>
       <td>Overcome</td>
@@ -127,7 +127,14 @@ nav_order: 2
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>**Develop the feature**</li><li>**Workflow Engine**: Added a publisher to publish logs to Pub/Sub</li><li>**Subscriber**: Created a subscriber to subscribe logs from Pub/Sub and write to a datastore</li><li>**API**: Added a resolver to read logs from the datastore</li></ul></td>
+      <td>
+        <ul>
+          <li>Develop the feature</li>
+          <li><strong>Workflow Engine</strong>: Added a publisher to publish logs to Pub/Sub</li>
+          <li><strong>Subscriber</strong>: Created a subscriber to subscribe logs from Pub/Sub and write to a datastore</li>
+          <li><strong>API</strong>: Added a resolver to read logs from the datastore</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Challenge</td>
@@ -135,7 +142,13 @@ nav_order: 2
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>Utilized optimized datastore</li><li>**Cache**: Redis for fast log retrieval</li><li>**Permanent Storage**: GCS for long-term log storage</li></ul></td>
+      <td>
+        <ul>
+          <li>Utilized optimized datastore</li>
+          <li><strong>Cache</strong>: Redis for fast log retrieval</li>
+          <li><strong>Permanent Storage</strong>: GCS for long-term log storage</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Result</td>

@@ -108,7 +108,12 @@ nav_order: 4
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li><strong>Manual Configuration</strong>: Developers had to create manifests and Terraform configurations for each new microservice manually</li><li><strong>Inefficiency & Errors</strong>: The process was time-consuming and error-prone</li></ul></td>
+      <td>
+        <ul>
+          <li><strong>Manual Configuration</strong>: Developers had to create manifests and Terraform configurations for each new microservice manually</li>
+          <li><strong>Inefficiency & Errors</strong>: The process was time-consuming and error-prone</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -116,15 +121,21 @@ nav_order: 4
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Develop a generator tool</li><li>**Command-Line Tool**: Implemented a command line tool using Go</li><li>**Template System**: Created a template to generate standardized configurations</li></ul></td>
+      <td>
+        <ul>
+          <li>Develop a generator tool</li>
+          <li><strong>Command-Line Tool</strong>: Implemented a command line tool using Go</li>
+          <li><strong>Template System</strong>: Created a template to generate standardized configurations</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>**Version Management**: If developers used an outdated CLI version, incorrect templates would be generated</td>
+      <td><strong>Version Management</strong>: If developers used an outdated CLI version, incorrect templates would be generated</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>**CI Integration**: Configured the CLI client to only trigger the CI, while managing the main logic within the CI to ensure it is always up to date</td>
+      <td><strong>CI Integration</strong>: Configured the CLI client to only trigger the CI, while managing the main logic within the CI to ensure it is always up to date</td>
     </tr>
     <tr>
       <td>Result</td>
@@ -151,7 +162,12 @@ nav_order: 4
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li><strong>Dependency on Other Microservices</strong>: Local development was dependent on other microservices</li><li><strong>Complex Setup</strong>: Setting up a local environment was time-consuming</li></ul></td>
+      <td>
+        <ul>
+          <li><strong>Dependency on Other Microservices</strong>: Local development was dependent on other microservices</li>
+          <li><strong>Complex Setup</strong>: Setting up a local environment was time-consuming</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -159,15 +175,37 @@ nav_order: 4
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>**Deploy Telepresence**: Enabled interaction with other microservices in the cluster from the local environment</li><li>**Develop a Local Development System**: Utilized Devcontainer for streamlined development</li></ul></td>
+      <td>
+        <ul>
+          <li><strong>Deploy Telepresence</strong>: Enabled interaction with other microservices in the cluster from the local environment</li>
+          <li><strong>Develop a Local Development System</strong>: Utilized Devcontainer for streamlined development</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li><strong>High-Security Requirement</strong>:<ul><li>We had robust security standards for our Kubernetes clusters</li><li>But official Helm charts didn't support modifying security configurations</li></ul></li></ul></td>
+      <td>
+        <ul>
+          <li><strong>High-Security Requirement</strong>:
+            <ul>
+              <li>We had robust security standards for our Kubernetes clusters</li>
+              <li>But official Helm charts didn't support modifying security configurations</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>**Customizing Helm Charts**: Converted Helm charts to Kustomize</li><li>**Manual Security Enhancements**: Added security patches manually</li><li>**Pod Security Admission**</li><li>**NetworkPolicy**</li><li>**Security Context**</li></ul></td>
+      <td>
+        <ul>
+          <li><strong>Customizing Helm Charts</strong>: Converted Helm charts to Kustomize</li>
+          <li><strong>Manual Security Enhancements</strong>: Added security patches manually</li>
+          <li><strong>Pod Security Admission</strong></li>
+          <li><strong>NetworkPolicy</strong></li>
+          <li><strong>Security Context</strong></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Result</td>

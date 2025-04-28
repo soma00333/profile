@@ -79,7 +79,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>**SLI/SLO Design**: Designed SLI/SLO using CUJ</li><li>**Observability Development**
+      <td><ul><li><strong>SLI/SLO Design</strong>: Designed SLI/SLO using CUJ</li><li><strong>Observability Development</strong>
           <ul>
             <li>Implemented custom metrics</li>
             <li>Implemented tracing</li>
@@ -88,11 +88,11 @@ nav_order: 5
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>**SLO Tuning**: Since violating the SLO requires stopping releases, I had to adjust the objective threshold properly</td>
+      <td><strong>SLO Tuning</strong>: Since violating the SLO requires stopping releases, I had to adjust the objective threshold properly</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>**Load Testing & Optimization**: By conducting load tests, I checked the SLI during traffic spikes and set appropriate objectives</td>
+      <td><strong>Load Testing & Optimization</strong>: By conducting load tests, I checked the SLI during traffic spikes and set appropriate objectives</td>
     </tr>
     <tr>
       <td>Result</td>
@@ -140,11 +140,11 @@ nav_order: 5
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>**Tight Schedule**: There was not enough time to build a WebSocket server</td>
+      <td><strong>Tight Schedule</strong>: There was not enough time to build a WebSocket server</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>**Polling-Based Approach**: Extended the existing API using polling instead of WebSocket</td>
+      <td><strong>Polling-Based Approach</strong>: Extended the existing API using polling instead of WebSocket</td>
     </tr>
     <tr>
       <td>Result</td>
@@ -179,7 +179,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>**Index Optimization**: Implemented appropriate indexes to improve query performance</li><li>**Query Refactoring**:
+      <td><ul><li><strong>Index Optimization</strong>: Implemented appropriate indexes to improve query performance</li><li><strong>Query Refactoring</strong>:
           <ul>
             <li>Eliminated unnecessary joins</li>
             <li>Optimized queries to utilize indexes efficiently</li>
@@ -188,11 +188,11 @@ nav_order: 5
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>**Root Cause Analysis**: Identifying the exact source of slow queries was challenging due to complex query execution patterns</td>
+      <td><strong>Root Cause Analysis</strong>: Identifying the exact source of slow queries was challenging due to complex query execution patterns</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>**Query Tracing**: Monitored and analyzed tracing to detect anomalies</li><li>**EXPLAIN Analysis**: Used EXPLAIN statements to identify queries performing full table scans without indexes</li></ul></td>
+      <td><ul><li><strong>Query Tracing</strong>: Monitored and analyzed tracing to detect anomalies</li><li><strong>EXPLAIN Analysis</strong>: Used EXPLAIN statements to identify queries performing full table scans without indexes</li></ul></td>
     </tr>
     <tr>
       <td>Result</td>
@@ -237,11 +237,11 @@ nav_order: 5
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>**Downtime Minimization**: We needed to achieve the migration while minimizing downtime</td>
+      <td><strong>Downtime Minimization</strong>: We needed to achieve the migration while minimizing downtime</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>**BFF-Based Traffic Management**: Added a BFF layer in front of the microservices and gradually switched traffic to each service, enabling a seamless migration</td>
+      <td><strong>BFF-Based Traffic Management</strong>: Added a BFF layer in front of the microservices and gradually switched traffic to each service, enabling a seamless migration</td>
     </tr>
     <tr>
       <td>Result</td>
@@ -280,18 +280,22 @@ nav_order: 5
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>**Incident during migration**: Unexpected issues surfaced, impacting user experience</td>
+      <td><strong>Incident during migration</strong>: Unexpected issues surfaced, impacting user experience</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>**Investigation & Root Cause Analysis**:
-          <ul>
-            <li>Users encountered an error dialog on service pages</li>
-            <li>**Root cause**: JSON unmarshal error due to a change in column type from UNSIGNED to DOUBLE</li>
-            <li>**Temporary Fix**: Deployed a hotfix to handle JSON parsing errors</li>
-            <li>**Permanent Fix**: Reverted JSON column type back to UNSIGNED, resolving compatibility issues</li>
-          </ul>
-        </li></ul></td>
+      <td>
+        <ul>
+          <li><strong>Investigation & Root Cause Analysis</strong>:
+            <ul>
+              <li>Users encountered an error dialog on service pages</li>
+              <li><strong>Root cause</strong>: JSON unmarshal error due to a change in column type from UNSIGNED to DOUBLE</li>
+              <li><strong>Temporary Fix</strong>: Deployed a hotfix to handle JSON parsing errors</li>
+              <li><strong>Permanent Fix</strong>: Reverted JSON column type back to UNSIGNED, resolving compatibility issues</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Result</td>
