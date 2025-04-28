@@ -16,3 +16,4 @@ layout: default
 | Introduction to Deep Learning                           | CSCA 5642  | University of Colorado Boulder  | March 1, 2025   |
 | Modeling of Autonomous Systems                           | CSCA 5834  | University of Colorado Boulder  | May 1, 2025   | 
 | Requirement Specifications for Autonomous Systems        | CSCA 5844  | University of Colorado Boulder  | May 1, 2025   | 
+| Verification and Synthesis of Autonomous Systems         | CSCA 5854  | University of Colorado Boulder  | May 1, 2025   | 
