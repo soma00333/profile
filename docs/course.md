@@ -15,3 +15,4 @@ layout: default
 | Unsupervised Algorithms in Machine Learning             | CSCA 5632  | University of Colorado Boulder  | March 1, 2025   |
 | Introduction to Deep Learning                           | CSCA 5642  | University of Colorado Boulder  | March 1, 2025   |
 | Modeling of Autonomous Systems                           | CSCA 5834  | University of Colorado Boulder  | May 1, 2025   | 
+| Requirement Specifications for Autonomous Systems        | CSCA 5844  | University of Colorado Boulder  | May 1, 2025   | 
