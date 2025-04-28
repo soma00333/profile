@@ -79,7 +79,17 @@ nav_order: 6
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Developed a Training Pipeline:</li><li>Download from S3 for efficient data retrieval</li><li>Push to Hugging Face for model storage and sharing</li><li>Parameter tracking with WandB</li></ul></td>
+      <td>
+        <ul>
+          <li>Developed a Training Pipeline:
+            <ul>
+              <li>Download from S3 for efficient data retrieval</li>
+              <li>Push to Hugging Face for model storage and sharing</li>
+              <li>Parameter tracking with WandB</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Challenge</td>
@@ -91,7 +101,7 @@ nav_order: 6
     </tr>
     <tr>
       <td>Result</td>
-      <td>- Enabled fine-tuning of LLMs efficiently, optimizing compute resource utilization</td>
+      <td>Enabled fine-tuning of LLMs efficiently, optimizing compute resource utilization</td>
     </tr>
     <tr>
       <td>Skill</td>

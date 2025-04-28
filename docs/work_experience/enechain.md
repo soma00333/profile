@@ -124,8 +124,10 @@ nav_order: 4
       <td>
         <ul>
           <li>Develop a generator tool</li>
-          <li><strong>Command-Line Tool</strong>: Implemented a command line tool using Go</li>
-          <li><strong>Template System</strong>: Created a template to generate standardized configurations</li>
+          <ul>
+            <li><strong>Command-Line Tool</strong>: Implemented a command line tool using Go</li>
+            <li><strong>Template System</strong>: Created a template to generate standardized configurations</li>
+          </ul>
         </ul>
       </td>
     </tr>
@@ -200,10 +202,13 @@ nav_order: 4
       <td>
         <ul>
           <li><strong>Customizing Helm Charts</strong>: Converted Helm charts to Kustomize</li>
-          <li><strong>Manual Security Enhancements</strong>: Added security patches manually</li>
-          <li><strong>Pod Security Admission</strong></li>
-          <li><strong>NetworkPolicy</strong></li>
-          <li><strong>Security Context</strong></li>
+          <li><strong>Manual Security Enhancements</strong>: Added security patches manually
+            <ul>
+              <li><strong>Pod Security Admission</strong></li>
+              <li><strong>NetworkPolicy</strong></li>
+              <li><strong>Security Context</strong></li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>

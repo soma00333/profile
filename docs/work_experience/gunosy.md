@@ -83,11 +83,11 @@ nav_order: 7
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><strong>Balancing Metrics</strong>: Improving retention without negatively impacting ad revenue</td>
+      <td><strong>Sample Size</strong>: Targeted new users, requiring a sufficient sample size for A/B testing</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><strong>Segmentation</strong>: Conducted detailed user segmentation to identify key target groups</td>
+      <td><strong>Utilized Digital Marketing</strong>: Conducted targeted ad distribution to ensure a sufficient number of users for A/B testing</td>
     </tr>
     <tr>
       <td>Result</td>

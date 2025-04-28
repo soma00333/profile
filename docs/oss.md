@@ -47,5 +47,3 @@ layout: default
     </tr>
   </tbody>
 </table> 
-
-[https://www.cybereason.com/](https://www.cybereason.com/)  
