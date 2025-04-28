@@ -8,9 +8,9 @@ nav_order: 1
 
 ### Summary
 
-- Role: Software engineer with 7+ years of experience in site reliability and backend development
-- Experience: Designed and developed distributed systems and enterprise applications, ensuring high performance and scalability
-- Skill: Go, Python, Java, Kubernetes
+- <strong>Role</strong>: Software engineer with 7+ years of experience in site reliability and backend development
+- <strong>Experience</strong>: Designed and developed distributed systems and enterprise applications, ensuring high performance and scalability
+- <strong>Skill</strong>: Go, Python, Java, Kubernetes
 
 ### About Me
 
