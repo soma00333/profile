@@ -103,12 +103,8 @@ nav_order: 4
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>EN1</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>EN1. Developed a generator tool for manifests and Terraform configurations for new microservices</td>
+      <td><strong>EN1</strong>. Developed a generator tool for manifests and Terraform configurations for new microservices</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -150,12 +146,8 @@ nav_order: 4
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>EN2</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>EN2. Developed a system for local development by deploying Telepresence to the Kubernetes cluster</td>
+      <td><strong>EN2</strong>. Developed a system for local development by deploying Telepresence to the Kubernetes cluster</td>
     </tr>
     <tr>
       <td>Problem</td>

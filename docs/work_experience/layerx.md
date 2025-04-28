@@ -66,12 +66,8 @@ nav_order: 3
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>LX1</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>LX1. Developed an event-driven notification system within a closed network</td>
+      <td><strong>LX1</strong>. Developed an event-driven notification system within a closed network</td>
     </tr>
     <tr>
       <td>Problem</td>

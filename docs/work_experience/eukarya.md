@@ -66,12 +66,8 @@ nav_order: 2
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>EU1</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>EU1. Developed a processor that compiles user scripts into WebAssembly files and executes them efficiently on a WASM runtime</td>
+      <td><strong>EU1</strong>. Developed a processor that compiles user scripts into WebAssembly files and executes them efficiently on a WASM runtime</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -118,12 +114,8 @@ nav_order: 2
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>EU2</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>EU2. Developed a real-time logging system for the workflow engine, leveraging storage and cache efficiently</td>
+      <td><strong>EU2</strong>. Developed a real-time logging system for the workflow engine, leveraging storage and cache efficiently</td>
     </tr>
     <tr>
       <td>Problem</td>

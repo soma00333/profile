@@ -66,12 +66,8 @@ nav_order: 5
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>IT1</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>IT1. Designed SLI/SLO and developed custom metrics and tracing to enhance system reliability</td>
+      <td><strong>IT1</strong>. Designed SLI/SLO and developed custom metrics and tracing to enhance system reliability</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -118,12 +114,8 @@ nav_order: 5
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>IT2</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>IT2. Developed a group chat service and notification system enabling the exchange of photos, videos, and texts</td>
+      <td><strong>IT2</strong>. Developed a group chat service and notification system enabling the exchange of photos, videos, and texts</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -174,12 +166,8 @@ nav_order: 5
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>IT3</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>IT3. Tuned indexes and optimized queries to improve database performance</td>
+      <td><strong>IT3</strong>. Tuned indexes and optimized queries to improve database performance</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -226,12 +214,8 @@ nav_order: 5
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>IT4</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>IT4. Migrated from a modular monolith to a microservices architecture to improve scalability</td>
+      <td><strong>IT4</strong>. Migrated from a modular monolith to a microservices architecture to improve scalability</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -279,12 +263,8 @@ nav_order: 5
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>IT5</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>IT5. Migrated from MySQL 5.7 to MySQL 8.0 to ensure reliability and maintainability</td>
+      <td><strong>IT5</strong>. Migrated from MySQL 5.7 to MySQL 8.0 to ensure reliability and maintainability</td>
     </tr>
     <tr>
       <td>Problem</td>

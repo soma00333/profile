@@ -66,12 +66,8 @@ nav_order: 7
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>GU1</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>GU1. Analyzed data from millions of users and designed A/B testing strategies to improve user retention</td>
+      <td><strong>GU1</strong>. Analyzed data from millions of users and designed A/B testing strategies to improve user retention</td>
     </tr>
     <tr>
       <td>Problem</td>

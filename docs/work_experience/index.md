@@ -22,7 +22,7 @@ layout: default
   <tbody>
     <tr>
       <td>Cybereason Inc.</td>
-      <td><ul><li>Cybereason: <strong>Software Engineer / Site Reliability Engineer</strong></li><li>Software Engineer</li></ul></td>
+      <td><ul><li>Site Reliability Engineer</li><li>Software Engineer</li></ul></td>
       <td>October 1, 2024</td>
       <td></td>
       <td>Permanent</td>

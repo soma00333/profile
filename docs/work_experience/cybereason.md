@@ -75,7 +75,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li>**Ovservability Development**: Develop custom metrics and distributed tracing to improve observability</li><li>**Incident Response**: Troubleshoot cross-microservices issues to identify the root cause</li></ul></td>
+      <td><ul><li><strong>Ovservability Development</strong>: Develop custom metrics and distributed tracing to improve observability</li><li><strong>Incident Response</strong>: Troubleshoot cross-microservices issues to identify the root cause</li></ul></td>
     </tr>
     <tr>
       <td>Term</td>
@@ -103,12 +103,8 @@ nav_order: 1
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>CR1</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>Designed and developed custom metrics and improved observability across 3k servers</td>
+      <td><strong>CR1</strong>. Designed and developed custom metrics and improved observability across 3k servers</td>
     </tr>
     <tr>
       <td>Problem</td>
@@ -156,12 +152,8 @@ nav_order: 1
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>CR2</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>CR2. Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads</td>
+      <td><strong>CR2</strong>. Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads</td>
     </tr>
     <tr>
       <td>Problem</td>

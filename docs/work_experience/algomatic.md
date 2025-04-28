@@ -66,12 +66,8 @@ nav_order: 6
   </thead>
   <tbody>
     <tr>
-      <td>Key</td>
-      <td>AL1</td>
-    </tr>
-    <tr>
       <td>Summary</td>
-      <td>AL1. Developed features and conducted reviews for an LLM development platform</td>
+      <td><strong>AL1</strong>. Developed features and conducted reviews for an LLM development platform</td>
     </tr>
     <tr>
       <td>Problem</td>

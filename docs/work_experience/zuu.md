@@ -54,7 +54,7 @@ nav_order: 8
     </tr>
     <tr>
       <td>Summary</td>
-      <td>ZU1. Developed an API server using Python for a real estate crowdfunding system</td>
+      <td><strong>ZU1</strong>. Developed an API server using Python for a real estate crowdfunding system</td>
     </tr>
     <tr>
       <td>Problem</td>
