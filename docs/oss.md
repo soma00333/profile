@@ -23,7 +23,7 @@ layout: default
     <tr>
       <td><a href="https://github.com/kubernetes/kubernetes">kubernetes/kubernetes</a></td>
       <td>Contributor</td>
-      <td><ul><li>Implementing [Structured Logging](https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/1602-structured-logging) and [Contextual Logging](https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/3077-contextual-logging) for multiple packages, which increase system reliability and debugging efficiency</li></ul></td>
+      <td><ul><li>Implementing <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/1602-structured-logging">Structured Logging</a> and <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/3077-contextual-logging">Contextual Logging</a> for multiple packages, which increase system reliability and debugging efficiency</li></ul></td>
     </tr>
     <tr>
       <td><a href="https://github.com/etcd-io/raft">etcd-io/raft</a></td>
