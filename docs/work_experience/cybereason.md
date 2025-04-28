@@ -112,7 +112,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>**Complex Troubleshooting**: The API server had multiple interconnected components, making troubleshooting difficult</li><li>**High MTTR**: Existing monitoring lacked sufficient insights, leading to long MTTR</li></ul></td>
+      <td><ul><li><strong>Complex Troubleshooting</strong>: The API server had multiple interconnected components, making troubleshooting difficult</li><li><strong>High MTTR</strong>: Existing monitoring lacked sufficient insights, leading to long MTTR</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -120,21 +120,21 @@ nav_order: 1
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>**Develop custom metrics**:
+      <td><ul><li><strong>Develop custom metrics</strong>:
         <ul>
-          <li>**API**: Latency and Error Rate</li>
-          <li>**Elasticsearch**: Throughput</li>
-          <li>**MongoDB**: Query Performance</li>
+          <li><strong>API</strong>: Latency and Error Rate</li>
+          <li><strong>Elasticsearch</strong>: Throughput</li>
+          <li><strong>MongoDB</strong>: Query Performance</li>
         </ul>
-      </li><li>**Dashboard**: Improved real-time dashboards to provide actionable insights for engineers</li></ul></td>
+      </li><li><strong>Dashboard</strong>: Improved real-time dashboards to provide actionable insights for engineers</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>**Design**: Designing meaningful custom metrics that provide actionable insights</td>
+      <td><strong>Design</strong>: Designing meaningful custom metrics that provide actionable insights</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>**Communication**: Fostered cross-functional communication between SRE, DevOps, and Product teams</td>
+      <td><strong>Communication</strong>: Fostered cross-functional communication between SRE, DevOps, and Product teams</td>
     </tr>
     <tr>
       <td>Result</td>
@@ -165,7 +165,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>**Crash**: A UI server crashed occasionally for an enterprise customer with 100k employees</li><li>**Troubleshooting Difficulty**: The root cause was unknown, and conventional monitoring tools provided insufficient insights</li></ul></td>
+      <td><ul><li><strong>Crash</strong>: A UI server crashed occasionally for an enterprise customer with 100k employees</li><li><strong>Troubleshooting Difficulty</strong>: The root cause was unknown, and conventional monitoring tools provided insufficient insights</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -173,20 +173,20 @@ nav_order: 1
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>**Root Cause Analysis**:
+      <td><ul><li><strong>Root Cause Analysis</strong>:
           <ul>
             <li>Fetched and analyzed thread dumps and heap dumps</li>
             <li>Found that a legacy API blocked HTTP threads, triggering health check failures and causing automatic restarts</li>
           </ul>
-        </li><li>**Response**: Migrated the legacy API to an efficient v2 API, resolving the issue</li></ul></td>
+        </li><li><strong>Response</strong>: Migrated the legacy API to an efficient v2 API, resolving the issue</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>**Fetching Data**: Since an automated pipeline restarted the UI server upon failure, manual thread and heap dumps could not be obtained</td>
+      <td><strong>Fetching Data</strong>: Since an automated pipeline restarted the UI server upon failure, manual thread and heap dumps could not be obtained</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>**Pipeline**: Added an automated pipeline to collect thread and heap dumps before restart</td>
+      <td><strong>Pipeline</strong>: Added an automated pipeline to collect thread and heap dumps before restart</td>
     </tr>
     <tr>
       <td>Result</td>
