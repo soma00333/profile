@@ -75,7 +75,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>**Custom Functionality**: Users wanted to use their scripts (Python, Go, Rust, etc.) to create custom functions in the workflow engine</li><li>**Extensibility**: There was a need to extend the engine for custom script execution</li></ul></td>
+      <td><ul><li><strong>Custom Functionality</strong>: Users wanted to use their scripts (Python, Go, Rust, etc.) to create custom functions in the workflow engine</li><li><strong>Extensibility</strong>: There was a need to extend the engine for custom script execution</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -123,11 +123,11 @@ nav_order: 2
     </tr>
     <tr>
       <td>Summary</td>
-      <td>EU2. Developed a real-time logging system for a workflow engine, leveraging storage and cache efficiently</td>
+      <td>EU2. Developed a real-time logging system for the workflow engine, leveraging storage and cache efficiently</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>**Real-Time Monitoring Need**: Users needed to monitor the execution status of the workflow engine in real time</li><li>**Lack of Logging Mechanism**: The system lacked an effective mechanism for logging and retrieving workflow status</li></ul></td>
+      <td><ul><li><strong>Real-Time Monitoring Need</strong>: Users needed to monitor the execution status of the workflow engine in real time</li><li><strong>Lack of Logging Mechanism</strong>: The system lacked an effective mechanism for logging and retrieving workflow status</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -139,7 +139,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>**High-Performance Requirement**: Users needed to monitor the logs output by the workflow engine in real time</td>
+      <td><strong>High-Performance Requirement</strong>: Users needed to monitor the logs output by the workflow engine in real time</td>
     </tr>
     <tr>
       <td>Overcome</td>

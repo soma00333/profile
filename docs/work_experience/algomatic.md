@@ -71,33 +71,27 @@ nav_order: 6
     </tr>
     <tr>
       <td>Summary</td>
-      <td>AL1. Developed a serverless training pipeline for fine-tuning LLMs</td>
+      <td>AL1. Developed features and conducted reviews for an LLM development platform</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td>**Need for a Training Pipeline**: A training pipeline was required for fine-tuning LLMs efficiently</td>
+      <td><strong>Inefficient Workflow</strong>: Traditional LLM development workflows were inefficient, requiring manual data handling and model tuning</td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Develop an efficient training pipeline</td>
+      <td>Develop features for an LLM development platform to streamline workflows</td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>**Developed a Training Pipeline**:
-          <ul>
-            <li>Download from S3 for efficient data retrieval</li>
-            <li>Push to Hugging Face for model storage and sharing</li>
-            <li>Parameter tracking with WandB</li>
-          </ul>
-        </li></ul></td>
+      <td><ul><li><strong>Feature Development</strong>: Developed user-friendly features, focusing on data handling and model tuning</li><li><strong>Review</strong>: Reviewed pull requests for Golang code and SQL queries</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>**Cost Management**: Managing the costs associated with fine-tuning LLMs was a key challenge</td>
+      <td><strong>Integrating New Technologies</strong>: Integrating rapidly evolving LLM technologies into a stable platform</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>**Serverless Optimization**: Utilized a serverless architecture to reduce costs</td>
+      <td><strong>Modular Design</strong>: Implemented a modular design to easily incorporate new technologies</td>
     </tr>
     <tr>
       <td>Result</td>

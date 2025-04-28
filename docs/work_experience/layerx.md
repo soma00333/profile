@@ -75,7 +75,7 @@ nav_order: 3
     </tr>
     <tr>
       <td>Problem</td>
-      <td>**Workflow Visibility Issue**: Users couldn't see their workflow status after triggering it</td>
+      <td><strong>Workflow Visibility Issue</strong>: Users couldn't see their workflow status after triggering it</td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -87,11 +87,11 @@ nav_order: 3
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>**High-Security Requirement**: The system had to be deployed within a closed network with strict traffic control</td>
+      <td><strong>High-Security Requirement</strong>: The system had to be deployed within a closed network with strict traffic control</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><ul><li>**Network Design**: Explicitly defined all inbound/outbound traffic rules</li><li>**Strict Firewall Setting**: Configured a secure firewall policy to control access</li></ul></td>
+      <td><ul><li><strong>Network Design</strong>: Explicitly defined all inbound/outbound traffic rules</li><li><strong>Strict Firewall Setting</strong>: Configured a secure firewall policy to control access</li></ul></td>
     </tr>
     <tr>
       <td>Result</td>

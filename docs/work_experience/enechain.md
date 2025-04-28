@@ -112,7 +112,7 @@ nav_order: 4
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>**Manual Configuration**: Developers had to create manifests and Terraform configurations for each new microservice manually</li><li>**Inefficiency & Errors**: The process was time-consuming and error-prone</li></ul></td>
+      <td><ul><li><strong>Manual Configuration</strong>: Developers had to create manifests and Terraform configurations for each new microservice manually</li><li><strong>Inefficiency & Errors</strong>: The process was time-consuming and error-prone</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -159,7 +159,7 @@ nav_order: 4
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>**Dependency on Other Microservices**: Local development was dependent on other microservices</li><li>**Complex Setup**: Setting up a local environment was time-consuming</li></ul></td>
+      <td><ul><li><strong>Dependency on Other Microservices</strong>: Local development was dependent on other microservices</li><li><strong>Complex Setup</strong>: Setting up a local environment was time-consuming</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -171,7 +171,7 @@ nav_order: 4
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><ul><li>**High-Security Requirement**: The system had to be deployed within a closed network with strict traffic control</li><li>We had robust security standards for our Kubernetes clusters</li><li>But official Helm charts didn't support modifying security configurations</li></ul></td>
+      <td><ul><li><strong>High-Security Requirement</strong>:<ul><li>We had robust security standards for our Kubernetes clusters</li><li>But official Helm charts didn't support modifying security configurations</li></ul></li></ul></td>
     </tr>
     <tr>
       <td>Overcome</td>

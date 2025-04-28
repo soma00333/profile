@@ -52,6 +52,14 @@ nav_order: 8
       <td>Type</td>
       <td>Intern</td>
     </tr>
+    <tr>
+      <td>Summary</td>
+      <td>ZU1. Developed an API server using Python for a real estate crowdfunding system</td>
+    </tr>
+    <tr>
+      <td>Problem</td>
+      <td><strong>API Requirement</strong>: An API server was required for the real estate crowdfunding system</td>
+    </tr>
   </tbody>
 </table>
 

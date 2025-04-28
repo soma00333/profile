@@ -75,7 +75,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>**Business Opportunity**: Got a chance to introduce the system to Japan's largest real estate company</li><li>**Operational Gaps**: Realized that the existing operation does not meet the required level</li></ul></td>
+      <td><ul><li><strong>Business Opportunity</strong>: Got a chance to introduce the system to Japan's largest real estate company</li><li><strong>Operational Gaps</strong>: Realized that the existing operation does not meet the required level</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -127,7 +127,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>**User Requirement**: Users wanted a group chat service and notification system for exchanging photos, videos, and texts</li><li>**Lack of Existing Features**: But the system did not have these capabilities</li></ul></td>
+      <td><strong>Need for Chat Functionality</strong>: The system lacked a chat function required for business operations</td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -183,7 +183,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>**Frequent Slow Queries**: A core feature suffered from repeated slow queries, impacting user experience.</li><li>**High CPU & Memory Utilization**: Slow queries led to CPU and memory spikes, especially during peak hours (09:00 AM)</li></ul></td>
+      <td><ul><li><strong>Frequent Slow Queries</strong>: A core feature suffered from repeated slow queries, impacting user experience.</li><li><strong>High CPU & Memory Utilization</strong>: Slow queries led to CPU and memory spikes, especially during peak hours (09:00 AM)</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -235,7 +235,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>**Monolithic Architecture**: The system was initially built as a modular monolith</li><li>**Increased Database Load**: Traffic to core features grew, leading to increased write load on the database</li></ul></td>
+      <td><ul><li><strong>Monolithic Architecture</strong>: The system was initially built as a modular monolith</li><li><strong>Increased Database Load</strong>: Traffic to core features grew, leading to increased write load on the database</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -288,7 +288,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Problem</td>
-      <td>**End of Support Notice**: MySQL 5.7 was approaching its end of support</td>
+      <td><ul><li><strong>End-of-Life Version</strong>: MySQL 5.7 was approaching its end-of-life, necessitating an upgrade</li><li><strong>Migration Complexity</strong>: The migration process involved complexities and potential risks</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
