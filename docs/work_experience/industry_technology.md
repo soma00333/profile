@@ -290,9 +290,9 @@ nav_order: 5
             <ul>
               <li>Users encountered an error dialog on service pages</li>
               <li><strong>Root cause</strong>: JSON unmarshal error due to a change in column type from UNSIGNED to DOUBLE</li>
-              <li><strong>Temporary Fix</strong>: Deployed a hotfix to handle JSON parsing errors</li>
-              <li><strong>Permanent Fix</strong>: Reverted JSON column type back to UNSIGNED, resolving compatibility issues</li>
             </ul>
+          <li><strong>Temporary Fix</strong>: Deployed a hotfix to handle JSON parsing errors</li>
+          <li><strong>Permanent Fix</strong>: Reverted JSON column type back to UNSIGNED, resolving compatibility issues</li>
           </li>
         </ul>
       </td>
