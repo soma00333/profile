@@ -14,7 +14,7 @@ nav_order: 1
 | Company     | Cybereason Inc.                                                                                                   |
 | Employee    | 1000+                                                                                                             |
 | Founded     | 2012                                                                                                              |
-| Web Site    | https://www.cybereason.com/                                                                                       |
+| Web Site    | [https://www.cybereason.com/](https://www.cybereason.com/)                                                        |
 | Description | A global cybersecurity company operating in 40+ countries, providing EDR, XDR, and MDR solutions to combat cyberattacks |
 | Location    | San Diego, US - Japan Office                                                                                      |
 
@@ -38,7 +38,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li>Feature Development</li><li>Refactoring legacy microservices</li></ul></td>
+      <td><ul><li>Develop features</li><li>Refactor legacy microservices</li></ul></td>
     </tr>
     <tr>
       <td>Term</td>
@@ -75,7 +75,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li>Ovservability Development: Develop custom metrics and distributed tracing to improve observability</li><li>Incident Response: Troubleshoot cross-microservices issues to identify the root cause</li></ul></td>
+      <td><ul><li>**Ovservability Development**: Develop custom metrics and distributed tracing to improve observability</li><li>**Incident Response**: Troubleshoot cross-microservices issues to identify the root cause</li></ul></td>
     </tr>
     <tr>
       <td>Term</td>
@@ -112,7 +112,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>Complex Troubleshooting, High MTTR due to insufficient insights</li></ul></td>
+      <td><ul><li>**Complex Troubleshooting**: The API server had multiple interconnected components, making troubleshooting difficult</li><li>**High MTTR**: Existing monitoring lacked sufficient insights, leading to long MTTR</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
@@ -120,15 +120,21 @@ nav_order: 1
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Developed custom metrics (API Latency/Error, ES Throughput, MongoDB Query Perf), Improved Dashboards</li></ul></td>
+      <td><ul><li>**Develop custom metrics**:
+        <ul>
+          <li>**API**: Latency and Error Rate</li>
+          <li>**Elasticsearch**: Throughput</li>
+          <li>**MongoDB**: Query Performance</li>
+        </ul>
+      </li><li>**Dashboard**: Improved real-time dashboards to provide actionable insights for engineers</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>Designing meaningful custom metrics</td>
+      <td>**Design**: Designing meaningful custom metrics that provide actionable insights</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>Fostered cross-functional communication</td>
+      <td>**Communication**: Fostered cross-functional communication between SRE, DevOps, and Product teams</td>
     </tr>
     <tr>
       <td>Result</td>
@@ -136,7 +142,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>Observability / Monitoring</li></ul></td>
+      <td>Observability / Monitoring</td>
     </tr>
   </tbody>
 </table>
@@ -155,35 +161,40 @@ nav_order: 1
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads</td>
+      <td>CR2. Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li>UI server crash for large enterprise customer, Root cause unknown, Insufficient monitoring</li></ul></td>
+      <td><ul><li>**Crash**: A UI server crashed occasionally for an enterprise customer with 100k employees</li><li>**Troubleshooting Difficulty**: The root cause was unknown, and conventional monitoring tools provided insufficient insights</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Identify performance bottleneck and ensure system stability</td>
+      <td>Identify the performance bottleneck and ensure system stability</td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li>Root Cause Analysis (dumps), Found legacy API blocking threads, Migrated to efficient v2 API</li></ul></td>
+      <td><ul><li>**Root Cause Analysis**:
+          <ul>
+            <li>Fetched and analyzed thread dumps and heap dumps</li>
+            <li>Found that a legacy API blocked HTTP threads, triggering health check failures and causing automatic restarts</li>
+          </ul>
+        </li><li>**Response**: Migrated the legacy API to an efficient v2 API, resolving the issue</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td>Fetching dumps before automated restart</td>
+      <td>**Fetching Data**: Since an automated pipeline restarted the UI server upon failure, manual thread and heap dumps could not be obtained</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td>Added automated pipeline to collect dumps before restart</td>
+      <td>**Pipeline**: Added an automated pipeline to collect thread and heap dumps before restart</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td>Resolved critical availability issues, enhancing system reliability for large customer</td>
+      <td>Successfully resolved critical availability issues, enhancing system reliability for the enterprise customer with 100k employees</td>
     </tr>
     <tr>
       <td>Skill</td>
-      <td><ul><li>Incident Response / Troubleshooting</li></ul></td>
+      <td>Incident Response / Troubleshooting</td>
     </tr>
   </tbody>
 </table>

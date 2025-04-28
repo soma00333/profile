@@ -14,7 +14,7 @@ nav_order: 3
 | Company     | LayerX Inc.                                                               |
 | Employee    | 300+                                                                      |
 | Founded     | 2018                                                                      |
-| Web Site    | https://layerx.co.jp/                                                     |
+| Web Site    | [https://layerx.co.jp/](https://layerx.co.jp/)                      |
 | Description | A fintech company that provides enterprise applications for 10k+ companies |
 | Location    | Tokyo, Japan                                                              |
 

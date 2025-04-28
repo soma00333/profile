@@ -14,7 +14,7 @@ nav_order: 8
 | Company     | ZUU Co., Ltd.                                         |
 | Employee    | 140+                                                  |
 | Founded     | 2013                                                  |
-| Web Site    | https://zuu.co.jp/                                    |
+| Web Site    | [https://zuu.co.jp/](https://zuu.co.jp/)     |
 | Description | Japan's largest financial media company with 10M+ users |
 | Location    | Tokyo, Japan                                          |
 

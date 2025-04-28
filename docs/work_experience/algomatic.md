@@ -14,7 +14,7 @@ nav_order: 6
 | Company     | Algomatic Inc.                                                         |
 | Employee    | 30+                                                                    |
 | Founded     | 2023                                                                   |
-| Web Site    | https://algomatic.jp/                                                  |
+| Web Site    | [https://algomatic.jp/](https://algomatic.jp/)                   |
 | Description | An AI company that provides enterprise applications using generative AI |
 | Location    | Tokyo, Japan                                                           |
 

@@ -14,7 +14,7 @@ nav_order: 7
 | Company     | Gunosy Inc.                                        |
 | Employee    | 150+                                               |
 | Founded     | 2012                                               |
-| Web Site    | https://gunosy.co.jp/                              |
+| Web Site    | [https://gunosy.co.jp/](https://gunosy.co.jp/)                              |
 | Description | Japan's largest news app company with 40M+ users |
 | Location    | Tokyo, Japan                                       |
 

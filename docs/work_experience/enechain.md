@@ -14,7 +14,7 @@ nav_order: 4
 | Company     | enechain Corporation                                                                                                                                      |
 | Employee    | 160+                                                                                                                                                      |
 | Founded     | 2019                                                                                                                                                      |
-| Web Site    | https://enechain.co.jp/                                                                                                                                   |
+| Web Site    | [https://enechain.co.jp/](https://enechain.co.jp/)                                                                                                    |
 | Description | A company collaborating with Japan's largest power companies and operating the energy exchange market, dealing with electricity, fuels, and environmental values |
 | Location    | Tokyo, Japan                                                                                                                                              |
 
