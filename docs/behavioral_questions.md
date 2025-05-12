@@ -16,7 +16,7 @@ layout: default
   <tbody>
     <tr>
       <td><strong>Vision</strong></td>
-      <td><ul><li><strong>Core:</strong> I believe reliability is a product's core feature</li><li><strong>Mission:</strong> My mission is to contribute to developing distributed systems from the perspective of reliability</li></ul></td>
+      <td><ul><li><strong>Core:</strong> I believe reliability is a product's core feature</li><li><strong>Mission:</strong> My mission is to contribute to developing distributed systems from the perspective of reliability</li><li><strong>AI/LLM:</strong> I am deeply interested in the evolution of AI/LLM technologies and aspire to leverage them to enhance the developer experience</li></ul></td>
     </tr>
     <tr>
       <td><strong>Career Goal</strong></td>
