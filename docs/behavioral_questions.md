@@ -355,10 +355,10 @@ layout: default
       <td><strong>Difficult Decision</strong></td>
       <td>
         <ul>
-          <li><strong>Project Context (EN2):</strong> At enechain, our goal was to improve local development speed for microservices. We chose Telepresence because it allows developers to run a single service locally while connecting to dependencies in a remote Kubernetes cluster. This dramatically speeds up the develop-test-debug cycle. We deployed it via its official Helm chart.</li>
-          <li><strong>The Challenge:</strong> While Telepresence offered the expected significant boost in development agility, its standard Helm chart did not meet our strict Kubernetes security requirements out-of-the-box. This presented a clear conflict: leverage the new development speed or ensure security compliance.</li>
-          <li><strong>My Action & Resolution:</strong> I decided to harness the development benefits of Telepresence. To address the security concerns, I converted the helm chart to kustomize and added the necessary security patches.</li>
-          <li><strong>Outcome & Impact:</strong> This solution allowed us to achieve faster development cycles with Telepresence while maintaining our crucial security standards, successfully balancing agility with compliance.</li>
+          <li><strong>Project Context (EN2):</strong> At enechain, we adopted Telepresence via its Helm chart to accelerate microservice development. It connects local services to our Kubernetes cluster, significantly speeding up the develop-test-debug cycle.</li>
+          <li><strong>The Conflict:</strong> While Telepresence delivered the expected agility boost, its standard Helm chart failed to meet our stringent Kubernetes security requirements. This created a direct conflict: I had to decide between leveraging this newfound development speed and ensuring full security compliance.</li>
+          <li><strong>My Solution:</strong> To resolve this conflict, I customized the Telepresence Helm chart. I adapted it to be managed with Kustomize, which then allowed me to apply the necessary security patches. This approach ensured we met our security standards while still gaining the development benefits Telepresence offered.</li>
+          <li><strong>The Result:</strong> This tailored approach enabled us to achieve the faster development cycles offered by Telepresence while simultaneously upholding our crucial security standards, effectively balancing speed with compliance.</li>
         </ul>
       </td>
     </tr>
