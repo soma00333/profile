@@ -105,7 +105,7 @@ nav_order: 5
   </tbody>
 </table>
 
-<!-- <table>
+<table>
   <thead>
     <tr>
       <th>Key</th>
@@ -155,7 +155,7 @@ nav_order: 5
       <td>Feature Development</td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
 <table>
   <thead>
@@ -205,7 +205,7 @@ nav_order: 5
   </tbody>
 </table>
 
-<!-- <table>
+<table>
   <thead>
     <tr>
       <th>Key</th>
@@ -246,9 +246,9 @@ nav_order: 5
       <td>Migration</td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
-<table>
+<!-- <table>
   <thead>
     <tr>
       <th>Key</th>
@@ -299,7 +299,7 @@ nav_order: 5
       <td>Incident Response / Migration</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 ## Technology
 
