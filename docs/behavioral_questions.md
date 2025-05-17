@@ -321,11 +321,10 @@ layout: default
       <td><strong>Innovative Idea</strong></td>
       <td>
         <ul>
-          <li><strong>Project Summary (GU1):</strong> At Gunosy, I analyzed data from millions of users and designed A/B testing strategies that improved user retention.</li>
-          <li><strong>The Challenge:</strong> User retention rates were declining.</li>
-          <li><strong>Goal:</strong> My goal was to plan and implement strategies to improve these retention rates.</li>
-          <li><strong>My Strategy:</strong> I focused on improving the initial experience for new users. Specifically, I implemented A/B tests that customized the initial content for new users based on the advertisements they had engaged with.</li>
-          <li><strong>Successful Outcome:</strong> This approach increased the user retention rate beyond what was achieved with standard A/B testing methods.</li>
+          <li><strong>Project Summary (GU1):</strong> At Gunosy, I conceived and executed a novel A/B testing strategy that personalized initial user content based on ad engagement, significantly improving user retention.</li>
+          <li><strong>The Core Problem:</strong> User retention rates were declining, and my goal was to develop an innovative strategy to reverse this trend and improve user engagement from their very first experience.</li>
+          <li><strong>My Innovative Approach:</strong> I theorized that tailoring the initial content to a new user's prior ad interactions would be more engaging. Therefore, I designed and implemented A/B tests where new users received customized content based on the specific ads they had clicked before joining.</li>
+          <li><strong>Key Outcome:</strong> This personalized A/B testing approach significantly outperformed standard methods, leading to a notable increase in user retention rates.</li>
         </ul>
       </td>
     </tr>
