@@ -248,7 +248,7 @@ nav_order: 5
   </tbody>
 </table> -->
 
-<!-- <table>
+<table>
   <thead>
     <tr>
       <th>Key</th>
@@ -299,9 +299,9 @@ nav_order: 5
       <td>Incident Response / Migration</td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
-<!-- ## Technology
+## Technology
 
 | Value        | Tag            |
 | ------------ | -------------- |
@@ -317,4 +317,4 @@ nav_order: 5
 | Prometheus   | Monitoring     |
 | Next.js      | Frontend       |
 | React        | Frontend       |
-| TypeScript   | Frontend       |  -->
+| TypeScript   | Frontend       | 
