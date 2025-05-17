@@ -92,7 +92,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><strong>Scoped Execution via WASM Interface Types:</strong> I leveraged WebAssembly's interface types and a well-defined API to pass variables and control function calls, ensuring scripts operated only within an appropriate and secure scope.</td>
+      <td><strong>Secured Wasm Execution with a Well-Defined API:</strong> I designed a well-defined API for the Wasm guest modules. This API strictly controlled how data (like variables) was passed and how host functions could be called, ensuring user scripts operated only within a secure and appropriate scope.</td>
     </tr>
     <tr>
       <td>Result</td>
