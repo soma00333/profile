@@ -283,7 +283,7 @@ nav_order: 5
           <li><strong>Rapid Investigation & Root Cause Analysis:</strong></li>
             <ul>
               <li>Users reported encountering an error dialog on specific service pages after the migration.</li>
-              <li><strong>Identified Root Cause:</strong> I quickly determined the issue was a JSON unmarshal error caused by an unintended data type change in a column (from UNSIGNED INT to DOUBLE during the migration process for certain tables).</li>
+              <li>I quickly determined the issue was a JSON unmarshal error caused by an unintended data type change in a column (from UNSIGNED INT to DOUBLE during the migration process for certain tables).</li>
             </ul>
           <li><strong>Immediate Temporary Fix:</strong> I deployed a hotfix to gracefully handle the JSON parsing errors, restoring service availability.</li>
           <li><strong>Definitive Permanent Fix:</strong> I then reverted the affected JSON column types back to their original UNSIGNED INT definition, fully resolving the compatibility issues and ensuring data integrity.</li>
