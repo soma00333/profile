@@ -214,7 +214,7 @@ layout: default
           <li><strong>Area for Development:</strong> I sometimes tend to prioritize quality over speed.</li>
           <li><strong>Specific Example (New):</strong> At Industry Technology, I occasionally focused too much on details during code reviews, which sometimes caused delays in merging pull requests.</li>
           <li><strong>Impact:</strong> My detailed reviews, while thorough, sometimes took longer than necessary, slowing down the overall review process.</li>
-          <li><strong>Corrective Actions:</strong> To address this, I worked on enhancing our CI (Continuous Integration) processes and introduced AI-powered review tools.</li>
+          <li><strong>Corrective Actions:</strong> To address this, I worked on enhancing our CI processes and introduced AI-powered review tools.</li>
           <li><strong>Outcome:</strong> These actions helped improve PR merge speed while maintaining code quality.</li>
           <li><strong>Lesson Learned:</strong> I learned the importance of finding the right balance between quality and agility.</li>
         </ul>
@@ -224,7 +224,7 @@ layout: default
       <td><strong>Failure</strong></td>
       <td>
         <ul>
-          <li><strong>Situation (New):</strong> At Industry Technology, I introduced an E2E (End-to-End) test automation tool for the frontend. My primary goal was to improve development efficiency by reducing the time frontend engineers spent writing tests. However, this unintentionally created communication and workflow silos between the frontend engineers and the QA team, hindering collaboration.</li>
+          <li><strong>Situation (New):</strong> At Industry Technology, I introduced an E2E (End-to-End) test automation tool for the frontend. My primary goal was to improve development efficiency by reducing the time frontend engineers spent writing tests. However, this unintentionally created communication silos between the frontend engineers and the QA team, hindering collaboration.</li>
           <li><strong>Remedial Actions:</strong> We discontinued the specific E2E test automation tool, and I reassigned E2E testing responsibilities directly to the frontend engineers, empowering them to own the quality of their code from development through testing.</li>
           <li><strong>Positive Outcome:</strong> This change eliminated the organizational silos and fostered better collaboration, ultimately leading to improved product quality.</li>
           <li><strong>Key Takeaways:</strong> I learned that a tool or process that seems beneficial in isolation can have unintended negative consequences on team dynamics and overall workflow. Effective decision-making, especially regarding tooling, requires careful consideration of team size, composition, and existing workflows. Since then, I always prioritize understanding the broader team impact when making technical decisions.</li>
