@@ -227,7 +227,7 @@ layout: default
           <li><strong>Situation (New):</strong> At Industry Technology, I introduced an E2E (End-to-End) test automation tool for the frontend. My primary goal was to improve development efficiency by reducing the time frontend engineers spent writing tests. However, this unintentionally created communication silos between the frontend engineers and the QA team, hindering collaboration.</li>
           <li><strong>Remedial Actions:</strong> We discontinued the specific E2E test automation tool, and I reassigned E2E testing responsibilities directly to the frontend engineers, empowering them to own the quality of their code from development through testing.</li>
           <li><strong>Positive Outcome:</strong> This change eliminated the organizational silos and fostered better collaboration, ultimately leading to improved product quality.</li>
-          <li><strong>Key Takeaways:</strong> I learned that a tool or process that seems beneficial in isolation can have unintended negative consequences on team dynamics and overall workflow. Effective decision-making, especially regarding tooling, requires careful consideration of team size, composition, and existing workflows. Since then, I always prioritize understanding the broader team impact when making technical decisions.</li>
+          <li><strong>Key Takeaways:</strong> I learned that technical decisions, especially about tools, must consider the broader team impact beyond isolated benefits. It is crucial to understand team dynamics and existing workflows before introducing new processes.</li>
         </ul>
       </td>
     </tr>
