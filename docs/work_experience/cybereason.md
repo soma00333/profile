@@ -34,11 +34,11 @@ nav_order: 1
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Develop new features and refactor legacy microservices for a distributed system operating across 12k+ servers and processing 80M+ events/sec</td>
+      <td>My mission was to develop new features and refactor legacy microservices for a distributed system that operates across 12,000+ servers and processes 80M+ events per second.</td>
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li>Develop features</li><li>Refactor legacy microservices</li></ul></td>
+      <td><ul><li>I developed new features.</li><li>I refactored legacy microservices.</li></ul></td>
     </tr>
     <tr>
       <td>Term</td>
@@ -71,11 +71,11 @@ nav_order: 1
     </tr>
     <tr>
       <td>Mission</td>
-      <td>As a cross-functional global team, develop custom metrics and distributed tracing to enhance the reliability of a distributed system operating across 12k+ servers and processing 80M+ events/sec</td>
+      <td>As a member of a cross-functional global team, my mission was to enhance the reliability of a distributed system (operating across 12k+ servers, processing 80M+ events/sec) by developing custom metrics and distributed tracing.</td>
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li><strong>Ovservability Development</strong>: Develop custom metrics and distributed tracing to improve observability</li><li><strong>Incident Response</strong>: Troubleshoot cross-microservices issues to identify the root cause</li></ul></td>
+      <td><ul><li><strong>Observability Development:</strong> I developed custom metrics and distributed tracing to improve system observability.</li><li><strong>Incident Response:</strong> I troubleshooted cross-microservice issues to identify their root causes.</li></ul></td>
     </tr>
     <tr>
       <td>Term</td>
@@ -104,37 +104,37 @@ nav_order: 1
   <tbody>
     <tr>
       <td>Summary</td>
-      <td><strong>CR1</strong>. Designed and developed custom metrics and improved observability across 3k servers</td>
+      <td><strong>CR1</strong>. I designed and developed custom metrics, significantly improving observability across 3,000 servers.</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li><strong>Complex Troubleshooting</strong>: The API server had multiple interconnected components, making troubleshooting difficult</li><li><strong>High MTTR</strong>: Existing monitoring lacked sufficient insights, leading to long MTTR</li></ul></td>
+      <td><ul><li><strong>Complex Troubleshooting Environment:</strong> The API server consisted of multiple interconnected components, making troubleshooting a complex task.</li><li><strong>High Mean Time to Resolution (MTTR):</strong> Existing monitoring capabilities lacked sufficient insights, resulting in unacceptably long MTTR.</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Improve observability, streamline debugging, and reduce MTTR</td>
+      <td><strong>Enhance Observability and Reduce MTTR:</strong> My objective was to improve system observability, streamline the debugging process, and significantly reduce MTTR.</td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li><strong>Develop custom metrics</strong>:
+      <td><ul><li><strong>Developed Custom Metrics:</strong>
         <ul>
-          <li><strong>API</strong>: Latency and Error Rate</li>
-          <li><strong>Elasticsearch</strong>: Throughput</li>
-          <li><strong>MongoDB</strong>: Query Performance</li>
+          <li><strong>API Server:</strong> I implemented metrics for latency and error rates.</li>
+          <li><strong>Elasticsearch:</strong> I developed metrics to monitor throughput.</li>
+          <li><strong>MongoDB:</strong> I created metrics for query performance.</li>
         </ul>
-      </li><li><strong>Dashboard</strong>: Improved real-time dashboards to provide actionable insights for engineers</li></ul></td>
+      </li><li><strong>Improved Dashboards:</strong> I enhanced real-time dashboards to provide engineers with actionable insights for quicker issue identification.</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><strong>Design</strong>: Designing meaningful custom metrics that provide actionable insights</td>
+      <td><strong>Designing Actionable Metrics:</strong> The main challenge was to design custom metrics that were not just data points but provided truly actionable insights for engineers.</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><strong>Communication</strong>: Fostered cross-functional communication between SRE, DevOps, and Product teams</td>
+      <td><strong>Fostered Cross-Team Communication:</strong> I initiated and facilitated communication between SRE, DevOps, and Product teams to collaboratively define the most impactful metrics.</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td>Enhanced troubleshooting efficiency and reduced MTTR by 50% for enterprise customers</td>
+      <td><strong>Reduced MTTR by 50% for Enterprise Customers:</strong> The enhanced observability and actionable dashboards significantly improved troubleshooting efficiency, leading to a 50% reduction in MTTR for enterprise customers.</td>
     </tr>
     <tr>
       <td>Skill</td>
@@ -153,36 +153,36 @@ nav_order: 1
   <tbody>
     <tr>
       <td>Summary</td>
-      <td><strong>CR2</strong>. Analyzed thread dumps and heap dumps to troubleshoot a server with 2k concurrent threads</td>
+      <td><strong>CR2</strong>. I analyzed thread dumps and heap dumps to troubleshoot a critical server issue involving 2,000 concurrent threads.</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><ul><li><strong>Crash</strong>: A UI server crashed occasionally for an enterprise customer with 100k employees</li><li><strong>Troubleshooting Difficulty</strong>: The root cause was unknown, and conventional monitoring tools provided insufficient insights</li></ul></td>
+      <td><ul><li><strong>Intermittent Server Crashes:</strong> A UI server for an enterprise customer (with 100,000 employees) was crashing intermittently.</li><li><strong>Insufficient Monitoring Data:</strong> The root cause was unknown, and conventional monitoring tools did not provide adequate insights for diagnosis.</li></ul></td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Identify the performance bottleneck and ensure system stability</td>
+      <td><strong>Identify Bottleneck and Ensure Stability:</strong> My mission was to pinpoint the performance bottleneck causing the crashes and implement a solution to ensure system stability.</td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li><strong>Root Cause Analysis</strong>:
+      <td><ul><li><strong>Conducted Root Cause Analysis:</strong>
           <ul>
-            <li>Fetched and analyzed thread dumps and heap dumps</li>
-            <li>Found that a legacy API blocked HTTP threads, triggering health check failures and causing automatic restarts</li>
+            <li>I fetched and meticulously analyzed thread dumps and heap dumps from the affected server.</li>
+            <li>I discovered that a legacy API was blocking HTTP threads, which in turn triggered health check failures and led to automatic server restarts.</li>
           </ul>
-        </li><li><strong>Response</strong>: Migrated the legacy API to an efficient v2 API, resolving the issue</li></ul></td>
+        </li><li><strong>Implemented Solution:</strong> I migrated the problematic legacy API to an efficient v2 API, which resolved the blocking issue.</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><strong>Fetching Data</strong>: Since an automated pipeline restarted the UI server upon failure, manual thread and heap dumps could not be obtained</td>
+      <td><strong>Automated Restarts Hindered Data Collection:</strong> An automated pipeline would restart the UI server immediately upon failure, preventing manual collection of necessary thread and heap dumps for analysis.</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><strong>Pipeline</strong>: Added an automated pipeline to collect thread and heap dumps before restart</td>
+      <td><strong>Enhanced Data Collection Pipeline:</strong> I modified the pipeline to automatically collect thread dumps and heap dumps before initiating a server restart.</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td>Successfully resolved critical availability issues, enhancing system reliability for the enterprise customer with 100k employees</td>
+      <td><strong>Resolved Critical Availability Issues:</strong> My actions successfully resolved the critical availability issues, significantly enhancing system reliability for the enterprise customer with 100,000 employees.</td>
     </tr>
     <tr>
       <td>Skill</td>

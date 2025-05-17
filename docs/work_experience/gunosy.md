@@ -34,11 +34,11 @@ nav_order: 7
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Analyze large-scale user data, improve ad logic, and grow the app</td>
+      <td>My mission was to analyze large-scale user data, improve advertising logic, and contribute to the overall growth of the Gunosy news application.</td>
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li><strong>Data Analysis</strong>: Analyzed large-scale user data for ads and business</li><li><strong>A/B Testing</strong>: Improved ad logic by implementing A/B tests</li></ul></td>
+      <td><ul><li><strong>Data Analysis:</strong> I analyzed extensive user data to inform advertising strategies and business decisions.</li><li><strong>A/B Testing:</strong> I designed and implemented A/B tests to optimize advertising logic and user engagement.</li></ul></td>
     </tr>
     <tr>
       <td>Term</td>
@@ -67,31 +67,31 @@ nav_order: 7
   <tbody>
     <tr>
       <td>Summary</td>
-      <td><strong>GU1</strong>. Analyzed data from millions of users and designed A/B testing strategies to improve user retention</td>
+      <td><strong>GU1</strong>. I analyzed data from millions of users and designed A/B testing strategies that successfully improved user retention.</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td><strong>Declining Retention</strong>: User retention rates were declining</td>
+      <td><strong>Declining User Retention:</strong> The platform was experiencing a noticeable decline in user retention rates, impacting long-term growth.</td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Plan and implement strategies to improve user retention rates</td>
+      <td><strong>Improve User Retention Rates:</strong> My objective was to devise and implement effective strategies to halt the decline and improve user retention.</td>
     </tr>
     <tr>
       <td>Action</td>
-      <td><ul><li><strong>Communication & Design</strong>: Focused on the initial experience of new users</li><li><strong>A/B Testing Implementation</strong>: Changed the initial content for new users based on the ads they engaged with</li></ul></td>
+      <td><ul><li><strong>Focused on New User Experience:</strong> I concentrated on optimizing the initial experience for new users, as this is a critical phase for retention.</li><li><strong>Implemented Ad-Driven Content Personalization:</strong> I designed and launched A/B tests that tailored the initial content displayed to new users based on the specific advertisements they had interacted with before joining the platform.</li></ul></td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><strong>Sample Size</strong>: Targeted new users, requiring a sufficient sample size for A/B testing</td>
+      <td><strong>Achieving Sufficient Sample Size for New Users:</strong> A key challenge was ensuring an adequate sample size for A/B testing, as the target group (new users) was a smaller segment of the total user base.</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><strong>Utilized Digital Marketing</strong>: Conducted targeted ad distribution to ensure a sufficient number of users for A/B testing</td>
+      <td><strong>Leveraged Targeted Digital Marketing:</strong> I collaborated with the marketing team to conduct targeted ad distribution campaigns, which effectively drove a sufficient number of new users to the platform for robust A/B testing.</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td>Improved new user experience, increasing 7-day user retention by 10%</td>
+      <td><strong>Increased 7-Day User Retention by 10%:</strong> The new user experience improvements, driven by personalized content, led to a 10% increase in 7-day user retention.</td>
     </tr>
     <tr>
       <td>Skill</td>

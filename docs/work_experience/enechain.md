@@ -34,11 +34,11 @@ nav_order: 4
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Develop internal APIs and tools to enhance developer productivity</td>
+      <td>My mission was to develop internal APIs and tools aimed at enhancing developer productivity across the organization.</td>
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li>Develop internal APIs and tools</li></ul></td>
+      <td><ul><li>I developed internal APIs and various tools to support development teams.</li></ul></td>
     </tr>
     <tr>
       <td>Term</td>
@@ -71,11 +71,11 @@ nav_order: 4
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Improve the system's reliability for 20+ microservices</td>
+      <td>My primary mission was to improve the overall system reliability for over 20 microservices.</td>
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li>Ovservability Development</li></ul></td>
+      <td><ul><li><strong>Observability Development:</strong> I focused on developing and enhancing observability features.</li></ul></td>
     </tr>
     <tr>
       <td>Term</td>
@@ -104,44 +104,44 @@ nav_order: 4
   <tbody>
     <tr>
       <td>Summary</td>
-      <td><strong>EN1</strong>. Developed a generator tool for manifests and Terraform configurations for new microservices</td>
+      <td><strong>EN1</strong>. I developed a generator tool for Kubernetes manifests and Terraform configurations for new microservices.</td>
     </tr>
     <tr>
       <td>Problem</td>
       <td>
         <ul>
-          <li><strong>Manual Configuration</strong>: Developers had to create manifests and Terraform configurations for each new microservice manually</li>
-          <li><strong>Inefficiency & Errors</strong>: The process was time-consuming and error-prone</li>
+          <li><strong>Manual Configuration Overhead:</strong> Developers were required to manually create Kubernetes manifests and Terraform configurations for each new microservice.</li>
+          <li><strong>Process Inefficiency and Error Rate:</strong> This manual process was time-consuming and highly prone to errors, slowing down deployments.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Automate the generation of manifests and Terraform configurations to enhance development efficiency</td>
+      <td><strong>Automate Configuration Generation for Efficiency:</strong> My goal was to automate the generation of these configurations to significantly enhance development efficiency and reduce errors.</td>
     </tr>
     <tr>
       <td>Action</td>
       <td>
         <ul>
-          <li>Develop a generator tool</li>
+          <li><strong>Developed a Configuration Generator Tool:</strong></li>
           <ul>
-            <li><strong>Command-Line Tool</strong>: Implemented a command line tool using Go</li>
-            <li><strong>Template System</strong>: Created a template to generate standardized configurations</li>
+            <li><strong>Go-Based Command-Line Tool:</strong> I implemented a command-line tool using Go to trigger the generation process.</li>
+            <li><strong>Standardized Template System:</strong> I created a template system to ensure the generation of standardized and consistent configurations.</li>
           </ul>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><strong>Version Management</strong>: If developers used an outdated CLI version, incorrect templates would be generated</td>
+      <td><strong>Ensuring Up-to-Date Templates:</strong> A key challenge was version management; if developers used an outdated version of the CLI tool, incorrect or deprecated templates could be generated.</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><strong>CI Integration</strong>: Configured the CLI client to only trigger the CI, while managing the main logic within the CI to ensure it is always up to date</td>
+      <td><strong>Centralized Logic via CI Integration:</strong> I configured the CLI client to only act as a trigger for a Continuous Integration (CI) pipeline. The main generation logic was managed within the CI environment, ensuring it was always up-to-date.</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td>Streamlined the deployment process, achieving a 90% reduction in the initial deployment time for new microservices</td>
+      <td><strong>Reduced Initial Deployment Time by 90%:</strong> The tool streamlined the deployment process for new microservices, achieving a 90% reduction in the initial setup and deployment time.</td>
     </tr>
     <tr>
       <td>Skill</td>
@@ -160,27 +160,27 @@ nav_order: 4
   <tbody>
     <tr>
       <td>Summary</td>
-      <td><strong>EN2</strong>. Developed a system for local development by deploying Telepresence to the Kubernetes cluster</td>
+      <td><strong>EN2</strong>. I developed a system for local development by deploying Telepresence to the Kubernetes cluster.</td>
     </tr>
     <tr>
       <td>Problem</td>
       <td>
         <ul>
-          <li><strong>Dependency on Other Microservices</strong>: Local development was dependent on other microservices</li>
-          <li><strong>Complex Setup</strong>: Setting up a local environment was time-consuming</li>
+          <li><strong>Microservice Dependencies in Local Development:</strong> Local development was heavily dependent on other microservices running in the cluster, making isolated development difficult.</li>
+          <li><strong>Complex Local Environment Setup:</strong> Setting up a complete local development environment that mirrored the cluster was time-consuming and complex.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Enable efficient local development without depending on other microservices</td>
+      <td><strong>Enable Efficient, Independent Local Development:</strong> My objective was to enable developers to efficiently work on individual microservices locally without needing to run all other dependent services.</td>
     </tr>
     <tr>
       <td>Action</td>
       <td>
         <ul>
-          <li><strong>Deploy Telepresence</strong>: Enabled interaction with other microservices in the cluster from the local environment</li>
-          <li><strong>Develop a Local Development System</strong>: Utilized Devcontainer for streamlined development</li>
+          <li><strong>Deployed Telepresence:</strong> I deployed Telepresence to the Kubernetes cluster, allowing local machines to interact with services running in the cluster as if they were local.</li>
+          <li><strong>Developed a Streamlined Local Development System:</strong> I utilized Devcontainers to further streamline the local development setup and ensure consistency.</li>
         </ul>
       </td>
     </tr>
@@ -188,12 +188,7 @@ nav_order: 4
       <td>Challenge</td>
       <td>
         <ul>
-          <li><strong>High-Security Requirement</strong>:
-            <ul>
-              <li>We had robust security standards for our Kubernetes clusters</li>
-              <li>But official Helm charts didn't support modifying security configurations</li>
-            </ul>
-          </li>
+          <li><strong>Meeting High-Security Requirements:</strong> We had robust security standards for our Kubernetes clusters, but the official Telepresence Helm charts did not natively support the required security configurations (e.g., specific security contexts, network policies).</li>
         </ul>
       </td>
     </tr>
@@ -201,20 +196,14 @@ nav_order: 4
       <td>Overcome</td>
       <td>
         <ul>
-          <li><strong>Customizing Helm Charts</strong>: Converted Helm charts to Kustomize</li>
-          <li><strong>Manual Security Enhancements</strong>: Added security patches manually
-            <ul>
-              <li><strong>Pod Security Admission</strong></li>
-              <li><strong>NetworkPolicy</strong></li>
-              <li><strong>Security Context</strong></li>
-            </ul>
-          </li>
+          <li><strong>Customized Helm Charts with Kustomize:</strong> I converted the official Telepresence Helm charts to Kustomize overlays to allow for easier customization.</li>
+          <li><strong>Applied Manual Security Enhancements:</strong> I then manually added necessary security patches and configurations, including Pod Security Admission policies, NetworkPolicies, and specific Security Contexts.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Result</td>
-      <td>Accelerated local development, achieving a 15% improvement in microservice development speed</td>
+      <td><strong>Improved Microservice Development Speed by 15%:</strong> This system accelerated local development cycles, leading to a 15% improvement in overall microservice development speed.</td>
     </tr>
     <tr>
       <td>Skill</td>

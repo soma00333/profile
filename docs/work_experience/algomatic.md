@@ -34,11 +34,11 @@ nav_order: 6
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Design training and inference pipelines for LLMs and develop enterprise applications incorporating them</td>
+      <td>My mission was to design training and inference pipelines for LLMs and develop enterprise applications incorporating them.</td>
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li>Design training and inference pipelines</li><li>Develop enterprise applications incorporating LLMs</li></ul></td>
+      <td><ul><li>I designed training and inference pipelines.</li><li>I developed enterprise applications incorporating LLMs.</li></ul></td>
     </tr>
     <tr>
       <td>Term</td>
@@ -67,25 +67,25 @@ nav_order: 6
   <tbody>
     <tr>
       <td>Summary</td>
-      <td><strong>AL1</strong>. Developed a serverless training pipeline for fine-tuning LLMs</td>
+      <td><strong>AL1</strong>. I developed a serverless training pipeline for fine-tuning LLMs.</td>
     </tr>
     <tr>
       <td>Problem</td>
-      <td>- <strong>Need for a Training Pipeline</strong>: A training pipeline was required for fine-tuning LLMs efficiently</td>
+      <td><strong>Inefficient LLM Fine-Tuning:</strong> The existing process for fine-tuning Large Language Models (LLMs) was inefficient and lacked a structured pipeline.</td>
     </tr>
     <tr>
       <td>Mission</td>
-      <td>- Develop an efficient training pipeline</td>
+      <td><strong>Develop an Efficient LLM Training Pipeline:</strong> My mission was to create a streamlined and cost-effective training pipeline for fine-tuning LLMs.</td>
     </tr>
     <tr>
       <td>Action</td>
       <td>
         <ul>
-          <li>Developed a Training Pipeline:
+          <li><strong>Developed a Training Pipeline:</strong>
             <ul>
-              <li>Download from S3 for efficient data retrieval</li>
-              <li>Push to Hugging Face for model storage and sharing</li>
-              <li>Parameter tracking with WandB</li>
+              <li><strong>Data Retrieval from S3:</strong> I implemented efficient data download functionality from Amazon S3.</li>
+              <li><strong>Model Storage on Hugging Face:</strong> I integrated with Hugging Face to store and share trained models.</li>
+              <li><strong>Experiment Tracking with WandB:</strong> I utilized Weights & Biases (WandB) for comprehensive experiment and parameter tracking.</li>
             </ul>
           </li>
         </ul>
@@ -93,15 +93,15 @@ nav_order: 6
     </tr>
     <tr>
       <td>Challenge</td>
-      <td><strong>Cost Management</strong>: Managing the costs associated with fine-tuning LLMs was a key challenge</td>
+      <td><strong>Cost Optimization for LLM Fine-Tuning:</strong> A primary challenge was managing and optimizing the significant computational costs associated with fine-tuning LLMs.</td>
     </tr>
     <tr>
       <td>Overcome</td>
-      <td><strong>Serverless Optimization</strong>: Utilized a serverless architecture to reduce costs</td>
+      <td><strong>Leveraged Serverless Architecture:</strong> I designed and implemented the pipeline using a serverless architecture, which significantly reduced idle compute costs and optimized resource utilization.</td>
     </tr>
     <tr>
       <td>Result</td>
-      <td>Enabled fine-tuning of LLMs efficiently, optimizing compute resource utilization</td>
+      <td><strong>Efficient and Cost-Effective LLM Fine-Tuning:</strong> The new pipeline enabled efficient fine-tuning of LLMs while significantly optimizing compute resource utilization and reducing overall training costs.</td>
     </tr>
     <tr>
       <td>Skill</td>

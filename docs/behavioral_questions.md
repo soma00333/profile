@@ -224,11 +224,10 @@ layout: default
       <td><strong>Failure</strong></td>
       <td>
         <ul>
-          <li><strong>Situation (New):</strong> At Industry Technology, my introduction of an E2E (End-to-End) test automation tool unintentionally led to organizational silos between frontend engineers and the QA team.</li>
-          <li><strong>Details:</strong> I introduced an E2E test automation tool for the frontend, but this unintentionally created communication and workflow silos between the frontend engineers and the QA team.</li>
-          <li><strong>Remedial Actions:</strong> We discontinued the tool, and I reassigned E2E testing responsibilities directly to the frontend engineers.</li>
-          <li><strong>Positive Outcome:</strong> This eliminated the organizational silos and ultimately led to improved product quality.</li>
-          <li><strong>Key Takeaways:</strong> I learned that effective decision-making can vary significantly depending on team size and composition. Since then, I always prioritize considering the team impact when making technical decisions.</li>
+          <li><strong>Situation (New):</strong> At Industry Technology, I introduced an E2E (End-to-End) test automation tool for the frontend. My primary goal was to improve development efficiency by reducing the time frontend engineers spent writing tests. However, this unintentionally created communication and workflow silos between the frontend engineers and the QA team, hindering collaboration.</li>
+          <li><strong>Remedial Actions:</strong> We discontinued the specific E2E test automation tool, and I reassigned E2E testing responsibilities directly to the frontend engineers, empowering them to own the quality of their code from development through testing.</li>
+          <li><strong>Positive Outcome:</strong> This change eliminated the organizational silos and fostered better collaboration, ultimately leading to improved product quality.</li>
+          <li><strong>Key Takeaways:</strong> I learned that a tool or process that seems beneficial in isolation can have unintended negative consequences on team dynamics and overall workflow. Effective decision-making, especially regarding tooling, requires careful consideration of team size, composition, and existing workflows. Since then, I always prioritize understanding the broader team impact when making technical decisions.</li>
         </ul>
       </td>
     </tr>
@@ -260,7 +259,7 @@ layout: default
       <td><strong>Teamwork</strong></td>
       <td>
         <ul>
-          <li><strong>Incident Summary (CR2):</strong> At Cybereason, I analyzed thread dumps and heap dumps to troubleshoot a server issue affecting a system with 2,000 concurrent threads.</li>
+          <li><strong>Incident Summary (CR2):</strong> At Cybereason, I analyzed thread dumps and heap dumps to troubleshoot an issue on a server that was handling 2,000 concurrent threads.</li>
           <li><strong>The Issue:</strong> A UI server was crashing occasionally for a large enterprise customer (100,000 employees). Resolving this incident was challenging due to the need for coordination across multiple teams (SRE, DevOps, Product, TAM).</li>
           <li><strong>My Objective:</strong> My objective was to identify the performance bottleneck and ensure system stability.</li>
           <li><strong>My Contribution:</strong> As the incident commander, I coordinated the efforts of different teams. I personally identified the root cause by analyzing thread dumps and heap dumps.</li>
@@ -359,7 +358,7 @@ layout: default
         <ul>
           <li><strong>Project Context (EN2):</strong> At enechain, our goal was to improve local development speed for microservices. We chose Telepresence because it allows developers to run a single service locally while connecting to dependencies in a remote Kubernetes cluster. This dramatically speeds up the develop-test-debug cycle. We deployed it via its official Helm chart.</li>
           <li><strong>The Challenge:</strong> While Telepresence offered the expected significant boost in development agility, its standard Helm chart did not meet our strict Kubernetes security requirements out-of-the-box. This presented a clear conflict: leverage the new development speed or ensure security compliance.</li>
-          <li><strong>My Action & Resolution:</strong> I decided to harness the development benefits of Telepresence. To address the security concerns, I customized the official Helm chart by applying the necessary security patches.</li>
+          <li><strong>My Action & Resolution:</strong> I decided to harness the development benefits of Telepresence. To address the security concerns, I converted the helm chart to kustomize and added the necessary security patches.</li>
           <li><strong>Outcome & Impact:</strong> This solution allowed us to achieve faster development cycles with Telepresence while maintaining our crucial security standards, successfully balancing agility with compliance.</li>
         </ul>
       </td>

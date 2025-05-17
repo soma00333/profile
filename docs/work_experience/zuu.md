@@ -34,11 +34,11 @@ nav_order: 8
     </tr>
     <tr>
       <td>Mission</td>
-      <td>Develop a backend system of the largest financial media</td>
+      <td>My mission was to contribute to the development of the backend system for Japan's largest financial media platform.</td>
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li>Feature Development</li></ul></td>
+      <td><ul><li><strong>Feature Development:</strong> I was responsible for developing new features for the backend system.</li></ul></td>
     </tr>
     <tr>
       <td>Term</td>
