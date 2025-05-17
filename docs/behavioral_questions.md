@@ -349,7 +349,7 @@ layout: default
           <li><strong>Project Summary (IT5):</strong> At Industry Technology, I managed the migration of our database from MySQL 5.7 to MySQL 8.0 to ensure continued reliability and maintainability.</li>
           <li><strong>The Context:</strong> We needed to migrate from MySQL 5.7 to MySQL 8.0. An unexpected incident occurred during this migration process.</li>
           <li><strong>My Role:</strong> I successfully resolved the incident and ensured the completion of the migration.</li>
-          <li><strong>Outcome:</strong> I led the project to a successful conclusion and, in doing so, helped establish a valuable knowledge base about the new database version for the team.</li>
+          <li><strong>Outcome:</strong> I led the project to a successful conclusion and, in doing so, helped establish a valuable knowledge base about incident response for the team.</li>
         </ul>
       </td>
     </tr>
@@ -357,13 +357,10 @@ layout: default
       <td><strong>Difficult Decision</strong></td>
       <td>
         <ul>
-          <li><strong>Project Summary (EN2):</strong> At enechain, I developed a system to improve local development efficiency by deploying Telepresence to our Kubernetes cluster.</li>
-          <li><strong>The Challenge:</strong> Local development was hampered by dependencies on other microservices, and setting up a local environment was a time-consuming process.</li>
-          <li><strong>Objective:</strong> My objective was to enable efficient local development that did not depend on running other microservices locally.</li>
-          <li><strong>Solution:</strong> I implemented a solution using Telepresence, which allowed developers to interact with microservices running in the Kubernetes cluster directly from their local development environment.</li>
-          <li><strong>Security Hurdle:</strong> A significant challenge was our robust security standards for Kubernetes clusters. The official Helm charts for Telepresence did not support the necessary security configuration modifications.</li>
-          <li><strong>Addressing Security:</strong> I overcame this by manually applying the necessary security patches and configurations.</li>
-          <li><strong>Positive Impact:</strong> This approach minimized security risks while significantly improving development speed.</li>
+          <li><strong>Project Context (EN2):</strong> At enechain, our goal was to improve local development speed for microservices. We chose Telepresence because it allows developers to run a single service locally while connecting to dependencies in a remote Kubernetes cluster. This dramatically speeds up the develop-test-debug cycle. We deployed it via its official Helm chart.</li>
+          <li><strong>The Challenge:</strong> While Telepresence offered the expected significant boost in development agility, its standard Helm chart did not meet our strict Kubernetes security requirements out-of-the-box. This presented a clear conflict: leverage the new development speed or ensure security compliance.</li>
+          <li><strong>My Action & Resolution:</strong> I decided to harness the development benefits of Telepresence. To address the security concerns, I customized the official Helm chart by applying the necessary security patches.</li>
+          <li><strong>Outcome & Impact:</strong> This solution allowed us to achieve faster development cycles with Telepresence while maintaining our crucial security standards, successfully balancing agility with compliance.</li>
         </ul>
       </td>
     </tr>
