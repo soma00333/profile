@@ -149,7 +149,7 @@ nav_order: 2
         <ul>
           <li><strong>Utilized Optimized Datastore Strategy:</strong>
             <ul>
-              <li><strong>Implemented Redis for Log Caching:</strong> I utilized Redis as a caching layer for frequently accessed logs to ensure fast retrieval.</li>
+              <li><strong>Implemented Redis for Log Caching:</strong> I utilized Redis as a caching layer to ensure fast retrieval.</li>
               <li><strong>Utilized GCS for Archival Storage:</strong> Google Cloud Storage (GCS) was used for cost-effective, long-term storage of historical logs.</li>
             </ul>
           </li>
