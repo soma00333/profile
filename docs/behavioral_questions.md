@@ -236,10 +236,10 @@ layout: default
       <td>
         <ul>
           <li><strong>Project Summary (IT1):</strong> At Industry Technology, I designed SLI/SLO and developed custom metrics and tracing, which significantly enhanced system reliability.</li>
-          <li><strong>Challenge:</strong> We had a business opportunity to introduce our system to Japan's largest real estate company, but I realized our existing operations didn't meet their required service level.</li>
-          <li><strong>Objective:</strong> My objective was to improve system reliability to meet the expected operational level for this client.</li>
-          <li><strong>My Approach:</strong> I made the decision to temporarily sacrifice some development agility to lead the introduction of SRE practices.</li>
-          <li><strong>Successful Result:</strong> As a result, we successfully secured the contract with the enterprise customer.</li>
+          <li><strong>The Situation:</strong> We had a business opportunity to introduce our system to Japan's largest real estate company, but I realized our existing operations didn't meet their required service level.</li>
+          <li><strong>My Objective:</strong> My objective was to improve system reliability to meet the expected operational level for this client.</li>
+          <li><strong>My Actions:</strong> I made the decision to temporarily sacrifice some development agility to lead the introduction of SRE practices.</li>
+          <li><strong>Key Business Impact:</strong> As a result, we successfully secured the contract with the enterprise customer.</li>
         </ul>
       </td>
     </tr>
@@ -272,12 +272,12 @@ layout: default
       <td>
         <ul>
           <li><strong>Project Summary (EU2):</strong> At Eukarya, I developed a real-time logging system for our workflow engine, which efficiently leveraged storage and caching.</li>
-          <li><strong>The Need:</strong> Users required a way to monitor the execution status of the workflow engine in real time, but the system lacked an effective logging and retrieval mechanism.</li>
-          <li><strong>Task:</strong> My task was to develop a real-time logging system that allowed users to check workflow execution status via the UI.</li>
-          <li><strong>Implementation:</strong> I developed this feature using a Pub/Sub architecture with subscribers and publishers.</li>
-          <li><strong>Key Challenge:</strong> A key challenge was the high-performance requirement, as users needed to monitor logs in real time.</li>
-          <li><strong>Solution for Challenge:</strong> I overcame this by utilizing an optimized data storage strategy, using Redis for fast log retrieval (cache) and Google Cloud Storage (GCS) for long-term log storage.</li>
-          <li><strong>Outcome:</strong> This enabled users to monitor worker status in real-time.</li>
+          <li><strong>The Core Challenge:</strong> Users required a way to monitor the execution status of the workflow engine in real time, but the system lacked an effective logging and retrieval mechanism.</li>
+          <li><strong>My Objective:</strong> My task was to develop a real-time logging system that allowed users to check workflow execution status via the UI.</li>
+          <li><strong>My Technical Approach:</strong> I developed this feature using a Pub/Sub architecture with subscribers and publishers.</li>
+          <li><strong>Technical Hurdle:</strong> A key challenge was the high-performance requirement, as users needed to monitor logs in real time.</li>
+          <li><strong>How I Overcame It:</strong> I overcame this by utilizing an optimized data storage strategy, using Redis for fast log retrieval (cache) and Google Cloud Storage (GCS) for long-term log storage.</li>
+          <li><strong>Key Technical Achievement:</strong> This enabled users to monitor worker status in real-time.</li>
         </ul>
       </td>
     </tr>
@@ -333,10 +333,10 @@ layout: default
       <td>
         <ul>
           <li><strong>Project Summary (EU1):</strong> At Eukarya, I quickly learned about WebAssembly and developed a processor that compiles user scripts (Python, Go, Rust, etc.) into WebAssembly (WASM) files and executes them efficiently on a WASM runtime.</li>
-          <li><strong>User Need:</strong> Users needed the ability to use their own scripts (in languages like Python, Go, Rust) to create custom functions within our workflow engine, requiring an extension to the engine for custom script execution.</li>
-          <li><strong>Task:</strong> My task was to extend the workflow engine to support user-defined scripts through WebAssembly execution.</li>
-          <li><strong>Execution:</strong> I researched the technology, developed the feature, and created the necessary documentation.</li>
-          <li><strong>Value Delivered:</strong> This provided users with valuable new functionality and also helped build a knowledge base about WASM within the team.</li>
+          <li><strong>The Learning Need:</strong> Users needed the ability to use their own scripts (in languages like Python, Go, Rust) to create custom functions within our workflow engine, requiring an extension to the engine for custom script execution.</li>
+          <li><strong>My Goal:</strong> My task was to extend the workflow engine to support user-defined scripts through WebAssembly execution.</li>
+          <li><strong>My Learning & Action:</strong> I researched the technology, developed the feature, and created the necessary documentation.</li>
+          <li><strong>Key Outcome:</strong> This provided users with valuable new functionality and also helped build a knowledge base about WASM within the team.</li>
         </ul>
       </td>
     </tr>
@@ -345,9 +345,9 @@ layout: default
       <td>
         <ul>
           <li><strong>Project Summary (IT5):</strong> At Industry Technology, I managed the migration of our database from MySQL 5.7 to MySQL 8.0 to ensure continued reliability and maintainability.</li>
-          <li><strong>The Context:</strong> We needed to migrate from MySQL 5.7 to MySQL 8.0. An unexpected incident occurred during this migration process.</li>
-          <li><strong>My Role:</strong> I successfully resolved the incident and ensured the completion of the migration.</li>
-          <li><strong>Outcome:</strong> I led the project to a successful conclusion and, in doing so, helped establish a valuable knowledge base about incident response for the team.</li>
+          <li><strong>The Situation:</strong> We needed to migrate from MySQL 5.7 to MySQL 8.0. An unexpected incident occurred during this migration process.</li>
+          <li><strong>My Actions & Resolution:</strong> I successfully resolved the incident and ensured the completion of the migration.</li>
+          <li><strong>Key Achievement:</strong> I led the project to a successful conclusion and, in doing so, helped establish a valuable knowledge base about incident response for the team.</li>
         </ul>
       </td>
     </tr>
