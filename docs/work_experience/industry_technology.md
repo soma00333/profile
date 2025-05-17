@@ -276,20 +276,20 @@ nav_order: 5
       <td>Challenge</td>
       <td><strong>Unexpected Incident During Migration:</strong> Despite careful planning, unexpected issues surfaced post-migration, impacting user experience on certain service pages.</td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>Overcome</td>
       <td>
         <ul>
           <li><strong>Rapid Investigation & Root Cause Analysis:</strong>
-            <ul>
+            <!-- <ul>
               <li>Users reported encountering an error dialog on specific service pages after the migration.</li>
               <li><strong>Identified Root Cause:</strong> I quickly determined the issue was a JSON unmarshal error caused by an unintended data type change in a column (from UNSIGNED INT to DOUBLE during the migration process for certain tables).</li>
-            </ul>
+            </ul> -->
           <li><strong>Immediate Temporary Fix:</strong> I deployed a hotfix to gracefully handle the JSON parsing errors, restoring service availability.</li>
           <li><strong>Definitive Permanent Fix:</strong> I then reverted the affected JSON column types back to their original UNSIGNED INT definition, fully resolving the compatibility issues and ensuring data integrity.</li>
         </ul>
       </td>
-    </tr> -->
+    </tr>
     <tr>
       <td>Result</td>
       <td><strong>Increased Query Performance by 20%:</strong> The migration to MySQL 8.0, once stabilized, resulted in a 20% increase in overall query performance.</td>
