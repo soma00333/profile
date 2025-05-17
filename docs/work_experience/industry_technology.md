@@ -245,8 +245,8 @@ nav_order: 5
       <td>Skill</td>
       <td>Migration</td>
     </tr>
-  <!-- </tbody>
-</table> -->
+  </tbody>
+</table>
 
 <table>
   <thead>
