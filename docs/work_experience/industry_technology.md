@@ -157,7 +157,7 @@ nav_order: 5
   </tbody>
 </table> -->
 
-<!-- <table>
+<table>
   <thead>
     <tr>
       <th>Key</th>
@@ -203,7 +203,7 @@ nav_order: 5
       <td>Performance Optimization</td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
 <!-- <table>
   <thead>
