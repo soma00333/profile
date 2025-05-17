@@ -301,7 +301,7 @@ nav_order: 5
   </tbody>
 </table>
 
-## Technology
+<!-- ## Technology
 
 | Value        | Tag            |
 | ------------ | -------------- |
@@ -317,4 +317,4 @@ nav_order: 5
 | Prometheus   | Monitoring     |
 | Next.js      | Frontend       |
 | React        | Frontend       |
-| TypeScript   | Frontend       | 
+| TypeScript   | Frontend       |  -->
