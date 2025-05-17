@@ -366,10 +366,10 @@ layout: default
       <td><strong>Tight Schedule</strong></td>
       <td>
         <ul>
-          <li><strong>Project Summary (IT2):</strong> At Industry Technology, I developed a group chat service and notification system that allowed users to exchange photos, videos, and text messages, all under a tight schedule.</li>
-          <li><strong>The Constraint:</strong> We needed to develop a group chat system within a very tight schedule.</li>
-          <li><strong>Pragmatic Decision:</strong> To meet the deadline, I made the pragmatic decision to use polling (which is simpler to implement, though less efficient) instead of WebSockets (more efficient but more complex). This allowed us to develop and deliver the group chat system on time.</li>
-          <li><strong>Outcome:</strong> We successfully developed and delivered the expected system within the given timeframe.</li>
+          <li><strong>Project Summary (IT2):</strong> At Industry Technology, I developed a group chat and notification system for exchanging media and texts under a demanding schedule.</li>
+          <li><strong>The Core Challenge:</strong> The primary challenge was an extremely tight deadline for delivering a feature-rich group chat system. This schedule didn't realistically allow for implementing a complex real-time solution like WebSockets.</li>
+          <li><strong>My Pragmatic Solution:</strong> To ensure on-time delivery, I opted for a simpler, polling-based approach for near real-time updates instead of WebSockets. While less efficient, polling was significantly faster to implement and met the immediate functional requirements.</li>
+          <li><strong>Key Result:</strong> Despite the tight schedule, we successfully delivered the group chat and notification system on time, meeting all critical requirements.</li>
         </ul>
       </td>
     </tr>
