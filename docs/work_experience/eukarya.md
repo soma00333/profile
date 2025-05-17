@@ -129,10 +129,13 @@ nav_order: 2
       <td>Action</td>
       <td>
         <ul>
-          <li>Develop the feature</li>
-          <li><strong>Workflow Engine</strong>: Added a publisher to publish logs to Pub/Sub</li>
-          <li><strong>Subscriber</strong>: Created a subscriber to subscribe logs from Pub/Sub and write to a datastore</li>
-          <li><strong>API</strong>: Added a resolver to read logs from the datastore</li>
+          <li>Develop the feature
+            <ul>
+              <li><strong>Workflow Engine</strong>: Added a publisher to publish logs to Pub/Sub</li>
+              <li><strong>Subscriber</strong>: Created a subscriber to subscribe logs from Pub/Sub and write to a datastore</li>
+              <li><strong>API</strong>: Added a resolver to read logs from the datastore</li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>
@@ -144,9 +147,12 @@ nav_order: 2
       <td>Overcome</td>
       <td>
         <ul>
-          <li>Utilized optimized datastore</li>
-          <li><strong>Cache</strong>: Redis for fast log retrieval</li>
-          <li><strong>Permanent Storage</strong>: GCS for long-term log storage</li>
+          <li>Utilized optimized datastore
+            <ul>
+              <li><strong>Cache</strong>: Redis for fast log retrieval</li>
+              <li><strong>Permanent Storage</strong>: GCS for long-term log storage</li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>
