@@ -57,7 +57,7 @@ nav_order: 5
 
 ## Projects
 
-<!-- <table>
+<table>
   <thead>
     <tr>
       <th>Key</th>
@@ -103,7 +103,7 @@ nav_order: 5
       <td>SLI/SLO / Observability / Monitoring / Load Test</td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
 <!-- <table>
   <thead>
