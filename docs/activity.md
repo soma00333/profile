@@ -8,6 +8,7 @@ layout: default
 
 | Name                                                                                             | Category     | At                                            | Date               |
 | ------------------------------------------------------------------------------------------------ | ------------ | --------------------------------------------- | ------------------ |
+| [feat(api): Add Worker_PubSubStdoutLogTopic to config and repo](https://github.com/reearth/reearth-flow/pull/1187) | Pull Request | [reearth/reearth-flow](https://github.com/reearth/reearth-flow) | May 17, 2025     |
 | [feat(engine): add stdout log event publishing](https://github.com/reearth/reearth-flow/pull/1167) | Pull Request | [reearth/reearth-flow](https://github.com/reearth/reearth-flow) | April 19, 2025     |
 | [fix(api): add handling for Cloud Batch status SCHEDULED in conversion](https://github.com/reearth/reearth-flow/pull/1156) | Pull Request | [reearth/reearth-flow](https://github.com/reearth/reearth-flow) | April 12, 2025     |
 | [feat(engine): Set logger level of action-log to Trace instead of Info](https://github.com/reearth/reearth-flow/pull/1132) | Pull Request | [reearth/reearth-flow](https://github.com/reearth/reearth-flow) | March 27, 2025     |
