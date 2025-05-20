@@ -60,7 +60,7 @@ layout: default
           <li><strong>Second Role (CTO):</strong> I co-founded Industry Technology, a company that provides enterprise applications to major real estate companies in Japan.
             <ul><li>In my role as CTO, I led the development team and personally wrote over 100,000 lines of backend code over 5.5 years.</li></ul>
           </li>
-          <li><strong>Side Engagements:</strong> I also worked as a software engineer for several AI startups.</li>
+          <li><strong>Side Engagements:</strong> I also worked as a freelance software engineer for several AI startups.</li>
         </ul>
       </td>
     </tr>
