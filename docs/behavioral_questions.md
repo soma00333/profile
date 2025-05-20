@@ -276,7 +276,7 @@ layout: default
           <li><strong>My Objective:</strong> My task was to develop a real-time logging system that allowed users to check workflow execution status via the UI.</li>
           <li><strong>My Technical Approach:</strong> I developed this feature using a Pub/Sub architecture with subscribers and publishers.</li>
           <li><strong>Technical Hurdle:</strong> A key challenge was the high-performance requirement, as users needed to monitor logs in real time.</li>
-          <li><strong>How I Overcame It:</strong> I overcame this by utilizing an optimized data storage strategy, using Redis for fast log retrieval (cache) and Google Cloud Storage (GCS) for long-term log storage.</li>
+          <li><strong>How I Overcame It:</strong> I overcame this by utilizing an optimized data storage strategy, using Redis for cache and Google Cloud Storage (GCS) for long-term log storage.</li>
           <li><strong>Key Technical Achievement:</strong> This enabled users to monitor worker status in real-time.</li>
         </ul>
       </td>
