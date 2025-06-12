@@ -16,6 +16,11 @@ layout: default
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/cockroachdb/cockroach">cockroachdb/cockroach</a></td>
+      <td>Contributor</td>
+      <td><ul><li>Removed a deprecated <code>--oss</code> flag and its associated logic from the <code>dev ui</code> subcommand to resolve technical debt and simplify the development workflow</li></ul></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/reearth/reearth-flow">reearth/reearth-flow</a></td>
       <td>Committer</td>
       <td><ul><li>Developed a processor that compiles user scripts into WebAssembly files and executes them efficiently on a WASM runtime, which enhanced system extensibility, allowing users to customize workflows efficiently</li><li>Developed a real-time logging system for the workflow engine, leveraging storage and cache efficiently, which provided real-time visibility of worker execution status, enhancing monitoring efficiency</li></ul></td>
