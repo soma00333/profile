@@ -8,6 +8,7 @@ layout: default
 
 | Name                                                                                             | Category     | At                                            | Date               |
 | ------------------------------------------------------------------------------------------------ | ------------ | --------------------------------------------- | ------------------ |
+| [feat(kubelet): migrate kuberuntime to contextual logging](https://github.com/kubernetes/kubernetes/pull/132427) | Pull Request | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | June 20, 2025    |
 | [dev: remove stale --oss flag from ui subcommand](https://github.com/cockroachdb/cockroach/pull/147978) | Pull Request | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | June 9, 2025     |
 | [feat(subscriber): Add worker-stdout-log subscriber](https://github.com/reearth/reearth-flow/pull/1199) | Pull Request | [reearth/reearth-flow](https://github.com/reearth/reearth-flow) | May 24, 2025     |
 | [feat(api): Add Worker_PubSubStdoutLogTopic to config and repo](https://github.com/reearth/reearth-flow/pull/1187) | Pull Request | [reearth/reearth-flow](https://github.com/reearth/reearth-flow) | May 17, 2025     |
