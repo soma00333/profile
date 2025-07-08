@@ -8,6 +8,7 @@ layout: default
 
 | Name                                                                                                                               | Issuer                       | Date               |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------ |
+| [Prometheus Certified Associate](https://www.credly.com/badges/03963611-ab9f-4969-93eb-66c01f03714a)                                   | The Linux Foundation         | July 1, 2025       |
 | [Google Cloud Certified Professional Cloud Developer](https://www.credly.com/badges/0d97e296-a55d-4011-b14a-3e07c4748f07)             | Google                       | June 1, 2024       |
 | [Google Cloud Certified Professional Cloud Architect](https://www.credly.com/badges/d05509b3-46c5-4c65-884a-715286ede739)             | Google                       | June 1, 2024       |
 | [CS1301xI: Computing in Python I: Fundamentals and Procedural Programming](https://courses.edx.org/certificates/94617e9c52fc4156a46f02c80c20e865?_gl=1*igdpb1*_gcl_au*MTE0MjMyNzI2My4xNzE5NzMwMzIz*_ga*NzE4NjE4NTQ4LjE3MTk3MzAzMjA.*_ga_D3KS4KMDT0*MTcxOTczMzc0Mi4yLjEuMTcxOTczMzc5NS43LjAuMA) | Georgia Institute of Technology | August 1, 2022     |
