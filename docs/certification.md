@@ -8,6 +8,7 @@ layout: default
 
 | Name                                                                                                                               | Issuer                       | Date               |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------ |
+| [OpenTelemetry Certified Associate](https://www.credly.com/badges/f216e5e8-4b3f-4e16-bb91-a7466d099cbe)                                 | The Linux Foundation         | July 1, 2025       |
 | [Prometheus Certified Associate](https://www.credly.com/badges/03963611-ab9f-4969-93eb-66c01f03714a)                                   | The Linux Foundation         | July 1, 2025       |
 | [Google Cloud Certified Professional Cloud Developer](https://www.credly.com/badges/0d97e296-a55d-4011-b14a-3e07c4748f07)             | Google                       | June 1, 2024       |
 | [Google Cloud Certified Professional Cloud Architect](https://www.credly.com/badges/d05509b3-46c5-4c65-884a-715286ede739)             | Google                       | June 1, 2024       |
