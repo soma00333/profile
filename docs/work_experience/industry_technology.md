@@ -15,7 +15,7 @@ nav_order: 5
 | Employee    | 30+                                                                                          |
 | Founded     | 2018                                                                                         |
 | Web Site    | https://industrytechnology.co/                                                               |
-| Description | A proptech company that delivers enterprise applications for Japan's largest real estate companies |
+| Description | A proptech company that builds enterprise applications for Japan's largest real estate companies |
 | Location    | Tokyo, Japan                                                                                 |
 
 ## Team
@@ -34,14 +34,14 @@ nav_order: 5
     </tr>
     <tr>
       <td>Mission</td>
-      <td>As CTO, I led a development team of 8 members to create enterprise applications. I also wrote entire lines of backend code from scratch myself.</td>
+      <td>As CTO, I led a development team of 8 members. We created enterprise applications. I also wrote backend code from scratch myself.</td>
     </tr>
     <tr>
       <td>Task</td>
       <td>
         <ul>
           <li>I developed new features.</li>
-          <li>I introduced and implemented SRE pactices in the team.</li>
+          <li>I introduced and implemented SRE practices in the team.</li>
         </ul>
       </td>
     </tr>
@@ -72,14 +72,14 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT1</strong>. I designed SLIs and SLOs, and developed custom metrics and tracing to greatly improve system reliability.</td>
+      <td><strong>IT1</strong>. I designed SLIs and SLOs. I developed custom metrics and tracing. These changes greatly improved system reliability.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>We had an opportunity to introduce our system to one of Japan's largest real estate companies.</li>
-          <li>I realized our operations didn't meet the reliability and performance levels that this potential enterprise client needed.</li>
+          <li>We had a chance to introduce our system to one of Japan's largest real estate companies.</li>
+          <li>I realized our operations didn't meet the reliability and performance levels this enterprise client needed.</li>
         </ul>
       </td>
     </tr>
@@ -108,15 +108,15 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The improved system reliability and proven operational maturity built customer trust, which directly led to winning a major enterprise contract.</td>
+      <td>The improved system reliability built customer trust. This trust directly led to winning a major enterprise contract.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>A key challenge was setting the right SLOs, because breaking an SLO would mean stopping releases, which could slow down development.</td>
+      <td>A key challenge was setting the right SLOs. Breaking an SLO would mean stopping releases. This could slow down development.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I ran thorough load tests to see how SLIs behaved during traffic spikes and used this data to set realistic SLOs, adjusting them over time as needed.</td>
+      <td>I ran thorough load tests to see how SLIs behaved during traffic spikes. I used this data to set realistic SLOs. I adjusted them over time as needed.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
@@ -139,11 +139,11 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT2</strong>. I developed a group chat service and a notification system, enabling users to exchange photos, videos, and text messages.</td>
+      <td><strong>IT2</strong>. I developed a group chat service and a notification system. Users could exchange photos, videos, and text messages.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
-      <td>The system didn't have a chat function, which was needed for daily business operations and user collaboration.</td>
+      <td>The system didn't have a chat function. We needed it for daily business operations and user collaboration.</td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
@@ -170,11 +170,11 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The new system provided a smooth chat and notification experience, improving user engagement and productivity by 25%.</td>
+      <td>The new system provided a smooth chat and notification experience. User engagement and productivity improved by 25%.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>The main constraint was a very tight schedule, which didn't give us enough time to build a complex WebSocket-based real-time solution.</td>
+      <td>The main constraint was a very tight schedule. We didn't have enough time to build a complex WebSocket-based real-time solution.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
@@ -222,7 +222,7 @@ nav_order: 5
         <ul>
           <li>I optimized database structure:
             <ul>
-              <li>I analyzed query patterns and added the right indexes to speed up data retrieval</li>
+              <li>I analyzed query patterns. I added the right indexes to speed up data retrieval</li>
               <li>I implemented query result caching using Redis</li>
             </ul>
           </li>
@@ -237,18 +237,18 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>These optimizations led to a 70% reduction in slow query occurrences and stabilized system performance, especially during peak hours.</td>
+      <td>These optimizations reduced slow query occurrences by 70%. System performance became stable, especially during peak hours.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>Finding the exact source of slow queries was hard due to complex data models and complicated query patterns.</td>
+      <td>Finding the exact source of slow queries was hard. We had complex data models and complicated query patterns.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
       <td>
         <ul>
-          <li>I monitored and analyzed distributed tracing data to find problems and identify bad query paths.</li>
-          <li>I used EXPLAIN statements to analyze query execution plans, looking for full table scans and poor index usage.</li>
+          <li>I monitored and analyzed distributed tracing data. I found problems and identified bad query paths.</li>
+          <li>I used EXPLAIN statements to analyze query execution plans. I looked for full table scans and poor index usage.</li>
         </ul>
       </td>
     </tr>
@@ -279,8 +279,8 @@ nav_order: 5
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>The system was first built as a modular monolith, which started showing scalability limits.</li>
-          <li>As user traffic to core features grew, the write load on the central database increased a lot, hurting performance.</li>
+          <li>The system was first built as a modular monolith. It started showing scalability limits.</li>
+          <li>User traffic to core features grew. The write load on the central database increased a lot. This hurt performance.</li>
         </ul>
       </td>
     </tr>
@@ -309,7 +309,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The migration successfully spread traffic for core features across separate microservices, greatly reducing the write load on the main database and improving system scalability.</td>
+      <td>The migration successfully spread traffic for core features across separate microservices. This greatly reduced the write load on the main database. System scalability improved.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
@@ -317,11 +317,11 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I added a Backend-for-Frontend (BFF) layer in front of the new microservices. This let us gradually switch traffic from the monolith to each new service, allowing a smooth and controlled migration.</td>
+      <td>I added a Backend-for-Frontend (BFF) layer in front of the new microservices. This let us gradually switch traffic from the monolith to each new service. We achieved a smooth and controlled migration.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how valuable it is to use a middle layer (BFF) to allow gradual migrations without disrupting users.</td>
+      <td>I learned how valuable a middle layer (BFF) is. It allows gradual migrations without disrupting users.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
@@ -346,14 +346,14 @@ nav_order: 5
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>The existing MySQL 5.7 database version was reaching end-of-life, so we needed to upgrade to a supported version.</li>
-          <li>Database migrations at this scale are complex and can risk data loss or long downtime if not managed carefully.</li>
+          <li>The existing MySQL 5.7 database version was reaching end-of-life. We needed to upgrade to a supported version.</li>
+          <li>Database migrations at this scale are complex. They can risk data loss or long downtime if not managed carefully.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My mission was to smoothly upgrade the database to MySQL 8.0 while keeping the system stable, data safe, and performance good.</td>
+      <td>My mission was to smoothly upgrade the database to MySQL 8.0. I needed to keep the system stable, data safe, and performance good.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
@@ -376,7 +376,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The migration to MySQL 8.0, once stabilized, resulted in a 20% increase in overall query performance.</td>
+      <td>We completed the migration to MySQL 8.0. After we stabilized it, overall query performance increased by 20%.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
@@ -387,15 +387,15 @@ nav_order: 5
       <td>
         <ul>
           <li>Users reported seeing an error dialog on specific service pages after the migration.</li>
-          <li>I quickly found the issue was a JSON parsing error caused by an accidental data type change in a column.</li>
-          <li>I deployed a hotfix to handle the JSON parsing errors smoothly, restoring service availability.</li>
-          <li>I then changed the affected JSON column types back to their original UNSIGNED INT definition, completely fixing the compatibility issues.</li>
+          <li>I quickly found the issue. It was a JSON parsing error caused by an accidental data type change in a column.</li>
+          <li>I deployed a hotfix to handle the JSON parsing errors smoothly. This restored service availability.</li>
+          <li>I then changed the affected JSON column types back to their original UNSIGNED INT definition. This completely fixed the compatibility issues.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how important it is to thoroughly test data type compatibility during database migrations, since even small changes can cause unexpected application errors.</td>
+      <td>I learned how important it is to thoroughly test data type compatibility during database migrations. Even small changes can cause unexpected application errors.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>

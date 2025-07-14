@@ -8,5 +8,5 @@ layout: default
 
 | Key      | Value                           |
 | -------- | ------------------------------- |
-| Japanese | Native or bilingual proficiency |
-| English  | Professional working proficiency| 
+| Japanese | Native proficiency |
+| English  | Professional working proficiency | 

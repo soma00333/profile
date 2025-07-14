@@ -34,14 +34,14 @@ nav_order: 6
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to design training and inference pipelines for LLMs and develop enterprise applications incorporating them.</td>
+      <td>My mission was to design training and inference pipelines for LLMs. I also developed enterprise applications using them.</td>
     </tr>
     <tr>
       <td>Task</td>
       <td>
         <ul>
           <li>I designed training and inference pipelines.</li>
-          <li>I developed enterprise applications incorporating LLMs.</li>
+          <li>I developed enterprise applications using LLMs.</li>
         </ul>
       </td>
     </tr>
@@ -76,7 +76,7 @@ nav_order: 6
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
-      <td>The existing process for fine-tuning Large Language Models (LLMs) was inefficient and lacked a structured pipeline.</td>
+      <td>The existing process for fine-tuning Large Language Models (LLMs) was inefficient. It lacked a structured pipeline.</td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
@@ -95,7 +95,7 @@ nav_order: 6
           <li>I managed models and tracking
             <ul>
               <li>I integrated with Hugging Face to store and share trained models</li>
-              <li>I utilized Weights & Biases (WandB) for comprehensive experiment tracking</li>
+              <li>I used Weights & Biases (WandB) for comprehensive experiment tracking</li>
             </ul>
           </li>
         </ul>
@@ -103,19 +103,19 @@ nav_order: 6
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The new pipeline enabled efficient fine-tuning of LLMs while significantly optimizing compute resource utilization and reducing overall training costs.</td>
+      <td>The new pipeline enabled efficient fine-tuning of LLMs. It significantly optimized compute resource utilization. Overall training costs decreased.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>A primary challenge was managing and optimizing the significant computational costs associated with fine-tuning LLMs.</td>
+      <td>A primary challenge was managing the high computational costs of fine-tuning LLMs. We needed to optimize these costs.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I designed and implemented the pipeline using a serverless architecture, which significantly reduced idle compute costs and optimized resource utilization.</td>
+      <td>I designed and implemented the pipeline using a serverless architecture. This significantly reduced idle compute costs. It also optimized resource utilization.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how serverless architectures can effectively reduce costs for computationally intensive ML workloads by eliminating idle resource charges.</td>
+      <td>I learned how serverless architectures can effectively reduce costs for computationally intensive ML workloads. They eliminate idle resource charges.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>

@@ -15,7 +15,7 @@ nav_order: 7
 | Employee    | 150+                                               |
 | Founded     | 2012                                               |
 | Web Site    | [https://gunosy.co.jp/](https://gunosy.co.jp/)                              |
-| Description | Japan's largest news app company with 40M+ users |
+| Description | Japan's largest news app company with over 40 million users |
 | Location    | Tokyo, Japan                                       |
 
 ## Team
@@ -34,14 +34,14 @@ nav_order: 7
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to analyze large-scale user data, improve advertising logic, and contribute to the overall growth of the Gunosy news application.</td>
+      <td>My mission was to analyze large-scale user data and improve advertising logic. I helped grow the Gunosy news application.</td>
     </tr>
     <tr>
       <td>Task</td>
       <td>
         <ul>
-          <li>I analyzed large amounts of user data to inform advertising strategies and business decisions.</li>
-          <li>I designed and implemented A/B tests to optimize advertising logic and user engagement.</li>
+          <li>I analyzed large amounts of user data. This informed advertising strategies and business decisions.</li>
+          <li>I designed and implemented A/B tests. These optimized advertising logic and user engagement.</li>
         </ul>
       </td>
     </tr>
@@ -72,11 +72,11 @@ nav_order: 7
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>GU1</strong>. I analyzed data from millions of users and designed A/B testing strategies that successfully improved user retention.</td>
+      <td><strong>GU1</strong>. I analyzed data from millions of users. I designed A/B testing strategies. These successfully improved user retention.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
-      <td>The platform was seeing a clear decline in user retention rates, which hurt long-term growth.</td>
+      <td>The platform was seeing a clear decline in user retention rates. This hurt long-term growth.</td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
@@ -103,19 +103,19 @@ nav_order: 7
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The new user experience improvements, driven by personalized content, increased 7-day user retention by 10%.</td>
+      <td>The new user experience improvements increased 7-day user retention by 10%. Personalized content drove these improvements.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>A key challenge was making sure we had enough users for A/B testing, since the target group (new users) was a smaller part of the total user base.</td>
+      <td>A key challenge was making sure we had enough users for A/B testing. The target group (new users) was a smaller part of the total user base.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I worked with the marketing team to run targeted ad campaigns, which brought enough new users to the platform for solid A/B testing.</td>
+      <td>I worked with the marketing team to run targeted ad campaigns. These brought enough new users to the platform for solid A/B testing.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how important it is for different teams to work together, especially data engineering and marketing teams, to get statistically significant test results.</td>
+      <td>I learned how important it is for different teams to work together. Data engineering and marketing teams especially need to collaborate to get statistically significant test results.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>

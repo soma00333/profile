@@ -20,7 +20,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I removed a deprecated <code>--oss</code> flag and its associated logic from the <code>dev ui</code> subcommand to resolve technical debt and simplify the development workflow</li>
+          <li>I removed an old <code>--oss</code> flag from the <code>dev ui</code> command to clean up the code and make development easier</li>
         </ul>
       </td>
     </tr>
@@ -29,8 +29,8 @@ layout: default
       <td>Committer</td>
       <td>
         <ul>
-          <li>I developed a processor that compiled user scripts into WebAssembly files and executed them efficiently on a WASM runtime. This enhanced system extensibility and allowed users to customize workflows efficiently</li>
-          <li>I developed a real-time logging system for the workflow engine. It leveraged storage and cache efficiently. This provided real-time visibility of worker execution status and enhanced monitoring efficiency</li>
+          <li>I built a processor that turns user scripts into WebAssembly files and runs them on WASM. This lets users customize workflows easily</li>
+          <li>I built a real-time logging system for the workflow engine. It uses storage and cache well. Users can see worker status right away</li>
         </ul>
       </td>
     </tr>
@@ -39,7 +39,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I'm implementing <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/1602-structured-logging">Structured Logging</a> and <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/3077-contextual-logging">Contextual Logging</a> for multiple packages. This increases system reliability and debugging efficiency</li>
+          <li>I'm adding <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/1602-structured-logging">Structured Logging</a> and <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/3077-contextual-logging">Contextual Logging</a> to many packages. This makes the system more reliable and easier to debug</li>
         </ul>
       </td>
     </tr>
@@ -48,7 +48,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I'm refining the snapshot management logic by removing inefficiencies and streamlining related state transitions. This enhances clarity, maintainability, and robustness</li>
+          <li>I'm improving how snapshots work by removing slow parts and making state changes simpler. This makes the code clearer and easier to maintain</li>
         </ul>
       </td>
     </tr>
@@ -57,8 +57,8 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I added a workflow to guarantee that the import items were properly grouped and ordered. This improved code consistency and maintainability</li>
-          <li>I enhanced the reconciliation logic to ensure that the number of replicas in the StatefulSet matched the number of etcd members in the cluster. This improved cluster consistency</li>
+          <li>I added a workflow to check that imports are grouped and ordered correctly. This keeps the code consistent</li>
+          <li>I fixed the logic to make sure StatefulSet replicas match etcd cluster members. This keeps the cluster consistent</li>
         </ul>
       </td>
     </tr>
@@ -67,7 +67,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I added post-submit workflows that ran test and test-e2e. This ensured that CI ran even after merging to main in etcd-io/etcd-operator and enhanced its stability</li>
+          <li>I added workflows that run tests after merging. This makes sure CI runs on main branch in etcd-operator and keeps it stable</li>
         </ul>
       </td>
     </tr>
@@ -76,7 +76,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I added a workflow to check the issue title and provide feedback. This improved the overall consistency of the project</li>
+          <li>I added a workflow to check issue titles and give feedback. This keeps the project more consistent</li>
         </ul>
       </td>
     </tr>

@@ -15,7 +15,7 @@ nav_order: 3
 | Employee    | 300+                                                                      |
 | Founded     | 2018                                                                      |
 | Web Site    | [https://layerx.co.jp/](https://layerx.co.jp/)                      |
-| Description | A fintech company that provides enterprise applications for 10k+ companies |
+| Description | A fintech company that provides enterprise applications for over 10,000 companies |
 | Location    | Tokyo, Japan                                                              |
 
 ## Team
@@ -34,7 +34,7 @@ nav_order: 3
     </tr>
     <tr>
       <td>Mission</td>
-      <td>As an embedded SRE, my mission was to design and develop AI/LLM applications tailored for Japan's largest financial institutions.</td>
+      <td>As an embedded SRE, my mission was to design and develop AI/LLM applications for Japan's largest financial institutions.</td>
     </tr>
     <tr>
       <td>Task</td>
@@ -72,15 +72,15 @@ nav_order: 3
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>LX1</strong>. I developed an event-driven notification system designed to operate securely within a closed network environment.</td>
+      <td><strong>LX1</strong>. I developed an event-driven notification system. It operates securely within a closed network environment.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
-      <td>Users had no way to ascertain the status of their workflows after triggering them, leading to uncertainty and inefficiency.</td>
+      <td>Users had no way to check the status of their workflows after triggering them. This led to uncertainty and inefficiency.</td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My objective was to develop a notification system that reliably informed users about their workflow execution status while adhering to strict security protocols.</td>
+      <td>My objective was to develop a notification system. It needed to reliably inform users about their workflow execution status. It also needed to follow strict security protocols.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
@@ -103,24 +103,24 @@ nav_order: 3
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The system successfully enabled secure and scalable workflow notifications, ensuring users were informed of progress while fully complying with high-security standards.</td>
+      <td>The system successfully enabled secure and scalable workflow notifications. Users were informed of progress. The system fully complied with high-security standards.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>The primary challenge was that the system had to be deployed and operate within a closed network environment with stringent traffic control and access restrictions.</td>
+      <td>The primary challenge was the closed network environment. The system had to be deployed there. It had strict traffic control and access restrictions.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
       <td>
         <ul>
-          <li>I explicitly defined all necessary inbound and outbound traffic rules to allow essential communication while maintaining network isolation.</li>
-          <li>I configured a secure firewall policy to strictly control access to and from the notification system, ensuring compliance with security standards.</li>
+          <li>I explicitly defined all necessary inbound and outbound traffic rules. These allowed essential communication while maintaining network isolation.</li>
+          <li>I configured a secure firewall policy. It strictly controlled access to and from the notification system. This ensured compliance with security standards.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how to design event-driven architectures that maintain functionality while adhering to the strictest security requirements in closed network environments.</td>
+      <td>I learned how to design event-driven architectures. They maintain functionality while following the strictest security requirements in closed network environments.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>

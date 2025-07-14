@@ -15,7 +15,7 @@ nav_order: 1
 | Employee    | 1000+                                                                                                             |
 | Founded     | 2012                                                                                                              |
 | Web Site    | [https://www.cybereason.com/](https://www.cybereason.com/)                                                        |
-| Description | A global cybersecurity company in 40 countries that provides EDR, XDR, and MDR solutions to fight cyberattacks |
+| Description | A global cybersecurity company in 40 countries. We provide EDR, XDR, and MDR solutions to stop cyberattacks |
 | Location    | Tokyo, Japan                                                                                                      |
 
 ## Team (Software Engineer - Backend)
@@ -76,7 +76,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Mission</td>
-      <td>As part of a global cross-functional team, my mission was to improve the reliability of a distributed system that runs on 12,000 servers and processes 80M events per second.</td>
+      <td>I worked with a global team to improve the reliability of our system. The system runs on 12,000 servers and handles 80M events per second.</td>
     </tr>
     <tr>
       <td>Task</td>
@@ -114,20 +114,20 @@ nav_order: 1
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>CR1</strong>. I designed and developed custom metrics, greatly improving observability across 3,000 servers.</td>
+      <td><strong>CR1</strong>. I built custom metrics that improved observability across 3,000 servers.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>The API server had many connected parts, making troubleshooting complex.</li>
-          <li>Existing monitoring didn't give enough insights, which made problem resolution take too long.</li>
+          <li>The API server had many connected parts. This made troubleshooting hard.</li>
+          <li>Our monitoring didn't give enough information. Problems took too long to fix.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My goal was to improve system observability, make debugging easier, and fix problems faster.</td>
+      <td>I wanted to see the system better, debug easier, and fix problems faster.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
@@ -151,19 +151,19 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The improved visibility and useful dashboards made troubleshooting much more efficient, cutting problem resolution time by 50% for enterprise customers.</td>
+      <td>Better visibility and useful dashboards made troubleshooting faster. We cut problem resolution time by 50% for enterprise customers.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>The main challenge was designing custom metrics that weren't just data points but gave engineers truly useful insights.</td>
+      <td>The hard part was making metrics that gave engineers useful insights, not just data points.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I started and led communication between SRE, DevOps, and Product teams to work together on defining the most important metrics.</td>
+      <td>I led talks between SRE, DevOps, and Product teams. We worked together to define the most important metrics.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned the importance of cross-team collaboration in defining metrics that truly serve the needs of all stakeholders.</td>
+      <td>I learned that teams must work together to define metrics that help everyone.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
@@ -182,20 +182,20 @@ nav_order: 1
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>CR2</strong>. I analyzed thread dumps and heap dumps to troubleshoot a critical server issue involving 2,000 concurrent threads.</td>
+      <td><strong>CR2</strong>. I analyzed thread dumps and heap dumps to fix a critical server issue with 2,000 threads.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>An API server for an enterprise customer with 100,000 employees was crashing sometimes.</li>
-          <li>The root cause was unknown, and normal monitoring tools didn't give enough information to diagnose it.</li>
+          <li>An API server kept crashing for a customer with 100,000 employees.</li>
+          <li>We didn't know why. Normal monitoring tools didn't help.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My mission was to find the performance problem causing the crashes and fix it to make the system stable.</td>
+      <td>I had to find what caused the crashes and fix it.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
@@ -219,19 +219,19 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>My actions fixed the critical availability issues and greatly improved system reliability for the enterprise customer with 100,000 employees.</td>
+      <td>I fixed the availability issues and made the system reliable for the customer with 100,000 employees.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>An automated pipeline would restart the UI server right after failure, which prevented me from manually collecting thread and heap dumps needed for analysis.</td>
+      <td>The pipeline restarted the server right after crashes. This stopped me from collecting the dumps I needed.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I changed the pipeline to automatically collect thread dumps and heap dumps before restarting the server.</td>
+      <td>I changed the pipeline to collect dumps before restarting the server.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how important it is to collect data automatically in automated environments to help find root causes during incidents.</td>
+      <td>I learned to collect data automatically before systems restart. This helps find root causes during incidents.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>

@@ -18,9 +18,9 @@ layout: default
       <td><strong>Vision</strong></td>
       <td>
         <ul>
-          <li><strong>Core Belief:</strong> I believe that reliability is the most fundamental feature of any product.</li>
-          <li><strong>My Mission:</strong> My mission is to contribute to the development of distributed systems, with a strong focus on reliability.</li>
-          <li><strong>AI/LLM Focus:</strong> I am deeply interested in AI/LLM technologies and aim to use them to improve the developer experience.</li>
+          <li><strong>Core Belief:</strong> I believe reliability is the most important part of any product.</li>
+          <li><strong>My Mission:</strong> I want to build distributed systems that focus on reliability.</li>
+          <li><strong>AI/LLM Focus:</strong> I am very interested in AI/LLM and want to use them to help developers work better.</li>
         </ul>
       </td>
     </tr>
@@ -28,8 +28,8 @@ layout: default
       <td><strong>Career Goal</strong></td>
       <td>
         <ul>
-          <li><strong>OSS Ambition:</strong> My career goal is to relocate to the US, become deeply involved in the OSS community, and contribute to the creation of new technologies.</li>
-          <li><strong>Leadership Goal:</strong> I aspire to lead a team in a senior position and take on greater responsibility.</li>
+          <li><strong>OSS Ambition:</strong> I want to move to the US, join the OSS community, and help create new technologies.</li>
+          <li><strong>Leadership Goal:</strong> I want to become a senior engineer and lead a team.</li>
         </ul>
       </td>
     </tr>
@@ -37,13 +37,13 @@ layout: default
       <td><strong>Introduction</strong></td>
       <td>
         <ul>
-          <li><strong>Current Role:</strong> I am a Software Engineer with over 7 years of experience in site reliability and backend development.</li>
-          <li><strong>Key Experience:</strong> I designed and developed distributed systems and enterprise applications. I focused on high performance and scalability.</li>
-          <li><strong>Core Skills:</strong> My professional skills included Go development and Kubernetes cluster management.</li>
-          <li><strong>Current Company:</strong> I work as a software engineer at Cybereason. It is a US-based cybersecurity company operating in 40 countries.</li>
-          <li><strong>Primary Responsibilities:</strong> I developed new features and refactored legacy microservices for a core system. This system operated on over 12,000 servers and processed more than 80 million events per second.</li>
-          <li><strong>Side Projects:</strong> I contribute to open-source projects. These include Kubernetes, Etcd, Raft, and ETL tools.</li>
-          <li><strong>Current Studies:</strong> I am a part-time student in the Master of Science in Computer Science program at the University of Colorado Boulder. I study online from Japan.</li>
+          <li><strong>Current Role:</strong> I am a Software Engineer with 7+ years of experience in SRE and backend development.</li>
+          <li><strong>Key Experience:</strong> I built distributed systems and enterprise applications with high performance and scalability.</li>
+          <li><strong>Core Skills:</strong> I am skilled in Go development and Kubernetes management.</li>
+          <li><strong>Current Company:</strong> I work at Cybereason, a US cybersecurity company in 40 countries.</li>
+          <li><strong>Primary Responsibilities:</strong> I built new features and improved old microservices. The system runs on 12,000+ servers and handles 80 million events per second.</li>
+          <li><strong>Side Projects:</strong> I contribute to OSS projects like Kubernetes, Etcd, Raft, and ETL tools.</li>
+          <li><strong>Current Studies:</strong> I study Computer Science online at CU Boulder while working in Japan.</li>
         </ul>
       </td>
     </tr>
@@ -51,16 +51,16 @@ layout: default
       <td><strong>Past Job</strong></td>
       <td>
         <ul>
-          <li><strong>University Degree:</strong> I earned a Bachelor of Engineering from the University of Tokyo.
-            <ul><li>During my studies, I worked with patient data, developed Python models, and wrote a paper to improve medical decision-making.</li></ul>
+          <li><strong>University Degree:</strong> I studied Engineering at the University of Tokyo.
+            <ul><li>I worked with patient data, built Python models, and wrote a research paper about medical decisions.</li></ul>
           </li>
-          <li><strong>First Role:</strong> I joined Gunosy, one of Japan's largest news app companies with 40 million users.
-            <ul><li>I worked as a data engineer for 1.5 years, analyzing large-scale user data and improving advertising logic.</li></ul>
+          <li><strong>First Role:</strong> I joined Gunosy, Japan's largest news app with 40 million users.
+            <ul><li>I worked as a data engineer for 1.5 years and improved ad systems using big data.</li></ul>
           </li>
-          <li><strong>Second Role (CTO):</strong> I co-founded Industry Technology, which provides enterprise applications to major real estate companies in Japan.
-            <ul><li>As CTO, I led the development team and personally wrote over 100,000 lines of backend code over 5.5 years.</li></ul>
+          <li><strong>Second Role (CTO):</strong> I co-founded Industry Technology for real estate companies.
+            <ul><li>As CTO, I led the team and wrote 100,000+ lines of backend code in 5.5 years.</li></ul>
           </li>
-          <li><strong>Side Engagements:</strong> I also worked as a freelance software engineer for several AI startups.</li>
+          <li><strong>Side Engagements:</strong> I also did freelance work for AI startups.</li>
         </ul>
       </td>
     </tr>
@@ -68,9 +68,9 @@ layout: default
       <td><strong>Why searching a new position</strong></td>
       <td>
         <ul>
-          <li><strong>Current Status:</strong> I am happy with my current work environment and not actively looking for a new position.</li>
-          <li><strong>Growth Aspiration:</strong> I want to grow by working on large-scale products and taking on more responsibilities like a senior role.</li>
-          <li><strong>Future Plans:</strong> I plan to move to the US soon and am looking for US positions with visa support.</li>
+          <li><strong>Current Status:</strong> I am happy at my current job and not actively looking.</li>
+          <li><strong>Growth Aspiration:</strong> I want to work on bigger products and take on senior responsibilities.</li>
+          <li><strong>Future Plans:</strong> I plan to move to the US and need visa support.</li>
         </ul>
       </td>
     </tr>
@@ -78,11 +78,11 @@ layout: default
       <td><strong>Why applied</strong></td>
       <td>
         <ul>
-          <li><strong>Alignment with Vision:</strong> This role matches my vision and career goals.</li>
-          <li><strong>Relevant Experience:</strong> The job requirements match my experience.
+          <li><strong>Alignment with Vision:</strong> This role fits my goals perfectly.</li>
+          <li><strong>Relevant Experience:</strong> My experience matches what you need.
             <ul>
-              <li>I gained experience in backend development and leadership at Industry Technology.</li>
-              <li>I learned site reliability engineering and teamwork skills at Cybereason.</li>
+              <li>I learned backend development and leadership at Industry Technology.</li>
+              <li>I learned SRE and teamwork at Cybereason.</li>
             </ul>
           </li>
         </ul>
@@ -92,8 +92,8 @@ layout: default
       <td><strong>Why CU Boulder</strong></td>
       <td>
         <ul>
-          <li><strong>Learning Motivation:</strong> I wanted to relearn computer science basics, especially AI.</li>
-          <li><strong>Reason for Choosing CU Boulder:</strong> CU Boulder has a flexible program with many modern AI courses that fit my goals.</li>
+          <li><strong>Learning Motivation:</strong> I wanted to study computer science basics again, especially AI.</li>
+          <li><strong>Reason for Choosing CU Boulder:</strong> CU Boulder has flexible online classes with modern AI courses.</li>
         </ul>
       </td>
     </tr>
@@ -101,7 +101,7 @@ layout: default
       <td><strong>Why Cybereason</strong></td>
       <td>
         <ul>
-          <li><strong>Challenging Environment:</strong> I joined Cybereason because its system handles 80 million events per second on over 12,000 servers, which requires high reliability.</li>
+          <li><strong>Challenging Environment:</strong> I joined Cybereason for the challenge - their system handles 80 million events per second on 12,000+ servers.</li>
         </ul>
       </td>
     </tr>
@@ -109,8 +109,8 @@ layout: default
       <td><strong>Why left CTO</strong></td>
       <td>
         <ul>
-          <li><strong>Reason for Leaving:</strong> We sold the business.</li>
-          <li><strong>New Career Path:</strong> After the sale, I decided to work as an individual contributor instead of a business leader.</li>
+          <li><strong>Reason for Leaving:</strong> We sold the company.</li>
+          <li><strong>New Career Path:</strong> After the sale, I chose to be an engineer instead of a business leader.</li>
         </ul>
       </td>
     </tr>
@@ -118,13 +118,13 @@ layout: default
       <td><strong>Why SRE</strong></td>
       <td>
         <ul>
-          <li><strong>Successful SRE Implementation:</strong> I have successful experience implementing SRE practices at Industry Technology.
+          <li><strong>Successful SRE Implementation:</strong> I successfully introduced SRE at Industry Technology.
             <ul>
-              <li>I introduced SRE practices there.</li>
-              <li>This led to securing a contract with an enterprise customer.</li>
+              <li>I set up SRE practices.</li>
+              <li>This helped us win an enterprise contract.</li>
             </ul>
           </li>
-          <li><strong>Key Learning:</strong> I realized the importance of deepening my understanding and application of SRE practices as a software engineer.</li>
+          <li><strong>Key Learning:</strong> I learned that SRE practices are very important for software engineers.</li>
         </ul>
       </td>
     </tr>
@@ -132,8 +132,8 @@ layout: default
       <td><strong>Why Backend</strong></td>
       <td>
         <ul>
-          <li><strong>Alignment with Goals:</strong> Working in backend development aligns with my vision and career goals.</li>
-          <li><strong>My Ideal Role:</strong> My ideal role is a Backend Engineer who can effectively utilize SRE practices.</li>
+          <li><strong>Alignment with Goals:</strong> Backend development fits my career goals.</li>
+          <li><strong>My Ideal Role:</strong> I want to be a Backend Engineer who uses SRE practices.</li>
         </ul>
       </td>
     </tr>
@@ -141,8 +141,8 @@ layout: default
       <td><strong>Why Freelance</strong></td>
       <td>
         <ul>
-          <li><strong>Project Alignment:</strong> The freelance projects I undertook aligned with my vision and career goals.</li>
-          <li><strong>Nature of Projects:</strong> I was involved in projects related to Open Source Software (OSS), AI/LLM, and systems with high-reliability requirements.</li>
+          <li><strong>Project Alignment:</strong> The freelance projects matched my goals.</li>
+          <li><strong>Nature of Projects:</strong> I worked on OSS, AI/LLM, and high-reliability systems.</li>
         </ul>
       </td>
     </tr>
@@ -150,9 +150,9 @@ layout: default
       <td><strong>Why US</strong></td>
       <td>
         <ul>
-          <li><strong>Career Alignment:</strong> Working in the US aligns with my vision and career goals.</li>
-          <li><strong>OSS Community:</strong> The US has large and active Open Source Software communities.</li>
-          <li><strong>Technical Challenges:</strong> There are opportunities to work on systems with considerable traffic and high-reliability requirements.</li>
+          <li><strong>Career Alignment:</strong> Working in the US fits my career goals.</li>
+          <li><strong>OSS Community:</strong> The US has big OSS communities.</li>
+          <li><strong>Technical Challenges:</strong> I can work on large-scale, high-reliability systems there.</li>
         </ul>
       </td>
     </tr>
@@ -160,12 +160,12 @@ layout: default
       <td><strong>Career Path</strong></td>
       <td>
         <ul>
-          <li><strong>Preferred Path:</strong> I prefer an Individual Contributor (IC) career path.</li>
-          <li><strong>Ideal Future Position:</strong> My ideal future position is a Senior Backend Engineer who can apply SRE practices.</li>
-          <li><strong>Value of Soft Skills:</strong> I know soft skills are important for leaders.
+          <li><strong>Preferred Path:</strong> I prefer the IC (Individual Contributor) path.</li>
+          <li><strong>Ideal Future Position:</strong> I want to be a Senior Backend Engineer who uses SRE.</li>
+          <li><strong>Value of Soft Skills:</strong> I know soft skills matter for leaders.
             <ul>
-              <li>I enjoyed teamwork at Cybereason.</li>
-              <li>I also enjoyed my leadership responsibilities at Industry Technology.</li>
+              <li>I liked working with teams at Cybereason.</li>
+              <li>I also liked leading at Industry Technology.</li>
             </ul>
           </li>
         </ul>
@@ -175,8 +175,8 @@ layout: default
       <td><strong>Visa</strong></td>
       <td>
         <ul>
-          <li><strong>PEO/EOR:</strong> I am okay with using a PEO/EOR (Professional Employer Organization / Employer of Record) arrangement.</li>
-          <li><strong>Relocation Costs:</strong> I am ready to relocate and will cover visa-related expenses myself.</li>
+          <li><strong>PEO/EOR:</strong> I can work through PEO/EOR arrangements.</li>
+          <li><strong>Relocation Costs:</strong> I am ready to move and will pay for visa costs myself.</li>
         </ul>
       </td>
     </tr>
@@ -184,8 +184,8 @@ layout: default
       <td><strong>Interesting</strong></td>
       <td>
         <ul>
-          <li><strong>Enjoyable Work:</strong> I especially enjoy developing observability features like custom metrics and distributed tracing.</li>
-          <li><strong>Relevant Project (CR1):</strong> At Cybereason, I designed and developed custom metrics, which improved observability across 3,000 servers.</li>
+          <li><strong>Enjoyable Work:</strong> I really enjoy building observability features like custom metrics and distributed tracing.</li>
+          <li><strong>Relevant Project (CR1):</strong> At Cybereason, I built custom metrics that improved observability for 3,000 servers.</li>
         </ul>
       </td>
     </tr>
@@ -193,8 +193,8 @@ layout: default
       <td><strong>Strength / Positive Feedback</strong></td>
       <td>
         <ul>
-          <li><strong>My Key Strength:</strong> My key strength is developing distributed systems and enterprise applications focused on reliability.</li>
-          <li><strong>Supporting Project (IT1):</strong> At Industry Technology, I designed SLI/SLO (Service Level Indicators/Objectives) and developed custom metrics and tracing to enhance system reliability.</li>
+          <li><strong>My Key Strength:</strong> My strength is building reliable distributed systems and enterprise applications.</li>
+          <li><strong>Supporting Project (IT1):</strong> At Industry Technology, I created SLI/SLO and built custom metrics and tracing to make the system more reliable.</li>
         </ul>
       </td>
     </tr>
@@ -202,12 +202,12 @@ layout: default
       <td><strong>Weakness / Negative Feedback</strong></td>
       <td>
         <ul>
-          <li><strong>Area for Development:</strong> I sometimes tend to prioritize quality over speed.</li>
-          <li><strong>Specific Example (New):</strong> At Industry Technology, I occasionally focused too much on details during code reviews, which sometimes caused delays in merging pull requests.</li>
-          <li><strong>Impact:</strong> My detailed reviews, while thorough, sometimes took longer than necessary, slowing down the overall review process.</li>
-          <li><strong>Corrective Actions:</strong> To address this, I worked on enhancing our CI processes and introduced AI-powered review tools.</li>
-          <li><strong>Outcome:</strong> These actions helped improve PR merge speed while maintaining code quality.</li>
-          <li><strong>Lesson Learned:</strong> I learned the importance of finding the right balance between quality and agility.</li>
+          <li><strong>Area for Development:</strong> I sometimes focus too much on quality instead of speed.</li>
+          <li><strong>Specific Example (New):</strong> At Industry Technology, I spent too much time on code review details, which delayed PR merges.</li>
+          <li><strong>Impact:</strong> My detailed reviews took too long and slowed down the team.</li>
+          <li><strong>Corrective Actions:</strong> I improved our CI process and added AI review tools to help.</li>
+          <li><strong>Outcome:</strong> PRs merged faster while keeping good quality.</li>
+          <li><strong>Lesson Learned:</strong> I learned to balance quality with speed.</li>
         </ul>
       </td>
     </tr>
@@ -215,11 +215,11 @@ layout: default
       <td><strong>Failure</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> At Industry Technology, I introduced an E2E test automation tool that accidentally created team silos.</li>
-          <li><strong>Situation:</strong> I introduced an E2E test automation tool for the frontend to improve development efficiency by reducing the time frontend engineers spent writing tests. However, this accidentally created communication silos between the frontend engineers and the QA team, which hurt collaboration.</li>
-          <li><strong>Action:</strong> We stopped using the specific E2E test automation tool, and I gave E2E testing responsibilities directly to the frontend engineers. This let them own the quality of their code from development through testing.</li>
-          <li><strong>Result:</strong> This change removed the team silos and improved collaboration, which led to better product quality.</li>
-          <li><strong>Learning:</strong> I learned that technical decisions, especially about tools, must consider how they affect the whole team beyond just individual benefits.</li>
+          <li><strong>Summary (New):</strong> At Industry Technology, I introduced an E2E test tool that accidentally split teams apart.</li>
+          <li><strong>Situation:</strong> I added an E2E test tool to help frontend engineers save time on tests. But it created walls between frontend and QA teams and hurt teamwork.</li>
+          <li><strong>Action:</strong> We stopped using the tool. I gave E2E testing to frontend engineers so they owned their code quality.</li>
+          <li><strong>Result:</strong> Teams worked better together and product quality improved.</li>
+          <li><strong>Learning:</strong> I learned that tool choices must think about team impact, not just technical benefits.</li>
         </ul>
       </td>
     </tr>
@@ -227,12 +227,12 @@ layout: default
       <td><strong>Leadership / Business Impact</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (IT1):</strong> At Industry Technology, I led the introduction of SRE practices to secure an enterprise contract.</li>
-          <li><strong>Situation:</strong> We had a chance to sell our system to Japan's largest real estate company, but I realized our operations didn't meet their service requirements.</li>
-          <li><strong>Task:</strong> My goal was to improve system reliability to meet this client's needs.</li>
-          <li><strong>Action:</strong> I decided to slow down development temporarily to introduce SRE practices. I designed SLI/SLO and developed custom metrics and tracing.</li>
-          <li><strong>Result:</strong> We successfully secured the contract with the enterprise customer.</li>
-          <li><strong>Learning:</strong> I learned that balancing speed and reliability can create big business opportunities.</li>
+          <li><strong>Summary (IT1):</strong> At Industry Technology, I introduced SRE to win an enterprise contract.</li>
+          <li><strong>Situation:</strong> Japan's largest real estate company wanted our system, but our operations were not good enough for them.</li>
+          <li><strong>Task:</strong> I needed to improve reliability to meet their needs.</li>
+          <li><strong>Action:</strong> I paused new features to add SRE practices. I created SLI/SLO and built metrics and tracing.</li>
+          <li><strong>Result:</strong> We won the enterprise contract.</li>
+          <li><strong>Learning:</strong> I learned that choosing reliability over speed can win big business.</li>
         </ul>
       </td>
     </tr>
@@ -240,12 +240,12 @@ layout: default
       <td><strong>Ownership</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (EN1):</strong> At enechain, I took initiative to develop a generator tool that made all teams more efficient.</li>
-          <li><strong>Situation:</strong> Developers were manually creating manifests and Terraform configurations for each new microservice, which was slow and led to mistakes.</li>
-          <li><strong>Task:</strong> My goal was to automate the generation of these configurations to improve development efficiency.</li>
-          <li><strong>Action:</strong> I developed a generator tool to automate this process, even though it wasn't my assigned task.</li>
-          <li><strong>Result:</strong> This tool significantly reduced the initial deployment time for new microservices across all teams.</li>
-          <li><strong>Learning:</strong> I learned that going beyond my assigned tasks can help the whole company.</li>
+          <li><strong>Summary (EN1):</strong> At enechain, I built a generator tool that helped all teams work faster.</li>
+          <li><strong>Situation:</strong> Developers manually created configs for each microservice, which was slow and error-prone.</li>
+          <li><strong>Task:</strong> I wanted to automate this to save time.</li>
+          <li><strong>Action:</strong> I built a generator tool even though it wasn't my job.</li>
+          <li><strong>Result:</strong> New microservices deployed much faster for all teams.</li>
+          <li><strong>Learning:</strong> I learned that helping beyond my tasks helps everyone.</li>
         </ul>
       </td>
     </tr>
@@ -253,12 +253,12 @@ layout: default
       <td><strong>Teamwork</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (CR2):</strong> At Cybereason, I led cross-team coordination to resolve a critical incident affecting 100,000 enterprise users.</li>
-          <li><strong>Situation:</strong> A UI server was crashing sometimes for a large enterprise customer. Fixing this was hard because we needed to coordinate many teams (SRE, DevOps, Product, TAM).</li>
-          <li><strong>Task:</strong> My goal was to find the performance problem and make the system stable.</li>
-          <li><strong>Action:</strong> As the incident commander, I coordinated different teams. I analyzed thread dumps and heap dumps myself to find the root cause.</li>
-          <li><strong>Result:</strong> We successfully resolved the availability issue.</li>
-          <li><strong>Learning:</strong> I learned that good incident response needs both technical skills and the ability to coordinate teams well.</li>
+          <li><strong>Summary (CR2):</strong> At Cybereason, I led teams to fix a critical issue affecting 100,000 users.</li>
+          <li><strong>Situation:</strong> A UI server kept crashing for a big customer. We needed many teams (SRE, DevOps, Product, TAM) to work together.</li>
+          <li><strong>Task:</strong> I had to find the problem and fix the system.</li>
+          <li><strong>Action:</strong> As incident commander, I organized all teams. I checked thread dumps and heap dumps to find the cause.</li>
+          <li><strong>Result:</strong> We fixed the problem.</li>
+          <li><strong>Learning:</strong> I learned that fixing incidents needs both tech skills and good team coordination.</li>
         </ul>
       </td>
     </tr>
@@ -266,12 +266,12 @@ layout: default
       <td><strong>Technically Challenging</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (EU2):</strong> At Eukarya, I developed a high-performance real-time logging system for the workflow engine.</li>
-          <li><strong>Situation:</strong> Users needed to monitor workflow engine status in real time, but the system didn't have good logging and retrieval.</li>
-          <li><strong>Task:</strong> My task was to build a real-time logging system so users could check workflow status in the UI with minimal delay.</li>
-          <li><strong>Action:</strong> I built this feature using a Pub/Sub architecture. I used Redis for cache and Google Cloud Storage (GCS) for long-term log storage.</li>
-          <li><strong>Result:</strong> Users could now monitor worker status in real-time with less than one second delay.</li>
-          <li><strong>Learning:</strong> I learned how to design systems that are both fast and cost-effective for storage.</li>
+          <li><strong>Summary (EU2):</strong> At Eukarya, I built a fast real-time logging system for workflows.</li>
+          <li><strong>Situation:</strong> Users needed to see workflow status right away, but we had no good logging.</li>
+          <li><strong>Task:</strong> I had to build real-time logging with fast UI updates.</li>
+          <li><strong>Action:</strong> I used Pub/Sub design with Redis cache and GCS for storage.</li>
+          <li><strong>Result:</strong> Users saw worker status in under one second.</li>
+          <li><strong>Learning:</strong> I learned to build fast systems that don't cost too much.</li>
         </ul>
       </td>
     </tr>
@@ -279,12 +279,12 @@ layout: default
       <td><strong>Conflict</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> At Cybereason, I was part of a project that successfully migrated 5,000 servers from Google Cloud to Oracle Cloud.</li>
-          <li><strong>Proposal:</strong> Management proposed migrating a large number of Google Cloud servers to Oracle Cloud.</li>
-          <li><strong>Initial Stance:</strong> I first opposed this migration because I was worried about maintainability and showed data to support my concerns.</li>
-          <li><strong>Commitment:</strong> When the final decision was made based on cost, I fully committed to the project and played a role in successfully migrating the 5,000 servers.</li>
-          <li><strong>Result:</strong> The migration was successful and cut infrastructure costs significantly.</li>
-          <li><strong>Learning:</strong> I learned the importance of disagree and commit - I shared my concerns but supported the final decision.</li>
+          <li><strong>Summary (New):</strong> At Cybereason, I helped move 5,000 servers from Google Cloud to Oracle Cloud.</li>
+          <li><strong>Proposal:</strong> Management wanted to move many servers from Google to Oracle Cloud.</li>
+          <li><strong>Initial Stance:</strong> I didn't agree at first. I worried about maintenance and showed data to back up my concerns.</li>
+          <li><strong>Commitment:</strong> When they decided based on cost, I fully supported it and helped move 5,000 servers.</li>
+          <li><strong>Result:</strong> We moved successfully and saved a lot on costs.</li>
+          <li><strong>Learning:</strong> I learned to disagree and commit - share concerns but support final decisions.</li>
         </ul>
       </td>
     </tr>
@@ -292,12 +292,12 @@ layout: default
       <td><strong>Low Performer</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> At Industry Technology, I successfully mentored an underperforming engineer who later became a lead backend engineer.</li>
-          <li><strong>Situation:</strong> A backend engineer on my team used to work on frontend and was struggling with backend tasks. He wanted to become a backend engineer long-term.</li>
-          <li><strong>Task:</strong> I needed to help him grow while keeping our development schedule on track.</li>
-          <li><strong>Action:</strong> I held regular 1-on-1 sessions and created learning documents specifically for him.</li>
-          <li><strong>Result:</strong> He later became a lead backend engineer at another company. The documents we created helped onboard all junior engineers better.</li>
-          <li><strong>Learning:</strong> I learned that investing in people's growth helps both the person and the company long-term.</li>
+          <li><strong>Summary (New):</strong> At Industry Technology, I helped a struggling engineer become a lead backend engineer.</li>
+          <li><strong>Situation:</strong> A frontend engineer joined backend but struggled. He wanted to be a backend engineer.</li>
+          <li><strong>Task:</strong> I had to help him grow without slowing our work.</li>
+          <li><strong>Action:</strong> I did regular 1-on-1s and made learning docs for him.</li>
+          <li><strong>Result:</strong> He became a lead backend engineer elsewhere. Our docs helped train all new engineers.</li>
+          <li><strong>Learning:</strong> I learned that helping people grow benefits everyone.</li>
         </ul>
       </td>
     </tr>
@@ -305,12 +305,12 @@ layout: default
       <td><strong>Refactor/Rearchitecture</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (IT4):</strong> At Industry Technology, I led the migration from a modular monolith to microservices to improve system scalability.</li>
-          <li><strong>Situation:</strong> The system started as a modular monolith. As traffic grew to core features, the database write load increased and caused performance problems.</li>
-          <li><strong>Task:</strong> My goal was to create separate microservices from the main service to reduce the load.</li>
-          <li><strong>Action:</strong> I carried out the migration to microservices, keeping downtime minimal.</li>
-          <li><strong>Result:</strong> This migration made the architecture simpler and greatly improved database performance.</li>
-          <li><strong>Learning:</strong> I learned how to balance system scalability with operational complexity when designing distributed architectures.</li>
+          <li><strong>Summary (IT4):</strong> At Industry Technology, I moved from monolith to microservices for better scaling.</li>
+          <li><strong>Situation:</strong> Our monolith system had database problems when traffic grew.</li>
+          <li><strong>Task:</strong> I needed to split it into microservices to reduce load.</li>
+          <li><strong>Action:</strong> I migrated to microservices with minimal downtime.</li>
+          <li><strong>Result:</strong> The system became simpler and database performance improved a lot.</li>
+          <li><strong>Learning:</strong> I learned to balance scaling needs with operational complexity.</li>
         </ul>
       </td>
     </tr>
@@ -318,12 +318,12 @@ layout: default
       <td><strong>Innovative Idea</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (GU1):</strong> At Gunosy, I developed an innovative A/B testing strategy that improved user retention by 10%.</li>
-          <li><strong>Situation:</strong> User retention rates were declining, affecting long-term growth.</li>
-          <li><strong>Task:</strong> My goal was to create a new strategy to fix this trend and improve user engagement from their first use.</li>
-          <li><strong>Action:</strong> I thought that showing new users content based on ads they clicked before joining would be more engaging. I designed and ran A/B tests where new users got customized content based on ads they had clicked.</li>
-          <li><strong>Result:</strong> This personalized A/B testing worked much better than standard methods and increased 7-day user retention by 10%.</li>
-          <li><strong>Learning:</strong> I learned that knowing about users before they join can greatly improve their first experience and retention.</li>
+          <li><strong>Summary (GU1):</strong> At Gunosy, I created an A/B test that improved user retention by 10%.</li>
+          <li><strong>Situation:</strong> User retention was dropping and hurting growth.</li>
+          <li><strong>Task:</strong> I needed a new way to keep users engaged from the start.</li>
+          <li><strong>Action:</strong> I tested showing new users content based on ads they clicked before signing up.</li>
+          <li><strong>Result:</strong> This personal approach increased 7-day retention by 10%.</li>
+          <li><strong>Learning:</strong> I learned that using pre-signup data improves first experiences.</li>
         </ul>
       </td>
     </tr>
@@ -331,12 +331,12 @@ layout: default
       <td><strong>Quick Learn</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (EU1):</strong> At Eukarya, I quickly learned WebAssembly to develop a custom script execution feature.</li>
-          <li><strong>Situation:</strong> Users needed to use their own scripts (Python, Go, Rust) to create custom functions in our workflow engine.</li>
-          <li><strong>Task:</strong> My task was to add support for user scripts through WebAssembly execution.</li>
-          <li><strong>Action:</strong> I researched WebAssembly, developed a processor that compiles user scripts into WASM files, and created detailed documentation.</li>
-          <li><strong>Result:</strong> This gave users valuable new features and helped the team learn about WASM.</li>
-          <li><strong>Learning:</strong> I learned that quickly learning new technology and documenting it well creates lasting value for users and the team.</li>
+          <li><strong>Summary (EU1):</strong> At Eukarya, I quickly learned WebAssembly to add custom scripts.</li>
+          <li><strong>Situation:</strong> Users wanted to run their own scripts (Python, Go, Rust) in our workflow engine.</li>
+          <li><strong>Task:</strong> I had to add WebAssembly support for user scripts.</li>
+          <li><strong>Action:</strong> I learned WebAssembly, built a processor to compile scripts to WASM, and wrote docs.</li>
+          <li><strong>Result:</strong> Users got new features and the team learned WASM.</li>
+          <li><strong>Learning:</strong> I learned that fast learning plus good docs creates lasting value.</li>
         </ul>
       </td>
     </tr>
@@ -344,12 +344,12 @@ layout: default
       <td><strong>Legacy</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (IT5):</strong> At Industry Technology, I managed the database migration from MySQL 5.7 to MySQL 8.0 to keep it reliable and maintainable.</li>
-          <li><strong>Situation:</strong> We needed to migrate from MySQL 5.7 to MySQL 8.0. An unexpected problem happened during the migration.</li>
-          <li><strong>Task:</strong> My goal was to solve the migration problem and complete the upgrade successfully.</li>
-          <li><strong>Action:</strong> I fixed the problem by troubleshooting the issue and implementing the necessary changes to complete the migration.</li>
-          <li><strong>Result:</strong> I successfully completed the migration, which improved database performance by 20%.</li>
-          <li><strong>Learning:</strong> I learned how to handle unexpected issues during critical system migrations and created a knowledge base about incident response for the team.</li>
+          <li><strong>Summary (IT5):</strong> At Industry Technology, I migrated our database from MySQL 5.7 to 8.0.</li>
+          <li><strong>Situation:</strong> We needed to upgrade MySQL 5.7 to 8.0. Something went wrong during migration.</li>
+          <li><strong>Task:</strong> I had to fix the problem and finish the upgrade.</li>
+          <li><strong>Action:</strong> I found the issue and made changes to complete the migration.</li>
+          <li><strong>Result:</strong> Migration worked and database ran 20% faster.</li>
+          <li><strong>Learning:</strong> I learned to handle surprises in system migrations and made docs for the team.</li>
         </ul>
       </td>
     </tr>
@@ -357,12 +357,12 @@ layout: default
       <td><strong>Difficult Decision</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (EN2):</strong> At enechain, I made a difficult decision to customize Telepresence's Helm chart to balance development speed with security compliance.</li>
-          <li><strong>Situation:</strong> We used Telepresence with its Helm chart to speed up microservice development. However, its standard Helm chart didn't meet our strict Kubernetes security requirements.</li>
-          <li><strong>Task:</strong> I had to choose between using faster development speed and keeping full security compliance.</li>
-          <li><strong>Action:</strong> I customized the Telepresence Helm chart to work with Kustomize, which let me apply needed security patches while keeping the development benefits.</li>
-          <li><strong>Result:</strong> This custom approach let us use Telepresence's faster development cycles while meeting our security standards, improving development speed by 15%.</li>
-          <li><strong>Learning:</strong> I learned how to balance competing priorities and find creative solutions that don't compromise on important requirements.</li>
+          <li><strong>Summary (EN2):</strong> At enechain, I customized Telepresence to keep both speed and security.</li>
+          <li><strong>Situation:</strong> Telepresence made development fast but didn't meet our security rules.</li>
+          <li><strong>Task:</strong> I had to choose between fast development or good security.</li>
+          <li><strong>Action:</strong> I customized Telepresence's Helm chart with Kustomize to add security patches.</li>
+          <li><strong>Result:</strong> We kept fast development and met security needs, 15% faster overall.</li>
+          <li><strong>Learning:</strong> I learned to find creative ways to meet all important needs.</li>
         </ul>
       </td>
     </tr>
@@ -370,12 +370,12 @@ layout: default
       <td><strong>Tight Schedule</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (IT2):</strong> At Industry Technology, I delivered a group chat system on time by making practical technical decisions.</li>
-          <li><strong>Situation:</strong> We had a very tight deadline to deliver a group chat system with many features.</li>
-          <li><strong>Task:</strong> I needed to develop a group chat and notification system that met all requirements within the tight timeline.</li>
-          <li><strong>Action:</strong> I chose a simpler polling approach for near real-time updates instead of WebSockets. Polling was less efficient but much faster to build.</li>
-          <li><strong>Result:</strong> We delivered the system on time, met all important requirements, and improved user engagement by 25%.</li>
-          <li><strong>Learning:</strong> I learned that sometimes a practical solution delivered on time is more valuable than a perfect solution delivered late.</li>
+          <li><strong>Summary (IT2):</strong> At Industry Technology, I delivered group chat on time with practical choices.</li>
+          <li><strong>Situation:</strong> We had a tight deadline for a group chat with many features.</li>
+          <li><strong>Task:</strong> I had to build chat and notifications fast.</li>
+          <li><strong>Action:</strong> I used polling instead of WebSockets - simpler but faster to build.</li>
+          <li><strong>Result:</strong> We shipped on time and user engagement went up 25%.</li>
+          <li><strong>Learning:</strong> I learned that good-enough on time beats perfect but late.</li>
         </ul>
       </td>
     </tr>
@@ -383,12 +383,12 @@ layout: default
       <td><strong>Missed Deadline</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> At Cybereason, I missed a deadline fixing a critical API bug after key engineers left during restructuring, but delivered a solid solution through thorough investigation.</li>
-          <li><strong>Situation:</strong> I was assigned to fix a bug in our core API. The original developers had left during organizational restructuring, leaving minimal documentation.</li>
-          <li><strong>Task:</strong> I needed to fix this critical bug within the sprint as it affected enterprise customers' threat detection.</li>
-          <li><strong>Action:</strong> I investigated the codebase using git blame, commit history, and PR comments to understand the logic. After fixing the bug, I worked with QA to test across multiple OS versions. I documented my findings and shared the knowledge with the team.</li>
-          <li><strong>Result:</strong> We delivered a week late but with a thoroughly tested solution. The customer appreciated our transparent communication.</li>
-          <li><strong>Learning:</strong> I learned that knowledge documentation is critical. Now I ensure all critical components have proper documentation and knowledge sharing to prevent single points of failure.</li>
+          <li><strong>Summary (New):</strong> At Cybereason, I missed a deadline fixing an API bug after engineers left, but delivered a solid fix.</li>
+          <li><strong>Situation:</strong> I had to fix a core API bug. The original developers left with little documentation.</li>
+          <li><strong>Task:</strong> I needed to fix this bug in one sprint - it broke threat detection for customers.</li>
+          <li><strong>Action:</strong> I used git blame, commits, and PR comments to understand the code. I fixed it, tested with QA on all OS versions, and documented everything.</li>
+          <li><strong>Result:</strong> We finished a week late but with good testing. The customer liked our honest updates.</li>
+          <li><strong>Learning:</strong> I learned docs are critical. Now I make sure all important code has docs and knowledge sharing.</li>
         </ul>
       </td>
     </tr>
@@ -396,24 +396,24 @@ layout: default
       <td><strong>My Question</strong></td>
       <td>
         <ul>
-          <li><strong>Agility vs Reliability:</strong> Balancing speed and reliability is challenging. How does your team make these decisions?</li>
-          <li><strong>Diversity:</strong> I am Asian. Does your team value diversity and different cultures?</li>
-          <li><strong>Career Path:</strong> If I do great work, what career paths are available? For example, visa support and relocation?</li>
-          <li><strong>Expectation:</strong> What are the expectations for the ideal candidate for this position?</li>
-          <li><strong>Legacy:</strong> What problems does the legacy system have?</li>
-          <li><strong>Business Impact:</strong> How important is this team's project to the company?</li>
-          <li><strong>LLM:</strong> I have worked on LLM projects and like using them. How does your team use LLMs?</li>
-          <li><strong>Interview Process:</strong> What are the next interview steps and what should I prepare?</li>
-          <li><strong>Learning:</strong> Do people on the team learn and try new technologies?</li>
-          <li><strong>Number:</strong> Can you share some numbers to show the scale of the system I would work on?</li>
-          <li><strong>Decision:</strong> Can you tell me about an important decision you made recently?</li>
-          <li><strong>Background:</strong> How many team members are there and what are their backgrounds?</li>
-          <li><strong>Project:</strong> What project are you working on now?</li>
+          <li><strong>Agility vs Reliability:</strong> How does your team balance speed and reliability?</li>
+          <li><strong>Diversity:</strong> I am Asian. Does your team value diversity?</li>
+          <li><strong>Career Path:</strong> If I do well, what career paths exist? Can you help with visa and relocation?</li>
+          <li><strong>Expectation:</strong> What do you expect from the ideal candidate?</li>
+          <li><strong>Legacy:</strong> What problems does your legacy system have?</li>
+          <li><strong>Business Impact:</strong> How important is this team to the company?</li>
+          <li><strong>LLM:</strong> I've worked with LLMs. How does your team use them?</li>
+          <li><strong>Interview Process:</strong> What are the next steps? What should I prepare?</li>
+          <li><strong>Learning:</strong> Does the team learn new technologies?</li>
+          <li><strong>Number:</strong> What's the scale of your system?</li>
+          <li><strong>Decision:</strong> What important decision did you make recently?</li>
+          <li><strong>Background:</strong> How big is the team? What are their backgrounds?</li>
+          <li><strong>Project:</strong> What are you working on now?</li>
           <li><strong>Company Value:</strong>
             <ul>
-              <li><strong>Ownership:</strong> Would it be possible for me to work on improvement tasks for other teams?</li>
-              <li><strong>Think Big:</strong> Can I make bold decisions here?</li>
-              <li><strong>Earn Trust:</strong> How does the team make decisions when there are conflicts?</li>
+              <li><strong>Ownership:</strong> Can I help other teams improve?</li>
+              <li><strong>Think Big:</strong> Can I make bold decisions?</li>
+              <li><strong>Earn Trust:</strong> How do you handle conflicts?</li>
             </ul>
           </li>
         </ul>

@@ -15,7 +15,7 @@ nav_order: 4
 | Employee    | 160+                                                                                                                                                      |
 | Founded     | 2019                                                                                                                                                      |
 | Web Site    | [https://enechain.co.jp/](https://enechain.co.jp/)                                                                                                    |
-| Description | A company that works with Japan's largest power companies and runs the energy exchange market, handling electricity, fuels, and environmental values |
+| Description | A company that works with Japan's largest power companies. It runs the energy exchange market. It handles electricity, fuels, and environmental values |
 | Location    | Tokyo, Japan                                                                                                                                              |
 
 ## Team (Software Engineer - Platform)
@@ -118,8 +118,8 @@ nav_order: 4
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>Developers were required to manually create Kubernetes manifests and Terraform configurations for each new microservice.</li>
-          <li>This manual process was slow and caused many errors, which slowed down deployments.</li>
+          <li>Developers had to manually create Kubernetes manifests and Terraform configurations for each new microservice.</li>
+          <li>This manual process was slow and caused many errors. This slowed down deployments.</li>
         </ul>
       </td>
     </tr>
@@ -148,15 +148,15 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The tool made deploying new microservices much smoother, cutting initial setup and deployment time by 90%.</td>
+      <td>The tool made deploying new microservices much smoother. Initial setup and deployment time decreased by 90%.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>A key challenge was version management. If developers used an old version of the CLI tool, wrong or outdated templates could be created.</td>
+      <td>A key challenge was version management. If developers used an old version of the CLI tool, they could create wrong or outdated templates.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I set up the CLI client to only trigger a CI pipeline. The main generation logic was managed in the CI environment, making sure it was always up-to-date.</td>
+      <td>I set up the CLI client to only trigger a CI pipeline. The main generation logic stayed in the CI environment. This made sure it was always up-to-date.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
@@ -185,8 +185,8 @@ nav_order: 4
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>Local development depended heavily on other microservices running in the cluster, making isolated development hard.</li>
-          <li>Setting up a complete local development environment that matched the cluster was slow and complex.</li>
+          <li>Local development depended heavily on other microservices running in the cluster. This made isolated development hard.</li>
+          <li>Setting up a complete local development environment took a long time. Matching the cluster was complex.</li>
         </ul>
       </td>
     </tr>
@@ -201,7 +201,7 @@ nav_order: 4
           <li>I deployed Telepresence
             <ul>
               <li>I deployed Telepresence to the Kubernetes cluster</li>
-              <li>I configured it to let local machines interact with cluster services as if they were local</li>
+              <li>I configured it so local machines could interact with cluster services as if they were local</li>
             </ul>
           </li>
           <li>I set up development environment
@@ -215,18 +215,18 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>This system sped up local development cycles, improving overall microservice development speed by 15%.</td>
+      <td>This system sped up local development cycles. Overall microservice development speed improved by 15%.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>We had strong security standards for our Kubernetes clusters, but the official Telepresence Helm charts didn't support the required security configurations by default.</td>
+      <td>We had strong security standards for our Kubernetes clusters. The official Telepresence Helm charts didn't support these security configurations by default.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
       <td>
         <ul>
-          <li>I converted the official Telepresence Helm charts to Kustomize overlays to make customization easier.</li>
-          <li>I manually added needed security patches and configurations, including Pod Security Admissions, NetworkPolicies, and specific Security Contexts.</li>
+          <li>I converted the official Telepresence Helm charts to Kustomize overlays. This made customization easier.</li>
+          <li>I manually added needed security patches and configurations. These included Pod Security Admissions, NetworkPolicies, and specific Security Contexts.</li>
         </ul>
       </td>
     </tr>

@@ -52,9 +52,9 @@ layout: default
 | [genswaggertypedocs: Support structured and contextual logging](https://github.com/kubernetes/kubernetes/pull/127722) | Pull Request | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 2024-09|
 | [fieldnamedoccheck: Support structured and contextual logging](https://github.com/kubernetes/kubernetes/pull/127708) | Pull Request | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 2024-09|
 | [cluster-bootstrap: Support structured and contextual logging](https://github.com/kubernetes/kubernetes/pull/127658) | Pull Request | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 2024-09|
-| [SREチーム強化の新たな手段 ~協業で実現する信頼性向上~](https://techblog.enechain.com/entry/sre-join) | Blog         | [enechain TechBlog](https://techblog.enechain.com/) | 2024-08|
+| [How We Strengthened Our SRE Team Through Collaboration](https://techblog.enechain.com/entry/sre-join) | Blog         | [enechain TechBlog](https://techblog.enechain.com/) | 2024-08|
 | [pod-security-admission: Support structured and contextual logging](https://github.com/kubernetes/kubernetes/pull/125193) | Pull Request | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 2024-06|
-| [NetworkPolicyでtrafficを制御しよう](https://techblog.enechain.com/entry/networkpolicy)         | Blog         | [enechain TechBlog](https://techblog.enechain.com/) | 2024-05|
+| [Controlling Traffic with NetworkPolicy](https://techblog.enechain.com/entry/networkpolicy)         | Blog         | [enechain TechBlog](https://techblog.enechain.com/) | 2024-05|
 | [Introduction to GKE x LLM](https://speakerdeck.com/soma00333/introduction-to-gke-x-llm)       | Speaker      | [k8s-novice-jp](https://k8s-novice-jp.connpass.com/) | 2024-04|
-| [Architecture Decision Recordのすすめ](https://sre-magazine.net/articles/1/soma00333/)       | Publication  | [SRE Magazine](https://sre-magazine.net/)       | 2024-04|
-| [Pod Security AdmissionでPodのSecurityを強化しよう](https://techblog.enechain.com/entry/pod-security-admission) | Blog         | [enechain TechBlog](https://techblog.enechain.com/) | 2024-03| 
+| [Why You Should Use Architecture Decision Records](https://sre-magazine.net/articles/1/soma00333/)       | Publication  | [SRE Magazine](https://sre-magazine.net/)       | 2024-04|
+| [Strengthening Pod Security with Pod Security Admission](https://techblog.enechain.com/entry/pod-security-admission) | Blog         | [enechain TechBlog](https://techblog.enechain.com/) | 2024-03| 
