@@ -380,6 +380,19 @@ layout: default
       </td>
     </tr>
     <tr>
+      <td><strong>Missed Deadline</strong></td>
+      <td>
+        <ul>
+          <li><strong>Summary (New):</strong> At Industry Technology, I missed a feature release deadline because I spent too much time on code reviews, trying to perfect every detail.</li>
+          <li><strong>Situation:</strong> We were developing a new schdule management feature with a fixed release date. I was the lead reviewer for all pull requests and wanted to ensure perfect code quality.</li>
+          <li><strong>Task:</strong> My task was to review and approve 15 pull requests from 3 developers before the release deadline.</li>
+          <li><strong>Action:</strong> I conducted extremely thorough code reviews, often requesting multiple rounds of changes for minor improvements. I spent hours reviewing each PR, checking every edge case and suggesting optimizations.</li>
+          <li><strong>Result:</strong> We missed the release deadline by 3 days because PRs were stuck in review. The delay affected our marketing campaign and disappointed stakeholders.</li>
+          <li><strong>Learning:</strong> I learned that perfectionism can harm delivery. Now I focus on critical issues first and use automated tools for style checks. I also set time limits for reviews and clearly distinguish between must-fix issues and nice-to-have improvements.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td><strong>My Question</strong></td>
       <td>
         <ul>
