@@ -383,12 +383,12 @@ layout: default
       <td><strong>Missed Deadline</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> At Industry Technology, I missed a feature release deadline because I spent too much time on code reviews, trying to perfect every detail.</li>
-          <li><strong>Situation:</strong> We were developing a new schdule management feature with a fixed release date. I was the lead reviewer for all pull requests and wanted to ensure perfect code quality.</li>
-          <li><strong>Task:</strong> My task was to review and approve 15 pull requests from 3 developers before the release deadline.</li>
-          <li><strong>Action:</strong> I conducted extremely thorough code reviews, often requesting multiple rounds of changes for minor improvements. I spent hours reviewing each PR, checking every edge case and suggesting optimizations.</li>
-          <li><strong>Result:</strong> We missed the release deadline by 3 days because PRs were stuck in review. The delay affected our marketing campaign and disappointed stakeholders.</li>
-          <li><strong>Learning:</strong> I learned that perfectionism can harm delivery. Now I focus on critical issues first and use automated tools for style checks. I also set time limits for reviews and clearly distinguish between must-fix issues and nice-to-have improvements.</li>
+          <li><strong>Summary (New):</strong> At Cybereason, I missed a deadline fixing a critical API bug after key engineers left during restructuring, but delivered a solid solution through thorough investigation.</li>
+          <li><strong>Situation:</strong> I was assigned to fix a bug in our core API. The original developers had left during organizational restructuring, leaving minimal documentation.</li>
+          <li><strong>Task:</strong> I needed to fix this critical bug within the sprint as it affected enterprise customers' threat detection.</li>
+          <li><strong>Action:</strong> I investigated the codebase using git blame, commit history, and PR comments to understand the logic. After fixing the bug, I worked with QA to test across multiple OS versions. I documented my findings and shared the knowledge with the team.</li>
+          <li><strong>Result:</strong> We delivered a week late but with a thoroughly tested solution. The customer appreciated our transparent communication.</li>
+          <li><strong>Learning:</strong> I learned that knowledge documentation is critical. Now I ensure all critical components have proper documentation and knowledge sharing to prevent single points of failure.</li>
         </ul>
       </td>
     </tr>
