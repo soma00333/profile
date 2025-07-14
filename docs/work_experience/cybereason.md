@@ -15,7 +15,7 @@ nav_order: 1
 | Employee    | 1000+                                                                                                             |
 | Founded     | 2012                                                                                                              |
 | Web Site    | [https://www.cybereason.com/](https://www.cybereason.com/)                                                        |
-| Description | A global cybersecurity company in 40+ countries that provides EDR, XDR, and MDR solutions to fight cyberattacks |
+| Description | A global cybersecurity company in 40 countries that provides EDR, XDR, and MDR solutions to fight cyberattacks |
 | Location    | Tokyo, Japan                                                                                                      |
 
 ## Team (Software Engineer - Backend)
@@ -34,7 +34,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to develop new features and refactor old microservices for a distributed system that runs on 12,000+ servers and processes 80M+ events per second.</td>
+      <td>My mission was to develop new features and refactor old microservices for a distributed system that runs on 12,000 servers and processes 80M events per second.</td>
     </tr>
     <tr>
       <td>Task</td>
@@ -76,7 +76,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Mission</td>
-      <td>As part of a global cross-functional team, my mission was to improve the reliability of a distributed system that runs on 12,000+ servers and processes 80M+ events per second.</td>
+      <td>As part of a global cross-functional team, my mission was to improve the reliability of a distributed system that runs on 12,000 servers and processes 80M events per second.</td>
     </tr>
     <tr>
       <td>Task</td>
