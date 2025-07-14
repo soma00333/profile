@@ -8,17 +8,20 @@ nav_order: 1
 
 ### Summary
 
-- <strong>Role</strong>: Software engineer with 7+ years of experience in site reliability and backend development
-- <strong>Experience</strong>: Designed and developed distributed systems and enterprise applications, ensuring high performance and scalability
-- <strong>Skill</strong>: Go, Python, Java, Kubernetes
+- <strong>Role</strong>: Senior Backend Engineer with 7+ years of experience specializing in reliability engineering
+- <strong>Experience</strong>: Developed enterprise-grade distributed systems in startup environments, effectively balancing reliability and agility
+- <strong>Skills</strong>: Go, Java, Rust, Kubernetes
 
 ### About Me
 
-Hello and welcome! I'm Soma, a Software Engineer passionate about building reliable and scalable systems that empower businesses worldwide. I work as a Software Engineer at Cybereason, a US-based cybersecurity company operating across 40+ countries. My role focuses on ensuring the reliability of a distributed system handling 80M+ events per second and managing 12,000+ servers. Beyond my full-time role, I actively contribute to open-source projects, including initiatives like Kubernetes, etcd, Raft, and ETL tool. I'm also enrolled in the Master of Science in Computer Science program at the University of Colorado Boulder, studying online from Japan.
+Hi there! I’m Soma, a Senior Backend Engineer who loves building reliable, scalable systems that help businesses thrive. I currently work as a Senior Software Engineer at Alpaca Markets, a U.S.-based fintech company that supports more than 200 partners across 40 countries in their mission to open financial access. My role is to keep our ultra-low-latency Broker API rock solid, meeting targets such as 1.5 ms median latency and 99.99 % availability. Outside of work, I actively contribute to open-source projects such as Kubernetes, etcd, Raft, and a workflow engine. I’m also pursuing a Master of Science in Computer Science at the University of Colorado Boulder through their online program, which lets me study remotely from Japan.
 
 ### Early Career
 
-I earned my Bachelor of Engineering from the University of Tokyo, where I developed statistical models in Python to improve medical decision-making, culminating in a published paper. During this time, I interned at several startups in Tokyo, where I began honing my backend development skills. My professional journey started as a Data Analyst at Gunosy, one of Japan's most prominent media app companies, with 40M+ users. Here, I worked on large-scale data analysis to optimize ads. After that, I co-founded Industry Technology, a Tokyo-based company providing enterprise applications for real estate companies. As the CTO, I led the development team, built backend systems from the ground up, and introduced SRE practices to ensure the reliability and scalability of our platforms. I've also contributed as a Software Engineer for several AI/LLM-focused startups, designing and improving backend systems and infrastructure as part of side projects.
+I earned my Bachelor of Engineering from the University of Tokyo, where I developed statistical models in Python to improve medical decision making. This work culminated in a published paper. During university, I interned at several startups in Tokyo, where I discovered my passion for backend development. 
+My professional journey began as a Data Analyst at Gunosy, one of Japan’s leading media apps with more than 40 million users. There, I optimized advertising performance through large-scale data analysis. I then co-founded Industry Technology, a Tokyo-based company that delivers enterprise applications for real-estate firms. As CTO, I built entire backend systems from scratch and introduced SRE practices to ensure reliability and scalability.
+
+Later, I joined Cybereason as a Software Engineer, helping to operate a distributed cybersecurity platform that processes more than 80 million events per second across 12,000+ servers. In this role, I focused on hardening system reliability, improving observability, and leading incident response initiatives. In parallel with these roles, I have contributed to several AI/LLM-focused startups as side projects, designing and improving backend systems. This experience ultimately paved the way for my current work at Alpaca.
 
 ### Vision
 
