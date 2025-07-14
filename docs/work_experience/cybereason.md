@@ -15,7 +15,7 @@ nav_order: 1
 | Employee    | 1000+                                                                                                             |
 | Founded     | 2012                                                                                                              |
 | Web Site    | [https://www.cybereason.com/](https://www.cybereason.com/)                                                        |
-| Description | A global cybersecurity company in 40 countries. We provide EDR, XDR, and MDR solutions to stop cyberattacks |
+| Description | A global cybersecurity company operating in 40 countries. We provide EDR, XDR, and MDR solutions to stop cyberattacks |
 | Location    | Tokyo, Japan                                                                                                      |
 
 ## Team (Software Engineer - Backend)

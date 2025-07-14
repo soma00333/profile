@@ -40,7 +40,7 @@ layout: default
         </ul>
       </td>
       <td>2024-10</td>
-      <td></td>
+      <td>2025-08</td>
       <td>Permanent</td>
     </tr>
     <tr>
