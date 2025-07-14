@@ -8,8 +8,8 @@ nav_order: 1
 
 ### Summary
 
-- <strong>Role</strong>: Senior Backend Engineer with 7+ years of experience specializing in reliability engineering
-- <strong>Experience</strong>: Developed enterprise-grade distributed systems in startup environments, effectively balancing reliability and agility
+- <strong>Role</strong>: I'm a Senior Backend Engineer with 7+ years of experience specializing in reliability engineering.
+- <strong>Experience</strong>: I have developed enterprise-grade distributed systems in startup environments, effectively balancing reliability and agility.
 - <strong>Skills</strong>: Go, Java, Rust, Kubernetes
 
 ### About Me
