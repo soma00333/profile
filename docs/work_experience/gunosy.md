@@ -38,11 +38,16 @@ nav_order: 7
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li><strong>Data Analysis:</strong> I analyzed extensive user data to inform advertising strategies and business decisions.</li><li><strong>A/B Testing:</strong> I designed and implemented A/B tests to optimize advertising logic and user engagement.</li></ul></td>
+      <td>
+        <ul>
+          <li>I analyzed large amounts of user data to inform advertising strategies and business decisions.</li>
+          <li>I designed and implemented A/B tests to optimize advertising logic and user engagement.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Term</td>
-      <td>April 1, 2018 - June 30, 2019</td>
+      <td>2018-04 - 2019-06</td>
     </tr>
     <tr>
       <td>Team Size</td>
@@ -66,35 +71,54 @@ nav_order: 7
   </thead>
   <tbody>
     <tr>
-      <td>Summary</td>
+      <td><strong>Summary</strong></td>
       <td><strong>GU1</strong>. I analyzed data from millions of users and designed A/B testing strategies that successfully improved user retention.</td>
     </tr>
     <tr>
-      <td>Problem</td>
-      <td><strong>Declining User Retention:</strong> The platform was experiencing a noticeable decline in user retention rates, impacting long-term growth.</td>
+      <td><strong>Situation</strong></td>
+      <td>The platform was seeing a clear decline in user retention rates, which hurt long-term growth.</td>
     </tr>
     <tr>
-      <td>Mission</td>
-      <td><strong>Improve User Retention Rates:</strong> My objective was to devise and implement effective strategies to halt the decline and improve user retention.</td>
+      <td><strong>Task</strong></td>
+      <td>My goal was to create and implement effective strategies to stop the decline and improve user retention.</td>
     </tr>
     <tr>
-      <td>Action</td>
-      <td><ul><li><strong>Focused on New User Experience:</strong> I concentrated on optimizing the initial experience for new users, as this is a critical phase for retention.</li><li><strong>Implemented Ad-Driven Content Personalization:</strong> I designed and launched A/B tests that tailored the initial content displayed to new users based on the specific advertisements they had interacted with before joining the platform.</li></ul></td>
+      <td><strong>Action</strong></td>
+      <td>
+        <ul>
+          <li>I strategized user experience
+            <ul>
+              <li>I focused on improving the initial experience for new users</li>
+              <li>I identified this as a critical phase for retention improvement</li>
+            </ul>
+          </li>
+          <li>I implemented A/B testing
+            <ul>
+              <li>I designed and launched A/B tests for personalized content</li>
+              <li>I customized initial content based on ads users clicked before joining</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Challenge</td>
-      <td><strong>Achieving Sufficient Sample Size for New Users:</strong> A key challenge was ensuring an adequate sample size for A/B testing, as the target group (new users) was a smaller segment of the total user base.</td>
+      <td><strong>Result</strong></td>
+      <td>The new user experience improvements, driven by personalized content, increased 7-day user retention by 10%.</td>
     </tr>
     <tr>
-      <td>Overcome</td>
-      <td><strong>Leveraged Targeted Digital Marketing:</strong> I collaborated with the marketing team to conduct targeted ad distribution campaigns, which effectively drove a sufficient number of new users to the platform for robust A/B testing.</td>
+      <td><strong>Challenge</strong></td>
+      <td>A key challenge was making sure we had enough users for A/B testing, since the target group (new users) was a smaller part of the total user base.</td>
     </tr>
     <tr>
-      <td>Result</td>
-      <td><strong>Increased 7-Day User Retention by 10%:</strong> The new user experience improvements, driven by personalized content, led to a 10% increase in 7-day user retention.</td>
+      <td><strong>Solution</strong></td>
+      <td>I worked with the marketing team to run targeted ad campaigns, which brought enough new users to the platform for solid A/B testing.</td>
     </tr>
     <tr>
-      <td>Skill</td>
+      <td><strong>Learning</strong></td>
+      <td>I learned how important it is for different teams to work together, especially data engineering and marketing teams, to get statistically significant test results.</td>
+    </tr>
+    <tr>
+      <td><strong>Skill</strong></td>
       <td>Data Engineering</td>
     </tr>
   </tbody>

@@ -15,7 +15,7 @@ nav_order: 4
 | Employee    | 160+                                                                                                                                                      |
 | Founded     | 2019                                                                                                                                                      |
 | Web Site    | [https://enechain.co.jp/](https://enechain.co.jp/)                                                                                                    |
-| Description | A company collaborating with Japan's largest power companies and operating the energy exchange market, dealing with electricity, fuels, and environmental values |
+| Description | A company that works with Japan's largest power companies and runs the energy exchange market, handling electricity, fuels, and environmental values |
 | Location    | Tokyo, Japan                                                                                                                                              |
 
 ## Team (Software Engineer - Platform)
@@ -34,15 +34,19 @@ nav_order: 4
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to develop internal APIs and tools aimed at enhancing developer productivity across the organization.</td>
+      <td>My mission was to develop internal APIs and tools to improve developer productivity across the organization.</td>
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li>I developed internal APIs and various tools to support development teams.</li></ul></td>
+      <td>
+        <ul>
+          <li>I developed internal APIs and various tools to support development teams.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Term</td>
-      <td>April 1, 2024 - October 31, 2024</td>
+      <td>2024-04 - 2024-10</td>
     </tr>
     <tr>
       <td>Team Size</td>
@@ -71,15 +75,19 @@ nav_order: 4
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My primary mission was to improve the overall system reliability for over 20 microservices.</td>
+      <td>My main mission was to improve system reliability for over 20 microservices.</td>
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li><strong>Observability Development:</strong> I focused on developing and enhancing observability features.</li></ul></td>
+      <td>
+        <ul>
+          <li>I developed and enhanced observability features.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Term</td>
-      <td>November 1, 2023 - April 30, 2024</td>
+      <td>2023-11 - 2024-04</td>
     </tr>
     <tr>
       <td>Team Size</td>
@@ -103,48 +111,59 @@ nav_order: 4
   </thead>
   <tbody>
     <tr>
-      <td>Summary</td>
-      <td><strong>EN1</strong>. I developed a generator tool for Kubernetes manifests and Terraform configurations for new microservices.</td>
+      <td><strong>Summary</strong></td>
+      <td><strong>EN1</strong>. I developed a generator tool to create Kubernetes manifests and Terraform configurations for new microservices.</td>
     </tr>
     <tr>
-      <td>Problem</td>
+      <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li><strong>Manual Configuration Overhead:</strong> Developers were required to manually create Kubernetes manifests and Terraform configurations for each new microservice.</li>
-          <li><strong>Process Inefficiency and Error Rate:</strong> This manual process was time-consuming and highly prone to errors, slowing down deployments.</li>
+          <li>Developers were required to manually create Kubernetes manifests and Terraform configurations for each new microservice.</li>
+          <li>This manual process was slow and caused many errors, which slowed down deployments.</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Mission</td>
-      <td><strong>Automate Configuration Generation for Efficiency:</strong> My goal was to automate the generation of these configurations to significantly enhance development efficiency and reduce errors.</td>
+      <td><strong>Task</strong></td>
+      <td>My goal was to automate creating these configurations to greatly improve development efficiency and reduce errors.</td>
     </tr>
     <tr>
-      <td>Action</td>
+      <td><strong>Action</strong></td>
       <td>
         <ul>
-          <li><strong>Developed a Configuration Generator Tool:</strong></li>
-          <ul>
-            <li><strong>Go-Based Command-Line Tool:</strong> I implemented a command-line tool using Go to trigger the generation process.</li>
-            <li><strong>Standardized Template System:</strong> I created a template system to ensure the generation of standardized and consistent configurations.</li>
-          </ul>
+          <li>I developed tools
+            <ul>
+              <li>I implemented a command-line tool using Go to trigger the generation process</li>
+              <li>I designed the CLI interface to be simple and user-friendly for developers</li>
+            </ul>
+          </li>
+          <li>I created template system
+            <ul>
+              <li>I created a template system to ensure we generated standard configurations</li>
+              <li>I made sure all generated configurations followed consistent patterns</li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Challenge</td>
-      <td><strong>Ensuring Up-to-Date Templates:</strong> A key challenge was version management; if developers used an outdated version of the CLI tool, incorrect or deprecated templates could be generated.</td>
+      <td><strong>Result</strong></td>
+      <td>The tool made deploying new microservices much smoother, cutting initial setup and deployment time by 90%.</td>
     </tr>
     <tr>
-      <td>Overcome</td>
-      <td><strong>Centralized Logic via CI Integration:</strong> I configured the CLI client to only act as a trigger for a Continuous Integration (CI) pipeline. The main generation logic was managed within the CI environment, ensuring it was always up-to-date.</td>
+      <td><strong>Challenge</strong></td>
+      <td>A key challenge was version management. If developers used an old version of the CLI tool, wrong or outdated templates could be created.</td>
     </tr>
     <tr>
-      <td>Result</td>
-      <td><strong>Reduced Initial Deployment Time by 90%:</strong> The tool streamlined the deployment process for new microservices, achieving a 90% reduction in the initial setup and deployment time.</td>
+      <td><strong>Solution</strong></td>
+      <td>I set up the CLI client to only trigger a CI pipeline. The main generation logic was managed in the CI environment, making sure it was always up-to-date.</td>
     </tr>
     <tr>
-      <td>Skill</td>
+      <td><strong>Learning</strong></td>
+      <td>I learned how important it is to centralize logic in CI/CD pipelines to keep consistency across developer environments.</td>
+    </tr>
+    <tr>
+      <td><strong>Skill</strong></td>
       <td>Tool Development</td>
     </tr>
   </tbody>
@@ -159,54 +178,64 @@ nav_order: 4
   </thead>
   <tbody>
     <tr>
-      <td>Summary</td>
-      <td><strong>EN2</strong>. I developed a system for local development by deploying Telepresence to the Kubernetes cluster.</td>
+      <td><strong>Summary</strong></td>
+      <td><strong>EN2</strong>. I built a system for local development by adding Telepresence to the Kubernetes cluster.</td>
     </tr>
     <tr>
-      <td>Problem</td>
+      <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li><strong>Microservice Dependencies in Local Development:</strong> Local development was heavily dependent on other microservices running in the cluster, making isolated development difficult.</li>
-          <li><strong>Complex Local Environment Setup:</strong> Setting up a complete local development environment that mirrored the cluster was time-consuming and complex.</li>
+          <li>Local development depended heavily on other microservices running in the cluster, making isolated development hard.</li>
+          <li>Setting up a complete local development environment that matched the cluster was slow and complex.</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Mission</td>
-      <td><strong>Enable Efficient, Independent Local Development:</strong> My objective was to enable developers to efficiently work on individual microservices locally without needing to run all other dependent services.</td>
+      <td><strong>Task</strong></td>
+      <td>My goal was to let developers work efficiently on individual microservices locally without needing to run all other dependent services.</td>
     </tr>
     <tr>
-      <td>Action</td>
+      <td><strong>Action</strong></td>
       <td>
         <ul>
-          <li><strong>Deployed Telepresence:</strong> I deployed Telepresence to the Kubernetes cluster, allowing local machines to interact with services running in the cluster as if they were local.</li>
-          <li><strong>Developed a Streamlined Local Development System:</strong> I utilized Devcontainers to further streamline the local development setup and ensure consistency.</li>
+          <li>I deployed Telepresence
+            <ul>
+              <li>I deployed Telepresence to the Kubernetes cluster</li>
+              <li>I configured it to let local machines interact with cluster services as if they were local</li>
+            </ul>
+          </li>
+          <li>I set up development environment
+            <ul>
+              <li>I used Devcontainers to make the local development setup smoother</li>
+              <li>I ensured the development environment was consistent across the team</li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Challenge</td>
+      <td><strong>Result</strong></td>
+      <td>This system sped up local development cycles, improving overall microservice development speed by 15%.</td>
+    </tr>
+    <tr>
+      <td><strong>Challenge</strong></td>
+      <td>We had strong security standards for our Kubernetes clusters, but the official Telepresence Helm charts didn't support the required security configurations by default.</td>
+    </tr>
+    <tr>
+      <td><strong>Solution</strong></td>
       <td>
         <ul>
-          <li><strong>Meeting High-Security Requirements:</strong> We had robust security standards for our Kubernetes clusters, but the official Telepresence Helm charts did not natively support the required security configurations (e.g., specific security contexts, network policies).</li>
+          <li>I converted the official Telepresence Helm charts to Kustomize overlays to make customization easier.</li>
+          <li>I manually added needed security patches and configurations, including Pod Security Admissions, NetworkPolicies, and specific Security Contexts.</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Overcome</td>
-      <td>
-        <ul>
-          <li><strong>Customized Helm Charts with Kustomize:</strong> I converted the official Telepresence Helm charts to Kustomize overlays to allow for easier customization.</li>
-          <li><strong>Applied Manual Security Enhancements:</strong> I then manually added necessary security patches and configurations, including Pod Security Admission policies, NetworkPolicies, and specific Security Contexts.</li>
-        </ul>
-      </td>
+      <td><strong>Learning</strong></td>
+      <td>I learned how to balance developer productivity tools with enterprise security needs by customizing open-source solutions.</td>
     </tr>
     <tr>
-      <td>Result</td>
-      <td><strong>Improved Microservice Development Speed by 15%:</strong> This system accelerated local development cycles, leading to a 15% improvement in overall microservice development speed.</td>
-    </tr>
-    <tr>
-      <td>Skill</td>
+      <td><strong>Skill</strong></td>
       <td>Kubernetes / Security</td>
     </tr>
   </tbody>

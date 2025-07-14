@@ -38,11 +38,16 @@ nav_order: 6
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li>I designed training and inference pipelines.</li><li>I developed enterprise applications incorporating LLMs.</li></ul></td>
+      <td>
+        <ul>
+          <li>I designed training and inference pipelines.</li>
+          <li>I developed enterprise applications incorporating LLMs.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Term</td>
-      <td>August 1, 2023 - April 30, 2024</td>
+      <td>2023-08 - 2024-04</td>
     </tr>
     <tr>
       <td>Team Size</td>
@@ -66,46 +71,55 @@ nav_order: 6
   </thead>
   <tbody>
     <tr>
-      <td>Summary</td>
+      <td><strong>Summary</strong></td>
       <td><strong>AL1</strong>. I developed a serverless training pipeline for fine-tuning LLMs.</td>
     </tr>
     <tr>
-      <td>Problem</td>
-      <td><strong>Inefficient LLM Fine-Tuning:</strong> The existing process for fine-tuning Large Language Models (LLMs) was inefficient and lacked a structured pipeline.</td>
+      <td><strong>Situation</strong></td>
+      <td>The existing process for fine-tuning Large Language Models (LLMs) was inefficient and lacked a structured pipeline.</td>
     </tr>
     <tr>
-      <td>Mission</td>
-      <td><strong>Develop an Efficient LLM Training Pipeline:</strong> My mission was to create a streamlined and cost-effective training pipeline for fine-tuning LLMs.</td>
+      <td><strong>Task</strong></td>
+      <td>My mission was to create a streamlined and cost-effective training pipeline for fine-tuning LLMs.</td>
     </tr>
     <tr>
-      <td>Action</td>
+      <td><strong>Action</strong></td>
       <td>
         <ul>
-          <li><strong>Developed a Training Pipeline:</strong>
+          <li>I developed pipeline infrastructure
             <ul>
-              <li><strong>Data Retrieval from S3:</strong> I implemented efficient data download functionality from Amazon S3.</li>
-              <li><strong>Model Storage on Hugging Face:</strong> I integrated with Hugging Face to store and share trained models.</li>
-              <li><strong>Experiment Tracking with WandB:</strong> I utilized Weights & Biases (WandB) for comprehensive experiment and parameter tracking.</li>
+              <li>I implemented efficient data download functionality from Amazon S3</li>
+              <li>I designed the serverless architecture to optimize compute costs</li>
+            </ul>
+          </li>
+          <li>I managed models and tracking
+            <ul>
+              <li>I integrated with Hugging Face to store and share trained models</li>
+              <li>I utilized Weights & Biases (WandB) for comprehensive experiment tracking</li>
             </ul>
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Challenge</td>
-      <td><strong>Cost Optimization for LLM Fine-Tuning:</strong> A primary challenge was managing and optimizing the significant computational costs associated with fine-tuning LLMs.</td>
+      <td><strong>Result</strong></td>
+      <td>The new pipeline enabled efficient fine-tuning of LLMs while significantly optimizing compute resource utilization and reducing overall training costs.</td>
     </tr>
     <tr>
-      <td>Overcome</td>
-      <td><strong>Leveraged Serverless Architecture:</strong> I designed and implemented the pipeline using a serverless architecture, which significantly reduced idle compute costs and optimized resource utilization.</td>
+      <td><strong>Challenge</strong></td>
+      <td>A primary challenge was managing and optimizing the significant computational costs associated with fine-tuning LLMs.</td>
     </tr>
     <tr>
-      <td>Result</td>
-      <td><strong>Efficient and Cost-Effective LLM Fine-Tuning:</strong> The new pipeline enabled efficient fine-tuning of LLMs while significantly optimizing compute resource utilization and reducing overall training costs.</td>
+      <td><strong>Solution</strong></td>
+      <td>I designed and implemented the pipeline using a serverless architecture, which significantly reduced idle compute costs and optimized resource utilization.</td>
     </tr>
     <tr>
-      <td>Skill</td>
-      <td>AI/LLM</td>
+      <td><strong>Learning</strong></td>
+      <td>I learned how serverless architectures can effectively reduce costs for computationally intensive ML workloads by eliminating idle resource charges.</td>
+    </tr>
+    <tr>
+      <td><strong>Skill</strong></td>
+      <td>AI/LLM / Serverless</td>
     </tr>
   </tbody>
 </table>

@@ -38,11 +38,15 @@ nav_order: 8
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li><strong>Feature Development:</strong> I was responsible for developing new features for the backend system.</li></ul></td>
+      <td>
+        <ul>
+          <li>I developed new features for the backend system.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Term</td>
-      <td>January 1, 2018 - March 31, 2018</td>
+      <td>2018-01 - 2018-03</td>
     </tr>
     <tr>
       <td>Team Size</td>

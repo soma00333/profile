@@ -15,7 +15,7 @@ nav_order: 2
 | Employee    | 50+                                                                                                                                                             |
 | Founded     | 2017                                                                                                                                                            |
 | Web Site    | [https://eukarya.io/](https://eukarya.io/)                                                                                                              |
-| Description | Eukarya develops Re:Earth (an open-source WebGIS platform), which has been adopted as the base system for a project led by the Japanese Ministry of Land |
+| Description | Eukarya develops Re:Earth (an open-source WebGIS platform), which was adopted as the base system for a project led by the Japanese Ministry of Land |
 | Location    | Tokyo, Japan                                                                                                                                                    |
 
 ## Team
@@ -34,15 +34,19 @@ nav_order: 2
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to develop a workflow engine and microservices for Re:Earth Flow, an open-source ETL tool for GIS data. This platform has been adopted as the base system for a project led by the Japanese Ministry of Land.</td>
+      <td>My mission was to develop a workflow engine and microservices for Re:Earth Flow, an open-source ETL tool for GIS data. This platform was adopted as the base system for a project led by the Japanese Ministry of Land.</td>
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li>I developed new features for the platform.</li></ul></td>
+      <td>
+        <ul>
+          <li>I developed new features for the platform.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Term</td>
-      <td>October 1, 2024 - current</td>
+      <td>2024-10 - current</td>
     </tr>
     <tr>
       <td>Team Size</td>
@@ -66,41 +70,60 @@ nav_order: 2
   </thead>
   <tbody>
     <tr>
-      <td>Summary</td>
-      <td><strong>EU1</strong>. I developed a processor that compiles user scripts into WebAssembly files and executes them efficiently on a WASM runtime.</td>
+      <td><strong>Summary</strong></td>
+      <td><strong>EU1</strong>. I developed a processor that compiles user scripts into WebAssembly files and runs them efficiently on a WASM runtime.</td>
     </tr>
     <tr>
-      <td>Problem</td>
-      <td><ul><li><strong>Need for User-Defined Functions:</strong> Users required the ability to integrate their own custom scripts (Python, Go, Rust, etc.) into the workflow engine to extend its functionality.</li><li><strong>Lack of Extensibility for Custom Scripts:</strong> The existing engine lacked a mechanism to easily incorporate and execute these user-provided scripts.</li></ul></td>
+      <td><strong>Situation</strong></td>
+      <td>
+        <ul>
+          <li>Users needed to add their own custom scripts (Python, Go, Rust, etc.) to the workflow engine to extend its functionality.</li>
+          <li>The existing engine didn't have a way to easily add and run these user scripts.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Mission</td>
-      <td><strong>Enable Custom Script Execution via WebAssembly:</strong> My mission was to extend the workflow engine to securely execute user-defined scripts by compiling them to WebAssembly (WASM).</td>
+      <td><strong>Task</strong></td>
+      <td>My mission was to extend the workflow engine to safely run user scripts by compiling them to WebAssembly (WASM).</td>
     </tr>
     <tr>
-      <td>Action</td>
-      <td><ul><li><strong>Developed the WASM Extension:</strong>
-          <ul>
-            <li><strong>WASM Compilation Process:</strong> I designed and implemented a compilation process that transformed user scripts into .wasm files.</li>
-            <li><strong>WASM Runtime Integration:</strong> I integrated a WebAssembly runtime into the engine to execute the compiled .wasm scripts.</li>
-          </ul>
-        </li></ul></td>
+      <td><strong>Action</strong></td>
+      <td>
+        <ul>
+          <li>I built the compilation system:
+            <ul>
+              <li>I designed a process that turned user scripts into .wasm files</li>
+              <li>I supported multiple programming languages (Python, Go, Rust)</li>
+            </ul>
+          </li>
+          <li>I integrated the runtime:
+            <ul>
+              <li>I added a WebAssembly runtime to the engine</li>
+              <li>I created secure execution environment for .wasm scripts</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Challenge</td>
-      <td><strong>Ensuring Secure Execution Environment:</strong> A key challenge was to provide enough flexibility for users' custom scripts while strictly controlling the execution environment to prevent unintended operations and potential security risks.</td>
+      <td><strong>Result</strong></td>
+      <td>This feature greatly improved the workflow engine's flexibility, letting users customize their workflows with their favorite scripting languages.</td>
     </tr>
     <tr>
-      <td>Overcome</td>
-      <td><strong>Secured Wasm Execution with a Well-Defined API:</strong> I designed a well-defined API for the Wasm guest modules. This API strictly controlled how data (like variables) was passed and how host functions could be called, ensuring user scripts operated only within a secure and appropriate scope.</td>
+      <td><strong>Challenge</strong></td>
+      <td>A key challenge was giving users enough flexibility for custom scripts while strictly controlling the execution environment to prevent unwanted operations and security risks.</td>
     </tr>
     <tr>
-      <td>Result</td>
-      <td><strong>Significantly Enhanced System Extensibility:</strong> This feature greatly enhanced the workflow engine's extensibility, empowering users to efficiently customize their workflows with their preferred scripting languages.</td>
+      <td><strong>Solution</strong></td>
+      <td>I designed a clear interface for the Wasm guest modules. This interface strictly controlled how data was passed and how host functions could be called, making sure user scripts only worked within a safe and proper scope.</td>
     </tr>
     <tr>
-      <td>Skill</td>
-      <td>Feature Development</td>
+      <td><strong>Learning</strong></td>
+      <td>I learned how to balance flexibility and security when designing systems that can be extended, especially when running user code.</td>
+    </tr>
+    <tr>
+      <td><strong>Skill</strong></td>
+      <td>Feature Development / Security / Quick Learn</td>
     </tr>
   </tbody>
 </table>
@@ -114,55 +137,66 @@ nav_order: 2
   </thead>
   <tbody>
     <tr>
-      <td>Summary</td>
-      <td><strong>EU2</strong>. I developed a real-time logging system for the workflow engine, leveraging storage and cache efficiently.</td>
+      <td><strong>Summary</strong></td>
+      <td><strong>EU2</strong>. I developed a real-time logging system for the workflow engine, using storage and cache efficiently.</td>
     </tr>
     <tr>
-      <td>Problem</td>
-      <td><ul><li><strong>Demand for Real-Time Workflow Monitoring:</strong> Users required immediate visibility into the execution status of their workflows.</li><li><strong>Absence of Effective Logging System:</strong> The existing system lacked a robust mechanism for real-time logging and retrieval of workflow status information.</li></ul></td>
-    </tr>
-    <tr>
-      <td>Mission</td>
-      <td><strong>Implement Real-Time Workflow Logging:</strong> My objective was to develop a real-time logging system enabling users to monitor workflow execution status directly from the user interface.</td>
-    </tr>
-    <tr>
-      <td>Action</td>
+      <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li><strong>Developed the Real-Time Logging Feature:</strong>
+          <li>Users needed immediate visibility into how their workflows were running.</li>
+          <li>The existing system didn't have a good way to log and get workflow status information in real-time.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Task</strong></td>
+      <td>My goal was to develop a real-time logging system that let users monitor workflow status directly from the user interface.</td>
+    </tr>
+    <tr>
+      <td><strong>Action</strong></td>
+      <td>
+        <ul>
+          <li>I built the logging infrastructure:
             <ul>
-              <li><strong>Integrated Pub/Sub for Log Publishing:</strong> I modified the workflow engine to publish log events to a Pub/Sub topic.</li>
-              <li><strong>Developed Log Subscription Service:</strong> I created a subscriber service to consume logs from Pub/Sub and persist them to a data store.</li>
-              <li><strong>Exposed Logs via API:</strong> I added an API endpoint (resolver) to enable the UI to fetch and display logs from the data store.</li>
+              <li>I changed the workflow engine to publish log events to a Pub/Sub topic</li>
+              <li>I created a subscriber service to get logs from Pub/Sub</li>
+              <li>I set up efficient data storage for log data</li>
+            </ul>
+          </li>
+          <li>I developed the UI integration:
+            <ul>
+              <li>I added an API endpoint to serve logs to the UI</li>
+              <li>I enabled real-time log display in the user interface</li>
             </ul>
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Challenge</td>
-      <td><strong>Meeting Real-Time Performance Demands:</strong> The primary challenge was to ensure the logging system could handle a high volume of logs and provide real-time updates to users without impacting overall system performance.</td>
+      <td><strong>Result</strong></td>
+      <td>The system successfully gave users real-time visibility into worker execution status, greatly improving monitoring efficiency and troubleshooting capabilities.</td>
     </tr>
     <tr>
-      <td>Overcome</td>
+      <td><strong>Challenge</strong></td>
+      <td>The main challenge was making sure the logging system could handle many logs and provide real-time updates to users without hurting overall system performance.</td>
+    </tr>
+    <tr>
+      <td><strong>Solution</strong></td>
       <td>
         <ul>
-          <li><strong>Utilized Optimized Datastore Strategy:</strong>
-            <ul>
-              <li><strong>Implemented Redis for Log Caching:</strong> I utilized Redis as a caching layer to ensure fast retrieval.</li>
-              <li><strong>Utilized GCS for Archival Storage:</strong> Google Cloud Storage (GCS) was used for cost-effective, long-term storage of historical logs.</li>
-            </ul>
-          </li>
+          <li>I used Redis as a caching layer to make retrieval fast.</li>
+          <li>I used Google Cloud Storage (GCS) for cost-effective, long-term storage of historical logs.</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Result</td>
-      <td><strong>Achieved Real-Time Visibility and Enhanced Monitoring:</strong> The system successfully provided users with real-time visibility into worker execution status, significantly improving monitoring efficiency and troubleshooting capabilities.</td>
+      <td><strong>Learning</strong></td>
+      <td>I learned how important it is to use a tiered storage strategy (cache for hot data, object storage for cold data) to balance performance and cost in logging systems.</td>
     </tr>
     <tr>
-      <td>Skill</td>
-      <td>Performance Optimization</td>
+      <td><strong>Skill</strong></td>
+      <td>Performance Optimization / Technically Difficult</td>
     </tr>
   </tbody>
 </table>

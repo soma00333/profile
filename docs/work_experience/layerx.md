@@ -38,11 +38,16 @@ nav_order: 3
     </tr>
     <tr>
       <td>Task</td>
-      <td><ul><li><strong>Feature Development:</strong> I was involved in the development of new features for these AI/LLM applications.</li><li><strong>Incident Response:</strong> I also handled incident response to ensure system stability and reliability.</li></ul></td>
+      <td>
+        <ul>
+          <li>I developed new features for these AI/LLM applications.</li>
+          <li>I handled incident response to ensure system stability and reliability.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Term</td>
-      <td>April 1, 2024 - September 30, 2024</td>
+      <td>2024-04 - 2024-09</td>
     </tr>
     <tr>
       <td>Team Size</td>
@@ -66,36 +71,60 @@ nav_order: 3
   </thead>
   <tbody>
     <tr>
-      <td>Summary</td>
+      <td><strong>Summary</strong></td>
       <td><strong>LX1</strong>. I developed an event-driven notification system designed to operate securely within a closed network environment.</td>
     </tr>
     <tr>
-      <td>Problem</td>
-      <td><strong>Lack of Workflow Status Visibility:</strong> Users had no way to ascertain the status of their workflows after triggering them, leading to uncertainty and inefficiency.</td>
+      <td><strong>Situation</strong></td>
+      <td>Users had no way to ascertain the status of their workflows after triggering them, leading to uncertainty and inefficiency.</td>
     </tr>
     <tr>
-      <td>Mission</td>
-      <td><strong>Implement Secure Workflow Notifications:</strong> My objective was to develop a notification system that reliably informed users about their workflow execution status while adhering to strict security protocols.</td>
+      <td><strong>Task</strong></td>
+      <td>My objective was to develop a notification system that reliably informed users about their workflow execution status while adhering to strict security protocols.</td>
     </tr>
     <tr>
-      <td>Action</td>
-      <td><strong>Developed Event-Driven Notification System:</strong> I designed and implemented the notification system using an event-driven architecture to ensure scalability and real-time updates.</td>
+      <td><strong>Action</strong></td>
+      <td>
+        <ul>
+          <li>I designed system architecture
+            <ul>
+              <li>I designed an event-driven architecture to ensure scalability and real-time updates</li>
+              <li>I planned the notification system to work within closed network constraints</li>
+            </ul>
+          </li>
+          <li>I implemented the system
+            <ul>
+              <li>I implemented the notification system using event-driven patterns</li>
+              <li>I ensured the system met all security requirements for closed networks</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Challenge</td>
-      <td><strong>Operating within a Highly Secure Closed Network:</strong> The primary challenge was that the system had to be deployed and operate within a closed network environment with stringent traffic control and access restrictions.</td>
+      <td><strong>Result</strong></td>
+      <td>The system successfully enabled secure and scalable workflow notifications, ensuring users were informed of progress while fully complying with high-security standards.</td>
     </tr>
     <tr>
-      <td>Overcome</td>
-      <td><ul><li><strong>Designed Meticulous Network Traffic Rules:</strong> I explicitly defined all necessary inbound and outbound traffic rules to allow essential communication while maintaining network isolation.</li><li><strong>Implemented Strict Firewall Policies:</strong> I configured a secure firewall policy to strictly control access to and from the notification system, ensuring compliance with security standards.</li></ul></td>
+      <td><strong>Challenge</strong></td>
+      <td>The primary challenge was that the system had to be deployed and operate within a closed network environment with stringent traffic control and access restrictions.</td>
     </tr>
     <tr>
-      <td>Result</td>
-      <td><strong>Enabled Secure and Scalable Workflow Notifications:</strong> The system successfully enabled secure and scalable workflow notifications, ensuring users were informed of progress while fully complying with high-security standards.</td>
+      <td><strong>Solution</strong></td>
+      <td>
+        <ul>
+          <li>I explicitly defined all necessary inbound and outbound traffic rules to allow essential communication while maintaining network isolation.</li>
+          <li>I configured a secure firewall policy to strictly control access to and from the notification system, ensuring compliance with security standards.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Skill</td>
-      <td>Network Management</td>
+      <td><strong>Learning</strong></td>
+      <td>I learned how to design event-driven architectures that maintain functionality while adhering to the strictest security requirements in closed network environments.</td>
+    </tr>
+    <tr>
+      <td><strong>Skill</strong></td>
+      <td>Network Management / Security / Event-Driven / Serverless</td>
     </tr>
   </tbody>
 </table>
