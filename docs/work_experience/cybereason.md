@@ -76,7 +76,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Mission</td>
-      <td>I worked with a global team to improve the reliability of our system. The system runs on 12,000 servers and handles 80M events per second.</td>
+      <td>My mission was to work with a global team to improve the reliability of our system. The system runs on 12,000 servers and handles 80M events per second.</td>
     </tr>
     <tr>
       <td>Task</td>

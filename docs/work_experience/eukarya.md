@@ -34,7 +34,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>Mission</td>
-      <td>I developed a workflow engine and microservices for Re:Earth Flow, an open-source ETL tool for GIS data. The Japanese Ministry of Land uses this platform for their project.</td>
+      <td>My mission was to develop a workflow engine and microservices for Re:Earth Flow, an open-source ETL tool for GIS data. The Japanese Ministry of Land uses this platform for their project.</td>
     </tr>
     <tr>
       <td>Task</td>
