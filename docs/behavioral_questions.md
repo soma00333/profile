@@ -19,7 +19,7 @@ layout: default
       <td>
         <ul>
           <li>I believe reliability is the most important part of any product.</li>
-          <li>My mision is to balance agility and reliability while driving the massive scaling of amazing products globally.</li>
+          <li>My mission is to dramatically grow amazing products in a startup environment by balancing agility and reliability.</li>
           <li>I am also interested in LLMs and want to explore how they can create the next generation of development experiences.</li>
         </ul>
       </td>
@@ -40,7 +40,7 @@ layout: default
           <li>I have developed enterprise-grade distributed systems in startup environments, effectively balancing reliability and agility.</li>
           <li>I am skilled in Golang and Java development and Kubernetes cluster management.</li>
           <li>I work at Alpaca, a US fintech company operating in 40 countries.</li>
-          <li>My role is to ensure that our Broker API remains solid, meeting targets such as a 1.5 ms median latency and 99.99% availability.</li>
+          <li>My role is to ensure that our Broker API remains solid, meeting targets such as 1.5 ms median latency and 99.99% availability.</li>
           <li>As side projects, I contribute to OSS like Kubernetes, Etcd, Raft, and a workflow engine.</li>
           <li>I also study Computer Science online at CU Boulder while working in Japan.</li>
         </ul>
@@ -121,7 +121,7 @@ layout: default
       <td><strong>Why Backend</strong></td>
       <td>
         <ul>
-          <li>The responsivility fits my vision and career goals completely.</li>
+          <li>The responsibility fits my vision and career goals completely.</li>
         </ul>
       </td>
     </tr>
@@ -203,8 +203,8 @@ layout: default
       <td><strong>Failure</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> I introduced an E2E test tool at Industry Technology, which accidentally created silos between teams.</li>
-          <li><strong>Situation:</strong> I added an E2E test tool to help frontend engineers save time on tests. But it created walls between frontend and QA teams and hurt teamwork.</li>
+          <li><strong>Summary (New):</strong> I introduced an E2E test automation tool at Industry Technology, which accidentally created silos between teams.</li>
+          <li><strong>Situation:</strong> I added an E2E test automation tool to help frontend engineers save time on writing tests. But it created walls between frontend and QA teams and hurt teamwork.</li>
           <li><strong>Action:</strong> We stopped using the tool. I gave E2E testing to frontend engineers so they owned their code quality.</li>
           <li><strong>Result:</strong> As a result, teams worked better together and product quality improved.</li>
           <li><strong>Learning:</strong> I learned that tool choices must think about team impact, not just technical benefits.</li>
@@ -212,7 +212,7 @@ layout: default
       </td>
     </tr>
     <tr>
-      <td><strong>Leadership / Business Impact</strong></td>
+      <td><strong>Leadership / Business Impact / Difficult Decision / Inovative Idea</strong></td>
       <td>
         <ul>
           <li><strong>Summary (IT1):</strong> I introduced SRE practices at Industry Technology, which helped win an enterprise contract.</li>
@@ -228,12 +228,12 @@ layout: default
       <td><strong>Ownership</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (EN1):</strong> I built a generator tool at enechain, which helped all teams deploy 90% faster.</li>
-          <li><strong>Situation:</strong> Developers manually created configs for each microservice, which was slow and error-prone.</li>
+          <li><strong>Summary (EN1):</strong> I developed a generator tool at enechain, which helped 50 developers deploy faster.</li>
+          <li><strong>Situation:</strong> All developers manually wrote terraform and kubernetes configs for each microservice, which was slow and error-prone.</li>
           <li><strong>Task:</strong> My mission was to automate this to save time.</li>
-          <li><strong>Action:</strong> I built a generator tool even though it wasn't my job.</li>
-          <li><strong>Result:</strong> As a result, new microservices deployed much faster for all teams.</li>
-          <li><strong>Learning:</strong> I learned that helping beyond my tasks helps everyone.</li>
+          <li><strong>Action:</strong> I developed a generator tool even though it wasn't my main mission.</li>
+          <li><strong>Result:</strong> As a result, new microservices were deployed much faster for all teams.</li>
+          <li><strong>Learning:</strong> I learned that taking ownership beyond my main tasks helps accelerate the business.</li>
         </ul>
       </td>
     </tr>
@@ -241,11 +241,11 @@ layout: default
       <td><strong>Teamwork</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (CR2):</strong> I led cross-functional teams at Cybereason, which fixed a critical issue affecting 100,000 users.</li>
-          <li><strong>Situation:</strong> A UI server kept crashing for a big customer. We needed many teams (SRE, DevOps, Product, TAM) to work together.</li>
-          <li><strong>Task:</strong> I needed to find the problem and fix the system urgently.</li>
-          <li><strong>Action:</strong> As incident commander, I organized all teams. I checked thread dumps and heap dumps to find the cause.</li>
-          <li><strong>Result:</strong> As a result, we fixed the problem.</li>
+          <li><strong>Summary (CR2):</strong> I led cross-functional teams as a incident commander at Cybereason, which fixed a critical issue affecting an enterprise company.</li>
+          <li><strong>Situation:</strong> An API server kept crashing for a big customer. We needed many teams (SRE, DevOps, Product, TAM) to work together.</li>
+          <li><strong>Task:</strong> My mission was to find the problem and fix the system urgently.</li>
+          <li><strong>Action:</strong> As an incident commander, I organized all teams. We checked thread dumps and heap dumps to find the cause and implemented a fix.</li>
+          <li><strong>Result:</strong> As a result, we solved the ticket and got customer's trust.</li>
           <li><strong>Learning:</strong> I learned that fixing incidents needs both tech skills and good team coordination.</li>
         </ul>
       </td>
@@ -254,12 +254,12 @@ layout: default
       <td><strong>Technically Challenging</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (EU2):</strong> I built a real-time logging system at Eukarya, which delivered sub-second status updates.</li>
-          <li><strong>Situation:</strong> Users needed to see workflow status right away, but we had no good logging.</li>
-          <li><strong>Task:</strong> My mission was to build real-time logging with fast UI updates.</li>
+          <li><strong>Summary (EU2):</strong> I developed a real-time logging system for a workflow engine at Eukarya, which delivered sub-millisecond status updates.</li>
+          <li><strong>Situation:</strong> Users needed to see workflow status right away, but we had no good logging mechanism.</li>
+          <li><strong>Task:</strong> My mission was to build real-time logging with cost efficient architecture.</li>
           <li><strong>Action:</strong> I used Pub/Sub design with Redis cache and GCS for storage.</li>
-          <li><strong>Result:</strong> As a result, users saw worker status in under one second.</li>
-          <li><strong>Learning:</strong> I learned that I can build fast systems that don't cost too much.</li>
+          <li><strong>Result:</strong> As a result, users saw worker status in real-time.</li>
+          <li><strong>Learning:</strong> I learned that I can balance performance and cost to build an efficient system.</li>
         </ul>
       </td>
     </tr>
@@ -267,10 +267,10 @@ layout: default
       <td><strong>Conflict</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> I helped move 5,000 servers from Google to Oracle Cloud, which saved significant costs.</li>
+          <li><strong>Summary (New):</strong> I helped move 3,000 servers from Google to Oracle Cloud, which saved significant costs.</li>
           <li><strong>Proposal:</strong> Management wanted to move many servers from Google to Oracle Cloud.</li>
           <li><strong>Initial Stance:</strong> I didn't agree at first. I worried about maintenance and showed data to back up my concerns.</li>
-          <li><strong>Commitment:</strong> When they decided based on cost, I fully supported it and helped move 5,000 servers.</li>
+          <li><strong>Commitment:</strong> When they decided based on cost efficiency, I fully committed it and helped move 3,000 servers.</li>
           <li><strong>Result:</strong> As a result, we moved successfully and saved a lot on costs.</li>
           <li><strong>Learning:</strong> I learned that I should disagree and commit - share concerns but support final decisions.</li>
         </ul>
@@ -281,11 +281,11 @@ layout: default
       <td>
         <ul>
           <li><strong>Summary (New):</strong> I mentored a struggling engineer at Industry Technology, which helped him become a lead backend engineer.</li>
-          <li><strong>Situation:</strong> A frontend engineer joined backend but struggled. He wanted to be a backend engineer.</li>
+          <li><strong>Situation:</strong> A frontend engineer joined backend team but struggled. He wanted transition to a backend engineer.</li>
           <li><strong>Task:</strong> I needed to help him grow without slowing our work.</li>
           <li><strong>Action:</strong> I did regular 1-on-1s and made learning docs for him.</li>
-          <li><strong>Result:</strong> As a result, he became a lead backend engineer elsewhere. Our docs helped train all new engineers.</li>
-          <li><strong>Learning:</strong> I learned that helping people grow benefits everyone.</li>
+          <li><strong>Result:</strong> As a result, he became a lead backend engineer. Our docs helped train all new engineers as well.</li>
+          <li><strong>Learning:</strong> I learned that helping people grow benefits afterwords.</li>
         </ul>
       </td>
     </tr>
@@ -295,23 +295,10 @@ layout: default
         <ul>
           <li><strong>Summary (IT4):</strong> I migrated from monolith to microservices at Industry Technology, which improved system scalability.</li>
           <li><strong>Situation:</strong> Our monolith system had database problems when traffic grew.</li>
-          <li><strong>Task:</strong> I needed to split it into microservices to reduce load.</li>
-          <li><strong>Action:</strong> I migrated to microservices with minimal downtime.</li>
+          <li><strong>Task:</strong> My mission was to split it into microservices to reduce load.</li>
+          <li><strong>Action:</strong> I migrated to microservices with no downtime utilizing BFF layer.</li>
           <li><strong>Result:</strong> As a result, the system became simpler and database performance improved a lot.</li>
-          <li><strong>Learning:</strong> I learned that I must balance scaling needs with operational complexity.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Innovative Idea</strong></td>
-      <td>
-        <ul>
-          <li><strong>Summary (GU1):</strong> I created an A/B test at Gunosy, which improved user retention by 10%.</li>
-          <li><strong>Situation:</strong> User retention was dropping and hurting growth.</li>
-          <li><strong>Task:</strong> My mission was to find a new way to keep users engaged from the start.</li>
-          <li><strong>Action:</strong> I tested showing new users content based on ads they clicked before signing up.</li>
-          <li><strong>Result:</strong> As a result, this personal approach increased 7-day retention by 10%.</li>
-          <li><strong>Learning:</strong> I learned that using pre-signup data improves first experiences.</li>
+          <li><strong>Learning:</strong> I learned that it is helpful to design architecture for future migrations.</li>
         </ul>
       </td>
     </tr>
@@ -338,19 +325,6 @@ layout: default
           <li><strong>Action:</strong> I found the issue and made changes to complete the migration.</li>
           <li><strong>Result:</strong> As a result, migration worked and database ran 20% faster.</li>
           <li><strong>Learning:</strong> I learned that handling surprises in system migrations requires good documentation for the team.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Difficult Decision</strong></td>
-      <td>
-        <ul>
-          <li><strong>Summary (EN2):</strong> I customized Telepresence at enechain, which enabled fast and secure development.</li>
-          <li><strong>Situation:</strong> Telepresence made development fast but didn't meet our security rules.</li>
-          <li><strong>Task:</strong> I needed to choose between fast development or good security.</li>
-          <li><strong>Action:</strong> I customized Telepresence's Helm chart with Kustomize to add security patches.</li>
-          <li><strong>Result:</strong> As a result, we kept fast development and met security needs, 15% faster overall.</li>
-          <li><strong>Learning:</strong> I learned that finding creative ways to meet all important needs is possible.</li>
         </ul>
       </td>
     </tr>

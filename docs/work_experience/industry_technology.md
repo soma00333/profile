@@ -322,7 +322,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that a middle layer (BFF) is valuable. It allows gradual migrations without disrupting users.</td>
+      <td>I learned that it is helpful to design architecture for future migrations.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
