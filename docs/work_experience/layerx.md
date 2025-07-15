@@ -15,7 +15,7 @@ nav_order: 3
 | Employee    | 300+                                                                      |
 | Founded     | 2018                                                                      |
 | Web Site    | [https://layerx.co.jp/](https://layerx.co.jp/)                      |
-| Description | A fintech company that provides enterprise applications for over 10,000 companies |
+| Description | A fintech company that provides enterprise applications for 10,000 companies |
 | Location    | Tokyo, Japan                                                              |
 
 ## Team
@@ -72,11 +72,11 @@ nav_order: 3
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>LX1</strong>. I developed an event-driven notification system for closed networks, which enabled secure workflow tracking for financial institutions.</td>
+      <td><strong>LX1</strong>. I developed an event-driven notification system for a closed network, which allowed a financial institution with 10,000 employees to track workflows safely.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
-      <td>Users had no way to check the status of their workflows after triggering them. This led to uncertainty and inefficiency.</td>
+      <td>A finantial institution with 10,000 employees had no way to check the status of their workflows after triggering them. This led to uncertainty and inefficiency.</td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
@@ -86,16 +86,14 @@ nav_order: 3
       <td><strong>Action</strong></td>
       <td>
         <ul>
-          <li>I designed system architecture
+          <li>I developed the system using an event-driven architecture
             <ul>
-              <li>I designed an event-driven architecture to ensure scalability and real-time updates</li>
-              <li>I planned the notification system to work within closed network constraints</li>
+              <li>I designed and developed the system with an event-driven architecture for scalability and real-time updates.</li>
             </ul>
           </li>
-          <li>I implemented the system
+          <li>I deployed the system in a closed network:
             <ul>
-              <li>I implemented the notification system using event-driven patterns</li>
-              <li>I ensured the system met all security requirements for closed networks</li>
+              <li>I ensured the final system met all security requirements for that environment.</li>
             </ul>
           </li>
         </ul>
@@ -103,11 +101,11 @@ nav_order: 3
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>As a result, the system successfully enabled secure and scalable workflow notifications. Users were informed of progress. The system fully complied with high-security standards.</td>
+      <td>As a result, the system successfully provided secure and scalable workflow notifications. Users were kept informed of their progress.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>A key challenge was the closed network environment. The system had to be deployed there. It had strict traffic control and access restrictions.</td>
+      <td>One of the main challenges was the closed network environment, where the system needed to be deployed. This environment had strict traffic management and access restrictions.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
@@ -121,11 +119,11 @@ nav_order: 3
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that event-driven architectures can maintain functionality while following the strictest security requirements in closed network environments.</td>
+      <td>I learned that with a well-designed solution, I can still deliver important user features even in strict security and network environments..</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Network Management / Security / Event-Driven / Serverless</td>
+      <td>Network Management / Security / Event-Driven / Serverless / Restriction</td>
     </tr>
   </tbody>
 </table>
