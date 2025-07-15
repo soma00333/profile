@@ -163,7 +163,7 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that teams must work together to define metrics that help everyone.</td>
+      <td>I learned that effective monitoring isn't about collecting data, but providing clear, actionable insights that help engineers solve problems faster.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
