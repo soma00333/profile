@@ -217,10 +217,10 @@ layout: default
         <ul>
           <li><strong>Summary (IT1):</strong> I introduced SRE practices at Industry Technology, which helped win an enterprise contract.</li>
           <li><strong>Situation:</strong> Japan's largest real estate company wanted our system, but our operations were not good enough for them.</li>
-          <li><strong>Task:</strong> I needed to improve reliability to meet their needs.</li>
-          <li><strong>Action:</strong> I paused new features to add SRE practices. I created SLI/SLO and built metrics and tracing.</li>
+          <li><strong>Task:</strong> My mission was to improve reliability to meet their needs and get their trust.</li>
+          <li><strong>Action:</strong> I paused new feature developments and implemented SRE practices. I created SLIs/SLOs and built metrics and distributed tracing. I also prepared monitorings and on-call schedules.</li>
           <li><strong>Result:</strong> As a result, we won the enterprise contract.</li>
-          <li><strong>Learning:</strong> I learned that choosing reliability over speed can win big business.</li>
+          <li><strong>Learning:</strong> I learned that there are times even in a startup environment when reliability must be prioritized.</li>
         </ul>
       </td>
     </tr>
