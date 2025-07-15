@@ -28,7 +28,7 @@ layout: default
       <td><strong>Career Goal</strong></td>
       <td>
         <ul>
-          <li>My career goal is to move to the US, join the OSS community deeply, and leed developing wonderful technologies and products in startup markets.</li>
+          <li>My career goal is to move to the US, join the OSS community deeply, and lead developing wonderful technologies and products in startup markets.</li>
         </ul>
       </td>
     </tr>
@@ -51,7 +51,7 @@ layout: default
       <td>
         <ul>
           <li>I studied Engineering at the University of Tokyo. I worked with patient data, developed Python models, and wrote a paper.</li>
-          <li>As a first role, I joined Gunosy, Japan's largest news app with 40 million users. I worked as a data engineer for 1.5 years and improved advertisement perfprmance using big data.</li>
+          <li>As a first role, I joined Gunosy, Japan's largest news app with 40 million users. I worked as a data engineer for 1.5 years and improved advertisement performance using big data.</li>
           <li>As a second role, I co-founded Industry Technology for real estate companies. As CTO, I led the development team and wrote entire backend codes in 5.5 years.</li>
           <li>As a third role, I joined Cybereason as a Software Engineer, helping to operate a distributed cybersecurity platform that processes 80 million events per second across 12,000 servers worldwide.</li>
           <li>In parallel with these roles, I have contributed to several AI/LLM-focused startups as side projects, designing and improving backend systems.</li>
@@ -64,7 +64,7 @@ layout: default
         <ul>
           <li>I am satisfied with my current job and am not actively seeking.</li>
           <li>However, I have clear vision and career goals. I am always open to new opportunities that can help me grow and succeed.</li>
-          <li>I am waiting for the right opportunity to move to the US and receive help with my visa support.</li>
+          <li>I am waiting for the right opportunity to move to the US and receive help with visa support.</li>
         </ul>
       </td>
     </tr>
@@ -112,7 +112,7 @@ layout: default
       <td><strong>Why SRE</strong></td>
       <td>
         <ul>
-          <li>I successfully introduced SRE practices at Industry Technology and got a enterprise contract.</li>
+          <li>I successfully introduced SRE practices at Industry Technology and got an enterprise contract.</li>
           <li>I learned that SRE practices are very important skills for all software engineers.</li>
         </ul>
       </td>
@@ -212,7 +212,7 @@ layout: default
       </td>
     </tr>
     <tr>
-      <td><strong>Leadership / Business Impact / Difficult Decision / Inovative Idea</strong></td>
+      <td><strong>Leadership / Business Impact / Difficult Decision / Innovative Idea</strong></td>
       <td>
         <ul>
           <li><strong>Summary (IT1):</strong> I introduced SRE practices at Industry Technology, which helped win an enterprise contract.</li>
@@ -241,11 +241,11 @@ layout: default
       <td><strong>Teamwork</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (CR2):</strong> I led cross-functional teams as a incident commander at Cybereason, which fixed a critical issue affecting an enterprise company.</li>
+          <li><strong>Summary (CR2):</strong> I led cross-functional teams as an incident commander at Cybereason, which fixed a critical issue affecting an enterprise company.</li>
           <li><strong>Situation:</strong> An API server kept crashing for a big customer. We needed many teams (SRE, DevOps, Product, TAM) to work together.</li>
           <li><strong>Task:</strong> My mission was to find the problem and fix the system urgently.</li>
           <li><strong>Action:</strong> As an incident commander, I organized all teams. We checked thread dumps and heap dumps to find the cause and implemented a fix.</li>
-          <li><strong>Result:</strong> As a result, we solved the ticket and got customer's trust.</li>
+          <li><strong>Result:</strong> As a result, we solved the ticket and got the customer's trust.</li>
           <li><strong>Learning:</strong> I learned that fixing incidents needs both tech skills and good team coordination.</li>
         </ul>
       </td>
@@ -270,7 +270,7 @@ layout: default
           <li><strong>Summary (New):</strong> I helped move 3,000 servers from Google to Oracle Cloud, which saved significant costs.</li>
           <li><strong>Proposal:</strong> Management wanted to move many servers from Google to Oracle Cloud.</li>
           <li><strong>Initial Stance:</strong> I didn't agree at first. I worried about maintenance and showed data to back up my concerns.</li>
-          <li><strong>Commitment:</strong> When they decided based on cost efficiency, I fully committed it and helped move 3,000 servers.</li>
+          <li><strong>Commitment:</strong> When they decided based on cost efficiency, I fully committed to it and helped move 3,000 servers.</li>
           <li><strong>Result:</strong> As a result, we moved successfully and saved a lot on costs.</li>
           <li><strong>Learning:</strong> I learned that I should disagree and commit - share concerns but support final decisions.</li>
         </ul>
@@ -281,11 +281,11 @@ layout: default
       <td>
         <ul>
           <li><strong>Summary (New):</strong> I mentored a struggling engineer at Industry Technology, which helped him become a lead backend engineer.</li>
-          <li><strong>Situation:</strong> A frontend engineer joined backend team but struggled. He wanted transition to a backend engineer.</li>
+          <li><strong>Situation:</strong> A frontend engineer joined the backend team but struggled. He wanted to transition to a backend engineer.</li>
           <li><strong>Task:</strong> I needed to help him grow without slowing our work.</li>
           <li><strong>Action:</strong> I did regular 1-on-1s and made learning docs for him.</li>
           <li><strong>Result:</strong> As a result, he became a lead backend engineer. Our docs helped train all new engineers as well.</li>
-          <li><strong>Learning:</strong> I learned that helping people grow benefits afterwords.</li>
+          <li><strong>Learning:</strong> I learned that helping people grow benefits everyone afterwards.</li>
         </ul>
       </td>
     </tr>
