@@ -71,7 +71,7 @@ nav_order: 2
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EU1</strong>. I developed a processor that compiles user scripts to WebAssembly, which enabled users to run custom code in any language.</td>
+      <td><strong>EU1</strong>. I developed a processor that compiles user scripts into WebAssembly and executes them on a WASM runtime, which enabled users to customize workflows efficiently.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>

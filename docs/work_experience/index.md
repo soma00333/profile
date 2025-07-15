@@ -148,7 +148,7 @@ layout: default
       <td>Eukarya</td>
       <td>
         <ul>
-          <li><strong>EU1</strong>. I developed a processor that compiles user scripts to WebAssembly, which enabled users to run custom code in any language.</li>
+          <li><strong>EU1</strong>. I developed a processor that compiles user scripts into WebAssembly and executes them on a WASM runtime, which enabled users to customize workflows efficiently.</li>
           <li><strong>EU2</strong>. I developed a real-time logging system with efficient storage and cache, which enabled millisecond-level status updates.</li>
         </ul>
       </td>
