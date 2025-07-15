@@ -78,7 +78,7 @@ nav_order: 2
       <td>
         <ul>
           <li>Users wanted to use their own scripts (Python, Go, Rust) to extend the workflow engine.</li>
-          <li>The engine couldn't run user scripts.</li>
+          <li>However, the engine was unable to run user scripts.</li>
         </ul>
       </td>
     </tr>
@@ -138,14 +138,14 @@ nav_order: 2
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EU2</strong>. I built a real-time logging system with efficient storage, which enabled sub-second status updates.</td>
+      <td><strong>EU2</strong>. I developed a real-time logging system with efficient storage and cache, which enabled millisecond-level status updates.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>Users needed to see their workflows running in real-time.</li>
-          <li>The system couldn't show workflow status right away.</li>
+          <li>Users needed to see their workflow status in real-time.</li>
+          <li>The system was unable to display the workflow status immediately.</li>
         </ul>
       </td>
     </tr>
@@ -159,15 +159,14 @@ nav_order: 2
         <ul>
           <li>I built the logging infrastructure:
             <ul>
-              <li>I made the engine send logs to Pub/Sub</li>
-              <li>I created a subscriber to get logs from Pub/Sub</li>
-              <li>I set up good storage for log data</li>
+              <li>I made the engine publish logs to Pub/Sub</li>
+              <li>I created a subscriber to get logs from Pub/Sub and store them in a datastore</li>
             </ul>
           </li>
-          <li>I developed the UI integration:
+          <li>I developed the API endpoint:
             <ul>
-              <li>I added an API endpoint to serve logs to the UI</li>
-              <li>I enabled real-time log display in the user interface</li>
+              <li>I created a WebSocket endpoint for real-time log streaming.</li>
+              <li>I added a REST API endpoint to fetch historical logs.</li>
             </ul>
           </li>
         </ul>
@@ -197,7 +196,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Performance Optimization / Technically Difficult</td>
+      <td>Performance Optimization / Difficult Problem / Cache / Storage</td>
     </tr>
   </tbody>
 </table>
