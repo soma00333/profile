@@ -139,8 +139,8 @@ layout: default
       <td>Cybereason</td>
       <td>
         <ul>
-          <li><strong>CR1</strong>. I designed and developed custom metrics, greatly improving observability across 3,000 servers.</li>
-          <li><strong>CR2</strong>. I analyzed thread dumps and heap dumps to troubleshoot a critical server issue involving 2,000 concurrent threads.</li>
+          <li><strong>CR1</strong>. I designed and developed custom metrics, which improved observability across 3,000 servers.</li>
+          <li><strong>CR2</strong>. I analyzed thread dumps and heap dumps to fix a critical server issue, which resolved crashes affecting a enterprise company with 100,000 employees.</li>
         </ul>
       </td>
     </tr>
@@ -148,8 +148,8 @@ layout: default
       <td>Eukarya</td>
       <td>
         <ul>
-          <li><strong>EU1</strong>. I developed a processor that compiles user scripts into WebAssembly files and runs them efficiently on a WASM runtime.</li>
-          <li><strong>EU2</strong>. I developed a real-time logging system for the workflow engine, using storage and cache efficiently.</li>
+          <li><strong>EU1</strong>. I developed a processor that compiles user scripts to WebAssembly, which enabled users to run custom code in any language.</li>
+          <li><strong>EU2</strong>. I developed a real-time logging system with efficient storage and cache, which enabled millisecond-level status updates.</li>
         </ul>
       </td>
     </tr>
@@ -157,7 +157,7 @@ layout: default
       <td>LayerX</td>
       <td>
         <ul>
-          <li><strong>LX1</strong>. I developed an event-driven notification system designed to operate securely within a closed network environment.</li>
+          <li><strong>LX1</strong>. I developed an event-driven notification system for a closed network, which allowed a financial institution with 10,000 employees to track workflows safely.</li>
         </ul>
       </td>
     </tr>
@@ -165,8 +165,8 @@ layout: default
       <td>enechain</td>
       <td>
         <ul>
-          <li><strong>EN1</strong>. I developed a generator tool to create Kubernetes manifests and Terraform configurations for new microservices.</li>
-          <li><strong>EN2</strong>. I built a system for local development by adding Telepresence to the Kubernetes cluster.</li>
+          <li><strong>EN1</strong>. I developed a generator tool for Kubernetes manifests and Terraform configurations, which reduced deployment time by 90%.</li>
+          <li><strong>EN2</strong>. I built a local development system using Telepresence, which improved local development speed by 15%.</li>
         </ul>
       </td>
     </tr>
@@ -174,11 +174,11 @@ layout: default
       <td>Industry Technology</td>
       <td>
         <ul>
-          <li><strong>IT1</strong>. I designed SLIs and SLOs, and developed custom metrics and tracing to greatly improve system reliability.</li>
-          <li><strong>IT2</strong>. I developed a group chat service and a notification system, enabling users to exchange photos, videos, and text messages.</li>
-          <li><strong>IT3</strong>. I tuned database indexes and optimized queries, greatly improving database performance.</li>
-          <li><strong>IT4</strong>. I led the migration from a modular monolith to microservices to improve system scalability.</li>
-          <li><strong>IT5</strong>. I managed the migration from MySQL 5.7 to MySQL 8.0 to keep the system reliable and maintainable long-term.</li>
+          <li><strong>IT1</strong>. I designed SLIs/SLOs and developed custom metrics and tracing, which built customer trust and won us a major enterprise contract.</li>
+          <li><strong>IT2</strong>. I developed a group chat service and notification system, which improved user engagement.</li>
+          <li><strong>IT3</strong>. I tuned databases and optimized queries, which reduced slow queries by 70%.</li>
+          <li><strong>IT4</strong>. I migrated from monolith to microservices, which improved system scalability and reduced database load.</li>
+          <li><strong>IT5</strong>. I managed the migration from MySQL 5.7 to 8.0, which improved query performance by 20%.</li>
         </ul>
       </td>
     </tr>
@@ -186,7 +186,7 @@ layout: default
       <td>Algomatic</td>
       <td>
         <ul>
-          <li><strong>AL1</strong>. I developed a serverless training pipeline for fine-tuning LLMs.</li>
+          <li><strong>AL1</strong>. I developed a serverless training pipeline for fine-tuning LLMs, which significantly reduced training costs.</li>
         </ul>
       </td>
     </tr>
@@ -194,7 +194,7 @@ layout: default
       <td>Gunosy</td>
       <td>
         <ul>
-          <li><strong>GU1</strong>. I analyzed data from millions of users and designed A/B testing strategies that successfully improved user retention.</li>
+          <li><strong>GU1</strong>. I analyzed data from millions of users and designed A/B testing, which improved 7-day retention by 10%.</li>
         </ul>
       </td>
     </tr>

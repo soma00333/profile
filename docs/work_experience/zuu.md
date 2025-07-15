@@ -15,7 +15,7 @@ nav_order: 8
 | Employee    | 140+                                                  |
 | Founded     | 2013                                                  |
 | Web Site    | [https://zuu.co.jp/](https://zuu.co.jp/)     |
-| Description | Japan's largest financial media company with 10M+ users |
+| Description | Japan's largest financial media company with 10M users |
 | Location    | Tokyo, Japan                                          |
 
 ## Team
@@ -34,7 +34,7 @@ nav_order: 8
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to contribute to the development of the backend system for Japan's largest financial media platform.</td>
+      <td>My mission was to develop the backend system for Japan's largest financial media platform.</td>
     </tr>
     <tr>
       <td>Task</td>
