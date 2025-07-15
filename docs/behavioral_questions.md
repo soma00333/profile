@@ -62,9 +62,9 @@ layout: default
       <td><strong>Why searching a new position</strong></td>
       <td>
         <ul>
-          <li><strong>Current Status:</strong> I am happy at my current job and not actively looking.</li>
-          <li><strong>Growth Aspiration:</strong> I want to work on bigger products and take on senior responsibilities.</li>
-          <li><strong>Future Plans:</strong> I plan to move to the US and need visa support.</li>
+          <li>I am satisfied with my current job and am not actively seeking.</li>
+          <li>However, I have clear vision and career goals. I am always open to new opportunities that can help me grow and succeed.</li>
+          <li>I am waiting for the right opportunity to move to the United States and receive help with my visa support.</li>
         </ul>
       </td>
     </tr>
@@ -72,11 +72,11 @@ layout: default
       <td><strong>Why applied</strong></td>
       <td>
         <ul>
-          <li><strong>Alignment with Vision:</strong> This role fits my goals perfectly.</li>
-          <li><strong>Relevant Experience:</strong> My experience matches what you need.
+          <li>This role fits my vision and career goals perfectly.</li>
+          <li>My experience matches what you need.
             <ul>
               <li>I learned backend development and leadership at Industry Technology.</li>
-              <li>I learned SRE and teamwork at Cybereason.</li>
+              <li>I learned SRE practices and teamwork at Cybereason.</li>
             </ul>
           </li>
         </ul>
@@ -86,8 +86,8 @@ layout: default
       <td><strong>Why CU Boulder</strong></td>
       <td>
         <ul>
-          <li><strong>Learning Motivation:</strong> I wanted to study computer science basics again, especially AI.</li>
-          <li><strong>Reason for Choosing CU Boulder:</strong> CU Boulder has flexible online classes with modern AI courses.</li>
+          <li>I wanted to study computer science basics again, especially AI.</li>
+          <li>CU Boulder has flexible online classes with modern AI courses.</li>
         </ul>
       </td>
     </tr>
@@ -95,7 +95,7 @@ layout: default
       <td><strong>Why Cybereason</strong></td>
       <td>
         <ul>
-          <li><strong>Challenging Environment:</strong> I joined Cybereason for the challenge - their system handles 80 million events per second on 12,000+ servers.</li>
+          <li>I joined Cybereason for the challenge - their system handles 80 million events per second on 12,000 servers.</li>
         </ul>
       </td>
     </tr>
@@ -103,8 +103,8 @@ layout: default
       <td><strong>Why left CTO</strong></td>
       <td>
         <ul>
-          <li><strong>Reason for Leaving:</strong> We sold the company.</li>
-          <li><strong>New Career Path:</strong> After the sale, I chose to be an engineer instead of a business leader.</li>
+          <li>We sold the business.</li>
+          <li>After that, I chose to be an IC instead of a business leader.</li>
         </ul>
       </td>
     </tr>
@@ -112,13 +112,8 @@ layout: default
       <td><strong>Why SRE</strong></td>
       <td>
         <ul>
-          <li><strong>Successful SRE Implementation:</strong> I successfully introduced SRE at Industry Technology.
-            <ul>
-              <li>I set up SRE practices.</li>
-              <li>This helped us win an enterprise contract.</li>
-            </ul>
-          </li>
-          <li><strong>Key Learning:</strong> I learned that SRE practices are very important for software engineers.</li>
+          <li>I successfully introduced SRE practices at Industry Technology and got a enterprise contract.</li>
+          <li>I learned that SRE practices are very important skills for all software engineers.</li>
         </ul>
       </td>
     </tr>
@@ -126,8 +121,7 @@ layout: default
       <td><strong>Why Backend</strong></td>
       <td>
         <ul>
-          <li><strong>Alignment with Goals:</strong> Backend development fits my career goals.</li>
-          <li><strong>My Ideal Role:</strong> I want to be a Backend Engineer who uses SRE practices.</li>
+          <li>The responsivility fits my vision and career goals completely.</li>
         </ul>
       </td>
     </tr>
@@ -135,8 +129,8 @@ layout: default
       <td><strong>Why Freelance</strong></td>
       <td>
         <ul>
-          <li><strong>Project Alignment:</strong> The freelance projects matched my goals.</li>
-          <li><strong>Nature of Projects:</strong> I worked on OSS, AI/LLM, and high-reliability systems.</li>
+          <li>The projects matched my vision and career goals.</li>
+          <li>I worked on OSS, AI/LLM, and high-reliability systems.</li>
         </ul>
       </td>
     </tr>
@@ -144,9 +138,8 @@ layout: default
       <td><strong>Why US</strong></td>
       <td>
         <ul>
-          <li><strong>Career Alignment:</strong> Working in the US fits my career goals.</li>
-          <li><strong>OSS Community:</strong> The US has big OSS communities.</li>
-          <li><strong>Technical Challenges:</strong> I can work on large-scale, high-reliability systems there.</li>
+          <li>The US has big OSS and startup communities.</li>
+          <li>I can work on large-scale, high-reliability systems there.</li>
         </ul>
       </td>
     </tr>
@@ -154,12 +147,12 @@ layout: default
       <td><strong>Career Path</strong></td>
       <td>
         <ul>
-          <li><strong>Preferred Path:</strong> I prefer the IC (Individual Contributor) path.</li>
-          <li><strong>Ideal Future Position:</strong> I want to be a Senior Backend Engineer who uses SRE.</li>
-          <li><strong>Value of Soft Skills:</strong> I know soft skills matter for leaders.
+          <li>I prefer the IC path.</li>
+          <li>I want to be a Senior Backend Engineer who uses SRE practices.</li>
+          <li>I understand soft skills matter for leaders.
             <ul>
-              <li>I liked working with teams at Cybereason.</li>
-              <li>I also liked leading at Industry Technology.</li>
+              <li>I enjoyed teamwork at Cybereason.</li>
+              <li>I enjoyed leadership at Industry Technology.</li>
             </ul>
           </li>
         </ul>
@@ -169,8 +162,8 @@ layout: default
       <td><strong>Visa</strong></td>
       <td>
         <ul>
-          <li><strong>PEO/EOR:</strong> I can work through PEO/EOR arrangements.</li>
-          <li><strong>Relocation Costs:</strong> I am ready to move and will pay for visa costs myself.</li>
+          <li>I can work through PEO/EOR arrangements.</li>
+          <li>I am ready to move and will pay for visa costs myself.</li>
         </ul>
       </td>
     </tr>
