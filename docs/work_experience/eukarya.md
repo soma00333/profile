@@ -34,7 +34,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to develop a workflow engine and microservices for Re:Earth Flow, an open-source ETL tool for GIS data. The Japanese Ministry of Land uses this platform for their project.</td>
+      <td>My mission was to develop a workflow engine and microservices for Re:Earth Flow, an open-source ETL tool for GIS data.</td>
     </tr>
     <tr>
       <td>Task</td>
@@ -78,7 +78,6 @@ nav_order: 2
       <td>
         <ul>
           <li>Users wanted to use their own scripts (Python, Go, Rust) to extend the workflow engine.</li>
-          <li>However, the engine was unable to run user scripts.</li>
         </ul>
       </td>
     </tr>
@@ -90,18 +89,13 @@ nav_order: 2
       <td><strong>Action</strong></td>
       <td>
         <ul>
-          <li>I built the compilation system:
+          <li>I developed the compilation system:
             <ul>
-              <li>I designed a process that turned user scripts into .wasm files</li>
+              <li>I designed a processor that turned user scripts into .wasm files</li>
               <li>I supported multiple programming languages (Python, Go, Rust)</li>
             </ul>
           </li>
-          <li>I integrated the runtime:
-            <ul>
-              <li>I added a WebAssembly runtime to the engine</li>
-              <li>I created secure execution environment for .wasm scripts</li>
-            </ul>
-          </li>
+          <li>I integrated a WASM runtime to the processor</li>
         </ul>
       </td>
     </tr>
@@ -144,14 +138,13 @@ nav_order: 2
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>Users needed to see their workflow status in real-time.</li>
-          <li>The system was unable to display the workflow status immediately.</li>
+          <li>Users needed to monitor their workflow status in real-time.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My mission was to build a logging system so users could see workflow status in the UI instantly.</td>
+      <td>My mission was to build a logging system so users could check workflow status instantly from the UI.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
@@ -160,7 +153,7 @@ nav_order: 2
           <li>I built the logging infrastructure:
             <ul>
               <li>I made the engine publish logs to Pub/Sub</li>
-              <li>I created a subscriber to get logs from Pub/Sub and store them in a datastore</li>
+              <li>I created a subscriber to fetch logs from Pub/Sub and store them in a datastore</li>
             </ul>
           </li>
           <li>I developed the API endpoint:

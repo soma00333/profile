@@ -254,7 +254,7 @@ layout: default
       <td><strong>Technically Challenging</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (EU2):</strong> I developed a real-time logging system for a workflow engine at Eukarya, which delivered sub-millisecond status updates.</li>
+          <li><strong>Summary (EU2):</strong> I developed a real-time logging system for a workflow engine at Eukarya, which delivered millisecond-level status updates.</li>
           <li><strong>Situation:</strong> Users needed to monitor workflow status right away after execution, but we had no good logging mechanism.</li>
           <li><strong>Task:</strong> My mission was to build real-time logging system with cost efficient architecture.</li>
           <li><strong>Action:</strong> I used Pub/Sub design with Redis cache and GCS for storage.</li>
