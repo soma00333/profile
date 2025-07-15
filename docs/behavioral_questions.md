@@ -319,11 +319,11 @@ layout: default
       <td><strong>Tight Schedule</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (IT2):</strong> I delivered group chat at Industry Technology using practical choices, which increased engagement by 25%.</li>
-          <li><strong>Situation:</strong> We had a tight deadline for a group chat with many features.</li>
-          <li><strong>Task:</strong> I needed to build chat and notifications fast.</li>
-          <li><strong>Action:</strong> I used polling instead of WebSockets - simpler but faster to build.</li>
-          <li><strong>Result:</strong> As a result, we shipped on time and user engagement went up 25%.</li>
+          <li><strong>Summary (IT2):</strong> I delivered group chat system at Industry Technology on a tight schedule, which increased user engagement.</li>
+          <li><strong>Situation:</strong> We had a tight deadline for a group chat and notification system.</li>
+          <li><strong>Task:</strong> My mission was to design and develop the system on time.</li>
+          <li><strong>Action:</strong> I used polling instead of WebSockets - inefficient but simpler design.</li>
+          <li><strong>Result:</strong> As a result, we shipped on time and user engagement went up.</li>
           <li><strong>Learning:</strong> I learned that good-enough on time beats perfect but late.</li>
         </ul>
       </td>
@@ -332,12 +332,12 @@ layout: default
       <td><strong>Missed Deadline</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> I fixed an API bug at Cybereason after engineers left, which restored threat detection for customers.</li>
-          <li><strong>Situation:</strong> I had to fix a core API bug. The original developers left with little documentation.</li>
-          <li><strong>Task:</strong> I needed to fix this bug in one sprint - it broke threat detection for customers.</li>
-          <li><strong>Action:</strong> I used git blame, commits, and PR comments to understand the code. I fixed it, tested with QA on all OS versions, and documented everything.</li>
-          <li><strong>Result:</strong> As a result, we finished a week late but with good testing. The customer liked our honest updates.</li>
-          <li><strong>Learning:</strong> I learned that docs are critical. Now I make sure all important code has docs and knowledge sharing.</li>
+          <li><strong>Summary (New):</strong> I fixed an API bug at Cybereason after core engineers left, which prevented losing trust from an enterprise customer.</li>
+          <li><strong>Situation:</strong> We had a bug in a core API. But the original developers left with little documentation.</li>
+          <li><strong>Task:</strong> My mission was to fix this bug in one sprint.</li>
+          <li><strong>Action:</strong> When I realized it would be delayed, I sent regular progress reports to the customer and TAM.</li>
+          <li><strong>Result:</strong> As a result, we finished a week late but with good documentation and testing. The customer liked our honest updates.</li>
+          <li><strong>Learning:</strong> I learned that it's important to share regular updates with stakeholders to manage their expectations.</li>
         </ul>
       </td>
     </tr>
