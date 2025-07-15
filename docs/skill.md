@@ -30,5 +30,4 @@ layout: default
 | GraphQL            | 1-3  | Algomatic, Cybereason, Eukarya, LayerX, enechain                                                       |
 | Java               | 1-3  | Cybereason, The University of Tokyo, University of Colorado Boulder                                  |
 | MongoDB            | 1-3  | Algomatic, Cybereason, Eukarya                                                                         |
-| Oracle Cloud       | 1-3  | Cybereason                                                                                             |
 | Rust               | 1-3  | Cybereason, Eukarya, reearth/reearth-flow                                                              | 

@@ -20,7 +20,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I removed an old <code>--oss</code> flag from the <code>dev ui</code> command to clean up the code and make development easier</li>
+          <li>I removed a deprecated --oss flag and its associated logic from the dev ui subcommand, which resolved technical debt and simplified the development workflow.</li>
         </ul>
       </td>
     </tr>
@@ -29,8 +29,8 @@ layout: default
       <td>Committer</td>
       <td>
         <ul>
-          <li>I built a processor that turns user scripts into WebAssembly files and runs them on WASM. This lets users customize workflows easily</li>
-          <li>I built a real-time logging system for the workflow engine. It uses storage and cache well. Users can see worker status right away</li>
+          <li>I developed a processor that compiles user scripts to WebAssembly, which enabled users to run custom code in any language</li>
+          <li>I developed a real-time logging system with efficient storage and cache, which enabled millisecond-level status updates</li>
         </ul>
       </td>
     </tr>
@@ -39,7 +39,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I'm adding <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/1602-structured-logging">Structured Logging</a> and <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/3077-contextual-logging">Contextual Logging</a> to many packages. This makes the system more reliable and easier to debug</li>
+          <li>I'm implementing <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/1602-structured-logging">Structured Logging</a> and <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/3077-contextual-logging">Contextual Logging</a> for multiple packages, which increase system reliability and debugging efficiency</li>
         </ul>
       </td>
     </tr>
@@ -48,7 +48,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I'm improving how snapshots work by removing slow parts and making state changes simpler. This makes the code clearer and easier to maintain</li>
+          <li>I'm refining the snapshot management logic by removing inefficiencies and streamlining related state transitions, which enhance clarity and maintainability</li>
         </ul>
       </td>
     </tr>
@@ -57,8 +57,8 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I added a workflow to check that imports are grouped and ordered correctly. This keeps the code consistent</li>
-          <li>I fixed the logic to make sure StatefulSet replicas match etcd cluster members. This keeps the cluster consistent</li>
+          <li>I added a workflow to guarantee that the import items are properly grouped and ordered, which improved code consistency and maintainability</li>
+          <li>I enhanced the reconciliation logic to ensure that the number of replicas in the StatefulSet matches the number of etcd members in the cluster, which improved cluster consistency</li>
         </ul>
       </td>
     </tr>
@@ -67,7 +67,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I added workflows that run tests after merging. This makes sure CI runs on main branch in etcd-operator and keeps it stable</li>
+          <li>I added post-submit workflows that run test and test-e2e even after merging to main in etcd-io/etcd-operator, which enhanced its stability</li>
         </ul>
       </td>
     </tr>
@@ -76,7 +76,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I added a workflow to check issue titles and give feedback. This keeps the project more consistent</li>
+          <li>I added a workflow to check issue titles and provide feedback, which improved the overall consistency of the project</li>
         </ul>
       </td>
     </tr>
