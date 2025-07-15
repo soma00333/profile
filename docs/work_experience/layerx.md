@@ -103,7 +103,7 @@ nav_order: 3
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The system successfully enabled secure and scalable workflow notifications. Users were informed of progress. The system fully complied with high-security standards.</td>
+      <td>As a result, the system successfully enabled secure and scalable workflow notifications. Users were informed of progress. The system fully complied with high-security standards.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>

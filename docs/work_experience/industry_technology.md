@@ -108,7 +108,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The improved system reliability built customer trust. This trust directly led to winning a major enterprise contract.</td>
+      <td>As a result, the improved system reliability built customer trust. This trust directly led to winning a major enterprise contract.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
@@ -170,7 +170,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The new system provided a smooth chat and notification experience. User engagement and productivity improved by 25%.</td>
+      <td>As a result, the new system provided a smooth chat and notification experience. User engagement and productivity improved by 25%.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
@@ -237,7 +237,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>These optimizations reduced slow query occurrences by 70%. System performance became stable, especially during peak hours.</td>
+      <td>As a result, these optimizations reduced slow query occurrences by 70%. System performance became stable, especially during peak hours.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
@@ -310,7 +310,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The migration successfully spread traffic for core features across separate microservices. This greatly reduced the write load on the main database. System scalability improved.</td>
+      <td>As a result, the migration successfully spread traffic for core features across separate microservices. This greatly reduced the write load on the main database. System scalability improved.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
@@ -377,7 +377,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>We completed the migration to MySQL 8.0. After we stabilized it, overall query performance increased by 20%.</td>
+      <td>As a result, we completed the migration to MySQL 8.0. After we stabilized it, overall query performance increased by 20%.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>

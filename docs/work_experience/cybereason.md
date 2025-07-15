@@ -151,7 +151,7 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>Better visibility and useful dashboards made troubleshooting faster. We cut problem resolution time by 50% for enterprise customers.</td>
+      <td>As a result, better visibility and useful dashboards made troubleshooting faster. We cut problem resolution time by 50% for enterprise customers.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
@@ -219,7 +219,7 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>I fixed the availability issues and made the system reliable for the customer with 100,000 employees.</td>
+      <td>As a result, I fixed the availability issues and made the system reliable for the customer with 100,000 employees.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>

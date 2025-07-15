@@ -103,7 +103,7 @@ nav_order: 7
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The new user experience improvements increased 7-day user retention by 10%. Personalized content drove these improvements.</td>
+      <td>As a result, the new user experience improvements increased 7-day user retention by 10%. Personalized content drove these improvements.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>

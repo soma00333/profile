@@ -107,7 +107,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>This feature made the engine more flexible. Users could now customize workflows with their favorite languages.</td>
+      <td>As a result, this feature made the engine more flexible. Users could now customize workflows with their favorite languages.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
@@ -175,7 +175,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>Users could now see worker status in real-time. This made monitoring and troubleshooting much better.</td>
+      <td>As a result, users could now see worker status in real-time. This made monitoring and troubleshooting much better.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>

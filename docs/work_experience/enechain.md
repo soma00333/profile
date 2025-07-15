@@ -148,7 +148,7 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The tool made deploying new microservices much smoother. Initial setup and deployment time decreased by 90%.</td>
+      <td>As a result, the tool made deploying new microservices much smoother. Initial setup and deployment time decreased by 90%.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
@@ -215,7 +215,7 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>This system sped up local development cycles. Overall microservice development speed improved by 15%.</td>
+      <td>As a result, this system sped up local development cycles. Overall microservice development speed improved by 15%.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>

@@ -103,7 +103,7 @@ nav_order: 6
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>The new pipeline enabled efficient fine-tuning of LLMs. It significantly optimized compute resource utilization. Overall training costs decreased.</td>
+      <td>As a result, the new pipeline enabled efficient fine-tuning of LLMs. It significantly optimized compute resource utilization. Overall training costs decreased.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>

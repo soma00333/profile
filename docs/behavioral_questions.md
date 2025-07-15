@@ -218,7 +218,7 @@ layout: default
           <li><strong>Summary (New):</strong> At Industry Technology, I introduced an E2E test tool that accidentally split teams apart.</li>
           <li><strong>Situation:</strong> I added an E2E test tool to help frontend engineers save time on tests. But it created walls between frontend and QA teams and hurt teamwork.</li>
           <li><strong>Action:</strong> We stopped using the tool. I gave E2E testing to frontend engineers so they owned their code quality.</li>
-          <li><strong>Result:</strong> Teams worked better together and product quality improved.</li>
+          <li><strong>Result:</strong> As a result, teams worked better together and product quality improved.</li>
           <li><strong>Learning:</strong> I learned that tool choices must think about team impact, not just technical benefits.</li>
         </ul>
       </td>
@@ -231,7 +231,7 @@ layout: default
           <li><strong>Situation:</strong> Japan's largest real estate company wanted our system, but our operations were not good enough for them.</li>
           <li><strong>Task:</strong> I needed to improve reliability to meet their needs.</li>
           <li><strong>Action:</strong> I paused new features to add SRE practices. I created SLI/SLO and built metrics and tracing.</li>
-          <li><strong>Result:</strong> We won the enterprise contract.</li>
+          <li><strong>Result:</strong> As a result, we won the enterprise contract.</li>
           <li><strong>Learning:</strong> I learned that choosing reliability over speed can win big business.</li>
         </ul>
       </td>
@@ -244,7 +244,7 @@ layout: default
           <li><strong>Situation:</strong> Developers manually created configs for each microservice, which was slow and error-prone.</li>
           <li><strong>Task:</strong> My mission was to automate this to save time.</li>
           <li><strong>Action:</strong> I built a generator tool even though it wasn't my job.</li>
-          <li><strong>Result:</strong> New microservices deployed much faster for all teams.</li>
+          <li><strong>Result:</strong> As a result, new microservices deployed much faster for all teams.</li>
           <li><strong>Learning:</strong> I learned that helping beyond my tasks helps everyone.</li>
         </ul>
       </td>
@@ -257,7 +257,7 @@ layout: default
           <li><strong>Situation:</strong> A UI server kept crashing for a big customer. We needed many teams (SRE, DevOps, Product, TAM) to work together.</li>
           <li><strong>Task:</strong> I needed to find the problem and fix the system urgently.</li>
           <li><strong>Action:</strong> As incident commander, I organized all teams. I checked thread dumps and heap dumps to find the cause.</li>
-          <li><strong>Result:</strong> We fixed the problem.</li>
+          <li><strong>Result:</strong> As a result, we fixed the problem.</li>
           <li><strong>Learning:</strong> I learned that fixing incidents needs both tech skills and good team coordination.</li>
         </ul>
       </td>
@@ -270,7 +270,7 @@ layout: default
           <li><strong>Situation:</strong> Users needed to see workflow status right away, but we had no good logging.</li>
           <li><strong>Task:</strong> My mission was to build real-time logging with fast UI updates.</li>
           <li><strong>Action:</strong> I used Pub/Sub design with Redis cache and GCS for storage.</li>
-          <li><strong>Result:</strong> Users saw worker status in under one second.</li>
+          <li><strong>Result:</strong> As a result, users saw worker status in under one second.</li>
           <li><strong>Learning:</strong> I learned that I can build fast systems that don't cost too much.</li>
         </ul>
       </td>
@@ -283,7 +283,7 @@ layout: default
           <li><strong>Proposal:</strong> Management wanted to move many servers from Google to Oracle Cloud.</li>
           <li><strong>Initial Stance:</strong> I didn't agree at first. I worried about maintenance and showed data to back up my concerns.</li>
           <li><strong>Commitment:</strong> When they decided based on cost, I fully supported it and helped move 5,000 servers.</li>
-          <li><strong>Result:</strong> We moved successfully and saved a lot on costs.</li>
+          <li><strong>Result:</strong> As a result, we moved successfully and saved a lot on costs.</li>
           <li><strong>Learning:</strong> I learned that I should disagree and commit - share concerns but support final decisions.</li>
         </ul>
       </td>
@@ -296,7 +296,7 @@ layout: default
           <li><strong>Situation:</strong> A frontend engineer joined backend but struggled. He wanted to be a backend engineer.</li>
           <li><strong>Task:</strong> I needed to help him grow without slowing our work.</li>
           <li><strong>Action:</strong> I did regular 1-on-1s and made learning docs for him.</li>
-          <li><strong>Result:</strong> He became a lead backend engineer elsewhere. Our docs helped train all new engineers.</li>
+          <li><strong>Result:</strong> As a result, he became a lead backend engineer elsewhere. Our docs helped train all new engineers.</li>
           <li><strong>Learning:</strong> I learned that helping people grow benefits everyone.</li>
         </ul>
       </td>
@@ -309,7 +309,7 @@ layout: default
           <li><strong>Situation:</strong> Our monolith system had database problems when traffic grew.</li>
           <li><strong>Task:</strong> I needed to split it into microservices to reduce load.</li>
           <li><strong>Action:</strong> I migrated to microservices with minimal downtime.</li>
-          <li><strong>Result:</strong> The system became simpler and database performance improved a lot.</li>
+          <li><strong>Result:</strong> As a result, the system became simpler and database performance improved a lot.</li>
           <li><strong>Learning:</strong> I learned that I must balance scaling needs with operational complexity.</li>
         </ul>
       </td>
@@ -322,7 +322,7 @@ layout: default
           <li><strong>Situation:</strong> User retention was dropping and hurting growth.</li>
           <li><strong>Task:</strong> My mission was to find a new way to keep users engaged from the start.</li>
           <li><strong>Action:</strong> I tested showing new users content based on ads they clicked before signing up.</li>
-          <li><strong>Result:</strong> This personal approach increased 7-day retention by 10%.</li>
+          <li><strong>Result:</strong> As a result, this personal approach increased 7-day retention by 10%.</li>
           <li><strong>Learning:</strong> I learned that using pre-signup data improves first experiences.</li>
         </ul>
       </td>
@@ -335,7 +335,7 @@ layout: default
           <li><strong>Situation:</strong> Users wanted to run their own scripts (Python, Go, Rust) in our workflow engine.</li>
           <li><strong>Task:</strong> My mission was to add WebAssembly support for user scripts.</li>
           <li><strong>Action:</strong> I learned WebAssembly, built a processor to compile scripts to WASM, and wrote docs.</li>
-          <li><strong>Result:</strong> Users got new features and the team learned WASM.</li>
+          <li><strong>Result:</strong> As a result, users got new features and the team learned WASM.</li>
           <li><strong>Learning:</strong> I learned that fast learning plus good docs creates lasting value.</li>
         </ul>
       </td>
@@ -348,7 +348,7 @@ layout: default
           <li><strong>Situation:</strong> We needed to upgrade MySQL 5.7 to 8.0. Something went wrong during migration.</li>
           <li><strong>Task:</strong> I needed to fix the problem and finish the upgrade.</li>
           <li><strong>Action:</strong> I found the issue and made changes to complete the migration.</li>
-          <li><strong>Result:</strong> Migration worked and database ran 20% faster.</li>
+          <li><strong>Result:</strong> As a result, migration worked and database ran 20% faster.</li>
           <li><strong>Learning:</strong> I learned that handling surprises in system migrations requires good documentation for the team.</li>
         </ul>
       </td>
@@ -361,7 +361,7 @@ layout: default
           <li><strong>Situation:</strong> Telepresence made development fast but didn't meet our security rules.</li>
           <li><strong>Task:</strong> I needed to choose between fast development or good security.</li>
           <li><strong>Action:</strong> I customized Telepresence's Helm chart with Kustomize to add security patches.</li>
-          <li><strong>Result:</strong> We kept fast development and met security needs, 15% faster overall.</li>
+          <li><strong>Result:</strong> As a result, we kept fast development and met security needs, 15% faster overall.</li>
           <li><strong>Learning:</strong> I learned that finding creative ways to meet all important needs is possible.</li>
         </ul>
       </td>
@@ -374,7 +374,7 @@ layout: default
           <li><strong>Situation:</strong> We had a tight deadline for a group chat with many features.</li>
           <li><strong>Task:</strong> I needed to build chat and notifications fast.</li>
           <li><strong>Action:</strong> I used polling instead of WebSockets - simpler but faster to build.</li>
-          <li><strong>Result:</strong> We shipped on time and user engagement went up 25%.</li>
+          <li><strong>Result:</strong> As a result, we shipped on time and user engagement went up 25%.</li>
           <li><strong>Learning:</strong> I learned that good-enough on time beats perfect but late.</li>
         </ul>
       </td>
@@ -387,7 +387,7 @@ layout: default
           <li><strong>Situation:</strong> I had to fix a core API bug. The original developers left with little documentation.</li>
           <li><strong>Task:</strong> I needed to fix this bug in one sprint - it broke threat detection for customers.</li>
           <li><strong>Action:</strong> I used git blame, commits, and PR comments to understand the code. I fixed it, tested with QA on all OS versions, and documented everything.</li>
-          <li><strong>Result:</strong> We finished a week late but with good testing. The customer liked our honest updates.</li>
+          <li><strong>Result:</strong> As a result, we finished a week late but with good testing. The customer liked our honest updates.</li>
           <li><strong>Learning:</strong> I learned that docs are critical. Now I make sure all important code has docs and knowledge sharing.</li>
         </ul>
       </td>
