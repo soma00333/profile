@@ -120,8 +120,8 @@ nav_order: 1
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>An API server had many connected comonents. This made troubleshooting hard.</li>
-          <li>Our monitoring didn't give enough information. Problems took too long to fix.</li>
+          <li>An API running on 3,000 servers had many connected parts, which made troubleshooting difficult.</li>
+          <li>Our monitoring did not provide enough information. It took too long to resolve the issues.</li>
         </ul>
       </td>
     </tr>
