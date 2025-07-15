@@ -112,7 +112,7 @@ nav_order: 4
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EN1</strong>. I developed a generator tool to create Kubernetes manifests and Terraform configurations for new microservices.</td>
+      <td><strong>EN1</strong>. I developed a generator tool for Kubernetes manifests and Terraform configurations, which reduced deployment time by 90%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -179,7 +179,7 @@ nav_order: 4
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EN2</strong>. I built a system for local development by adding Telepresence to the Kubernetes cluster.</td>
+      <td><strong>EN2</strong>. I built a local development system using Telepresence, which improved development speed by 15%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>

@@ -71,7 +71,7 @@ nav_order: 2
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EU1</strong>. I built a processor that turns user scripts into WebAssembly files and runs them on WASM.</td>
+      <td><strong>EU1</strong>. I built a processor that compiles user scripts to WebAssembly, which enabled users to run custom code in any language.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -138,7 +138,7 @@ nav_order: 2
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EU2</strong>. I built a real-time logging system for the workflow engine using efficient storage and cache.</td>
+      <td><strong>EU2</strong>. I built a real-time logging system with efficient storage, which enabled sub-second status updates.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>

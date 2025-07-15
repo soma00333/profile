@@ -72,7 +72,7 @@ nav_order: 7
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>GU1</strong>. I analyzed data from millions of users. I designed A/B testing strategies. These successfully improved user retention.</td>
+      <td><strong>GU1</strong>. I analyzed data from millions of users and designed A/B testing strategies, which improved 7-day retention by 10%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>

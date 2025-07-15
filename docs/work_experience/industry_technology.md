@@ -72,7 +72,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT1</strong>. I designed SLIs and SLOs. I developed custom metrics and tracing. These changes greatly improved system reliability.</td>
+      <td><strong>IT1</strong>. I designed SLIs/SLOs and developed custom metrics and tracing, which won us a major enterprise contract.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -139,7 +139,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT2</strong>. I developed a group chat service and a notification system. Users could exchange photos, videos, and text messages.</td>
+      <td><strong>IT2</strong>. I developed a group chat service and notification system, which improved user engagement by 25%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -201,7 +201,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT3</strong>. I tuned database indexes and optimized queries, greatly improving database performance.</td>
+      <td><strong>IT3</strong>. I tuned database indexes and optimized queries, which reduced slow queries by 70%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -274,7 +274,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT4</strong>. I led the migration from a modular monolith to microservices to improve system scalability.</td>
+      <td><strong>IT4</strong>. I led the migration from monolith to microservices, which improved system scalability and reduced database load.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -341,7 +341,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT5</strong>. I managed the migration from MySQL 5.7 to MySQL 8.0 to keep the system reliable and maintainable long-term.</td>
+      <td><strong>IT5</strong>. I managed the migration from MySQL 5.7 to 8.0, which improved query performance by 20%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>

@@ -182,7 +182,7 @@ nav_order: 1
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>CR2</strong>. I analyzed thread dumps and heap dumps to fix a critical server issue with 2,000 concurrent threads.</td>
+      <td><strong>CR2</strong>. I analyzed thread dumps and heap dumps to fix a critical server issue, which resolved crashes affecting 100,000 users.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>

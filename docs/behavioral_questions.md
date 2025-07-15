@@ -215,7 +215,7 @@ layout: default
       <td><strong>Failure</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> At Industry Technology, I introduced an E2E test tool that accidentally split teams apart.</li>
+          <li><strong>Summary (New):</strong> I introduced an E2E test tool at Industry Technology, which accidentally created silos between teams.</li>
           <li><strong>Situation:</strong> I added an E2E test tool to help frontend engineers save time on tests. But it created walls between frontend and QA teams and hurt teamwork.</li>
           <li><strong>Action:</strong> We stopped using the tool. I gave E2E testing to frontend engineers so they owned their code quality.</li>
           <li><strong>Result:</strong> As a result, teams worked better together and product quality improved.</li>
@@ -227,7 +227,7 @@ layout: default
       <td><strong>Leadership / Business Impact</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (IT1):</strong> At Industry Technology, I introduced SRE to win an enterprise contract.</li>
+          <li><strong>Summary (IT1):</strong> I introduced SRE practices at Industry Technology, which helped win an enterprise contract.</li>
           <li><strong>Situation:</strong> Japan's largest real estate company wanted our system, but our operations were not good enough for them.</li>
           <li><strong>Task:</strong> I needed to improve reliability to meet their needs.</li>
           <li><strong>Action:</strong> I paused new features to add SRE practices. I created SLI/SLO and built metrics and tracing.</li>
@@ -240,7 +240,7 @@ layout: default
       <td><strong>Ownership</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (EN1):</strong> At enechain, I built a generator tool that helped all teams work faster.</li>
+          <li><strong>Summary (EN1):</strong> I built a generator tool at enechain, which helped all teams deploy 90% faster.</li>
           <li><strong>Situation:</strong> Developers manually created configs for each microservice, which was slow and error-prone.</li>
           <li><strong>Task:</strong> My mission was to automate this to save time.</li>
           <li><strong>Action:</strong> I built a generator tool even though it wasn't my job.</li>
@@ -253,7 +253,7 @@ layout: default
       <td><strong>Teamwork</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (CR2):</strong> At Cybereason, I led teams to fix a critical issue affecting 100,000 users.</li>
+          <li><strong>Summary (CR2):</strong> I led cross-functional teams at Cybereason, which fixed a critical issue affecting 100,000 users.</li>
           <li><strong>Situation:</strong> A UI server kept crashing for a big customer. We needed many teams (SRE, DevOps, Product, TAM) to work together.</li>
           <li><strong>Task:</strong> I needed to find the problem and fix the system urgently.</li>
           <li><strong>Action:</strong> As incident commander, I organized all teams. I checked thread dumps and heap dumps to find the cause.</li>
@@ -266,7 +266,7 @@ layout: default
       <td><strong>Technically Challenging</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (EU2):</strong> At Eukarya, I built a fast real-time logging system for workflows.</li>
+          <li><strong>Summary (EU2):</strong> I built a real-time logging system at Eukarya, which delivered sub-second status updates.</li>
           <li><strong>Situation:</strong> Users needed to see workflow status right away, but we had no good logging.</li>
           <li><strong>Task:</strong> My mission was to build real-time logging with fast UI updates.</li>
           <li><strong>Action:</strong> I used Pub/Sub design with Redis cache and GCS for storage.</li>
@@ -279,7 +279,7 @@ layout: default
       <td><strong>Conflict</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> At Cybereason, I helped move 5,000 servers from Google Cloud to Oracle Cloud.</li>
+          <li><strong>Summary (New):</strong> I helped move 5,000 servers from Google to Oracle Cloud, which saved significant costs.</li>
           <li><strong>Proposal:</strong> Management wanted to move many servers from Google to Oracle Cloud.</li>
           <li><strong>Initial Stance:</strong> I didn't agree at first. I worried about maintenance and showed data to back up my concerns.</li>
           <li><strong>Commitment:</strong> When they decided based on cost, I fully supported it and helped move 5,000 servers.</li>
@@ -292,7 +292,7 @@ layout: default
       <td><strong>Low Performer</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> At Industry Technology, I helped a struggling engineer become a lead backend engineer.</li>
+          <li><strong>Summary (New):</strong> I mentored a struggling engineer at Industry Technology, which helped him become a lead backend engineer.</li>
           <li><strong>Situation:</strong> A frontend engineer joined backend but struggled. He wanted to be a backend engineer.</li>
           <li><strong>Task:</strong> I needed to help him grow without slowing our work.</li>
           <li><strong>Action:</strong> I did regular 1-on-1s and made learning docs for him.</li>
@@ -305,7 +305,7 @@ layout: default
       <td><strong>Refactor/Rearchitecture</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (IT4):</strong> At Industry Technology, I moved from monolith to microservices for better scaling.</li>
+          <li><strong>Summary (IT4):</strong> I migrated from monolith to microservices at Industry Technology, which improved system scalability.</li>
           <li><strong>Situation:</strong> Our monolith system had database problems when traffic grew.</li>
           <li><strong>Task:</strong> I needed to split it into microservices to reduce load.</li>
           <li><strong>Action:</strong> I migrated to microservices with minimal downtime.</li>
@@ -318,7 +318,7 @@ layout: default
       <td><strong>Innovative Idea</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (GU1):</strong> At Gunosy, I created an A/B test that improved user retention by 10%.</li>
+          <li><strong>Summary (GU1):</strong> I created an A/B test at Gunosy, which improved user retention by 10%.</li>
           <li><strong>Situation:</strong> User retention was dropping and hurting growth.</li>
           <li><strong>Task:</strong> My mission was to find a new way to keep users engaged from the start.</li>
           <li><strong>Action:</strong> I tested showing new users content based on ads they clicked before signing up.</li>
@@ -331,7 +331,7 @@ layout: default
       <td><strong>Quick Learn</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (EU1):</strong> At Eukarya, I quickly learned WebAssembly to add custom scripts.</li>
+          <li><strong>Summary (EU1):</strong> I quickly learned WebAssembly at Eukarya, which enabled users to run custom scripts.</li>
           <li><strong>Situation:</strong> Users wanted to run their own scripts (Python, Go, Rust) in our workflow engine.</li>
           <li><strong>Task:</strong> My mission was to add WebAssembly support for user scripts.</li>
           <li><strong>Action:</strong> I learned WebAssembly, built a processor to compile scripts to WASM, and wrote docs.</li>
@@ -344,7 +344,7 @@ layout: default
       <td><strong>Legacy</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (IT5):</strong> At Industry Technology, I migrated our database from MySQL 5.7 to 8.0.</li>
+          <li><strong>Summary (IT5):</strong> I migrated database from MySQL 5.7 to 8.0, which improved performance by 20%.</li>
           <li><strong>Situation:</strong> We needed to upgrade MySQL 5.7 to 8.0. Something went wrong during migration.</li>
           <li><strong>Task:</strong> I needed to fix the problem and finish the upgrade.</li>
           <li><strong>Action:</strong> I found the issue and made changes to complete the migration.</li>
@@ -357,7 +357,7 @@ layout: default
       <td><strong>Difficult Decision</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (EN2):</strong> At enechain, I customized Telepresence to keep both speed and security.</li>
+          <li><strong>Summary (EN2):</strong> I customized Telepresence at enechain, which enabled fast and secure development.</li>
           <li><strong>Situation:</strong> Telepresence made development fast but didn't meet our security rules.</li>
           <li><strong>Task:</strong> I needed to choose between fast development or good security.</li>
           <li><strong>Action:</strong> I customized Telepresence's Helm chart with Kustomize to add security patches.</li>
@@ -370,7 +370,7 @@ layout: default
       <td><strong>Tight Schedule</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (IT2):</strong> At Industry Technology, I delivered group chat on time with practical choices.</li>
+          <li><strong>Summary (IT2):</strong> I delivered group chat at Industry Technology using practical choices, which increased engagement by 25%.</li>
           <li><strong>Situation:</strong> We had a tight deadline for a group chat with many features.</li>
           <li><strong>Task:</strong> I needed to build chat and notifications fast.</li>
           <li><strong>Action:</strong> I used polling instead of WebSockets - simpler but faster to build.</li>
@@ -383,7 +383,7 @@ layout: default
       <td><strong>Missed Deadline</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> At Cybereason, I missed a deadline fixing an API bug after engineers left, but delivered a solid fix.</li>
+          <li><strong>Summary (New):</strong> I fixed an API bug at Cybereason after engineers left, which restored threat detection for customers.</li>
           <li><strong>Situation:</strong> I had to fix a core API bug. The original developers left with little documentation.</li>
           <li><strong>Task:</strong> I needed to fix this bug in one sprint - it broke threat detection for customers.</li>
           <li><strong>Action:</strong> I used git blame, commits, and PR comments to understand the code. I fixed it, tested with QA on all OS versions, and documented everything.</li>

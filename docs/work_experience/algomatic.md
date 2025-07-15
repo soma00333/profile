@@ -72,7 +72,7 @@ nav_order: 6
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>AL1</strong>. I developed a serverless training pipeline for fine-tuning LLMs.</td>
+      <td><strong>AL1</strong>. I developed a serverless training pipeline for fine-tuning LLMs, which significantly reduced training costs.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>

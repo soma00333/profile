@@ -72,7 +72,7 @@ nav_order: 3
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>LX1</strong>. I developed an event-driven notification system. It operates securely within a closed network environment.</td>
+      <td><strong>LX1</strong>. I developed an event-driven notification system for closed networks, which enabled secure workflow tracking for financial institutions.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
