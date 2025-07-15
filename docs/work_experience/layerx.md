@@ -34,13 +34,13 @@ nav_order: 3
     </tr>
     <tr>
       <td>Mission</td>
-      <td>As an embedded SRE, my mission was to design and develop AI/LLM applications for Japan's largest financial institutions.</td>
+      <td>My mission was to design and develop AI/LLM applications for Japan's largest financial institutions.</td>
     </tr>
     <tr>
       <td>Task</td>
       <td>
         <ul>
-          <li>I developed new features for these AI/LLM applications.</li>
+          <li>I developed new features.</li>
           <li>I handled incident response to ensure system stability and reliability.</li>
         </ul>
       </td>
@@ -72,7 +72,7 @@ nav_order: 3
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>LX1</strong>. I developed an event-driven notification system for a closed network, which allowed a financial institution with 10,000 employees to track workflows safely.</td>
+      <td><strong>LX1</strong>. I developed an event-driven notification system for a closed network, which allowed a financial institution with 10,000 employees to track the workflow status safely.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -85,17 +85,13 @@ nav_order: 3
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My mission was to develop a notification system that reliably informed users about their workflow execution status while following strict security protocols.</td>
+      <td>My mission was to develop a notification system that informed users about their workflow execution status while following strict security protocols.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
       <td>
         <ul>
-          <li>I developed the system using an event-driven architecture
-            <ul>
-              <li>I designed and developed the system with an event-driven architecture for scalability and real-time updates.</li>
-            </ul>
-          </li>
+          <li>I developed the system using an event-driven architecture</li>
           <li>I deployed the system in a closed network:
             <ul>
               <li>I ensured the final system met all security requirements for that environment.</li>

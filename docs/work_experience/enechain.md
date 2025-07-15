@@ -15,7 +15,7 @@ nav_order: 4
 | Employee    | 160+                                                                                                                                                      |
 | Founded     | 2019                                                                                                                                                      |
 | Web Site    | [https://enechain.co.jp/](https://enechain.co.jp/)                                                                                                    |
-| Description | A company that works with Japan's largest power companies. It runs the energy exchange market. It handles electricity, fuels, and environmental values |
+| Description | A company that works with Japan's largest power companies. It runs the energy exchange market handling electricity and fuels.|
 | Location    | Tokyo, Japan                                                                                                                                              |
 
 ## Team (Software Engineer - Platform)
@@ -112,7 +112,7 @@ nav_order: 4
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EN1</strong>. I developed a generator tool for Kubernetes manifests and Terraform configurations, which reduced deployment time by 90%.</td>
+      <td><strong>EN1</strong>. I developed a generator tool for Kubernetes manifests and Terraform configurations, which reduced first deployment time by 90%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -125,7 +125,7 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My mission was to automate creating these configurations to greatly improve development efficiency and reduce errors.</td>
+      <td>My mission was to automate creating these configurations to improve development efficiency and reduce errors.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
@@ -136,9 +136,8 @@ nav_order: 4
               <li>I implemented a command-line tool to trigger the generation process</li>
             </ul>
           </li>
-          <li>I created template system
+          <li>I created template system to ensure we generated standard configurations
             <ul>
-              <li>I created a template system to ensure we generated standard configurations</li>
               <li>I made sure all generated configurations followed consistent patterns</li>
             </ul>
           </li>
@@ -178,7 +177,7 @@ nav_order: 4
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EN2</strong>. I built a local development system using Telepresence, which improved local development speed by 15%.</td>
+      <td><strong>EN2</strong>. I built a local development system using Telepresence, which improved local development speed.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -197,16 +196,14 @@ nav_order: 4
       <td><strong>Action</strong></td>
       <td>
         <ul>
-          <li>I deployed Telepresence
+          <li>I deployed Telepresence to the Kubernetes cluster
             <ul>
-              <li>I deployed Telepresence to the Kubernetes cluster</li>
               <li>I configured it so local machines could interact with cluster services as if they were local</li>
             </ul>
           </li>
           <li>I set up development environment
             <ul>
-              <li>I used Devcontainers to make the local development setup smoother</li>
-              <li>I ensured the development environment was consistent across the team</li>
+              <li>I used Devcontainers to make the local development setup smoother and consistent across the team</li>
             </ul>
           </li>
         </ul>
@@ -214,7 +211,7 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>As a result, this system accelerated local development cycles. Overall, the speed of microservice development increased by 15%.</td>
+      <td>As a result, this system accelerated local development cycles. Overall, the speed of microservice development increased.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
