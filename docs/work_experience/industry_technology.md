@@ -143,7 +143,12 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
-      <td>The system didn't have a chat function. We needed it for daily business operations and user collaboration.</td>
+      <td>
+        <ul>
+          <li>The system didn't have a chat function.</li>
+          <li>We needed it within a month deadline for daily business operations and user collaboration.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
@@ -201,7 +206,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT3</strong>. I tuned database indexes and optimized queries, which reduced slow queries by 70%.</td>
+      <td><strong>IT3</strong>. I tuned databases and optimized queries, which reduced slow queries by 70%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -222,7 +227,7 @@ nav_order: 5
         <ul>
           <li>I optimized database structure:
             <ul>
-              <li>I analyzed query patterns. I added the right indexes to speed up data retrieval</li>
+              <li>I analyzed query patterns and added the right indexes to speed up data retrieval</li>
               <li>I implemented query result caching using Redis</li>
             </ul>
           </li>

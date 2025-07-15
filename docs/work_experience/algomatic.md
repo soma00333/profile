@@ -76,7 +76,11 @@ nav_order: 6
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
-      <td>The existing process for fine-tuning Large Language Models (LLMs) was inefficient. It lacked a structured pipeline.</td>
+      <td>
+        <ul>
+          <li>The existing process for fine-tuning LLMs took a long hours and cost a lot.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>

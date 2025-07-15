@@ -76,7 +76,12 @@ nav_order: 3
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
-      <td>A finantial institution with 10,000 employees had no way to check the status of their workflows after triggering them. This led to uncertainty and inefficiency.</td>
+      <td>
+        <ul>
+          <li>A financial institution with 10,000 employees had no way to check the status of their workflows after triggering them.</li>
+          <li>This led to uncertainty and inefficiency in their daily operations.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>

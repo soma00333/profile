@@ -76,7 +76,12 @@ nav_order: 7
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
-      <td>The platform was seeing a clear decline in user retention rates. This hurt long-term growth.</td>
+      <td>
+        <ul>
+          <li>The platform was seeing a 15% decline in user retention rates over 3 months.</li>
+          <li>This affected millions of users and hurt long-term growth.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
