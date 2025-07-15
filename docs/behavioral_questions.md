@@ -18,9 +18,9 @@ layout: default
       <td><strong>Vision</strong></td>
       <td>
         <ul>
-          <li><strong>Core Belief:</strong> I believe reliability is the most important part of any product.</li>
-          <li><strong>My Mission:</strong> I want to build distributed systems that focus on reliability.</li>
-          <li><strong>AI/LLM Focus:</strong> I am very interested in AI/LLM and want to use them to help developers work better.</li>
+          <li>I believe reliability is the most important part of any product.</li>
+          <li>My mision is to balance agility and reliability while driving the massive scaling of amazing products globally.</li>
+          <li>I am also interested in LLMs and want to explore how they can create the next generation of development experiences.</li>
         </ul>
       </td>
     </tr>
@@ -28,8 +28,7 @@ layout: default
       <td><strong>Career Goal</strong></td>
       <td>
         <ul>
-          <li><strong>OSS Ambition:</strong> I want to move to the US, join the OSS community, and help create new technologies.</li>
-          <li><strong>Leadership Goal:</strong> I want to become a senior engineer and lead a team.</li>
+          <li>My career goal is to move to the US, join the OSS community deeply, and leed developing wonderful technologies and products.</li>
         </ul>
       </td>
     </tr>
@@ -37,13 +36,13 @@ layout: default
       <td><strong>Introduction</strong></td>
       <td>
         <ul>
-          <li><strong>Current Role:</strong> I am a Software Engineer with 7+ years of experience in SRE and backend development.</li>
-          <li><strong>Key Experience:</strong> I built distributed systems and enterprise applications with high performance and scalability.</li>
-          <li><strong>Core Skills:</strong> I am skilled in Go development and Kubernetes management.</li>
-          <li><strong>Current Company:</strong> I work at Cybereason, a US cybersecurity company in 40 countries.</li>
-          <li><strong>Primary Responsibilities:</strong> I built new features and improved old microservices. The system runs on 12,000+ servers and handles 80 million events per second.</li>
-          <li><strong>Side Projects:</strong> I contribute to OSS projects like Kubernetes, Etcd, Raft, and ETL tools.</li>
-          <li><strong>Current Studies:</strong> I study Computer Science online at CU Boulder while working in Japan.</li>
+          <li>I am a Senior Backend Engineer with 7+ years of experience specializing in reliability engineering.</li>
+          <li>I have developed enterprise-grade distributed systems in startup environments, effectively balancing reliability and agility.</li>
+          <li>I am skilled in Golang and Java development and Kubernetes cluster management.</li>
+          <li>I work at Alpaca, a US fintech company operating in 40 countries.</li>
+          <li>My role is to ensure that our Broker API remains solid, meeting targets such as a 1.5 ms median latency and 99.99% availability.</li>
+          <li>As side projects, I contribute to OSS like Kubernetes, Etcd, Raft, and a workflow engine.</li>
+          <li>I also study Computer Science online at CU Boulder while working in Japan.</li>
         </ul>
       </td>
     </tr>
@@ -51,16 +50,11 @@ layout: default
       <td><strong>Past Job</strong></td>
       <td>
         <ul>
-          <li><strong>University Degree:</strong> I studied Engineering at the University of Tokyo.
-            <ul><li>I worked with patient data, built Python models, and wrote a research paper about medical decisions.</li></ul>
-          </li>
-          <li><strong>First Role:</strong> I joined Gunosy, Japan's largest news app with 40 million users.
-            <ul><li>I worked as a data engineer for 1.5 years and improved ad systems using big data.</li></ul>
-          </li>
-          <li><strong>Second Role (CTO):</strong> I co-founded Industry Technology for real estate companies.
-            <ul><li>As CTO, I led the team and wrote 100,000+ lines of backend code in 5.5 years.</li></ul>
-          </li>
-          <li><strong>Side Engagements:</strong> I also did freelance work for AI startups.</li>
+          <li>I studied Engineering at the University of Tokyo. I worked with patient data, developed Python models, and wrote a paper.</li>
+          <li>As a first role, I joined Gunosy, Japan's largest news app with 40 million users. I worked as a data engineer for 1.5 years and improved advertisement perfprmance using big data.</li>
+          <li>As a second role, I co-founded Industry Technology for real estate companies. As CTO, I led the development team and wrote entire backend codes in 5.5 years.</li>
+          <li>As a third role, I joined Cybereason as a Software Engineer, helping to operate a distributed cybersecurity platform that processes 80 million events per second across 12,000 servers worldwide.</li>
+          <li>In parallel with these roles, I have contributed to several AI/LLM-focused startups as side projects, designing and improving backend systems.</li>
         </ul>
       </td>
     </tr>
