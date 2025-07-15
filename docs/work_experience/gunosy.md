@@ -15,7 +15,7 @@ nav_order: 7
 | Employee    | 150+                                               |
 | Founded     | 2012                                               |
 | Web Site    | [https://gunosy.co.jp/](https://gunosy.co.jp/)                              |
-| Description | Japan's largest news app company with over 40 million users |
+| Description | Japan's largest news app company with 40 million users |
 | Location    | Tokyo, Japan                                       |
 
 ## Team
@@ -34,14 +34,14 @@ nav_order: 7
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to analyze large-scale user data and improve advertising logic. I helped grow the Gunosy news application.</td>
+      <td>My mission was to analyze large-scale user data and improve advertising logic.</td>
     </tr>
     <tr>
       <td>Task</td>
       <td>
         <ul>
-          <li>I analyzed large amounts of user data. This informed advertising strategies and business decisions.</li>
-          <li>I designed and implemented A/B tests. These optimized advertising logic and user engagement.</li>
+          <li>I analyzed large amounts of user data.</li>
+          <li>I designed and implemented A/B tests.</li>
         </ul>
       </td>
     </tr>
@@ -72,13 +72,13 @@ nav_order: 7
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>GU1</strong>. I analyzed data from millions of users and designed A/B testing strategies, which improved 7-day retention by 10%.</td>
+      <td><strong>GU1</strong>. I analyzed data from millions of users and designed A/B testing, which improved 7-day retention by 10%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>The platform was seeing a 15% decline in user retention rates over 3 months.</li>
+          <li>The platform was seeing a decline in user retention rates.</li>
           <li>This affected millions of users and hurt long-term growth.</li>
         </ul>
       </td>
@@ -94,13 +94,12 @@ nav_order: 7
           <li>I strategized user experience
             <ul>
               <li>I focused on improving the initial experience for new users</li>
-              <li>I identified this as a critical phase for retention improvement</li>
             </ul>
           </li>
           <li>I implemented A/B testing
             <ul>
               <li>I designed and launched A/B tests for personalized content</li>
-              <li>I customized initial content based on ads users clicked before joining</li>
+              <li>I customized initial content based on ads users clicked before installing</li>
             </ul>
           </li>
         </ul>
@@ -108,7 +107,7 @@ nav_order: 7
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>As a result, the new user experience improvements increased 7-day user retention by 10%. Personalized content drove these improvements.</td>
+      <td>As a result, the new user experience improvements increased 7-day user retention by 10%.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
@@ -124,7 +123,7 @@ nav_order: 7
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Data Engineering</td>
+      <td>Data Engineering / Collaboration</td>
     </tr>
   </tbody>
 </table>
