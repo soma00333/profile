@@ -34,7 +34,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to lead a development team of 8 members as CTO. We created enterprise applications. I also wrote backend code from scratch myself.</td>
+      <td>My mission was to lead a development team of 8 members as CTO. I also wrote entire backend codes from scratch myself.</td>
     </tr>
     <tr>
       <td>Task</td>
