@@ -34,7 +34,7 @@ nav_order: 6
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to design training and inference pipelines for LLMs. I also developed enterprise applications using them.</td>
+      <td>My mission was to design training and inference pipelines for LLMs.</td>
     </tr>
     <tr>
       <td>Task</td>
@@ -78,7 +78,7 @@ nav_order: 6
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>The existing process for fine-tuning LLMs took a long hours and cost a lot.</li>
+          <li>The process for fine-tuning LLMs took many hours and was very costly.</li>
         </ul>
       </td>
     </tr>
@@ -92,14 +92,13 @@ nav_order: 6
         <ul>
           <li>I developed pipeline infrastructure
             <ul>
-              <li>I implemented efficient data download functionality from Amazon S3</li>
               <li>I designed the serverless architecture to optimize compute costs</li>
             </ul>
           </li>
-          <li>I managed models and tracking
+          <li>I managed models and experiment trackings
             <ul>
               <li>I integrated with Hugging Face to store and share trained models</li>
-              <li>I used Weights & Biases (WandB) for comprehensive experiment tracking</li>
+              <li>I used Weights & Biases (WandB) for comprehensive experiment trackings</li>
             </ul>
           </li>
         </ul>
@@ -111,15 +110,15 @@ nav_order: 6
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>A key challenge was managing the high computational costs of fine-tuning LLMs. We needed to optimize these costs.</td>
+      <td></td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>To solve this, I designed and implemented the pipeline using a serverless architecture. This significantly reduced idle compute costs. It also optimized resource utilization.</td>
+      <td></td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that serverless architectures can effectively reduce costs for computationally intensive ML workloads. They eliminate idle resource charges.</td>
+      <td>I learned that the choice of architecture can significantly impact infrastructure costs.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
