@@ -52,7 +52,7 @@ layout: default
         <ul>
           <li>I studied Engineering at the University of Tokyo. I worked with patient data, developed Python models, and wrote a paper.</li>
           <li>As a first role, I joined Gunosy, Japan's largest news app with 40 million users. I worked as a data engineer for 1.5 years and improved advertisement performance using big data.</li>
-          <li>As a second role, I co-founded Industry Technology for real estate companies. As CTO, I led the development team and wrote entire backend codes in 5.5 years.</li>
+          <li>As a second role, I co-founded Industry Technology for real estate companies. As CTO, I led the development team and wrote entire backend code in 5.5 years.</li>
           <li>As a third role, I joined Cybereason as a Software Engineer, helping to operate a distributed cybersecurity platform that processes 80 million events per second across 12,000 servers worldwide.</li>
           <li>In parallel with these roles, I have contributed to several AI/LLM-focused startups as side projects, designing and improving backend systems.</li>
         </ul>

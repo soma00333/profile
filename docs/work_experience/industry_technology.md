@@ -34,7 +34,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to lead a development team of 8 members as CTO. I also wrote entire backend codes from scratch myself.</td>
+      <td>My mission was to lead a development team of 8 members as CTO. I also wrote entire backend code from scratch myself.</td>
     </tr>
     <tr>
       <td>Task</td>
@@ -191,7 +191,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Feature Development / Tigiht Schedule / Difficult Decision / Event-Driven</td>
+      <td>Feature Development / Tight Schedule / Difficult Decision / Event-Driven</td>
     </tr>
   </tbody>
 </table>
@@ -250,9 +250,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>
-        To solve this:
-        <ul>
+      <td>To solve this, <ul>
           <li>I monitored and analyzed distributed tracing data. I found problems and identified bad query paths.</li>
           <li>I used EXPLAIN statements to analyze query execution plans. I looked for full table scans and poor index usage.</li>
         </ul>

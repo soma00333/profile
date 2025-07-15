@@ -110,13 +110,11 @@ nav_order: 3
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>One of the main challenges was the closed network environment, where the system needed to be deployed. This environment had strict traffic management and access restrictions.</td>
+      <td>A key challenge was the closed network environment, where the system needed to be deployed. This environment had strict traffic management and access restrictions.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>
-        To solve this:
-        <ul>
+      <td>To solve this, <ul>
           <li>I explicitly defined all necessary inbound and outbound traffic rules. These allowed essential communication while maintaining network isolation.</li>
           <li>I configured a secure firewall policy. It strictly controlled access to and from the notification system. This ensured compliance with security standards.</li>
         </ul>
@@ -124,7 +122,7 @@ nav_order: 3
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that with a well-designed solution, I can still deliver important user features even in strict security and network environments..</td>
+      <td>I learned that with a well-designed solution, I can still deliver important user features even in strict security and network environments.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>

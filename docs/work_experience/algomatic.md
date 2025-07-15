@@ -95,10 +95,10 @@ nav_order: 6
               <li>I designed the serverless architecture to optimize compute costs</li>
             </ul>
           </li>
-          <li>I managed models and experiment trackings
+          <li>I managed models and experiment tracking
             <ul>
               <li>I integrated with Hugging Face to store and share trained models</li>
-              <li>I used Weights & Biases (WandB) for comprehensive experiment trackings</li>
+              <li>I used Weights & Biases (WandB) for comprehensive experiment tracking</li>
             </ul>
           </li>
         </ul>

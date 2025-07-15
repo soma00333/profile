@@ -12,7 +12,7 @@ nav_order: 1
 | Key         | Value                                                                                                             |
 | ----------- | ----------------------------------------------------------------------------------------------------------------- |
 | Company     | Cybereason Inc.                                                                                                   |
-| Employee    | 1000+                                                                                                             |
+| Employee    | 1000                                                                                                             |
 | Founded     | 2012                                                                                                              |
 | Web Site    | [https://www.cybereason.com/](https://www.cybereason.com/)                                                        |
 | Description | A global cybersecurity company operating in 40 countries. We provide EDR, XDR, and MDR solutions to stop cyberattacks |
@@ -182,13 +182,13 @@ nav_order: 1
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>CR2</strong>. I analyzed thread dumps and heap dumps to fix a critical server issue, which resolved crashes affecting a enterprise company with 100,000 employees.</td>
+      <td><strong>CR2</strong>. I analyzed thread dumps and heap dumps to fix a critical server issue, which resolved crashes affecting an enterprise company with 100,000 employees.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>An API server kept crashing for a enterprise company with 100,000 employees.</li>
+          <li>An API server kept crashing for an enterprise company with 100,000 employees.</li>
           <li>We weren't sure of the reason. Standard monitoring tools didn't provide any answers.</li>
         </ul>
       </td>
