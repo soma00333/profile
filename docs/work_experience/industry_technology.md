@@ -264,7 +264,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Performance Optimization</td>
+      <td>Performance Optimization / Difficult Problem</td>
     </tr>
   </tbody>
 </table>
@@ -279,14 +279,14 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT4</strong>. I led the migration from monolith to microservices, which improved system scalability and reduced database load.</td>
+      <td><strong>IT4</strong>. I migrated from monolith to microservices, which improved system scalability and reduced database load.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>The system was first built as a modular monolith. It started showing scalability limits.</li>
-          <li>User traffic to core features grew. The write load on the central database increased a lot. This hurt performance.</li>
+          <li>The system was initially developed as a modular monolith. Over time, it began to reach its scalability limits.</li>
+          <li>User traffic to key features increased, leading to a higher write load on the central database. This caused a decline in performance.</li>
         </ul>
       </td>
     </tr>
@@ -298,16 +298,11 @@ nav_order: 5
       <td><strong>Action</strong></td>
       <td>
         <ul>
-          <li>I planned migration strategy
+          <li>I developed microservices and migrated
             <ul>
-              <li>I migrated the system to microservices step by step to reduce risk</li>
-              <li>I planned the migration to keep the system stable during transition</li>
-            </ul>
-          </li>
-          <li>I developed microservices
-            <ul>
-              <li>I designed and built three initial microservices for different areas</li>
+              <li>I designed and built three microservices for different areas</li>
               <li>I created Work Diary, Attendance Management, and core Main services</li>
+              <li>I migrated the system to microservices step by step to reduce risk</li>
             </ul>
           </li>
         </ul>
@@ -315,11 +310,11 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>As a result, the migration successfully spread traffic for core features across separate microservices. This greatly reduced the write load on the main database. System scalability improved.</td>
+      <td>As a result, the migration successfully spread traffic for core features across separate microservices. This greatly reduced the write load on the main database.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>A key challenge was doing the migration with little or no downtime to avoid disrupting users.</td>
+      <td>A key challenge was doing the migration with no downtime to avoid disrupting users.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
@@ -331,7 +326,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Migration / Microservices</td>
+      <td>Migration / Microservices / BFF</td>
     </tr>
   </tbody>
 </table>
@@ -352,8 +347,8 @@ nav_order: 5
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>The existing MySQL 5.7 database version was reaching end-of-life. We needed to upgrade to a supported version.</li>
-          <li>Database migrations at this scale are complex. They can risk data loss or long downtime if not managed carefully.</li>
+          <li>The existing MySQL 5.7 database version was reaching end-of-life.</li>
+          <li>We needed to upgrade to a supported version.</li>
         </ul>
       </td>
     </tr>
@@ -365,15 +360,15 @@ nav_order: 5
       <td><strong>Action</strong></td>
       <td>
         <ul>
-          <li>I planned migration
+          <li>I planned the migration
             <ul>
               <li>I created a detailed, step-by-step migration plan (runbook)</li>
               <li>I made sure the process was predictable and controlled</li>
             </ul>
           </li>
-          <li>I strategized deployment
+          <li>I migrated
             <ul>
-              <li>I used a blue-green deployment strategy for the database</li>
+              <li>I used a blue-green deployment strategy</li>
               <li>I ensured smooth transition, minimal downtime, and clear rollback path</li>
             </ul>
           </li>
@@ -386,7 +381,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>A key challenge was that unexpected issues came up after migration, affecting user experience on some service pages.</td>
+      <td>A key challenge was that we got an incident during migration, affecting user experience on some service pages.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
@@ -402,7 +397,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that thoroughly testing data type compatibility during database migrations is critical. Even small changes can cause unexpected application errors.</td>
+      <td>I learned that unexpected issues can happen despite careful preparation, and it's important to respond calmly.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
