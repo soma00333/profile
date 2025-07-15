@@ -120,7 +120,7 @@ nav_order: 1
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>The API server had many connected parts. This made troubleshooting hard.</li>
+          <li>An API server had many connected parts. This made troubleshooting hard.</li>
           <li>Our monitoring didn't give enough information. Problems took too long to fix.</li>
         </ul>
       </td>
@@ -182,7 +182,7 @@ nav_order: 1
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>CR2</strong>. I analyzed thread dumps and heap dumps to fix a critical server issue with 2,000 threads.</td>
+      <td><strong>CR2</strong>. I analyzed thread dumps and heap dumps to fix a critical server issue with 2,000 concurrent threads.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -205,7 +205,7 @@ nav_order: 1
             <ul>
               <li>I collected thread dumps and heap dumps from the broken server</li>
               <li>I found that an old API was blocking HTTP threads</li>
-              <li>I identified the root cause of health check failures</li>
+              <li>I identified that it caused health check failures and led to automatic restarts</li>
             </ul>
           </li>
           <li>I implemented the solution:
