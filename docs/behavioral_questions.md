@@ -59,7 +59,7 @@ layout: default
       </td>
     </tr>
     <tr>
-      <td><strong>Why searching a new position</strong></td>
+      <td><strong>Why searching<br>a new position</strong></td>
       <td>
         <ul>
           <li>I am satisfied with my current job and am not actively seeking.</li>
@@ -177,7 +177,7 @@ layout: default
       </td>
     </tr>
     <tr>
-      <td><strong>Strength / Positive Feedback</strong></td>
+      <td><strong>Strength /<br>Positive Feedback</strong></td>
       <td>
         <ul>
           <li>My strength is my background in both SRE and backend development.</li>
@@ -187,13 +187,13 @@ layout: default
       </td>
     </tr>
     <tr>
-      <td><strong>Weakness / Negative Feedback</strong></td>
+      <td><strong>Weakness /<br>Negative Feedback</strong></td>
       <td>
         <ul>
           <li><strong>Weakness:</strong> I sometimes focus too much on quality instead of agility.</li>
           <li><strong>Summary (New):</strong>At Industry Technology, I spent too much time on code reviews, which delayed PR merges.</li>
           <li><strong>Situation:</strong> My reviews took too much time and slowed down the team because I focused heavily on quality and detail.</li>
-          <li><strong>Action:</strong> I improved our CI pipelines and added AI review tools to help.</li>
+          <li><strong>Action:</strong> To solve this, I improved our CI pipelines and added AI review tools to help.</li>
           <li><strong>Result:</strong> As a result, PRs were merged faster while maintaining high quality.</li>
           <li><strong>Learning:</strong> I learned that thorough automation helps increase speed while maintaining quality.</li>
         </ul>
@@ -204,7 +204,7 @@ layout: default
       <td>
         <ul>
           <li><strong>Summary (New):</strong> I introduced an E2E test automation tool at Industry Technology, which accidentally created silos between teams.</li>
-          <li><strong>Situation:</strong> I added an E2E test automation tool to help frontend engineers save time on writing tests. But it created walls between frontend and QA teams and hurt teamwork.</li>
+          <li><strong>Situation:</strong> I added an automation tool to help frontend engineers save time on writing tests. But it created walls between frontend and QA teams and hurt teamwork.</li>
           <li><strong>Action:</strong> We stopped using the tool. I gave E2E testing to frontend engineers so they owned their code quality.</li>
           <li><strong>Result:</strong> As a result, teams worked better together and product quality improved.</li>
           <li><strong>Learning:</strong> I learned that tool choices must think about team impact, not just technical benefits.</li>
@@ -212,7 +212,7 @@ layout: default
       </td>
     </tr>
     <tr>
-      <td><strong>Leadership / Business Impact / Difficult Decision / Innovative Idea</strong></td>
+      <td><strong>Leadership /<br>Business Impact /<br>Difficult Decision /<br>Innovative Idea</strong></td>
       <td>
         <ul>
           <li><strong>Summary (IT1):</strong> I introduced SRE practices at Industry Technology, which helped win an enterprise contract.</li>
@@ -233,7 +233,7 @@ layout: default
           <li><strong>Task:</strong> My mission was to automate this to save time.</li>
           <li><strong>Action:</strong> I developed a generator tool even though it wasn't my main mission.</li>
           <li><strong>Result:</strong> As a result, new microservices were deployed much faster for all teams.</li>
-          <li><strong>Learning:</strong> I learned that taking ownership beyond my main tasks helps accelerate the business.</li>
+          <li><strong>Learning:</strong> I learned that taking ownership beyond my main tasks helps accelerate the entire company.</li>
         </ul>
       </td>
     </tr>
@@ -255,8 +255,8 @@ layout: default
       <td>
         <ul>
           <li><strong>Summary (EU2):</strong> I developed a real-time logging system for a workflow engine at Eukarya, which delivered sub-millisecond status updates.</li>
-          <li><strong>Situation:</strong> Users needed to see workflow status right away, but we had no good logging mechanism.</li>
-          <li><strong>Task:</strong> My mission was to build real-time logging with cost efficient architecture.</li>
+          <li><strong>Situation:</strong> Users needed to monitor workflow status right away after execution, but we had no good logging mechanism.</li>
+          <li><strong>Task:</strong> My mission was to build real-time logging system with cost efficient architecture.</li>
           <li><strong>Action:</strong> I used Pub/Sub design with Redis cache and GCS for storage.</li>
           <li><strong>Result:</strong> As a result, users saw worker status in real-time.</li>
           <li><strong>Learning:</strong> I learned that I can balance performance and cost to build an efficient system.</li>
@@ -290,7 +290,7 @@ layout: default
       </td>
     </tr>
     <tr>
-      <td><strong>Refactor/Rearchitecture</strong></td>
+      <td><strong>Refactor /<br>Rearchitecture</strong></td>
       <td>
         <ul>
           <li><strong>Summary (IT4):</strong> I migrated from monolith to microservices at Industry Technology, which improved system scalability.</li>
