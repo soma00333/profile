@@ -115,7 +115,7 @@ nav_order: 7
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how important it is for different teams to work together. Data engineering and marketing teams especially need to collaborate to get statistically significant test results.</td>
+      <td>I learned that different teams must work together. Data engineering and marketing teams especially need to collaborate to get statistically significant test results.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>

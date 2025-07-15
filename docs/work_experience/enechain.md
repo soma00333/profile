@@ -160,7 +160,7 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how important it is to centralize logic in CI/CD pipelines to keep consistency across developer environments.</td>
+      <td>I learned that centralizing logic in CI/CD pipelines is important to keep consistency across developer environments.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
@@ -233,7 +233,7 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how to balance developer productivity tools with enterprise security needs by customizing open-source solutions.</td>
+      <td>I learned that balancing developer productivity tools with enterprise security needs requires customizing open-source solutions.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>

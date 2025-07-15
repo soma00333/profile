@@ -119,7 +119,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned to balance flexibility and security when running user code.</td>
+      <td>I learned that I must balance flexibility and security when running user code.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
@@ -193,7 +193,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned to use different storage types - cache for recent data, object storage for old data. This balances speed and cost.</td>
+      <td>I learned that using different storage types - cache for recent data, object storage for old data - balances speed and cost.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>

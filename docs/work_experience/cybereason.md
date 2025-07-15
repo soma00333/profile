@@ -231,7 +231,7 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned to collect data automatically before systems restart. This helps find root causes during incidents.</td>
+      <td>I learned that I should collect data automatically before systems restart. This helps find root causes during incidents.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>

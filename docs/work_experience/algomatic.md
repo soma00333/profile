@@ -115,7 +115,7 @@ nav_order: 6
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how serverless architectures can effectively reduce costs for computationally intensive ML workloads. They eliminate idle resource charges.</td>
+      <td>I learned that serverless architectures can effectively reduce costs for computationally intensive ML workloads. They eliminate idle resource charges.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>

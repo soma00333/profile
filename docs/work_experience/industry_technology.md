@@ -120,7 +120,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how to balance reliability requirements with development velocity by setting appropriate SLOs based on real-world data.</td>
+      <td>I learned that balancing reliability requirements with development velocity requires setting appropriate SLOs based on real-world data.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
@@ -255,7 +255,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how important it is to use multiple diagnostic tools (tracing and EXPLAIN) together to find and fix database performance issues.</td>
+      <td>I learned that using multiple diagnostic tools (tracing and EXPLAIN) together is essential to find and fix database performance issues.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
@@ -322,7 +322,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how valuable a middle layer (BFF) is. It allows gradual migrations without disrupting users.</td>
+      <td>I learned that a middle layer (BFF) is valuable. It allows gradual migrations without disrupting users.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
@@ -397,7 +397,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how important it is to thoroughly test data type compatibility during database migrations. Even small changes can cause unexpected application errors.</td>
+      <td>I learned that thoroughly testing data type compatibility during database migrations is critical. Even small changes can cause unexpected application errors.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>

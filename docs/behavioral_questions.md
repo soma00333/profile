@@ -271,7 +271,7 @@ layout: default
           <li><strong>Task:</strong> My mission was to build real-time logging with fast UI updates.</li>
           <li><strong>Action:</strong> I used Pub/Sub design with Redis cache and GCS for storage.</li>
           <li><strong>Result:</strong> Users saw worker status in under one second.</li>
-          <li><strong>Learning:</strong> I learned to build fast systems that don't cost too much.</li>
+          <li><strong>Learning:</strong> I learned that I can build fast systems that don't cost too much.</li>
         </ul>
       </td>
     </tr>
@@ -284,7 +284,7 @@ layout: default
           <li><strong>Initial Stance:</strong> I didn't agree at first. I worried about maintenance and showed data to back up my concerns.</li>
           <li><strong>Commitment:</strong> When they decided based on cost, I fully supported it and helped move 5,000 servers.</li>
           <li><strong>Result:</strong> We moved successfully and saved a lot on costs.</li>
-          <li><strong>Learning:</strong> I learned to disagree and commit - share concerns but support final decisions.</li>
+          <li><strong>Learning:</strong> I learned that I should disagree and commit - share concerns but support final decisions.</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +310,7 @@ layout: default
           <li><strong>Task:</strong> I needed to split it into microservices to reduce load.</li>
           <li><strong>Action:</strong> I migrated to microservices with minimal downtime.</li>
           <li><strong>Result:</strong> The system became simpler and database performance improved a lot.</li>
-          <li><strong>Learning:</strong> I learned to balance scaling needs with operational complexity.</li>
+          <li><strong>Learning:</strong> I learned that I must balance scaling needs with operational complexity.</li>
         </ul>
       </td>
     </tr>
@@ -349,7 +349,7 @@ layout: default
           <li><strong>Task:</strong> I needed to fix the problem and finish the upgrade.</li>
           <li><strong>Action:</strong> I found the issue and made changes to complete the migration.</li>
           <li><strong>Result:</strong> Migration worked and database ran 20% faster.</li>
-          <li><strong>Learning:</strong> I learned to handle surprises in system migrations and made docs for the team.</li>
+          <li><strong>Learning:</strong> I learned that handling surprises in system migrations requires good documentation for the team.</li>
         </ul>
       </td>
     </tr>
@@ -362,7 +362,7 @@ layout: default
           <li><strong>Task:</strong> I needed to choose between fast development or good security.</li>
           <li><strong>Action:</strong> I customized Telepresence's Helm chart with Kustomize to add security patches.</li>
           <li><strong>Result:</strong> We kept fast development and met security needs, 15% faster overall.</li>
-          <li><strong>Learning:</strong> I learned to find creative ways to meet all important needs.</li>
+          <li><strong>Learning:</strong> I learned that finding creative ways to meet all important needs is possible.</li>
         </ul>
       </td>
     </tr>
@@ -388,7 +388,7 @@ layout: default
           <li><strong>Task:</strong> I needed to fix this bug in one sprint - it broke threat detection for customers.</li>
           <li><strong>Action:</strong> I used git blame, commits, and PR comments to understand the code. I fixed it, tested with QA on all OS versions, and documented everything.</li>
           <li><strong>Result:</strong> We finished a week late but with good testing. The customer liked our honest updates.</li>
-          <li><strong>Learning:</strong> I learned docs are critical. Now I make sure all important code has docs and knowledge sharing.</li>
+          <li><strong>Learning:</strong> I learned that docs are critical. Now I make sure all important code has docs and knowledge sharing.</li>
         </ul>
       </td>
     </tr>

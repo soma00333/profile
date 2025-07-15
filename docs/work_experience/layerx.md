@@ -121,7 +121,7 @@ nav_order: 3
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned how to design event-driven architectures. They maintain functionality while following the strictest security requirements in closed network environments.</td>
+      <td>I learned that event-driven architectures can maintain functionality while following the strictest security requirements in closed network environments.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
