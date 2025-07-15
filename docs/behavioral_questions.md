@@ -28,7 +28,7 @@ layout: default
       <td><strong>Career Goal</strong></td>
       <td>
         <ul>
-          <li>My career goal is to move to the US, join the OSS community deeply, and leed developing wonderful technologies and products.</li>
+          <li>My career goal is to move to the US, join the OSS community deeply, and leed developing wonderful technologies and products in startup markets.</li>
         </ul>
       </td>
     </tr>
@@ -36,7 +36,7 @@ layout: default
       <td><strong>Introduction</strong></td>
       <td>
         <ul>
-          <li>I am a Senior Backend Engineer with 7+ years of experience specializing in reliability engineering.</li>
+          <li>I am a Senior Backend Engineer with 7 years of experience specializing in reliability engineering.</li>
           <li>I have developed enterprise-grade distributed systems in startup environments, effectively balancing reliability and agility.</li>
           <li>I am skilled in Golang and Java development and Kubernetes cluster management.</li>
           <li>I work at Alpaca, a US fintech company operating in 40 countries.</li>
