@@ -14,7 +14,7 @@ nav_order: 1
 
 ### About Me
 
-Hi there! I'm Soma, a Senior Backend Engineer who loves building reliable, scalable systems to accelerate startup growth. I currently work as a Senior Software Engineer at Alpaca, a U.S.-based fintech company that supports over 200 partners across 40 countries in our mission to expand financial access. My role is to ensure that our ultra-low-latency Broker API remains rock-solid, meeting targets such as a 1.5 ms median latency and 99.99% availability. Outside of work, I actively contribute to open-source projects, including Kubernetes, etcd, Raft, and a workflow engine. I'm also pursuing a Master of Science in Computer Science at the University of Colorado Boulder through their online program, which lets me study remotely from Japan.
+Hi there! I'm Soma, a Senior Backend Engineer who loves building reliable, scalable systems to accelerate startup growth. I currently work as a Senior Software Engineer at Alpaca, a U.S.-based fintech company that supports over 200 partners across 40 countries in our mission to expand financial access. My role is to ensure that our ultra-low-latency Broker API remains rock-solid, meeting targets such as a 1.5 ms median latency and 99.99% availability. Outside of work, I actively contribute to open-source projects, including Kubernetes, etcd, Raft, and a workflow engine. I'm also pursuing a Master of Science in Computer Science at CU Boulder through their online program, which lets me study remotely from Japan.
 
 ### Early Career
 
