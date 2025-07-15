@@ -195,7 +195,7 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>I needed to find what caused the crashes and fix it urgently.</td>
+      <td>My mission was to find what caused the crashes and fix it urgently.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>

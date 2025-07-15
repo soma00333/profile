@@ -214,7 +214,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>I needed to find the root causes of performance problems and optimize queries for better stability and speed.</td>
+      <td>My mission was to find the root causes of performance problems and optimize queries for better stability and speed.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>

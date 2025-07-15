@@ -71,7 +71,7 @@ nav_order: 2
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EU1</strong>. I built a processor that compiles user scripts to WebAssembly, which enabled users to run custom code in any language.</td>
+      <td><strong>EU1</strong>. I developed a processor that compiles user scripts to WebAssembly, which enabled users to run custom code in any language.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -84,7 +84,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>I needed to make the engine run user scripts safely by compiling them to WebAssembly.</td>
+      <td>My mission was to make the engine run user scripts safely by compiling them to WebAssembly.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
