@@ -80,7 +80,7 @@ nav_order: 3
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My objective was to develop a notification system. It needed to reliably inform users about their workflow execution status. It also needed to follow strict security protocols.</td>
+      <td>My mission was to develop a notification system that reliably informed users about their workflow execution status while following strict security protocols.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>

@@ -125,7 +125,7 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My goal was to automate creating these configurations to greatly improve development efficiency and reduce errors.</td>
+      <td>My mission was to automate creating these configurations to greatly improve development efficiency and reduce errors.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
@@ -192,7 +192,7 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My goal was to let developers work efficiently on individual microservices locally without needing to run all other dependent services.</td>
+      <td>My mission was to let developers work efficiently on individual microservices locally without needing to run all other dependent services.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>

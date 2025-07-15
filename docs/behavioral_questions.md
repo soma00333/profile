@@ -242,7 +242,7 @@ layout: default
         <ul>
           <li><strong>Summary (EN1):</strong> At enechain, I built a generator tool that helped all teams work faster.</li>
           <li><strong>Situation:</strong> Developers manually created configs for each microservice, which was slow and error-prone.</li>
-          <li><strong>Task:</strong> I wanted to automate this to save time.</li>
+          <li><strong>Task:</strong> My mission was to automate this to save time.</li>
           <li><strong>Action:</strong> I built a generator tool even though it wasn't my job.</li>
           <li><strong>Result:</strong> New microservices deployed much faster for all teams.</li>
           <li><strong>Learning:</strong> I learned that helping beyond my tasks helps everyone.</li>
@@ -255,7 +255,7 @@ layout: default
         <ul>
           <li><strong>Summary (CR2):</strong> At Cybereason, I led teams to fix a critical issue affecting 100,000 users.</li>
           <li><strong>Situation:</strong> A UI server kept crashing for a big customer. We needed many teams (SRE, DevOps, Product, TAM) to work together.</li>
-          <li><strong>Task:</strong> I had to find the problem and fix the system.</li>
+          <li><strong>Task:</strong> I needed to find the problem and fix the system urgently.</li>
           <li><strong>Action:</strong> As incident commander, I organized all teams. I checked thread dumps and heap dumps to find the cause.</li>
           <li><strong>Result:</strong> We fixed the problem.</li>
           <li><strong>Learning:</strong> I learned that fixing incidents needs both tech skills and good team coordination.</li>
@@ -268,7 +268,7 @@ layout: default
         <ul>
           <li><strong>Summary (EU2):</strong> At Eukarya, I built a fast real-time logging system for workflows.</li>
           <li><strong>Situation:</strong> Users needed to see workflow status right away, but we had no good logging.</li>
-          <li><strong>Task:</strong> I had to build real-time logging with fast UI updates.</li>
+          <li><strong>Task:</strong> My mission was to build real-time logging with fast UI updates.</li>
           <li><strong>Action:</strong> I used Pub/Sub design with Redis cache and GCS for storage.</li>
           <li><strong>Result:</strong> Users saw worker status in under one second.</li>
           <li><strong>Learning:</strong> I learned to build fast systems that don't cost too much.</li>
@@ -294,7 +294,7 @@ layout: default
         <ul>
           <li><strong>Summary (New):</strong> At Industry Technology, I helped a struggling engineer become a lead backend engineer.</li>
           <li><strong>Situation:</strong> A frontend engineer joined backend but struggled. He wanted to be a backend engineer.</li>
-          <li><strong>Task:</strong> I had to help him grow without slowing our work.</li>
+          <li><strong>Task:</strong> I needed to help him grow without slowing our work.</li>
           <li><strong>Action:</strong> I did regular 1-on-1s and made learning docs for him.</li>
           <li><strong>Result:</strong> He became a lead backend engineer elsewhere. Our docs helped train all new engineers.</li>
           <li><strong>Learning:</strong> I learned that helping people grow benefits everyone.</li>
@@ -320,7 +320,7 @@ layout: default
         <ul>
           <li><strong>Summary (GU1):</strong> At Gunosy, I created an A/B test that improved user retention by 10%.</li>
           <li><strong>Situation:</strong> User retention was dropping and hurting growth.</li>
-          <li><strong>Task:</strong> I needed a new way to keep users engaged from the start.</li>
+          <li><strong>Task:</strong> My mission was to find a new way to keep users engaged from the start.</li>
           <li><strong>Action:</strong> I tested showing new users content based on ads they clicked before signing up.</li>
           <li><strong>Result:</strong> This personal approach increased 7-day retention by 10%.</li>
           <li><strong>Learning:</strong> I learned that using pre-signup data improves first experiences.</li>
@@ -333,7 +333,7 @@ layout: default
         <ul>
           <li><strong>Summary (EU1):</strong> At Eukarya, I quickly learned WebAssembly to add custom scripts.</li>
           <li><strong>Situation:</strong> Users wanted to run their own scripts (Python, Go, Rust) in our workflow engine.</li>
-          <li><strong>Task:</strong> I had to add WebAssembly support for user scripts.</li>
+          <li><strong>Task:</strong> My mission was to add WebAssembly support for user scripts.</li>
           <li><strong>Action:</strong> I learned WebAssembly, built a processor to compile scripts to WASM, and wrote docs.</li>
           <li><strong>Result:</strong> Users got new features and the team learned WASM.</li>
           <li><strong>Learning:</strong> I learned that fast learning plus good docs creates lasting value.</li>
@@ -346,7 +346,7 @@ layout: default
         <ul>
           <li><strong>Summary (IT5):</strong> At Industry Technology, I migrated our database from MySQL 5.7 to 8.0.</li>
           <li><strong>Situation:</strong> We needed to upgrade MySQL 5.7 to 8.0. Something went wrong during migration.</li>
-          <li><strong>Task:</strong> I had to fix the problem and finish the upgrade.</li>
+          <li><strong>Task:</strong> I needed to fix the problem and finish the upgrade.</li>
           <li><strong>Action:</strong> I found the issue and made changes to complete the migration.</li>
           <li><strong>Result:</strong> Migration worked and database ran 20% faster.</li>
           <li><strong>Learning:</strong> I learned to handle surprises in system migrations and made docs for the team.</li>
@@ -359,7 +359,7 @@ layout: default
         <ul>
           <li><strong>Summary (EN2):</strong> At enechain, I customized Telepresence to keep both speed and security.</li>
           <li><strong>Situation:</strong> Telepresence made development fast but didn't meet our security rules.</li>
-          <li><strong>Task:</strong> I had to choose between fast development or good security.</li>
+          <li><strong>Task:</strong> I needed to choose between fast development or good security.</li>
           <li><strong>Action:</strong> I customized Telepresence's Helm chart with Kustomize to add security patches.</li>
           <li><strong>Result:</strong> We kept fast development and met security needs, 15% faster overall.</li>
           <li><strong>Learning:</strong> I learned to find creative ways to meet all important needs.</li>
@@ -372,7 +372,7 @@ layout: default
         <ul>
           <li><strong>Summary (IT2):</strong> At Industry Technology, I delivered group chat on time with practical choices.</li>
           <li><strong>Situation:</strong> We had a tight deadline for a group chat with many features.</li>
-          <li><strong>Task:</strong> I had to build chat and notifications fast.</li>
+          <li><strong>Task:</strong> I needed to build chat and notifications fast.</li>
           <li><strong>Action:</strong> I used polling instead of WebSockets - simpler but faster to build.</li>
           <li><strong>Result:</strong> We shipped on time and user engagement went up 25%.</li>
           <li><strong>Learning:</strong> I learned that good-enough on time beats perfect but late.</li>

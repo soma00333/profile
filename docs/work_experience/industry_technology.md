@@ -85,7 +85,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My goal was to improve system reliability to meet the strict standards expected by a major enterprise customer.</td>
+      <td>My mission was to improve system reliability to meet the strict standards expected by a major enterprise customer.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
@@ -147,7 +147,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My goal was to develop a complete group chat service and notification system to meet business needs.</td>
+      <td>My mission was to develop a complete group chat service and notification system to meet business needs.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
@@ -214,7 +214,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My goals were to find the root causes of performance problems and optimize queries for better stability and speed.</td>
+      <td>I needed to find the root causes of performance problems and optimize queries for better stability and speed.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
@@ -286,7 +286,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My goal was to create separate microservices from the main monolithic service to spread the load and improve system scalability.</td>
+      <td>My mission was to create separate microservices from the main monolithic service to spread the load and improve system scalability.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>

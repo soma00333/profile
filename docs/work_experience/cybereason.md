@@ -114,20 +114,20 @@ nav_order: 1
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>CR1</strong>. I built custom metrics that improved observability across 3,000 servers.</td>
+      <td><strong>CR1</strong>. I designed and developed custom metrics, which improved observability across 3,000 servers.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>An API server had many connected parts. This made troubleshooting hard.</li>
+          <li>An API server had many connected comonents. This made troubleshooting hard.</li>
           <li>Our monitoring didn't give enough information. Problems took too long to fix.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>I wanted to see the system better, debug easier, and fix problems faster.</td>
+      <td>My mission was to improve system observability, make debugging easier, and reduce problem resolution time.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
@@ -195,7 +195,7 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>I had to find what caused the crashes and fix it.</td>
+      <td>I needed to find what caused the crashes and fix it urgently.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>

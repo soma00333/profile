@@ -84,7 +84,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>I had to make the engine run user scripts safely by compiling them to WebAssembly.</td>
+      <td>I needed to make the engine run user scripts safely by compiling them to WebAssembly.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
@@ -151,7 +151,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>I needed to build a logging system so users could see workflow status in the UI instantly.</td>
+      <td>My mission was to build a logging system so users could see workflow status in the UI instantly.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>

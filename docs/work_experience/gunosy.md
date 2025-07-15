@@ -80,7 +80,7 @@ nav_order: 7
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My goal was to create and implement effective strategies to stop the decline and improve user retention.</td>
+      <td>My mission was to create and implement effective strategies to stop the decline and improve user retention.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
