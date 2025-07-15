@@ -182,14 +182,14 @@ nav_order: 1
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>CR2</strong>. I analyzed thread dumps and heap dumps to fix a critical server issue, which resolved crashes affecting 100,000 users.</td>
+      <td><strong>CR2</strong>. I analyzed thread dumps and heap dumps to fix a critical server issue, which resolved crashes affecting a enterprise company with 100,000 employees.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>An API server kept crashing for a customer with 100,000 employees.</li>
-          <li>We didn't know why. Normal monitoring tools didn't help.</li>
+          <li>An API server kept crashing for a enterprise company with 100,000 employees.</li>
+          <li>We weren't sure of the reason. Standard monitoring tools didn't provide any answers.</li>
         </ul>
       </td>
     </tr>
@@ -231,11 +231,11 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that I should collect data automatically before systems restart. This helps find root causes during incidents.</td>
+      <td>I learned that solving complex issues requires analyzing the system's core behavior, not just its surface-level symptoms.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Incident Response / Troubleshooting / Automation</td>
+      <td>Incident Response / Troubleshooting / Automation / Difficult Problem</td>
     </tr>
   </tbody>
 </table>
