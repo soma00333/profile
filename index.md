@@ -19,9 +19,9 @@ Hi there! I'm Soma, a Senior Backend Engineer who loves building reliable, scala
 ### Early Career
 
 I earned my Bachelor of Engineering from the University of Tokyo, where I developed statistical models in Python to improve medical decision-making. This work culminated in a published paper. During my university years, I interned at several startups in Tokyo, where I discovered my passion for backend development. 
-My professional journey began as a Data Analyst at Gunosy, one of Japan's leading media apps with more than 40 million users. There, I optimized advertising performance through large-scale data analysis. I then co-founded Industry Technology, a Tokyo-based company that delivers enterprise applications to real estate firms. As CTO, I built entire backend systems from scratch and introduced SRE practices to ensure reliability and scalability.
+My professional journey began as a Data Analyst at Gunosy, one of Japan's leading media apps with 40 million users. There, I optimized advertising performance through large-scale data analysis. I then co-founded Industry Technology, a Tokyo-based company that delivers enterprise applications to real estate firms. As CTO, I built entire backend systems from scratch and introduced SRE practices to ensure reliability and scalability.
 
-Later, I joined Cybereason as a Software Engineer, helping to operate a distributed cybersecurity platform that processes more than 80 million events per second across 12,000 servers. In this role, I focused on hardening system reliability, improving observability, and leading incident response initiatives. In parallel with these roles, I have contributed to several AI/LLM-focused startups as side projects, designing and improving backend systems. This experience ultimately paved the way for my current work at Alpaca.
+Later, I joined Cybereason as a Software Engineer, helping to operate a distributed cybersecurity platform that processes 80 million events per second across 12,000 servers. In this role, I focused on hardening system reliability, improving observability, and leading incident response initiatives. In parallel with these roles, I have contributed to several AI/LLM-focused startups as side projects, designing and improving backend systems. This experience ultimately paved the way for my current work at Alpaca.
 
 ### Vision
 
