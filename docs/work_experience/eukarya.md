@@ -132,7 +132,7 @@ nav_order: 2
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EU2</strong>. I developed a real-time logging system with efficient storage and cache, which enabled millisecond-level status updates.</td>
+      <td><strong>EU2</strong>. I developed a real-time logging system with efficient storage and cache, which enabled users to check the workflow status instantly from the UI.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
