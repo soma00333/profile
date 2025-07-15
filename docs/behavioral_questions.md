@@ -64,7 +64,7 @@ layout: default
         <ul>
           <li>I am satisfied with my current job and am not actively seeking.</li>
           <li>However, I have clear vision and career goals. I am always open to new opportunities that can help me grow and succeed.</li>
-          <li>I am waiting for the right opportunity to move to the United States and receive help with my visa support.</li>
+          <li>I am waiting for the right opportunity to move to the US and receive help with my visa support.</li>
         </ul>
       </td>
     </tr>
@@ -75,7 +75,7 @@ layout: default
           <li>This role fits my vision and career goals perfectly.</li>
           <li>My experience matches what you need.
             <ul>
-              <li>I learned backend development and leadership at Industry Technology.</li>
+              <li>I learned backend developments and leadership at Industry Technology.</li>
               <li>I learned SRE practices and teamwork at Cybereason.</li>
             </ul>
           </li>
@@ -95,7 +95,7 @@ layout: default
       <td><strong>Why Cybereason</strong></td>
       <td>
         <ul>
-          <li>I joined Cybereason for the challenge - their system handles 80 million events per second on 12,000 servers.</li>
+          <li>I joined Cybereason for the reliability challenge - their system handles 80 million events per second on 12,000 servers.</li>
         </ul>
       </td>
     </tr>
@@ -139,7 +139,7 @@ layout: default
       <td>
         <ul>
           <li>The US has big OSS and startup communities.</li>
-          <li>I can work on large-scale, high-reliability systems there.</li>
+          <li>I can work on large-scale, high-reliability systems to drive the development of amazing products.</li>
         </ul>
       </td>
     </tr>
@@ -148,7 +148,7 @@ layout: default
       <td>
         <ul>
           <li>I prefer the IC path.</li>
-          <li>I want to be a Senior Backend Engineer who uses SRE practices.</li>
+          <li>My ideal role is a Senior Backend Engineer who uses SRE practices.</li>
           <li>I understand soft skills matter for leaders.
             <ul>
               <li>I enjoyed teamwork at Cybereason.</li>
@@ -163,7 +163,7 @@ layout: default
       <td>
         <ul>
           <li>I can work through PEO/EOR arrangements.</li>
-          <li>I am ready to move and will pay for visa costs myself.</li>
+          <li>I am prepared to relocate and will cover my own visa expenses.</li>
         </ul>
       </td>
     </tr>
@@ -171,8 +171,8 @@ layout: default
       <td><strong>Interesting</strong></td>
       <td>
         <ul>
-          <li><strong>Enjoyable Work:</strong> I really enjoy building observability features like custom metrics and distributed tracing.</li>
-          <li><strong>Relevant Project (CR1):</strong> At Cybereason, I built custom metrics that improved observability for 3,000 servers.</li>
+          <li>I really enjoy developing observability features like custom metrics and distributed tracing.</li>
+          <li>(CR1) At Cybereason, I built custom metrics that improved observability for 3,000 servers.</li>
         </ul>
       </td>
     </tr>
@@ -180,8 +180,9 @@ layout: default
       <td><strong>Strength / Positive Feedback</strong></td>
       <td>
         <ul>
-          <li><strong>My Key Strength:</strong> My strength is building reliable distributed systems and enterprise applications.</li>
-          <li><strong>Supporting Project (IT1):</strong> At Industry Technology, I created SLI/SLO and built custom metrics and tracing to make the system more reliable.</li>
+          <li>My strength is my background in both SRE and backend development.</li>
+          <li>On infrastructure teams, I'm the fastest programmer, and on backend teams, I'm the strongest system designer.</li>
+          <li>(IT1) At Industry Technology, I designed SLIs/SLOs and developed custom metrics and tracing to make the system more reliable.</li>
         </ul>
       </td>
     </tr>
@@ -189,12 +190,12 @@ layout: default
       <td><strong>Weakness / Negative Feedback</strong></td>
       <td>
         <ul>
-          <li><strong>Area for Development:</strong> I sometimes focus too much on quality instead of speed.</li>
-          <li><strong>Specific Example (New):</strong> At Industry Technology, I spent too much time on code review details, which delayed PR merges.</li>
-          <li><strong>Impact:</strong> My detailed reviews took too long and slowed down the team.</li>
-          <li><strong>Corrective Actions:</strong> I improved our CI process and added AI review tools to help.</li>
-          <li><strong>Outcome:</strong> PRs merged faster while keeping good quality.</li>
-          <li><strong>Lesson Learned:</strong> I learned to balance quality with speed.</li>
+          <li><strong>Weakness:</strong> I sometimes focus too much on quality instead of agility.</li>
+          <li><strong>Summary (New):</strong>At Industry Technology, I spent too much time on code reviews, which delayed PR merges.</li>
+          <li><strong>Situation:</strong> My reviews took too much time and slowed down the team because I focused heavily on quality and detail.</li>
+          <li><strong>Action:</strong> I improved our CI pipelines and added AI review tools to help.</li>
+          <li><strong>Result:</strong> As a result, PRs were merged faster while maintaining high quality.</li>
+          <li><strong>Learning:</strong> I learned that thorough automation helps increase speed while maintaining quality.</li>
         </ul>
       </td>
     </tr>
