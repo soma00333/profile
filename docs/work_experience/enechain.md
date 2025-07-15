@@ -75,7 +75,7 @@ nav_order: 4
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My main mission was to improve system reliability for over 20 microservices.</td>
+      <td>My mission was to improve system reliability for over 20 microservices.</td>
     </tr>
     <tr>
       <td>Task</td>
@@ -119,7 +119,7 @@ nav_order: 4
       <td>
         <ul>
           <li>Developers had to manually create Kubernetes manifests and Terraform configurations for each new microservice.</li>
-          <li>This manual process was slow and caused many errors. This slowed down deployments.</li>
+          <li>This manual process was slow and led to many mistakes. As a result, the initial deployments were delayed.</li>
         </ul>
       </td>
     </tr>
@@ -131,10 +131,9 @@ nav_order: 4
       <td><strong>Action</strong></td>
       <td>
         <ul>
-          <li>I developed tools
+          <li>I developed a generator tool
             <ul>
-              <li>I implemented a command-line tool using Go to trigger the generation process</li>
-              <li>I designed the CLI interface to be simple and user-friendly for developers</li>
+              <li>I implemented a command-line tool to trigger the generation process</li>
             </ul>
           </li>
           <li>I created template system
@@ -160,11 +159,11 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that centralizing logic in CI/CD pipelines is important to keep consistency across developer environments.</td>
+      <td>I learned that standardization is the key to improving productivity, as it prevents common errors and ensures consistency.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Tool Development</td>
+      <td>Tool Development / Collaboration / Ownership</td>
     </tr>
   </tbody>
 </table>
@@ -179,14 +178,14 @@ nav_order: 4
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EN2</strong>. I built a local development system using Telepresence, which improved development speed by 15%.</td>
+      <td><strong>EN2</strong>. I built a local development system using Telepresence, which improved local development speed by 15%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>Local development depended heavily on other microservices running in the cluster. This made isolated development hard.</li>
-          <li>Setting up a complete local development environment took a long time. Matching the cluster was complex.</li>
+          <li>Local development depended heavily on other microservices running in the cluster.</li>
+          <li>Setting up a complete local development environment took a long time and effort.</li>
         </ul>
       </td>
     </tr>
@@ -215,7 +214,7 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>As a result, this system sped up local development cycles. Overall microservice development speed improved by 15%.</td>
+      <td>As a result, this system accelerated local development cycles. Overall, the speed of microservice development increased by 15%.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
@@ -226,18 +225,18 @@ nav_order: 4
       <td>
         To solve this:
         <ul>
-          <li>I converted the official Telepresence Helm charts to Kustomize overlays. This made customization easier.</li>
+          <li>I converted the official Telepresence Helm charts to Kustomize.</li>
           <li>I manually added needed security patches and configurations. These included Pod Security Admissions, NetworkPolicies, and specific Security Contexts.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that balancing developer productivity tools with enterprise security needs requires customizing open-source solutions.</td>
+      <td>I learned that the key to improving developer productivity in a business setting is to find the right balance while maintaining strict security standards.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Kubernetes / Security</td>
+      <td>Kubernetes / Security / Balancing / Difficult Decision</td>
     </tr>
   </tbody>
 </table>
