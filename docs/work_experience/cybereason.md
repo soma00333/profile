@@ -15,7 +15,7 @@ nav_order: 1
 | Employee    | 1000                                                                                                             |
 | Founded     | 2012                                                                                                              |
 | Web Site    | [https://www.cybereason.com/](https://www.cybereason.com/)                                                        |
-| Description | A global cybersecurity company operating in 40 countries. We provide EDR, XDR, and MDR solutions to stop cyberattacks |
+| Description | A global cybersecurity company operating in 40 countries. We provide EDR, XDR, and MDR solutions to stop cyberattacks. The core system runs on 12,000 servers and handles 80M events per second. |
 | Location    | Tokyo, Japan                                                                                                      |
 
 ## Team (Software Engineer - Backend)
@@ -34,7 +34,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to develop new features and refactor old microservices for a distributed system that runs on 12,000 servers and processes 80M events per second.</td>
+      <td>My mission was to develop new features and refactor old microservices for a distributed system.</td>
     </tr>
     <tr>
       <td>Task</td>
@@ -76,7 +76,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to work with a global team to improve the reliability of our system. The system runs on 12,000 servers and handles 80M events per second.</td>
+      <td>My mission was to work with a global team to improve the reliability of our system.</td>
     </tr>
     <tr>
       <td>Task</td>
@@ -114,14 +114,14 @@ nav_order: 1
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>CR1</strong>. I designed and developed custom metrics, which improved observability across 3,000 servers.</td>
+      <td><strong>CR1</strong>. I designed and developed custom metrics to improved observability across 3,000 servers, wich cut problem resolution time by 50% for enterprise customers.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>An API running on 3,000 servers had many connected parts, which made troubleshooting difficult.</li>
-          <li>Our monitoring did not provide enough information. It took too long to resolve the issues.</li>
+          <li>An API running on 3,000 servers had many connected components, which made troubleshooting difficult.</li>
+          <li>Our monitoring did not provide enough information, which took time to resolve issues.</li>
         </ul>
       </td>
     </tr>
@@ -140,12 +140,7 @@ nav_order: 1
               <li>I implemented MongoDB query performance metrics</li>
             </ul>
           </li>
-          <li>I created real-time dashboards:
-            <ul>
-              <li>I built visual displays showing system health</li>
-              <li>I added alerts for faster problem detection</li>
-            </ul>
-          </li>
+          <li>I created real-time dashboards and alerts</li>
         </ul>
       </td>
     </tr>
@@ -189,7 +184,7 @@ nav_order: 1
       <td>
         <ul>
           <li>An API server kept crashing for an enterprise company with 100,000 employees.</li>
-          <li>We weren't sure of the reason. Standard monitoring tools didn't provide any answers.</li>
+          <li>Standard monitoring tools didn't provide any answers.</li>
         </ul>
       </td>
     </tr>
@@ -219,15 +214,15 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>As a result, I fixed the availability issues and made the system reliable for the customer with 100,000 employees.</td>
+      <td>As a result, the fix made the system reliable for the customer with 100,000 employees and we got their trust.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>A key challenge was that the pipeline restarted the server right after crashes. This stopped me from collecting the dumps I needed.</td>
+      <td>A key challenge was that the pipeline restarted the server right after crashes automatically. This stopped me from collecting the dumps I needed.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>To solve this, I changed the pipeline to collect dumps before restarting the server.</td>
+      <td>To solve this, I modified the pipeline to collect dumps before restarting the server.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
