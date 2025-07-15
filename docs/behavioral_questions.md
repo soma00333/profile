@@ -347,22 +347,22 @@ layout: default
         <ul>
           <li><strong>Agility vs Reliability:</strong> How does your team balance speed and reliability?</li>
           <li><strong>Diversity:</strong> I am Asian. Does your team value diversity?</li>
-          <li><strong>Career Path:</strong> If I do well, what career paths exist? Can you help with visa and relocation?</li>
+          <li><strong>Career Path:</strong> If I do well, what career paths exist? Can you help with visa support and relocation?</li>
           <li><strong>Expectation:</strong> What do you expect from the ideal candidate?</li>
           <li><strong>Legacy:</strong> What problems does your legacy system have?</li>
           <li><strong>Business Impact:</strong> How important is this team to the company?</li>
           <li><strong>LLM:</strong> I've worked with LLMs. How does your team use them?</li>
-          <li><strong>Interview Process:</strong> What are the next steps? What should I prepare?</li>
+          <li><strong>Interview Process:</strong> What are the remaining steps? What should I prepare?</li>
           <li><strong>Learning:</strong> Does the team learn new technologies?</li>
           <li><strong>Number:</strong> What's the scale of your system?</li>
-          <li><strong>Decision:</strong> What important decision did you make recently?</li>
+          <li><strong>Decision:</strong> What important decision did your team make recently?</li>
           <li><strong>Background:</strong> How big is the team? What are their backgrounds?</li>
           <li><strong>Project:</strong> What are you working on now?</li>
           <li><strong>Company Value:</strong>
             <ul>
               <li><strong>Ownership:</strong> Can I help other teams improve?</li>
               <li><strong>Think Big:</strong> Can I make bold decisions?</li>
-              <li><strong>Earn Trust:</strong> How do you handle conflicts?</li>
+              <li><strong>Conflicts:</strong> Did you experience any conflicts within your team?</li>
             </ul>
           </li>
         </ul>
