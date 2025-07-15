@@ -155,7 +155,7 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>The hard part was making metrics that gave engineers useful insights, not just data points.</td>
+      <td>A key challenge was making metrics that gave engineers useful insights, not just data points.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
@@ -223,7 +223,7 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>The pipeline restarted the server right after crashes. This stopped me from collecting the dumps I needed.</td>
+      <td>A key challenge was that the pipeline restarted the server right after crashes. This stopped me from collecting the dumps I needed.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>

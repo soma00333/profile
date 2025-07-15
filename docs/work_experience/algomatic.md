@@ -107,7 +107,7 @@ nav_order: 6
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>A primary challenge was managing the high computational costs of fine-tuning LLMs. We needed to optimize these costs.</td>
+      <td>A key challenge was managing the high computational costs of fine-tuning LLMs. We needed to optimize these costs.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>

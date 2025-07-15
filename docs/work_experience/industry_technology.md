@@ -174,7 +174,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>The main constraint was a very tight schedule. We didn't have enough time to build a complex WebSocket-based real-time solution.</td>
+      <td>A key challenge was the very tight schedule. We didn't have enough time to build a complex WebSocket-based real-time solution.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
@@ -241,7 +241,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>Finding the exact source of slow queries was hard. We had complex data models and complicated query patterns.</td>
+      <td>A key challenge was finding the exact source of slow queries. We had complex data models and complicated query patterns.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
@@ -313,7 +313,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>A critical requirement was to do the migration with little or no downtime to avoid disrupting users.</td>
+      <td>A key challenge was doing the migration with little or no downtime to avoid disrupting users.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
@@ -380,7 +380,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>Despite careful planning, unexpected issues came up after migration, affecting user experience on some service pages.</td>
+      <td>A key challenge was that unexpected issues came up after migration, affecting user experience on some service pages.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>

@@ -77,8 +77,8 @@ nav_order: 2
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>Users wanted to add their own scripts (Python, Go, Rust) to the workflow engine.</li>
-          <li>The engine couldn't run user scripts easily.</li>
+          <li>Users wanted to use their own scripts (Python, Go, Rust) to extend the workflow engine.</li>
+          <li>The engine couldn't run user scripts.</li>
         </ul>
       </td>
     </tr>
@@ -111,7 +111,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>The hard part was giving users flexibility while keeping the system secure.</td>
+      <td>A key challenge was giving users flexibility while keeping the system secure.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
@@ -160,7 +160,7 @@ nav_order: 2
           <li>I built the logging infrastructure:
             <ul>
               <li>I made the engine send logs to Pub/Sub</li>
-              <li>I created a service to get logs from Pub/Sub</li>
+              <li>I created a subscriber to get logs from Pub/Sub</li>
               <li>I set up good storage for log data</li>
             </ul>
           </li>
@@ -179,7 +179,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>The hard part was handling many logs and showing real-time updates without slowing the system.</td>
+      <td>A key challenge was designing a logging system that was fast for real-time viewing and cheap for long-term storage.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>

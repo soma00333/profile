@@ -219,7 +219,7 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>We had strong security standards for our Kubernetes clusters. The official Telepresence Helm charts didn't support these security configurations by default.</td>
+      <td>A key challenge was our strong security standards for Kubernetes clusters. The official Telepresence Helm charts didn't support these security configurations by default.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>

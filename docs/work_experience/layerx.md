@@ -107,7 +107,7 @@ nav_order: 3
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>The primary challenge was the closed network environment. The system had to be deployed there. It had strict traffic control and access restrictions.</td>
+      <td>A key challenge was the closed network environment. The system had to be deployed there. It had strict traffic control and access restrictions.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
