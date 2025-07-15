@@ -72,14 +72,14 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT1</strong>. I designed SLIs/SLOs and developed custom metrics and tracing, which won us a major enterprise contract.</td>
+      <td><strong>IT1</strong>. I designed SLIs/SLOs and developed custom metrics and tracing, which built customer trust and won us a major enterprise contract.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
           <li>We had a chance to introduce our system to one of Japan's largest real estate companies.</li>
-          <li>I realized our operations didn't meet the reliability and performance levels this enterprise client needed.</li>
+          <li>I realized our operations didn't meet the reliability and performance levels this enterprise customer needed.</li>
         </ul>
       </td>
     </tr>
@@ -91,9 +91,9 @@ nav_order: 5
       <td><strong>Action</strong></td>
       <td>
         <ul>
-          <li>I designed SLI/SLO:
+          <li>I designed SLIs/SLOs:
             <ul>
-              <li>I designed SLIs and SLOs based on Critical User Journeys (CUJs)</li>
+              <li>I designed them based on Critical User Journeys (CUJs)</li>
               <li>I set clear reliability targets that matched business needs</li>
             </ul>
           </li>
@@ -108,11 +108,11 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>As a result, the improved system reliability built customer trust. This trust directly led to winning a major enterprise contract.</td>
+      <td>As a result, the improved system reliability built customer trust. This led to winning a major enterprise contract.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
-      <td>A key challenge was setting the right SLOs. Breaking an SLO would mean stopping releases. This could slow down development.</td>
+      <td>A key challenge was defining clear and meaningful SLOs. It was difficult to set goals that genuinely reflected user value, rather than just measuring random numbers.</td>
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
@@ -120,11 +120,11 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that balancing reliability requirements with development velocity requires setting appropriate SLOs based on real-world data.</td>
+      <td>I learned that balancing reliability and agility is crucial for meeting customer satisfaction.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>SLI/SLO / Observability / Monitoring / Load Test</td>
+      <td>SLI/SLO / Observability / Monitoring / Load Test / Leadership / Difficult Decision</td>
     </tr>
   </tbody>
 </table>
@@ -139,7 +139,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT2</strong>. I developed a group chat service and notification system, which improved user engagement by 25%.</td>
+      <td><strong>IT2</strong>. I developed a group chat service and notification system, which improved user engagement.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -153,10 +153,10 @@ nav_order: 5
       <td><strong>Action</strong></td>
       <td>
         <ul>
-          <li>I implemented media sharing
+          <li>I implemented media sharing infrastructure
             <ul>
               <li>I implemented secure media sharing using S3 with Signed URLs</li>
-              <li>I added a Content Delivery Network (CDN) for fast content delivery</li>
+              <li>I added a CDN for fast content delivery</li>
             </ul>
           </li>
           <li>I built chat and notification system
@@ -170,7 +170,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Result</strong></td>
-      <td>As a result, the new system provided a smooth chat and notification experience. User engagement and productivity improved by 25%.</td>
+      <td>As a result, the new system provided a smooth chat and notification experience. User engagement and productivity improved.</td>
     </tr>
     <tr>
       <td><strong>Challenge</strong></td>
@@ -182,11 +182,11 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that practical solutions often deliver business value faster than technically perfect ones.</td>
+      <td>I learned that practical solutions often bring business benefits more quickly than technically perfect ones.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Feature Development / Tigiht Schedule / Difficult Decision</td>
+      <td>Feature Development / Tigiht Schedule / Difficult Decision / Event-Driven</td>
     </tr>
   </tbody>
 </table>
