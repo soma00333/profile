@@ -267,11 +267,11 @@ layout: default
       <td><strong>Conflict</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> I helped move 3,000 servers from Google to Oracle Cloud, which saved significant costs.</li>
+          <li><strong>Summary (New):</strong> I helped migrate 3,000 servers from Google to Oracle Cloud, which saved significant costs.</li>
           <li><strong>Proposal:</strong> Management wanted to move many servers from Google to Oracle Cloud.</li>
           <li><strong>Initial Stance:</strong> I didn't agree at first. I worried about maintenance and showed data to back up my concerns.</li>
           <li><strong>Commitment:</strong> When they decided based on cost efficiency, I fully committed to it and helped move 3,000 servers.</li>
-          <li><strong>Result:</strong> As a result, we moved successfully and saved a lot on costs.</li>
+          <li><strong>Result:</strong> As a result, we migrated successfully and saved a lot on costs.</li>
           <li><strong>Learning:</strong> I learned that I should disagree and commit - share concerns but support final decisions.</li>
         </ul>
       </td>
@@ -281,16 +281,16 @@ layout: default
       <td>
         <ul>
           <li><strong>Summary (New):</strong> I mentored a struggling engineer at Industry Technology, which helped him become a lead backend engineer.</li>
-          <li><strong>Situation:</strong> A frontend engineer joined the backend team but struggled. He wanted to transition to a backend engineer.</li>
-          <li><strong>Task:</strong> I needed to help him grow without slowing our work.</li>
+          <li><strong>Situation:</strong> A frontend engineer joined the backend team but struggled. He wanted to transition to a backend engineering career.</li>
+          <li><strong>Task:</strong> My mission was to help him grow without slowing our work.</li>
           <li><strong>Action:</strong> I did regular 1-on-1s and made learning docs for him.</li>
-          <li><strong>Result:</strong> As a result, he became a lead backend engineer. Our docs helped train all new engineers as well.</li>
+          <li><strong>Result:</strong> As a result, he became a lead backend engineer. Our docs also helped train all new engineers.</li>
           <li><strong>Learning:</strong> I learned that helping people grow benefits everyone afterwards.</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td><strong>Refactor /<br>Rearchitecture</strong></td>
+      <td><strong>Refactor /<br>Rearchitecture /<br>Legacy</strong></td>
       <td>
         <ul>
           <li><strong>Summary (IT4):</strong> I migrated from monolith to microservices at Industry Technology, which improved system scalability.</li>
@@ -306,25 +306,12 @@ layout: default
       <td><strong>Quick Learn</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (EU1):</strong> I quickly learned WebAssembly at Eukarya, which enabled users to run custom scripts.</li>
-          <li><strong>Situation:</strong> Users wanted to run their own scripts (Python, Go, Rust) in our workflow engine.</li>
-          <li><strong>Task:</strong> My mission was to add WebAssembly support for user scripts.</li>
-          <li><strong>Action:</strong> I learned WebAssembly, built a processor to compile scripts to WASM, and wrote docs.</li>
-          <li><strong>Result:</strong> As a result, users got new features and the team learned WASM.</li>
-          <li><strong>Learning:</strong> I learned that fast learning plus good docs creates lasting value.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Legacy</strong></td>
-      <td>
-        <ul>
-          <li><strong>Summary (IT5):</strong> I migrated database from MySQL 5.7 to 8.0, which improved performance by 20%.</li>
-          <li><strong>Situation:</strong> We needed to upgrade MySQL 5.7 to 8.0. Something went wrong during migration.</li>
-          <li><strong>Task:</strong> I needed to fix the problem and finish the upgrade.</li>
-          <li><strong>Action:</strong> I found the issue and made changes to complete the migration.</li>
-          <li><strong>Result:</strong> As a result, migration worked and database ran 20% faster.</li>
-          <li><strong>Learning:</strong> I learned that handling surprises in system migrations requires good documentation for the team.</li>
+          <li><strong>Summary (EU1):</strong> I quickly learned WebAssembly at Eukarya, which enabled users to extend the workflow engine.</li>
+          <li><strong>Situation:</strong> Users wanted to use their own scripts (Python, Go, Rust) to extend the workflow engine.</li>
+          <li><strong>Task:</strong> My mission was to add WebAssembly support for user custom scripts.</li>
+          <li><strong>Action:</strong> I learned WebAssembly quickly, developed the feature, and wrote docs for the team.</li>
+          <li><strong>Result:</strong> As a result, users got an intended feature and the team learned WASM.</li>
+          <li><strong>Learning:</strong> I learned that individual learning can become a valuable asset for the team.</li>
         </ul>
       </td>
     </tr>
