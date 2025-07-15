@@ -156,7 +156,7 @@ nav_order: 4
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I set up the CLI client to only trigger a CI pipeline. The main generation logic stayed in the CI environment. This made sure it was always up-to-date.</td>
+      <td>To solve this, I set up the CLI client to only trigger a CI pipeline. The main generation logic stayed in the CI environment. This made sure it was always up-to-date.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
@@ -224,6 +224,7 @@ nav_order: 4
     <tr>
       <td><strong>Solution</strong></td>
       <td>
+        To solve this:
         <ul>
           <li>I converted the official Telepresence Helm charts to Kustomize overlays. This made customization easier.</li>
           <li>I manually added needed security patches and configurations. These included Pod Security Admissions, NetworkPolicies, and specific Security Contexts.</li>

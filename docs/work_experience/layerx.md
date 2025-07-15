@@ -112,6 +112,7 @@ nav_order: 3
     <tr>
       <td><strong>Solution</strong></td>
       <td>
+        To solve this:
         <ul>
           <li>I explicitly defined all necessary inbound and outbound traffic rules. These allowed essential communication while maintaining network isolation.</li>
           <li>I configured a secure firewall policy. It strictly controlled access to and from the notification system. This ensured compliance with security standards.</li>

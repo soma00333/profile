@@ -111,7 +111,7 @@ nav_order: 6
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I designed and implemented the pipeline using a serverless architecture. This significantly reduced idle compute costs. It also optimized resource utilization.</td>
+      <td>To solve this, I designed and implemented the pipeline using a serverless architecture. This significantly reduced idle compute costs. It also optimized resource utilization.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>

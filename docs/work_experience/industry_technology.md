@@ -116,7 +116,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I ran thorough load tests to see how SLIs behaved during traffic spikes. I used this data to set realistic SLOs. I adjusted them over time as needed.</td>
+      <td>To solve this, I ran thorough load tests to see how SLIs behaved during traffic spikes. I used this data to set realistic SLOs. I adjusted them over time as needed.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
@@ -178,7 +178,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>To meet the deadline, I extended the existing API using polling for near real-time updates instead of building a WebSocket server.</td>
+      <td>To solve this, I extended the existing API using polling for near real-time updates instead of building a WebSocket server.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
@@ -246,6 +246,7 @@ nav_order: 5
     <tr>
       <td><strong>Solution</strong></td>
       <td>
+        To solve this:
         <ul>
           <li>I monitored and analyzed distributed tracing data. I found problems and identified bad query paths.</li>
           <li>I used EXPLAIN statements to analyze query execution plans. I looked for full table scans and poor index usage.</li>
@@ -317,7 +318,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I added a Backend-for-Frontend (BFF) layer in front of the new microservices. This let us gradually switch traffic from the monolith to each new service. We achieved a smooth and controlled migration.</td>
+      <td>To solve this, I added a Backend-for-Frontend (BFF) layer in front of the new microservices. This let us gradually switch traffic from the monolith to each new service. We achieved a smooth and controlled migration.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
@@ -385,9 +386,10 @@ nav_order: 5
     <tr>
       <td><strong>Solution</strong></td>
       <td>
+        To solve this:
         <ul>
-          <li>Users reported seeing an error dialog on specific service pages after the migration.</li>
-          <li>I quickly found the issue. It was a JSON parsing error caused by an accidental data type change in a column.</li>
+          <li>I quickly found the issue after users reported seeing an error dialog on specific service pages.</li>
+          <li>It was a JSON parsing error caused by an accidental data type change in a column.</li>
           <li>I deployed a hotfix to handle the JSON parsing errors smoothly. This restored service availability.</li>
           <li>I then changed the affected JSON column types back to their original UNSIGNED INT definition. This completely fixed the compatibility issues.</li>
         </ul>

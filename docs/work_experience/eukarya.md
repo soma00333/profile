@@ -115,7 +115,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I made a clear interface for Wasm modules. It controlled how data passes and how functions are called. This kept user scripts safe.</td>
+      <td>To solve this, I made a clear interface for Wasm modules. It controlled how data passes and how functions are called. This kept user scripts safe.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
@@ -184,6 +184,7 @@ nav_order: 2
     <tr>
       <td><strong>Solution</strong></td>
       <td>
+        To solve this:
         <ul>
           <li>I used Redis cache to make it fast.</li>
           <li>I used Google Cloud Storage for cheap long-term storage.</li>

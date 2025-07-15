@@ -111,7 +111,7 @@ nav_order: 7
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I worked with the marketing team to run targeted ad campaigns. These brought enough new users to the platform for solid A/B testing.</td>
+      <td>To solve this, I worked with the marketing team to run targeted ad campaigns. These brought enough new users to the platform for solid A/B testing.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>

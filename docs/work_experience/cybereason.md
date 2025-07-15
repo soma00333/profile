@@ -159,7 +159,7 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I led talks between SRE, DevOps, and Product teams. We worked together to define the most important metrics.</td>
+      <td>To solve this, I led talks between SRE, DevOps, and Product teams. We worked together to define the most important metrics.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
@@ -227,7 +227,7 @@ nav_order: 1
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>I changed the pipeline to collect dumps before restarting the server.</td>
+      <td>To solve this, I changed the pipeline to collect dumps before restarting the server.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
