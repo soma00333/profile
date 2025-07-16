@@ -34,13 +34,13 @@ nav_order: 5
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to lead a development team of 8 members as CTO. I also wrote entire backend code from scratch myself.</td>
+      <td>My mission was to lead a development team as CTO and develop entire backend code from scratch myself.</td>
     </tr>
     <tr>
       <td>Task</td>
       <td>
         <ul>
-          <li>I developed new features.</li>
+          <li>I developed entire backend code.</li>
           <li>I introduced and implemented SRE practices in the team.</li>
         </ul>
       </td>
@@ -72,7 +72,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT1</strong>. I designed SLIs/SLOs and developed custom metrics and tracing, which built customer trust and won us a major enterprise contract.</td>
+      <td><strong>IT1</strong>. I designed SLIs/SLOs and developed custom metrics and tracing to improve reliability, which built customer trust and won us a major enterprise contract.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -139,14 +139,14 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT2</strong>. I developed a group chat service and notification system, which improved user engagement.</td>
+      <td><strong>IT2</strong>. I developed a group chat service and notification system that support texts, photos, videos, and PDFs, which helped increase user engagement.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>The system didn't have a chat function.</li>
-          <li>We needed it within a month deadline for daily business operations and user collaboration.</li>
+          <li>A client needed a chat feature within a month deadline for daily business operations and user collaboration.</li>
+          <li>The feature includes sharing texts, photos, movies, and PDFs.</li>
         </ul>
       </td>
     </tr>
@@ -167,7 +167,7 @@ nav_order: 5
           <li>I built chat and notification system
             <ul>
               <li>I built an event-driven architecture for efficient notifications</li>
-              <li>I developed the group chat functionality to handle photos, videos, and text</li>
+              <li>I developed the group chat functionality to handle texts, photos, videos, and PDFs</li>
             </ul>
           </li>
         </ul>
@@ -206,7 +206,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT3</strong>. I tuned databases and optimized queries, which reduced slow queries by 70%.</td>
+      <td><strong>IT3</strong>. I solved a performance issue with the database by optimizing indexes and queries, and by using caching, which reduced slow queries by 70%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -258,7 +258,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that using multiple diagnostic tools (tracing and EXPLAIN) together is essential to find and fix database performance issues.</td>
+      <td>I learned that tuning the database according to the business characteristics can improve user satisfaction.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
@@ -277,7 +277,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT4</strong>. I migrated from monolith to microservices, which improved system scalability and reduced database load.</td>
+      <td><strong>IT4</strong>. I migrated from monolith to microservices architecture using a BFF layer to ensure no downtime, which improved system scalability and reduced database load.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -320,7 +320,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>I learned that it is helpful to design architecture for future migrations.</td>
+      <td>I learned that migrating a system with no downtime requires several times more effort than a typical migration.</td>
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
@@ -339,20 +339,19 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT5</strong>. I managed the migration from MySQL 5.7 to 8.0, which improved query performance by 20%.</td>
+      <td><strong>IT5</strong>. I led the migration from MySQL 5.7 to 8.0 and managed an incident during the process, which improved query performance by 20%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
           <li>The existing MySQL 5.7 database version was reaching end-of-life.</li>
-          <li>We needed to upgrade to a supported version.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Task</strong></td>
-      <td>My mission was to smoothly upgrade the database to MySQL 8.0. I needed to keep the system stable, data safe, and performance good.</td>
+      <td>My mission was to smoothly upgrade the database to MySQL 8.0.</td>
     </tr>
     <tr>
       <td><strong>Action</strong></td>
