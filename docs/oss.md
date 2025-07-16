@@ -29,8 +29,8 @@ layout: default
       <td>Committer</td>
       <td>
         <ul>
-          <li>I developed a processor that compiles user scripts into WebAssembly and executes them on a WASM runtime, which enabled users to customize workflows efficiently</li>
-          <li>I developed a real-time logging system with efficient storage and cache, which enabled millisecond-level status updates</li>
+          <li>I developed a processor that compiles user scripts into WebAssembly and executes them on a WASM runtime, which enabled users to customize workflows efficiently.</li>
+          <li>I developed a real-time logging system with efficient storage and cache, which enabled users to monitor the workflow status instantly from the UI.</li>
         </ul>
       </td>
     </tr>
@@ -39,7 +39,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I'm implementing <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/1602-structured-logging">Structured Logging</a> and <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/3077-contextual-logging">Contextual Logging</a> for multiple packages, which increase system reliability and debugging efficiency</li>
+          <li>I'm implementing <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/1602-structured-logging">Structured Logging</a> and <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/3077-contextual-logging">Contextual Logging</a> for multiple packages, which increases system reliability and debugging efficiency</li>
         </ul>
       </td>
     </tr>
@@ -48,7 +48,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I'm refining the snapshot management logic by removing inefficiencies and streamlining related state transitions, which enhance clarity and maintainability</li>
+          <li>I'm refining the snapshot management logic by removing inefficiencies and streamlining related state transitions, which enhances clarity and maintainability</li>
         </ul>
       </td>
     </tr>
