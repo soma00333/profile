@@ -15,7 +15,7 @@ nav_order: 5
 | Employee    | 160+                                                                                                                                                      |
 | Founded     | 2019                                                                                                                                                      |
 | Web Site    | [https://enechain.co.jp/](https://enechain.co.jp/)                                                                                                    |
-| Description | A company that works with Japan's largest power companies. It runs the energy exchange market handling electricity and fuels.|
+| Description | enechain collaborates with Japan's biggest power companies and operates the energy exchange market, trading electricity and fuels. |
 | Location    | Tokyo, Japan                                                                                                                                              |
 
 ## Team (Software Engineer - Platform)
@@ -34,15 +34,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to develop internal APIs and tools to improve developer productivity across the organization.</td>
-    </tr>
-    <tr>
-      <td>Task</td>
-      <td>
-        <ul>
-          <li>I developed internal APIs and various tools to support development teams.</li>
-        </ul>
-      </td>
+      <td>My mission was to develop internal APIs and tools that improved developer productivity across the organization.</td>
     </tr>
     <tr>
       <td>Term</td>
@@ -75,15 +67,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to improve system reliability for over 20 microservices.</td>
-    </tr>
-    <tr>
-      <td>Task</td>
-      <td>
-        <ul>
-          <li>I developed and enhanced observability features.</li>
-        </ul>
-      </td>
+      <td>My mission was to improve system reliability for 20 microservices by developing and enhancing observability features.</td>
     </tr>
     <tr>
       <td>Term</td>
@@ -112,7 +96,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EN1</strong>. I developed a generator tool for Kubernetes manifests and Terraform configurations, which reduced first deployment time by 90%.</td>
+      <td><strong>EN1</strong>. I developed a generator tool for Kubernetes manifests and Terraform configurations for microservices, which reduced initial deployment time by 90%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -177,7 +161,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EN2</strong>. I built a local development system using Telepresence, which improved local development speed.</td>
+      <td><strong>EN2</strong>. I set up a local development environment by deploying Telepresence to the Kubernetes cluster, which accelerated local development for highly dependent microservices.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
