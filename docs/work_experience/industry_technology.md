@@ -376,10 +376,10 @@ nav_order: 6
       <td>
         To solve this:
         <ul>
-          <li>I quickly found the issue after users reported seeing an error dialog on specific service pages.</li>
-          <li>It was a JSON parsing error caused by an accidental data type change in a column.</li>
+          <li>I quickly detected the issue through our monitoring system.</li>
+          <li>The root cause was a JSON parsing error caused by an accidental data type change in a column.</li>
           <li>I deployed a hotfix to handle the JSON parsing errors smoothly. This restored service availability.</li>
-          <li>I then changed the affected JSON column types back to their original UNSIGNED INT definition. This completely fixed the compatibility issues.</li>
+          <li>I then changed the affected JSON column types back to their original UNSIGNED definition. This completely fixed the compatibility issues.</li>
         </ul>
       </td>
     </tr>
