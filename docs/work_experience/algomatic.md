@@ -2,7 +2,7 @@
 layout: default
 title: Algomatic
 parent: Work Experience
-nav_order: 6
+nav_order: 7
 ---
 
 # Algomatic Inc.

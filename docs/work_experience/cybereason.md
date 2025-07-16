@@ -2,7 +2,7 @@
 layout: default
 title: Cybereason
 parent: Work Experience
-nav_order: 1
+nav_order: 2
 ---
 
 # Cybereason Inc.
@@ -15,8 +15,8 @@ nav_order: 1
 | Employee    | 1000                                                                                                             |
 | Founded     | 2012                                                                                                              |
 | Web Site    | [https://www.cybereason.com/](https://www.cybereason.com/)                                                        |
-| Description | A global cybersecurity company operating in 40 countries. We provide EDR, XDR, and MDR solutions to stop cyberattacks. The core system runs on 12,000 servers and handles 80M events per second. |
-| Location    | Tokyo, Japan                                                                                                      |
+| Description | Cybereason is a global cybersecurity company operating in 40 countries. We provide EDR, XDR, and MDR solutions to stop cyberattacks. The core system runs on 12,000 servers and handles 80M events per second. |
+| Location    | San Diego, US                                                                                                      |
 
 ## Team (Software Engineer - Backend)
 
@@ -34,7 +34,7 @@ nav_order: 1
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to develop new features and refactor old microservices for a distributed system.</td>
+      <td>My mission was to develop new features and refactor legacy microservices for the core system.</td>
     </tr>
     <tr>
       <td>Task</td>
