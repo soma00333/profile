@@ -217,7 +217,7 @@ nav_order: 5
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Kubernetes / Security / Balancing / Difficult Decision</td>
+      <td>Kubernetes / Security / Balancing / Difficult Decision / Teamwork / Collaboration</td>
     </tr>
   </tbody>
 </table>

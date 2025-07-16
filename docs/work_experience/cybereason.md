@@ -144,7 +144,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Observability / Monitoring / Collaboration</td>
+      <td>Observability / Monitoring / Collaboration / Teamwork</td>
     </tr>
   </tbody>
 </table>
