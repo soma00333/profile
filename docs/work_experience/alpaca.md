@@ -49,8 +49,12 @@ nav_order: 1
       <td>2025-08 - Present</td>
     </tr>
     <tr>
-      <td>Tech</td>
-      <td>Go, Python, REST API, WebSocket, Docker, Cloud Infrastructure, FIX Protocol</td>
+      <td>Team Size</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Type</td>
+      <td>Permanent</td>
     </tr>
   </tbody>
 </table>
@@ -117,3 +121,15 @@ nav_order: 1
     </tr>
   </tbody>
 </table>
+
+## Technology
+
+| Value            | Tag            |
+| ---------------- | -------------- |
+| Go               | Backend        |
+| Python           | Backend        |
+| gRPC             | Backend        |
+| FIX Protocol     | Backend        |
+| Kubernetes       | Infrastructure |
+| Google Cloud     | Infrastructure |
+| Redpanda         | Infrastructure |
