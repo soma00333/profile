@@ -8,6 +8,7 @@ layout: default
 
 | Name                                                                                                                               | Issuer                       | Date     |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------ |
+| [Istio Certified Associate](https://www.credly.com/badges/c478c3fa-3bbd-46a1-aec9-da13e1ba24ea)                                  | The Linux Foundation         | 2025-07|
 | [OpenTelemetry Certified Associate](https://www.credly.com/badges/f216e5e8-4b3f-4e16-bb91-a7466d099cbe)                                 | The Linux Foundation         | 2025-07|
 | [Prometheus Certified Associate](https://www.credly.com/badges/03963611-ab9f-4969-93eb-66c01f03714a)                                   | The Linux Foundation         | 2025-07|
 | [Building Modern Distributed Systems with Java](https://coursera.org/share/11f8f5fb4545998fa63652a5c90e0da5)                      | Packt                        | 2024-12|
