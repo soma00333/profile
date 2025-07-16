@@ -139,8 +139,9 @@ layout: default
       <td>Cybereason</td>
       <td>
         <ul>
-          <li><strong>CR1</strong>. I designed and developed custom metrics, which improved observability across 3,000 servers.</li>
-          <li><strong>CR2</strong>. I analyzed thread dumps and heap dumps to fix a critical server issue, which resolved crashes affecting a enterprise company with 100,000 employees.</li>
+          <li><strong>CR1</strong>. I designed and developed custom metrics to improve observability across 3,000 servers, which cut problem resolution time by 50% for enterprise customers.</li>
+          <li><strong>CR2</strong>. I troubleshot and fixed a critical server issue with 2,000 concurrent threads, which resolved crashes affecting an enterprise company.</li>
+          <li><strong>CR3</strong>. I fixed a critical bug in the core API that required thorough testing across various versions and feature flags, which restored the correct Malop status for millions of endpoints.</li>
         </ul>
       </td>
     </tr>
@@ -149,7 +150,7 @@ layout: default
       <td>
         <ul>
           <li><strong>EU1</strong>. I developed a processor that compiles user scripts into WebAssembly and executes them on a WASM runtime, which enabled users to customize workflows efficiently.</li>
-          <li><strong>EU2</strong>. I developed a real-time logging system with efficient storage and cache, which enabled millisecond-level status updates.</li>
+          <li><strong>EU2</strong>. I developed a real-time logging system with efficient storage and cache, which enabled users to monitor the workflow status instantly from the UI.</li>
         </ul>
       </td>
     </tr>
@@ -157,7 +158,7 @@ layout: default
       <td>LayerX</td>
       <td>
         <ul>
-          <li><strong>LX1</strong>. I developed an event-driven notification system for a closed network, which allowed a financial institution with 10,000 employees to track workflows safely.</li>
+          <li><strong>LX1</strong>. I developed a scalable notification system, which allowed a financial institution to track the workflow status, ensuring compliance with high-security standards</li>
         </ul>
       </td>
     </tr>
@@ -165,8 +166,8 @@ layout: default
       <td>enechain</td>
       <td>
         <ul>
-          <li><strong>EN1</strong>. I developed a generator tool for Kubernetes manifests and Terraform configurations, which reduced deployment time by 90%.</li>
-          <li><strong>EN2</strong>. I built a local development system using Telepresence, which improved local development speed by 15%.</li>
+          <li><strong>EN1</strong>. I developed a generator tool for Kubernetes manifests and Terraform configurations for microservices, which reduced initial deployment time by 90%.</li>
+          <li><strong>EN2</strong>. I set up a local development environment by deploying Telepresence to the Kubernetes cluster, which accelerated local development for highly dependent microservices.</li>
         </ul>
       </td>
     </tr>
@@ -174,11 +175,11 @@ layout: default
       <td>Industry Technology</td>
       <td>
         <ul>
-          <li><strong>IT1</strong>. I designed SLIs/SLOs and developed custom metrics and tracing, which built customer trust and won us a major enterprise contract.</li>
-          <li><strong>IT2</strong>. I developed a group chat service and notification system, which improved user engagement.</li>
-          <li><strong>IT3</strong>. I tuned databases and optimized queries, which reduced slow queries by 70%.</li>
-          <li><strong>IT4</strong>. I migrated from monolith to microservices, which improved system scalability and reduced database load.</li>
-          <li><strong>IT5</strong>. I managed the migration from MySQL 5.7 to 8.0, which improved query performance by 20%.</li>
+          <li><strong>IT1</strong>. I designed SLIs/SLOs and developed custom metrics and tracing to improve reliability, which built customer trust and won us a major enterprise contract.</li>
+          <li><strong>IT2</strong>. I developed a group chat service and notification system that support texts, photos, videos, and PDFs, which helped increase user engagement and productivity.</li>
+          <li><strong>IT3</strong>. I solved a performance issue with the database by optimizing indexes and queries, and by using caching, which reduced slow query occurrences by 70%.</li>
+          <li><strong>IT4</strong>. I migrated from monolith to microservices architecture using a BFF layer to ensure no downtime, which improved system scalability and reduced database load.</li>
+          <li><strong>IT5</strong>. I led the migration from MySQL 5.7 to 8.0 and managed an incident during the process, which improved query performance by 20%.</li>
         </ul>
       </td>
     </tr>
@@ -194,7 +195,7 @@ layout: default
       <td>Algomatic</td>
       <td>
         <ul>
-          <li><strong>AL1</strong>. I developed a serverless training pipeline for fine-tuning LLMs, which significantly reduced training costs.</li>
+          <li><strong>AM1</strong>. I developed a serverless training pipeline for fine-tuning LLMs, which significantly reduced training costs.</li>
         </ul>
       </td>
     </tr>

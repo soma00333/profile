@@ -286,7 +286,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Skill</strong></td>
-      <td>Difficult Problem / Trouble Shooting / Automation</td>
+      <td>Difficult Problem / Troubleshooting / Automation</td>
     </tr>
   </tbody>
 </table>
