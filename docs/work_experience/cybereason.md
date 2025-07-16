@@ -37,15 +37,6 @@ nav_order: 2
       <td>My mission was to develop new features and refactor legacy microservices for the core system.</td>
     </tr>
     <tr>
-      <td>Task</td>
-      <td>
-        <ul>
-          <li>I developed new features.</li>
-          <li>I refactored legacy microservices.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>Term</td>
       <td>2025-03 - 2025-08</td>
     </tr>
@@ -76,16 +67,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to work with a global team to improve the reliability of our system.</td>
-    </tr>
-    <tr>
-      <td>Task</td>
-      <td>
-        <ul>
-          <li>I developed custom metrics and distributed tracing to improve system observability.</li>
-          <li>I troubleshot cross-microservice issues to find their root causes.</li>
-        </ul>
-      </td>
+      <td>My mission was to work with a global team to improve system reliability for the core system.</td>
     </tr>
     <tr>
       <td>Term</td>
@@ -114,7 +96,7 @@ nav_order: 2
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>CR1</strong>. I designed and developed custom metrics to improved observability across 3,000 servers, wich cut problem resolution time by 50% for enterprise customers.</td>
+      <td><strong>CR1</strong>. I designed and developed custom metrics to improve observability across 3,000 servers, which cut problem resolution time by 50% for enterprise customers.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -177,13 +159,13 @@ nav_order: 2
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>CR2</strong>. I analyzed thread dumps and heap dumps to fix a critical server issue, which resolved crashes affecting an enterprise company with 100,000 employees.</td>
+      <td><strong>CR2</strong>. I troubleshot and fixed a critical server issue with 2,000 concurrent threads, which resolved crashes affecting an enterprise company.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
       <td>
         <ul>
-          <li>An API server kept crashing for an enterprise company with 100,000 employees.</li>
+          <li>An API server which had 2,000 concurrent threads kept crashing.</li>
           <li>Standard monitoring tools didn't provide any answers.</li>
         </ul>
       </td>
