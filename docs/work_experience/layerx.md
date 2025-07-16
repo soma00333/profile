@@ -15,7 +15,7 @@ nav_order: 4
 | Employee    | 300+                                                                      |
 | Founded     | 2018                                                                      |
 | Web Site    | [https://layerx.co.jp/](https://layerx.co.jp/)                      |
-| Description | A fintech company that provides enterprise applications for 10,000 companies |
+| Description | LayerX is a fintech company that provides enterprise applications for 10,000 companies |
 | Location    | Tokyo, Japan                                                              |
 
 ## Team
@@ -35,15 +35,6 @@ nav_order: 4
     <tr>
       <td>Mission</td>
       <td>My mission was to design and develop AI/LLM applications for Japan's largest financial institutions.</td>
-    </tr>
-    <tr>
-      <td>Task</td>
-      <td>
-        <ul>
-          <li>I developed new features.</li>
-          <li>I handled incident response to ensure system stability and reliability.</li>
-        </ul>
-      </td>
     </tr>
     <tr>
       <td>Term</td>
@@ -72,7 +63,7 @@ nav_order: 4
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>LX1</strong>. I developed an event-driven notification system for a closed network, which allowed a financial institution with 10,000 employees to track the workflow status safely.</td>
+      <td><strong>LX1</strong>. I developed a scalable notification system, which allowed a financial institution to track the workflow status, ensuring compliance with high-security standards</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
