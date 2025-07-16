@@ -217,6 +217,80 @@ nav_order: 2
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th>Key</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Summary</strong></td>
+      <td><strong>CR3</strong>. I fixed a critical bug in the core API that required thorough testing across various versions and feature flags, which restored the correct Malop status for millions of endpoints.</td>
+    </tr>
+    <tr>
+      <td><strong>Situation</strong></td>
+      <td>
+        <ul>
+          <li>The core API that returns Malicious Operation (Malop) information had a bug where the status was different from what was intended.</li>
+          <li>The bug only occurred with specific feature flags and specific versions, making it extremely difficult to reproduce.</li>
+          <li>This API affected millions of endpoints, so any fix required thorough testing.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Task</strong></td>
+      <td>My mission was to identify the root cause of the bug and fix it without impacting millions of endpoints.</td>
+    </tr>
+    <tr>
+      <td><strong>Action</strong></td>
+      <td>
+        <ul>
+          <li>I investigated the issue systematically:
+            <ul>
+              <li>I analyzed the code and documentation to understand the expected behavior</li>
+              <li>I set up multiple test environments with different configurations</li>
+              <li>I tested various scenarios with different versions and feature flag combinations</li>
+            </ul>
+          </li>
+          <li>I identified the exact conditions to reproduce the bug:
+            <ul>
+              <li>I discovered that a critical variable used in Malop status calculation became null under specific conditions</li>
+            </ul>
+          </li>
+          <li>I fixed the code and ensured quality:
+            <ul>
+              <li>I implemented the fix with minimal code changes</li>
+              <li>I conducted thorough testing and QA before shipping</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Result</strong></td>
+      <td>As a result, the bug was fixed successfully and deployed to production without any incidents, restoring correct Malop status for millions of endpoints.</td>
+    </tr>
+    <tr>
+      <td><strong>Challenge</strong></td>
+      <td>A key challenge was that the investigation took a long time because the bug only appeared under very specific conditions.</td>
+    </tr>
+    <tr>
+      <td><strong>Solution</strong></td>
+      <td>To solve this, I systematically tested different combinations and documented each test result, which eventually led me to identify the exact reproduction conditions.</td>
+    </tr>
+    <tr>
+      <td><strong>Learning</strong></td>
+      <td>I learned that reproducing complex bugs is both challenging and crucial - systematic testing and detailed documentation are essential for solving edge-case issues.</td>
+    </tr>
+    <tr>
+      <td><strong>Skill</strong></td>
+      <td>Difficult Problem / Trouble Shooting / Automation</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Technology
 
 | Value            | Tag            |
