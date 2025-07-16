@@ -15,7 +15,7 @@ nav_order: 7
 | Employee    | 30+                                                                    |
 | Founded     | 2023                                                                   |
 | Web Site    | [https://algomatic.jp/](https://algomatic.jp/)                   |
-| Description | An AI company that provides enterprise applications using generative AI |
+| Description | Algomatic is an AI company that provides enterprise applications using generative AI |
 | Location    | Tokyo, Japan                                                           |
 
 ## Team
@@ -34,16 +34,7 @@ nav_order: 7
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to design training and inference pipelines for LLMs.</td>
-    </tr>
-    <tr>
-      <td>Task</td>
-      <td>
-        <ul>
-          <li>I designed training and inference pipelines.</li>
-          <li>I developed enterprise applications using LLMs.</li>
-        </ul>
-      </td>
+      <td>My mission was to design training and inference pipelines for LLMs and develop enterprise applications.</td>
     </tr>
     <tr>
       <td>Term</td>

@@ -15,7 +15,7 @@ nav_order: 8
 | Employee    | 150+                                               |
 | Founded     | 2012                                               |
 | Web Site    | [https://gunosy.co.jp/](https://gunosy.co.jp/)                              |
-| Description | Japan's largest news app company with 40 million users |
+| Description | Gunosy is Japan's leading news app company with 40 million users |
 | Location    | Tokyo, Japan                                       |
 
 ## Team
@@ -34,16 +34,7 @@ nav_order: 8
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to analyze large-scale user data and improve advertising logic.</td>
-    </tr>
-    <tr>
-      <td>Task</td>
-      <td>
-        <ul>
-          <li>I analyzed large amounts of user data.</li>
-          <li>I designed and implemented A/B tests.</li>
-        </ul>
-      </td>
+      <td>My mission was to analyze large-scale user data to improve advertising performance.</td>
     </tr>
     <tr>
       <td>Term</td>
