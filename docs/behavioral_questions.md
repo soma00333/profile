@@ -298,7 +298,7 @@ layout: default
           <li><strong>Task:</strong> My mission was to split it into microservices to reduce load.</li>
           <li><strong>Action:</strong> I migrated to microservices with no downtime utilizing BFF layer.</li>
           <li><strong>Result:</strong> As a result, the system became simpler and database performance improved a lot.</li>
-          <li><strong>Learning:</strong> I learned that it is helpful to design architecture for future migrations.</li>
+          <li><strong>Learning:</strong> I learned that migrating a system with no downtime requires several times more effort than a typical one.</li>
         </ul>
       </td>
     </tr>
@@ -323,7 +323,7 @@ layout: default
           <li><strong>Situation:</strong> We had a tight deadline for a group chat and notification system.</li>
           <li><strong>Task:</strong> My mission was to design and develop the system on time.</li>
           <li><strong>Action:</strong> I used polling instead of WebSockets - inefficient but simpler design.</li>
-          <li><strong>Result:</strong> As a result, we shipped on time and user engagement went up.</li>
+          <li><strong>Result:</strong> As a result, we shipped the feature on time and user engagement went up.</li>
           <li><strong>Learning:</strong> I learned that good-enough on time beats perfect but late.</li>
         </ul>
       </td>
@@ -332,7 +332,7 @@ layout: default
       <td><strong>Missed Deadline</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> I fixed an API bug at Cybereason after core engineers left, which prevented losing trust from an enterprise customer.</li>
+          <li><strong>Summary (CR3):</strong> I fixed an API bug at Cybereason after core engineers left, which prevented losing trust from an enterprise customer.</li>
           <li><strong>Situation:</strong> We had a bug in a core API. But the original developers left with little documentation.</li>
           <li><strong>Task:</strong> My mission was to fix this bug in one sprint.</li>
           <li><strong>Action:</strong> When I realized it would be delayed, I sent regular progress reports to the customer and TAM.</li>
@@ -357,7 +357,8 @@ layout: default
           <li><strong>Number:</strong> What's the scale of your system?</li>
           <li><strong>Decision:</strong> What important decision did your team make recently?</li>
           <li><strong>Background:</strong> How big is the team? What are their backgrounds?</li>
-          <li><strong>Project:</strong> What are you working on now?</li>
+          <li><strong>Project:</strong> What is your team working on now?</li>
+          <li><strong>Restriction:</strong> What things slow down daily development productivity?</li>
           <li><strong>Company Value:</strong>
             <ul>
               <li><strong>Ownership:</strong> Can I help other teams improve?</li>
