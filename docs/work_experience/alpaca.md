@@ -12,10 +12,10 @@ nav_order: 1
 | Key         | Value                                                                                                             |
 | ----------- | ----------------------------------------------------------------------------------------------------------------- |
 | Company     | Alpaca                                                                                                           |
-| Employee    | 250+                                                                                                              |
+| Employee    | 250                                                                                                              |
 | Founded     | 2015                                                                                                              |
 | Web Site    | [https://alpaca.markets/](https://alpaca.markets/)                                                               |
-| Description | Alpaca provides a brokerage platform offering stock, options, ETF, and crypto trading through modern APIs. With 200+ partners across 40 countries, the company achieves 1.5ms trade execution latency and 99.99% uptime. |
+| Description | Alpaca provides a brokerage platform offering stock, options, ETF, and crypto trading through modern APIs. With 200 partners across 40 countries, the company achieves 1.5ms order processing latency and 99.99% uptime. |
 | Location    | San Mateo, US                                                                                             |
 
 ## Team (Senior Software Engineer - Backend)
@@ -37,14 +37,6 @@ nav_order: 1
       <td>My mission was to develop and maintain high-performance backend systems for financial trading platforms, focusing on scalability and low-latency execution.</td>
     </tr>
     <tr>
-      <td>Task</td>
-      <td>
-        <ul>
-          <li>TBD</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>Term</td>
       <td>2025-08 - Present</td>
     </tr>
@@ -60,8 +52,6 @@ nav_order: 1
 </table>
 
 ## Projects
-
-### Project 1 (AP1)
 
 <table>
   <thead>
@@ -129,7 +119,7 @@ nav_order: 1
 | Go               | Backend        |
 | Python           | Backend        |
 | gRPC             | Backend        |
-| FIX Protocol     | Backend        |
+| PostgreSQL       | Backend        |
 | Kubernetes       | Infrastructure |
 | Google Cloud     | Infrastructure |
 | Redpanda         | Infrastructure |
