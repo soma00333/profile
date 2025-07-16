@@ -15,7 +15,7 @@ nav_order: 6
 | Employee    | 30+                                                                                          |
 | Founded     | 2018                                                                                         |
 | Web Site    | https://industrytechnology.co/                                                               |
-| Description | A proptech company that builds enterprise applications for Japan's largest real estate companies |
+| Description | Industry Technology is a proptech company that develops enterprise applications for Japan's largest real estate companies |
 | Location    | Tokyo, Japan                                                                                 |
 
 ## Team
@@ -34,16 +34,7 @@ nav_order: 6
     </tr>
     <tr>
       <td>Mission</td>
-      <td>My mission was to lead a development team as CTO and develop entire backend code from scratch myself.</td>
-    </tr>
-    <tr>
-      <td>Task</td>
-      <td>
-        <ul>
-          <li>I developed entire backend code.</li>
-          <li>I introduced and implemented SRE practices in the team.</li>
-        </ul>
-      </td>
+      <td>My mission was to lead the development team as CTO while personally developing the entire backend code from scratch.</td>
     </tr>
     <tr>
       <td>Term</td>
@@ -139,7 +130,7 @@ nav_order: 6
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT2</strong>. I developed a group chat service and notification system that support texts, photos, videos, and PDFs, which helped increase user engagement.</td>
+      <td><strong>IT2</strong>. I developed a group chat service and notification system that support texts, photos, videos, and PDFs, which helped increase user engagement and productivity.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
@@ -206,7 +197,7 @@ nav_order: 6
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>IT3</strong>. I solved a performance issue with the database by optimizing indexes and queries, and by using caching, which reduced slow queries by 70%.</td>
+      <td><strong>IT3</strong>. I solved a performance issue with the database by optimizing indexes and queries, and by using caching, which reduced slow query occurrences by 70%.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
