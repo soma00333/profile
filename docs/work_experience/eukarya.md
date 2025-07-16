@@ -15,7 +15,7 @@ nav_order: 3
 | Employee    | 50+                                                                                                                                                             |
 | Founded     | 2017                                                                                                                                                            |
 | Web Site    | [https://eukarya.io/](https://eukarya.io/)                                                                                                              |
-| Description | Eukarya develops Re:Earth, an open-source WebGIS platform. The Japanese Ministry of Land uses it for their project |
+| Description | Eukarya develops Re:Earth, an open-source WebGIS platform. It supports Project PLATEAU, a nationwide 3D digital twin project led by the Japanese Ministry of Land.  |
 | Location    | Tokyo, Japan                                                                                                                                                    |
 
 ## Team
@@ -35,14 +35,6 @@ nav_order: 3
     <tr>
       <td>Mission</td>
       <td>My mission was to develop a workflow engine and microservices for Re:Earth Flow, an open-source ETL tool for GIS data.</td>
-    </tr>
-    <tr>
-      <td>Task</td>
-      <td>
-        <ul>
-          <li>I developed new features for the platform.</li>
-        </ul>
-      </td>
     </tr>
     <tr>
       <td>Term</td>
@@ -132,7 +124,7 @@ nav_order: 3
   <tbody>
     <tr>
       <td><strong>Summary</strong></td>
-      <td><strong>EU2</strong>. I developed a real-time logging system with efficient storage and cache, which enabled users to check the workflow status instantly from the UI.</td>
+      <td><strong>EU2</strong>. I developed a real-time logging system with efficient storage and cache, which enabled users to monitor the workflow status instantly from the UI.</td>
     </tr>
     <tr>
       <td><strong>Situation</strong></td>
