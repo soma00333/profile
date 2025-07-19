@@ -267,7 +267,7 @@ layout: default
       <td><strong>Conflict</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> I disagreed with engineering managers about migrating 3,000 servers, which led to a better migration strategy after discussions.</li>
+          <li><strong>Summary (New):</strong> I disagreed with a engineering manager about migrating 3,000 servers, which led to a better migration strategy after discussions.</li>
           <li><strong>Situation:</strong> Management and engineering managers wanted to migrate some servers from Google Cloud to Oracle Cloud within 6 months to save infrastructure costs.</li>
           <li><strong>Task:</strong> My mission was to share my technical concerns while supporting business goals.</li>
           <li><strong>Action:</strong> 
