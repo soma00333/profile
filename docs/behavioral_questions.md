@@ -272,10 +272,22 @@ layout: default
           <li><strong>Task:</strong> My mission was to share my technical concerns while supporting business goals.</li>
           <li><strong>Action:</strong> 
             <ul>
-              <li>I disagreed and presented specific data that multi-cloud complexity would increase ops burden, our team had no Oracle expertise, and API differences would require a lot of code changes.</li>
-              <li>I proposed a compromise to start with non-critical services as a pilot, hire Oracle support engineers as consultants, then migrate core services with proper planning.</li>
-              <li>After discussions with engineering managers, we agreed on a phased migration plan with Oracle consultants to guide us.</li>
-              <li>Once the decision was made, I fully committed to the plan and helped the migration effort personally.</li>
+              <li>First, I disagreed and presented specific data:
+                <ul>
+                  <li>Multi-cloud complexity would increase ops burden by 50%</li>
+                  <li>Our team had no Oracle Cloud expertise</li>
+                  <li>API differences would require 3 months of code changes</li>
+                </ul>
+              </li>
+              <li>After that, I proposed a compromise solution:
+                <ul>
+                  <li>Start with non-critical services as a pilot</li>
+                  <li>Hire Oracle support engineers as consultants</li>
+                  <li>Migrate core services only after pilot success with proper planning</li>
+                </ul>
+              </li>
+              <li>After discussions with a engineering manager, we agreed on a phased migration plan with Oracle consultants to guide us.</li>
+              <li>Finally, once the decision was made, I fully committed to the plan and helped the migration.</li>
             </ul>
           </li>
           <li><strong>Result:</strong> As a result, we migrated successfully and saved significant infrastructure costs.</li>
