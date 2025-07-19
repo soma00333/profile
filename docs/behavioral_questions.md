@@ -267,12 +267,19 @@ layout: default
       <td><strong>Conflict</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> I helped migrate 3,000 servers from Google to Oracle Cloud, which saved significant costs.</li>
-          <li><strong>Proposal:</strong> Management wanted to move many servers from Google to Oracle Cloud.</li>
-          <li><strong>Initial Stance:</strong> I didn't agree at first. I worried about maintenance and showed data to back up my concerns.</li>
-          <li><strong>Commitment:</strong> When they decided based on cost efficiency, I fully committed to it and helped move 3,000 servers.</li>
-          <li><strong>Result:</strong> As a result, we migrated successfully and saved a lot on costs.</li>
-          <li><strong>Learning:</strong> I learned that I should disagree and commit - share concerns but support final decisions.</li>
+          <li><strong>Summary (New):</strong> I disagreed with engineering managers about migrating 3,000 servers, which led to a better migration strategy after discussions.</li>
+          <li><strong>Situation:</strong> Management and engineering managers wanted to migrate some servers from Google Cloud to Oracle Cloud within 6 months to save infrastructure costs.</li>
+          <li><strong>Task:</strong> My mission was to share my technical concerns while supporting business goals.</li>
+          <li><strong>Action:</strong> 
+            <ul>
+              <li>I disagreed and presented specific data that multi-cloud complexity would increase ops burden, our team had no Oracle expertise, and API differences would require a lot of code changes.</li>
+              <li>I proposed a compromise to start with non-critical services as a pilot, hire Oracle support engineers as consultants, then migrate core services with proper planning.</li>
+              <li>After discussions with engineering managers, we agreed on a phased migration plan with Oracle consultants to guide us.</li>
+              <li>Once the decision was made, I fully committed to the plan and helped the migration effort personally.</li>
+            </ul>
+          </li>
+          <li><strong>Result:</strong> As a result, we migrated successfully and saved significant infrastructure costs.</li>
+          <li><strong>Learning:</strong> I learned that effective conflict resolution requires "disagree and commit" - voice concerns with data, but once a decision is made, fully support it and work toward success.</li>
         </ul>
       </td>
     </tr>
