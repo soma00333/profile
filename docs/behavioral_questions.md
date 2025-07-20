@@ -267,26 +267,26 @@ layout: default
       <td><strong>Conflict</strong></td>
       <td>
         <ul>
-          <li><strong>Summary (New):</strong> I disagreed with a engineering manager about migrating 3,000 servers, which led to a better migration strategy after discussions.</li>
+          <li><strong>Summary (New):</strong> I disagreed with an engineering manager about migrating 3,000 servers, which led to a better migration strategy after discussions.</li>
           <li><strong>Situation:</strong> Management and engineering managers wanted to migrate some servers from Google Cloud to Oracle Cloud within 6 months to save infrastructure costs.</li>
           <li><strong>Task:</strong> My mission was to share my technical concerns while supporting business goals.</li>
           <li><strong>Action:</strong> 
             <ul>
               <li>First, I disagreed and presented specific data:
                 <ul>
-                  <li>Multi-cloud complexity would increase ops burden by 50%</li>
-                  <li>Our team had no Oracle Cloud expertise</li>
-                  <li>API differences would require 3 months of code changes</li>
+                  <li>I showed that multi-cloud complexity would increase ops burden by 50%</li>
+                  <li>I explained that our team had no Oracle Cloud expertise</li>
+                  <li>I calculated that API differences would require 3 months of code changes</li>
                 </ul>
               </li>
               <li>After that, I proposed a compromise solution:
                 <ul>
-                  <li>Start with non-critical services as a pilot</li>
-                  <li>Hire Oracle support engineers as consultants</li>
-                  <li>Migrate core services only after pilot success with proper planning</li>
+                  <li>We should start with non-critical services as a pilot</li>
+                  <li>We could hire Oracle support engineers as consultants</li>
+                  <li>We would migrate core services only after pilot success with proper planning</li>
                 </ul>
               </li>
-              <li>After discussions with a engineering manager, we agreed on a phased migration plan with Oracle consultants to guide us.</li>
+              <li>After discussions with an engineering manager, we agreed on a phased migration plan with Oracle consultants to guide us.</li>
               <li>Finally, once the decision was made, I fully committed to the plan and helped the migration.</li>
             </ul>
           </li>
