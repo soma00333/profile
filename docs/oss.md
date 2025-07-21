@@ -39,7 +39,7 @@ layout: default
       <td>Contributor</td>
       <td>
         <ul>
-          <li>I implemented <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/3077-contextual-logging">Contextual Logging</a> for the kubelet package, which increased system reliability and debugging efficiency</li>
+          <li>I implemented <a href="https://github.com/kubernetes/enhancements/tree/master/keps/sig-instrumentation/3077-contextual-logging">Contextual Logging</a> for cmd/kubelet and pkg/kubelet/kuberuntime, which increased system reliability and debugging efficiency</li>
         </ul>
       </td>
     </tr>
