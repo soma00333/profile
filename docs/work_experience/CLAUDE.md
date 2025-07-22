@@ -1,143 +1,107 @@
 # Work Experience Documentation Guidelines
 
 ## Overview
-This directory contains detailed work experience documentation for each company. The index.md provides an overview, while individual company files contain in-depth project descriptions.
+This directory contains detailed work experience documentation following the STAR method format. Each company and project should be documented consistently.
 
 ## File Structure
 ```
 work_experience/
-├── index.md          # Overview table and project summary
-├── alpaca.md         # Current position
-├── cybereason.md     # Previous companies...
-├── eukarya.md
-├── layerx.md
-├── enechain.md
-├── industry_technology.md
-├── algomatic.md
-├── gunosy.md
-└── zuu.md
+├── index.md              # Overview and project index
+├── cybereason.md        # Company: Cybereason (CR)
+├── industry_technology.md # Company: Industry Technology (IT)
+├── eukarya.md           # Company: Eukarya (EU)
+├── layerx.md            # Company: LayerX (LX)
+├── algomatic.md         # Company: Algomatic (AL)
+├── gunosy.md            # Company: Gunosy (GU)
+└── enechain.md          # Company: enechain (EN)
 ```
 
-## Content Standards
+## Project Documentation Format
 
-### Company Page Format
-Each company file should include:
+### Project Naming Convention
+- Format: `{CompanyInitials}{ProjectNumber}`
+- Examples: CR1, IT2, EU3
 
-1. **Front Matter**
-   ```yaml
-   ---
-   title: Company Name
-   parent: Work Experience
-   nav_order: [number]
-   ---
-   ```
+### STAR Method Structure
+Each project must include:
 
-2. **Company Overview**
-   - Brief company description
-   - Industry and scale
-   - Your role(s) and duration
+```markdown
+## Project X: [Project Name]
 
-3. **Key Responsibilities**
-   - Main duties and focus areas
-   - Team structure and your position
-   - Technologies used
+### Summary
+[Action verb] + [what you did] + ", which" + [result/impact]
 
-4. **Projects Section**
-   - Detailed project descriptions
-   - Technical challenges and solutions
-   - Measurable outcomes and impact
+### Situation
+<ul>
+  <li>[Context point 1 with numbers if possible]</li>
+  <li>[Context point 2 showing scale/scope]</li>
+  <li>[Context point 3 about environment]</li>
+</ul>
 
-### Project Reference Format
-Projects are referenced using a standardized code:
-- **Format**: `[CompanyInitials][Number]` (e.g., CR1, EU2, LX1)
-- **Company Initials**:
-  - AP = Alpaca
-  - CR = Cybereason
-  - EU = Eukarya
-  - LX = LayerX
-  - EN = enechain
-  - IT = Industry Technology
-  - AM = Algomatic
-  - GU = Gunosy
-  - ZU = ZUU
+### Task
+My mission was [specific objective]
 
-### Project Description Template
-```
-**[ProjectCode]** - [Brief Title]
-- **Challenge**: What problem needed solving
-- **Solution**: Technical approach and implementation
-- **Impact**: Measurable results and business value
-- **Technologies**: Specific tools, languages, frameworks used
+### Action
+<ul>
+  <li>[Main action category 1]
+    <ul>
+      <li>[Specific action detail]</li>
+      <li>[Specific action detail]</li>
+    </ul>
+  </li>
+  <li>[Main action category 2]
+    <ul>
+      <li>[Specific action detail]</li>
+    </ul>
+  </li>
+</ul>
+
+### Result
+As a result, [quantifiable outcome with metrics]
+
+### Challenge
+A key challenge was [specific technical/business challenge]
+
+### Solution
+To solve this, [specific approach and implementation]
+
+### Learning
+I learned that [key takeaway applicable to future work]
+
+### Skills
+[Technology 1], [Technology 2], [Framework], [Methodology]
 ```
 
 ## Writing Guidelines
 
-### Technical Accuracy
-- Use precise technical terms
-- Include version numbers where relevant
-- Specify scale (users, requests/sec, data volume)
-- Mention specific algorithms or patterns used
+### Language Style
+- Use simple, conversational English
+- Past tense for all actions
+- Avoid complex grammatical structures
+- No excessive use of participles
 
-### Achievement Focus
-- Start with action verbs: "Developed", "Designed", "Led", "Optimized"
-- Quantify impact: percentages, time saved, performance gains
-- Connect technical work to business outcomes
-- Highlight innovations and creative solutions
+### Content Focus
+- Emphasize achievements over responsibilities
+- Include metrics and scale wherever possible
+- Show technical depth without jargon
+- Highlight business impact
 
-### Consistency Rules
-- **Dates**: Always use YYYY-MM format
-- **Job Titles**: Use official titles as given by company
-- **Technologies**: Capitalize properly (Kubernetes, not kubernetes)
-- **Metrics**: Use consistent units (ms for latency, GB for data)
+### Team Section Format
+```markdown
+## Team: [Team Name]
 
-## Updating Guidelines
+### Mission
+My mission was [team's primary objective]
 
-### Adding New Projects
-1. Add to the project table in index.md
-2. Update the relevant company file with full details
-3. Assign next sequential project code
-4. Maintain chronological order within companies
-
-### Adding New Companies
-1. Create new .md file using company name (lowercase, underscores)
-2. Add to the work experience table in index.md
-3. Set appropriate nav_order (lower numbers appear first)
-4. Follow the standard company page format
-
-### Updating Existing Content
-- Mark ongoing positions with empty end date
-- Update project outcomes as they develop
-- Add new technologies as adopted
-- Revise impact metrics with latest data
+### Key Responsibilities
+- [Responsibility 1]
+- [Responsibility 2]
+```
 
 ## Quality Checklist
-
-### Before Committing
-- [ ] All dates are in YYYY-MM format
-- [ ] Project codes are unique and sequential
-- [ ] Technologies are properly capitalized
-- [ ] Metrics include units
-- [ ] No sensitive/confidential information
-- [ ] Links between index and detail pages work
-- [ ] Navigation order is logical
-
-### Content Review
-- [ ] Each project has clear problem/solution/impact
-- [ ] Technical details are accurate
-- [ ] Business value is articulated
-- [ ] Writing is concise and professional
-- [ ] Achievements are quantified where possible
-
-## Examples of Good Descriptions
-
-### Good:
-"Developed custom metrics for 3,000+ servers using Prometheus, reducing MTTR by 50% and saving 20 hours/week in incident response"
-
-### Needs Improvement:
-"Worked on monitoring system improvements"
-
-### Good:
-"Optimized PostgreSQL queries and implemented Redis caching, reducing p95 latency from 800ms to 150ms"
-
-### Needs Improvement:
-"Made database faster"
+- [ ] All projects follow STAR format
+- [ ] Summary includes "which" + result
+- [ ] Situation has quantifiable context
+- [ ] Actions use nested bullet structure
+- [ ] Results include metrics
+- [ ] Learning statements start with "I learned that"
