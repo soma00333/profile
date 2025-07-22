@@ -15,7 +15,7 @@ nav_order: 5
 | Employee    | 160+                                                                                                                                                      |
 | Founded     | 2019                                                                                                                                                      |
 | Web Site    | [https://enechain.co.jp/](https://enechain.co.jp/)                                                                                                    |
-| Description | enechain collaborates with Japan's biggest power companies and operates the energy exchange market, trading electricity and fuels. |
+| Description | enechain is Japan's largest energy marketplace operator, collaborating with huge power companies. |
 | Location    | Tokyo, Japan                                                                                                                                              |
 
 ## Team (Software Engineer - Platform)
