@@ -1,42 +1,99 @@
-# CLAUDE.md - Documentation Directory
+# Documentation Guidelines
 
-This file provides guidance to Claude Code when working with documentation in the `/docs` directory of the profile repository.
+## Overview
+This directory contains all documentation sections for Soma's professional profile. Each section focuses on a specific aspect of professional experience and qualifications.
 
-## Directory Overview
+## Section Organization
 
-This `/docs` directory contains all the Jekyll content for the personal profile website. The structure is organized as follows:
+### Current Sections
+- **basic_info.md**: Contact information and personal details
+- **work_experience/**: Detailed work history and projects
+- **skill.md**: Technical skills categorized by type
+- **education.md**: Academic background and coursework
+- **certification.md**: Professional certifications and credentials
+- **oss.md**: Open source contributions
+- **behavioral_questions.md**: Interview preparation content
+- **activity.md**: Professional activities and achievements
+- **language.md**: Language proficiencies
+- **contact.md**: Contact methods and availability
 
-### Content Organization
-- **Root Level Pages**: Main navigation items (basic_info.md, skill.md, certification.md, etc.)
-- **work_experience/**: Detailed work history organized by company
-- **behavioral_questions.md**: Interview preparation responses
+## Content Guidelines
 
-### Working with Documentation
+### Writing Standards
+- **Clarity first**: Write for both technical and non-technical audiences
+- **Consistency**: Use the same terminology throughout all sections
+- **Completeness**: Ensure each section tells a complete story
+- **Currency**: Keep all information up-to-date
 
-When editing documentation in this directory:
+### Formatting Conventions
+- **Headers**: Use proper markdown hierarchy (# for title, ## for main sections)
+- **Lists**: Use bullets for unordered items, numbers for sequential items
+- **Tables**: Use markdown tables for structured data
+- **Links**: Prefer internal links between related sections
 
-1. **Markdown Format**: All content uses Jekyll-compatible markdown with YAML front matter
-2. **Navigation Order**: Controlled by `nav_order` in front matter
-3. **Parent-Child Relationships**: Use `parent` and `has_children` properties for nested navigation
+### Section-Specific Rules
 
-### Common Tasks
+#### Basic Info
+- Include only professional-relevant information
+- Maintain privacy while being accessible
+- Update location and availability status
 
-#### Adding New Work Experience
-1. Create new file in `work_experience/` directory
-2. Follow existing naming convention: `company_name.md`
-3. Use consistent project coding (CR, EU, IT, ML)
+#### Skills
+- Group by category (Languages, Frameworks, Tools, etc.)
+- Order by proficiency or relevance
+- Include version numbers for specific technologies
 
-#### Updating Skills or Certifications
-1. Edit the respective markdown file directly
-2. Maintain consistent formatting with existing entries
-3. Keep dates in ISO format (YYYY-MM)
+#### Education
+- List in reverse chronological order
+- Include relevant coursework and projects
+- Highlight academic achievements
 
-#### Behavioral Questions
-- Located in `behavioral_questions.md`
-- Organized by question categories
-- Follow STAR method format for responses
+#### Certifications
+- Include certification numbers and dates
+- Link to verification when possible
+- Note expiration dates
 
-### Important Notes
-- Test changes locally with `bundle exec jekyll serve` before committing
-- All URLs should be relative due to `/profile` base path
-- Custom styling changes belong in `/assets/css/custom.css`, not in markdown files
+## Adding New Sections
+
+1. **Plan the content structure** before creating the file
+2. **Use descriptive filenames** (lowercase, underscores for spaces)
+3. **Set appropriate nav_order** to maintain logical flow
+4. **Add to parent navigation** if creating subsections
+5. **Cross-reference** with related sections
+
+## Maintenance Checklist
+
+### Regular Updates
+- [ ] Verify all dates are current
+- [ ] Check external links still work
+- [ ] Update skill versions
+- [ ] Add recent projects and achievements
+- [ ] Review and refresh descriptions
+
+### Quality Checks
+- [ ] Consistent formatting across sections
+- [ ] No duplicate information
+- [ ] Clear navigation structure
+- [ ] Mobile-friendly content
+- [ ] Accessible language
+
+## Navigation Structure
+```
+docs/
+├── basic_info.md (nav_order: 10)
+├── work_experience/ (nav_order: 2)
+│   ├── index.md
+│   └── [company].md files
+├── skill.md (nav_order: 20)
+├── education.md (nav_order: 30)
+├── certification.md (nav_order: 40)
+├── oss.md (nav_order: 50)
+└── ... other sections
+```
+
+## Best Practices
+- **Test locally** before pushing changes
+- **Review in different browsers** for compatibility
+- **Get feedback** on major content changes
+- **Archive outdated content** rather than deleting
+- **Document significant changes** in commit messages

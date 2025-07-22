@@ -1,93 +1,143 @@
-# CLAUDE.md - Work Experience Directory
+# Work Experience Documentation Guidelines
 
-This file provides guidance to Claude Code when working with work experience documentation in the `/docs/work_experience` directory.
+## Overview
+This directory contains detailed work experience documentation for each company. The index.md provides an overview, while individual company files contain in-depth project descriptions.
 
-## Directory Overview
+## File Structure
+```
+work_experience/
+├── index.md          # Overview table and project summary
+├── alpaca.md         # Current position
+├── cybereason.md     # Previous companies...
+├── eukarya.md
+├── layerx.md
+├── enechain.md
+├── industry_technology.md
+├── algomatic.md
+├── gunosy.md
+└── zuu.md
+```
 
-This directory contains detailed work history documentation organized by company. Each file represents a different employer and follows a consistent structure.
+## Content Standards
 
-## File Organization
+### Company Page Format
+Each company file should include:
 
-### Current Files
-- **cybereason.md**: Cybereason (2025-01 to present) - Software Engineer
-- **algomatic.md**: Algomatic (2024-11 to 2024-12) - Software Engineer
-- **eukarya.md**: Eukarya (2024-04 to 2024-10) - Software Engineer
-- **gunosy.md**: Gunosy (2023-11 to 2024-03) - Software Engineer
-- **alpaca.md**: Alpaca (2023-08 to 2023-10) - Software Engineer  
-- **enechain.md**: enechain (2023-04 to 2023-07) - Software Engineer
-- **zuu.md**: Zuu (2022-11 to 2023-03) - Software Engineer
-- **layerx.md**: LayerX (2022-04 to 2022-10) - Software Engineer
-- **industry_technology.md**: Industry & Technology (2020-06 to 2022-03) - Software Engineer
-
-## Content Structure
-
-Each work experience file should include:
-
-1. **Front Matter**:
+1. **Front Matter**
    ```yaml
    ---
-   layout: default
-   title: "Company Name"
+   title: Company Name
    parent: Work Experience
-   nav_order: [number]  # Lower numbers appear first
+   nav_order: [number]
    ---
    ```
 
-2. **Company Header**: Company name and role(s)
+2. **Company Overview**
+   - Brief company description
+   - Industry and scale
+   - Your role(s) and duration
 
-3. **Project Sections**: Using the consistent coding system:
-   - **CR**: Cloud/Infrastructure projects
-   - **EU**: End User/Client-facing projects
-   - **IT**: Internal IT/Development projects
-   - **ML**: Machine Learning projects
+3. **Key Responsibilities**
+   - Main duties and focus areas
+   - Team structure and your position
+   - Technologies used
 
-4. **Project Details**: For each project include:
-   - Project code and title
-   - Duration
-   - Technologies/Languages used
-   - Architecture description
-   - Key responsibilities and achievements
+4. **Projects Section**
+   - Detailed project descriptions
+   - Technical challenges and solutions
+   - Measurable outcomes and impact
 
-## Formatting Guidelines
+### Project Reference Format
+Projects are referenced using a standardized code:
+- **Format**: `[CompanyInitials][Number]` (e.g., CR1, EU2, LX1)
+- **Company Initials**:
+  - AP = Alpaca
+  - CR = Cybereason
+  - EU = Eukarya
+  - LX = LayerX
+  - EN = enechain
+  - IT = Industry Technology
+  - AM = Algomatic
+  - GU = Gunosy
+  - ZU = ZUU
 
-### Project Headers
-Use consistent format: `### [CODE][NUMBER]: Project Title`
-Example: `### CR1: Azure Sentinel Development`
+### Project Description Template
+```
+**[ProjectCode]** - [Brief Title]
+- **Challenge**: What problem needed solving
+- **Solution**: Technical approach and implementation
+- **Impact**: Measurable results and business value
+- **Technologies**: Specific tools, languages, frameworks used
+```
 
-### Technology Lists
-- Use bold for "Technologies:" or "Languages:" labels
-- List technologies in a comma-separated format
-- Group related technologies logically
+## Writing Guidelines
 
-### Architecture Sections
-- Use "Architecture:" as a subheading
-- Provide clear, technical descriptions
-- Focus on components and data flow
+### Technical Accuracy
+- Use precise technical terms
+- Include version numbers where relevant
+- Specify scale (users, requests/sec, data volume)
+- Mention specific algorithms or patterns used
 
-## Common Tasks
+### Achievement Focus
+- Start with action verbs: "Developed", "Designed", "Led", "Optimized"
+- Quantify impact: percentages, time saved, performance gains
+- Connect technical work to business outcomes
+- Highlight innovations and creative solutions
 
-### Adding a New Company
-1. Create new file: `company_name.md`
-2. Add appropriate front matter with correct nav_order
-3. Follow the established project coding system
-4. Maintain chronological order (most recent first)
+### Consistency Rules
+- **Dates**: Always use YYYY-MM format
+- **Job Titles**: Use official titles as given by company
+- **Technologies**: Capitalize properly (Kubernetes, not kubernetes)
+- **Metrics**: Use consistent units (ms for latency, GB for data)
 
-### Adding a New Project
-1. Determine correct project code (CR, EU, IT, or ML)
-2. Assign next available number in that category
-3. Follow the standard project structure
-4. Include all relevant technical details
+## Updating Guidelines
+
+### Adding New Projects
+1. Add to the project table in index.md
+2. Update the relevant company file with full details
+3. Assign next sequential project code
+4. Maintain chronological order within companies
+
+### Adding New Companies
+1. Create new .md file using company name (lowercase, underscores)
+2. Add to the work experience table in index.md
+3. Set appropriate nav_order (lower numbers appear first)
+4. Follow the standard company page format
 
 ### Updating Existing Content
-1. Maintain consistent formatting with other entries
-2. Preserve the project coding system
-3. Keep dates in YYYY-MM format
-4. Ensure technical accuracy
+- Mark ongoing positions with empty end date
+- Update project outcomes as they develop
+- Add new technologies as adopted
+- Revise impact metrics with latest data
 
-## Important Notes
+## Quality Checklist
 
-- **Navigation Order**: Companies are ordered by end date (most recent first)
-- **Project Order**: Within each company, projects are numbered sequentially by category
-- **Technical Detail**: Include specific technologies, frameworks, and methodologies
-- **Consistency**: Follow the established pattern from existing files
-- **No Emojis**: Professional documentation style only
+### Before Committing
+- [ ] All dates are in YYYY-MM format
+- [ ] Project codes are unique and sequential
+- [ ] Technologies are properly capitalized
+- [ ] Metrics include units
+- [ ] No sensitive/confidential information
+- [ ] Links between index and detail pages work
+- [ ] Navigation order is logical
+
+### Content Review
+- [ ] Each project has clear problem/solution/impact
+- [ ] Technical details are accurate
+- [ ] Business value is articulated
+- [ ] Writing is concise and professional
+- [ ] Achievements are quantified where possible
+
+## Examples of Good Descriptions
+
+### Good:
+"Developed custom metrics for 3,000+ servers using Prometheus, reducing MTTR by 50% and saving 20 hours/week in incident response"
+
+### Needs Improvement:
+"Worked on monitoring system improvements"
+
+### Good:
+"Optimized PostgreSQL queries and implemented Redis caching, reducing p95 latency from 800ms to 150ms"
+
+### Needs Improvement:
+"Made database faster"
