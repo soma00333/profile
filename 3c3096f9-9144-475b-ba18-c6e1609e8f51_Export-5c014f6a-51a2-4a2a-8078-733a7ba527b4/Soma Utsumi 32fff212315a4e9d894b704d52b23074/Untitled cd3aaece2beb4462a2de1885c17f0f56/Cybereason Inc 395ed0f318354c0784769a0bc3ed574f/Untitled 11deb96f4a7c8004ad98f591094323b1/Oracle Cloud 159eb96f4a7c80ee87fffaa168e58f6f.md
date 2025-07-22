@@ -1,3 +1,0 @@
-# Oracle Cloud
-
-Tag: Infrastructure

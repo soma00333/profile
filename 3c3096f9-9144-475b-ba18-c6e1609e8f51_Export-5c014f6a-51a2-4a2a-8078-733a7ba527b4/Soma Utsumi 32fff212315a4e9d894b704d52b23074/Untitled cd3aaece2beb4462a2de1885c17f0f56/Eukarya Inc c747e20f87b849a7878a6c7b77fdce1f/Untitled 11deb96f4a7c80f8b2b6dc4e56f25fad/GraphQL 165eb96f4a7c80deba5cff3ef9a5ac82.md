@@ -1,3 +1,0 @@
-# GraphQL
-
-Tag: Backend

@@ -1,3 +1,0 @@
-# WebAssembly
-
-Tag: Backend

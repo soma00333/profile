@@ -1,3 +1,0 @@
-# Location
-
-Value: Tokyo, Japan

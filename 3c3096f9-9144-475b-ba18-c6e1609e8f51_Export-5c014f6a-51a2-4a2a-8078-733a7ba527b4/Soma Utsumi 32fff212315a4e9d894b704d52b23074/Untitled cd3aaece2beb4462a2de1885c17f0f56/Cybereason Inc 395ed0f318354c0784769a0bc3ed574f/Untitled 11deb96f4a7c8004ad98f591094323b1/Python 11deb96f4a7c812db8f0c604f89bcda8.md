@@ -1,3 +1,0 @@
-# Python
-
-Tag: Backend

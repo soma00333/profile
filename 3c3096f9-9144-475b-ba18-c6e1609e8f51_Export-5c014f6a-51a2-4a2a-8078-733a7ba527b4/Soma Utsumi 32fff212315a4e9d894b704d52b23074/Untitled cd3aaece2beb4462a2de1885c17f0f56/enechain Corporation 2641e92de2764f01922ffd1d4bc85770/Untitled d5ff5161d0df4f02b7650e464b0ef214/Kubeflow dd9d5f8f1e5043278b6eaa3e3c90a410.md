@@ -1,3 +1,0 @@
-# Kubeflow
-
-Tag: Data Platform

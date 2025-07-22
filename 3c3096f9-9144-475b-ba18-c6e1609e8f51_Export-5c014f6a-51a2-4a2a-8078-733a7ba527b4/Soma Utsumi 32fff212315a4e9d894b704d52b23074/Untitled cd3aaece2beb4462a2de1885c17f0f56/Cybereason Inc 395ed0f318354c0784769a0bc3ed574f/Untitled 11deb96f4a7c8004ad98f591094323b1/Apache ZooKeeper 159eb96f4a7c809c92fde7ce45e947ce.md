@@ -1,3 +1,0 @@
-# Apache ZooKeeper
-
-Tag: Backend

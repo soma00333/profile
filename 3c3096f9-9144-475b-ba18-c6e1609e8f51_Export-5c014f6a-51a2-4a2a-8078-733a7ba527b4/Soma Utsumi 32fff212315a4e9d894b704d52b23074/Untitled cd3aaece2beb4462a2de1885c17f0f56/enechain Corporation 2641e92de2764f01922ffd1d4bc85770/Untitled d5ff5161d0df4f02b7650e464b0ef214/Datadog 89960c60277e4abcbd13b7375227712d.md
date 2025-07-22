@@ -1,3 +1,0 @@
-# Datadog
-
-Tag: Monitoring

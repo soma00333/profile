@@ -1,3 +1,0 @@
-# TypeScript
-
-Tag: Backend, Frontend

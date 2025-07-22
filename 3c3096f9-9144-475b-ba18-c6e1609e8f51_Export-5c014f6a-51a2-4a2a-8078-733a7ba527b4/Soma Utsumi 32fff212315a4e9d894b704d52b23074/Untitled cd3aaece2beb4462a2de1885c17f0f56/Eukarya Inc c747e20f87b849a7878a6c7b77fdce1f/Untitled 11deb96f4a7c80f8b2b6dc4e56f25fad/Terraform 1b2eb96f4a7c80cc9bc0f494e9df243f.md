@@ -1,3 +1,0 @@
-# Terraform
-
-Tag: Infrastructure

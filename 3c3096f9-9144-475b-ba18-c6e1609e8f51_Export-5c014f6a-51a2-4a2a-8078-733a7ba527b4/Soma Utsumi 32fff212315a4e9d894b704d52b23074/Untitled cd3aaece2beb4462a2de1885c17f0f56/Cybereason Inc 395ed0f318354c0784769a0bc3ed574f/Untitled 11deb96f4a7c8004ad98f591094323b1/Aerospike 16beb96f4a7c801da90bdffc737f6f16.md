@@ -1,3 +1,0 @@
-# Aerospike
-
-Tag: Backend

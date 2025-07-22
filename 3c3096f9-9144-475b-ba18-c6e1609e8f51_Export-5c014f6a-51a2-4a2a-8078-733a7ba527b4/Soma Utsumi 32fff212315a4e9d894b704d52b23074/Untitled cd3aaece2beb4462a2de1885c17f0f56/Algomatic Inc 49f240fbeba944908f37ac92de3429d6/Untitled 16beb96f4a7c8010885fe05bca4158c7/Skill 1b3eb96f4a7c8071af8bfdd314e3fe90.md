@@ -1,3 +1,0 @@
-# Skill
-
-Value: AI/LLM

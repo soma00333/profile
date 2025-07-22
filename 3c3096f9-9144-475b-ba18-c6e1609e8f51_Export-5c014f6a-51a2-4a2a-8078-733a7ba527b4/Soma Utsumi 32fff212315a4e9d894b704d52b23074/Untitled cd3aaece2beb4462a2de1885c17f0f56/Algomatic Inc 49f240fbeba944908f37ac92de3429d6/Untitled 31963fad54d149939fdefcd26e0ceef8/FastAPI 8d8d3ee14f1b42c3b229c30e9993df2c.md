@@ -1,3 +1,0 @@
-# FastAPI
-
-Tag: Backend
