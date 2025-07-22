@@ -136,7 +136,7 @@ nav_order: 2
     </tr>
     <tr>
       <td><strong>Solution</strong></td>
-      <td>To solve this, I led talks between SRE, DevOps, and Product teams. We worked together to define the most important metrics.</td>
+      <td>To solve this, I led the communication between SRE, DevOps, and Product teams. We worked together to define the most important metrics.</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
