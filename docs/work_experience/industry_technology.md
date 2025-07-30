@@ -2,7 +2,7 @@
 layout: default
 title: Industry Technology
 parent: Work Experience
-nav_order: 6
+nav_order: 5
 ---
 
 # Industry Technology Inc.

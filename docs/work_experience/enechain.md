@@ -2,7 +2,7 @@
 layout: default
 title: Enechain
 parent: Work Experience
-nav_order: 5
+nav_order: 4
 ---
 
 # enechain Corporation

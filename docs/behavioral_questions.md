@@ -36,11 +36,9 @@ layout: default
       <td><strong>Introduction</strong></td>
       <td>
         <ul>
-          <li>I am a Senior Backend Engineer with 7 years of experience specializing in reliability engineering.</li>
+          <li>I am a Software Engineer with 7 years of experience specializing in reliability engineering.</li>
           <li>I have developed enterprise-grade distributed systems in startup environments, effectively balancing reliability and agility.</li>
           <li>I am skilled in Golang and Java development and Kubernetes cluster management.</li>
-          <li>I work at Alpaca, a US fintech company operating in 40 countries.</li>
-          <li>My role is to ensure that our Broker API remains solid, meeting targets such as 1.5 ms median latency and 99.99% availability.</li>
           <li>As side projects, I contribute to OSS like Kubernetes, Etcd, Raft, and a workflow engine.</li>
           <li>I also study Computer Science online at CU Boulder while working in Japan.</li>
         </ul>

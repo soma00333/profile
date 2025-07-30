@@ -21,17 +21,6 @@ layout: default
   </thead>
   <tbody>
     <tr>
-      <td>Alpaca</td>
-      <td>
-        <ul>
-          <li>Senior Software Engineer</li>
-        </ul>
-      </td>
-      <td>2025-08</td>
-      <td></td>
-      <td>Permanent</td>
-    </tr>
-    <tr>
       <td>Cybereason Inc.</td>
       <td>
         <ul>
@@ -180,14 +169,6 @@ layout: default
           <li><strong>IT3</strong>. I solved a performance issue with the database by optimizing indexes and queries, and by using caching, which reduced slow query occurrences by 70%.</li>
           <li><strong>IT4</strong>. I migrated from monolith to microservices architecture using a BFF layer to ensure no downtime, which improved system scalability and reduced database load.</li>
           <li><strong>IT5</strong>. I led the migration from MySQL 5.7 to 8.0 and managed an incident during the process, which improved query performance by 20%.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Alpaca</td>
-      <td>
-        <ul>
-          <li><strong>AP1</strong>. TBD</li>
         </ul>
       </td>
     </tr>

@@ -2,7 +2,7 @@
 layout: default
 title: LayerX
 parent: Work Experience
-nav_order: 4
+nav_order: 3
 ---
 
 # LayerX Inc.

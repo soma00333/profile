@@ -2,7 +2,7 @@
 layout: default
 title: Cybereason
 parent: Work Experience
-nav_order: 2
+nav_order: 1
 ---
 
 # Cybereason Inc.

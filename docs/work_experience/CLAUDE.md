@@ -13,6 +13,7 @@ work_experience/
 ├── layerx.md            # Company: LayerX (LX)
 ├── algomatic.md         # Company: Algomatic (AL)
 ├── gunosy.md            # Company: Gunosy (GU)
+├── zuu.md               # Company: ZUU (ZU)
 └── enechain.md          # Company: enechain (EN)
 ```
 

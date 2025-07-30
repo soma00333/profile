@@ -2,7 +2,7 @@
 layout: default
 title: Gunosy
 parent: Work Experience
-nav_order: 8
+nav_order: 7
 ---
 
 # Gunosy Inc.

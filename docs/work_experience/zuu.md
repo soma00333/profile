@@ -2,7 +2,7 @@
 layout: default
 title: ZUU
 parent: Work Experience
-nav_order: 9
+nav_order: 8
 ---
 
 # ZUU Co., Ltd.
