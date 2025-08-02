@@ -8,6 +8,7 @@ layout: default
 
 | Name                                                                                             | Category     | Organization                                            | Date     |
 | ------------------------------------------------------------------------------------------------ | ------------ | --------------------------------------------- | ------------------ |
+| [feat(api): Add Worker_PubSubUserFacingLogTopic to config](https://github.com/reearth/reearth-flow/pull/1304) | Pull Request | [reearth/reearth-flow](https://github.com/reearth/reearth-flow) | 2025-08|
 | [feat(engine): implement user-facing log system](https://github.com/reearth/reearth-flow/pull/1222) | Pull Request | [reearth/reearth-flow](https://github.com/reearth/reearth-flow) | 2025-06|
 | [feat(kubelet): migrate kuberuntime to contextual logging](https://github.com/kubernetes/kubernetes/pull/132427) | Pull Request | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 2025-06|
 | [dev: remove stale --oss flag from ui subcommand](https://github.com/cockroachdb/cockroach/pull/147978) | Pull Request | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 2025-06|
