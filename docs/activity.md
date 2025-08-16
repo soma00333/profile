@@ -8,6 +8,7 @@ layout: default
 
 | Name                                                                                             | Category     | Organization                                            | Date     |
 | ------------------------------------------------------------------------------------------------ | ------------ | --------------------------------------------- | ------------------ |
+| [feat(api): Add userFacingLogsURL to Job model](https://github.com/reearth/reearth-flow/pull/1332) | Pull Request | [reearth/reearth-flow](https://github.com/reearth/reearth-flow) | 2025-08|
 | [feat(subscriber): Add user-facing log subscription support](https://github.com/reearth/reearth-flow/pull/1331) | Pull Request | [reearth/reearth-flow](https://github.com/reearth/reearth-flow) | 2025-08|
 | [feat(api): Add Worker_PubSubUserFacingLogTopic to config](https://github.com/reearth/reearth-flow/pull/1304) | Pull Request | [reearth/reearth-flow](https://github.com/reearth/reearth-flow) | 2025-08|
 | [feat(engine): implement user-facing log system](https://github.com/reearth/reearth-flow/pull/1222) | Pull Request | [reearth/reearth-flow](https://github.com/reearth/reearth-flow) | 2025-06|
