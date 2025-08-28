@@ -376,6 +376,7 @@ layout: default
           <li><strong>Background:</strong> How big is the team? What are their backgrounds?</li>
           <li><strong>Project:</strong> What is your team working on now?</li>
           <li><strong>Restriction:</strong> What things slow down daily development productivity?</li>
+          <li><strong>Favorite:</strong> What is your favorite thing and least favorite thing?</li>
           <li><strong>Company Value:</strong>
             <ul>
               <li><strong>Ownership:</strong> Can I help other teams improve?</li>
